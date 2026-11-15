@@ -1,0 +1,402 @@
+{
+  "id": "english-grammar-1",
+  "title": "English Grammar · กาลและคำเชื่อมพื้นฐาน",
+  "level": 1,
+  "kind": "study",
+  "tags": [
+    "grammar",
+    "ไวยากรณ์ English"
+  ],
+  "questions": [
+    {
+      "id": "english-grammar-1-en-01",
+      "subject": "en",
+      "question": "Fill the blank. “The council ___ the agenda yesterday.”",
+      "answer": "approved",
+      "options": [
+        "approved",
+        "has approved",
+        "approves"
+      ],
+      "explanation": "Use the simple past with a finished time reference such as yesterday or in 2021.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-02",
+      "subject": "en",
+      "question": "Fill the blank. “In 2021, the office ___ a second service counter.”",
+      "answer": "opened",
+      "options": [
+        "opened",
+        "has opened",
+        "opens"
+      ],
+      "explanation": "Use the simple past with a finished time reference such as yesterday or in 2021.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-03",
+      "subject": "en",
+      "question": "Fill the blank. “Last Thursday, both delegations ___ their estimates.”",
+      "answer": "revised",
+      "options": [
+        "revised",
+        "have revised",
+        "revise"
+      ],
+      "explanation": "Use the simple past with a finished time reference such as yesterday or in 2021.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-04",
+      "subject": "en",
+      "question": "Fill the blank. “The committee ___ at noon yesterday.”",
+      "answer": "adjourned",
+      "options": [
+        "adjourned",
+        "has adjourned",
+        "is adjourning"
+      ],
+      "explanation": "Use the simple past with a finished time reference such as yesterday or in 2021.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-05",
+      "subject": "en",
+      "question": "Fill the blank. “The department ___ the survey in April 2024.”",
+      "answer": "conducted",
+      "options": [
+        "conducted",
+        "has conducted",
+        "conducts"
+      ],
+      "explanation": "Use the simple past with a finished time reference such as yesterday or in 2021.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-06",
+      "subject": "en",
+      "question": "Fill the blank. “So far this month, the consulate ___ three workshops.”",
+      "answer": "has held",
+      "options": [
+        "has held",
+        "had held",
+        "holds"
+      ],
+      "explanation": "Use the present perfect with an unfinished period that runs up to now.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-07",
+      "subject": "en",
+      "question": "Fill the blank. “The membership list ___ twice since January and is still being reviewed.”",
+      "answer": "has changed",
+      "options": [
+        "has changed",
+        "had changed",
+        "changes"
+      ],
+      "explanation": "Use the present perfect with an unfinished period that runs up to now.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-08",
+      "subject": "en",
+      "question": "Fill the blank. “To date, the agency ___ six submissions.”",
+      "answer": "has received",
+      "options": [
+        "has received",
+        "receives",
+        "had received"
+      ],
+      "explanation": "Use the present perfect with an unfinished period that runs up to now.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-09",
+      "subject": "en",
+      "question": "Fill the blank. “Since the new online portal opened, demand ___ steadily.”",
+      "answer": "has increased",
+      "options": [
+        "has increased",
+        "had increased",
+        "increase"
+      ],
+      "explanation": "Use the present perfect with an unfinished period that runs up to now.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-10",
+      "subject": "en",
+      "question": "Fill the blank. “The two teams ___ four meetings since taking up their current roles.”",
+      "answer": "have held",
+      "options": [
+        "have held",
+        "had held",
+        "will hold"
+      ],
+      "explanation": "Use the present perfect with an unfinished period that runs up to now.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-11",
+      "subject": "en",
+      "question": "Fill the blank. “The written notice, along with its annexes, ___ on the portal today.”",
+      "answer": "is",
+      "options": [
+        "is",
+        "are",
+        "were"
+      ],
+      "explanation": "A phrase beginning with “along with” or “as well as” does not change the main subject’s number.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-12",
+      "subject": "en",
+      "question": "Fill the blank. “The annexes, along with the cover letter, ___ available now.”",
+      "answer": "are",
+      "options": [
+        "are",
+        "is",
+        "was"
+      ],
+      "explanation": "A phrase beginning with “along with” or “as well as” does not change the main subject’s number.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-13",
+      "subject": "en",
+      "question": "Fill the blank. “The coordinator, as well as the assistants, ___ responsible for maintaining the register.”",
+      "answer": "is",
+      "options": [
+        "is",
+        "are",
+        "were"
+      ],
+      "explanation": "A phrase beginning with “along with” or “as well as” does not change the main subject’s number.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-14",
+      "subject": "en",
+      "question": "Fill the blank. “The contractors, as well as the lead consultant, ___ required to sign the current form.”",
+      "answer": "are",
+      "options": [
+        "are",
+        "is",
+        "was"
+      ],
+      "explanation": "A phrase beginning with “along with” or “as well as” does not change the main subject’s number.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-15",
+      "subject": "en",
+      "question": "Fill the blank. “The document, together with its supporting letters, ___ in the blue folder now.”",
+      "answer": "is",
+      "options": [
+        "is",
+        "are",
+        "were"
+      ],
+      "explanation": "A phrase beginning with “along with” or “as well as” does not change the main subject’s number.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-16",
+      "subject": "en",
+      "question": "Fill the blank. “The portal receives ___ paper applications than before.”",
+      "answer": "fewer",
+      "options": [
+        "fewer",
+        "less",
+        "fewest"
+      ],
+      "explanation": "Use “fewer” or “few” for plural count nouns and “less” or “little” for uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-17",
+      "subject": "en",
+      "question": "Fill the blank. “The service takes ___ time than it did last year.”",
+      "answer": "less",
+      "options": [
+        "less",
+        "fewer",
+        "fewest"
+      ],
+      "explanation": "Use “fewer” or “few” for plural count nouns and “less” or “little” for uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-18",
+      "subject": "en",
+      "question": "Fill the blank. “Only a ___ offices reported a second delay.”",
+      "answer": "few",
+      "options": [
+        "few",
+        "little",
+        "less"
+      ],
+      "explanation": "Use “fewer” or “few” for plural count nouns and “less” or “little” for uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-19",
+      "subject": "en",
+      "question": "Fill the blank. “Very ___ information was available before the briefing.”",
+      "answer": "little",
+      "options": [
+        "little",
+        "few",
+        "fewer"
+      ],
+      "explanation": "Use “fewer” or “few” for plural count nouns and “less” or “little” for uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-20",
+      "subject": "en",
+      "question": "Fill the blank. “Several regional desks requested ___ copies than headquarters.”",
+      "answer": "fewer",
+      "options": [
+        "fewer",
+        "less",
+        "least"
+      ],
+      "explanation": "Use “fewer” or “few” for plural count nouns and “less” or “little” for uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-21",
+      "subject": "en",
+      "question": "Fill the blank. “The portal will remain open ___ 5 p.m.”",
+      "answer": "until",
+      "options": [
+        "until",
+        "by",
+        "since"
+      ],
+      "explanation": "“By” sets a deadline. “Until” marks how long a situation continues.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-22",
+      "subject": "en",
+      "question": "Fill the blank. “Please file the application ___ Friday at the latest.”",
+      "answer": "by",
+      "options": [
+        "by",
+        "during",
+        "since"
+      ],
+      "explanation": "“By” sets a deadline. “Until” marks how long a situation continues.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-23",
+      "subject": "en",
+      "question": "Fill the blank. “The library will stay closed ___ Monday morning.”",
+      "answer": "until",
+      "options": [
+        "until",
+        "by",
+        "since"
+      ],
+      "explanation": "“By” sets a deadline. “Until” marks how long a situation continues.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-24",
+      "subject": "en",
+      "question": "Fill the blank. “Send your revised estimate ___ noon at the latest.”",
+      "answer": "by",
+      "options": [
+        "by",
+        "during",
+        "since"
+      ],
+      "explanation": "“By” sets a deadline. “Until” marks how long a situation continues.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-25",
+      "subject": "en",
+      "question": "Fill the blank. “The acting chair will continue in the role ___ a successor is appointed.”",
+      "answer": "until",
+      "options": [
+        "until",
+        "by",
+        "during"
+      ],
+      "explanation": "“By” sets a deadline. “Until” marks how long a situation continues.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-26",
+      "subject": "en",
+      "question": "Fill the blank. “The working group has been active ___ 2023.”",
+      "answer": "since",
+      "options": [
+        "since",
+        "for",
+        "during"
+      ],
+      "explanation": "Use “for” for a duration and “since” for the starting point of a continuing state.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-27",
+      "subject": "en",
+      "question": "Fill the blank. “The documents have been available ___ three weeks.”",
+      "answer": "for",
+      "options": [
+        "for",
+        "since",
+        "at"
+      ],
+      "explanation": "Use “for” for a duration and “since” for the starting point of a continuing state.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-28",
+      "subject": "en",
+      "question": "Fill the blank. “The posts have remained vacant ___ the previous officers left.”",
+      "answer": "since",
+      "options": [
+        "since",
+        "for",
+        "during"
+      ],
+      "explanation": "Use “for” for a duration and “since” for the starting point of a continuing state.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-29",
+      "subject": "en",
+      "question": "Fill the blank. “The branch has operated at this location ___ six years.”",
+      "answer": "for",
+      "options": [
+        "for",
+        "since",
+        "until"
+      ],
+      "explanation": "Use “for” for a duration and “since” for the starting point of a continuing state.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-1-en-30",
+      "subject": "en",
+      "question": "Fill the blank. “The position has been vacant ___ the start of the current fiscal year.”",
+      "answer": "since",
+      "options": [
+        "since",
+        "for",
+        "across"
+      ],
+      "explanation": "Use “for” for a duration and “since” for the starting point of a continuing state.",
+      "refs": []
+    }
+  ]
+}

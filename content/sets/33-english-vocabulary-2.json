@@ -1,0 +1,325 @@
+{
+  "id": "english-vocabulary-2",
+  "title": "English Vocabulary · งานสำนักงานและการบริหาร",
+  "level": 2,
+  "kind": "study",
+  "tags": [
+    "vocabulary",
+    "คำศัพท์",
+    "collocations"
+  ],
+  "questions": [
+    {
+      "id": "english-vocabulary-2-en-01",
+      "subject": "en",
+      "question": "In “Staff first verified the original receipts.”, what does “verify” mean?",
+      "answer": "check that something is accurate or true",
+      "options": [
+        "check that something is accurate or true",
+        "estimate without checking",
+        "publish a preliminary rumor"
+      ],
+      "explanation": "Here, “verify” means to check that something is accurate or true.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-02",
+      "subject": "en",
+      "question": "In “The department will implement the revised procedure in July.”, what does “implement” mean?",
+      "answer": "put into effect",
+      "options": [
+        "put into effect",
+        "describe without action",
+        "suspend indefinitely"
+      ],
+      "explanation": "Here, “implement” means to put into effect.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-03",
+      "subject": "en",
+      "question": "In “The office streamlined the application process.”, what does “streamline” mean?",
+      "answer": "simplify a process to improve efficiency",
+      "options": [
+        "simplify a process to improve efficiency",
+        "extend every deadline",
+        "add stages to a procedure"
+      ],
+      "explanation": "Here, “streamline” means to simplify a process to improve efficiency.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-04",
+      "subject": "en",
+      "question": "In “The offices consolidated their separate registers.”, what does “consolidate” mean?",
+      "answer": "bring separate parts together",
+      "options": [
+        "bring separate parts together",
+        "keep separate by law",
+        "cancel one part without replacement"
+      ],
+      "explanation": "Here, “consolidate” means to bring separate parts together.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-05",
+      "subject": "en",
+      "question": "In “Applicants must disclose relevant conflicts.”, what does “disclose” mean?",
+      "answer": "make information known",
+      "options": [
+        "make information known",
+        "keep information confidential",
+        "correct a figure without announcing it"
+      ],
+      "explanation": "Here, “disclose” means to make information known.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-06",
+      "subject": "en",
+      "question": "In “The group assessed the feasibility of the plan.”, what does “assess” mean?",
+      "answer": "evaluate",
+      "options": [
+        "evaluate",
+        "issue a binding permit",
+        "set aside without review"
+      ],
+      "explanation": "Here, “assess” means to evaluate.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-07",
+      "subject": "en",
+      "question": "In “The unit procured equipment for its new office.”, what does “procure” mean?",
+      "answer": "obtain through a purchasing process",
+      "options": [
+        "obtain through a purchasing process",
+        "approve an appointment",
+        "measure an outcome"
+      ],
+      "explanation": "Here, “procure” means to obtain through a purchasing process.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-08",
+      "subject": "en",
+      "question": "In “The agency decided to renew its agreement for a further year.”, what does “renew” mean?",
+      "answer": "extend for another period",
+      "options": [
+        "extend for another period",
+        "replace with an earlier version",
+        "make a decision retroactive"
+      ],
+      "explanation": "Here, “renew” means to extend for another period.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-09",
+      "subject": "en",
+      "question": "In “The office had to curtail nonessential travel.”, what does “curtail” mean?",
+      "answer": "reduce or limit",
+      "options": [
+        "reduce or limit",
+        "extend gradually",
+        "preserve at the previous level"
+      ],
+      "explanation": "Here, “curtail” means to reduce or limit.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-10",
+      "subject": "en",
+      "question": "In “The council allocated funds to improve access.”, what does “allocate” mean?",
+      "answer": "assign resources to a use",
+      "options": [
+        "assign resources to a use",
+        "transfer an obligation out of a treaty",
+        "divide only by population"
+      ],
+      "explanation": "Here, “allocate” means to assign resources to a use.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-11",
+      "subject": "en",
+      "question": "In “The agency benchmarked its turnaround time.”, what does “benchmark” mean?",
+      "answer": "compare with a reference standard",
+      "options": [
+        "compare with a reference standard",
+        "publish without a comparison",
+        "replace data with an estimate"
+      ],
+      "explanation": "Here, “benchmark” means to compare with a reference standard.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-12",
+      "subject": "en",
+      "question": "In “The report supplied records to substantiate its finding.”, what does “substantiate” mean?",
+      "answer": "support a claim with evidence",
+      "options": [
+        "support a claim with evidence",
+        "repeat an unsupported assertion",
+        "replace facts with a prediction"
+      ],
+      "explanation": "Here, “substantiate” means to support a claim with evidence.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-13",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “check that something is accurate or true”. Auditors will ___ the total against the underlying invoices.",
+      "answer": "verify",
+      "options": [
+        "verify",
+        "delegate",
+        "curtail"
+      ],
+      "explanation": "Here, “verify” means to check that something is accurate or true.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-14",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “put into effect”. Training is under way so that staff can ___ the new policy next month.",
+      "answer": "implement",
+      "options": [
+        "implement",
+        "withdraw",
+        "defer"
+      ],
+      "explanation": "Here, “implement” means to put into effect.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-15",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “simplify a process to improve efficiency”. A single approval step may ___ the way routine requests are handled.",
+      "answer": "streamline",
+      "options": [
+        "streamline",
+        "disclose",
+        "designate"
+      ],
+      "explanation": "Here, “streamline” means to simplify a process to improve efficiency.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-16",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “bring separate parts together”. The project will ___ four spreadsheets into one shared record.",
+      "answer": "consolidate",
+      "options": [
+        "consolidate",
+        "ratify",
+        "disclose"
+      ],
+      "explanation": "Here, “consolidate” means to bring separate parts together.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-17",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “make information known”. Officials are required to ___ any financial interest covered by the rule.",
+      "answer": "disclose",
+      "options": [
+        "disclose",
+        "conceal",
+        "curtail"
+      ],
+      "explanation": "Here, “disclose” means to make information known.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-18",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “evaluate”. The committee will ___ whether the alternative meets the criteria.",
+      "answer": "assess",
+      "options": [
+        "assess",
+        "disclose",
+        "streamline"
+      ],
+      "explanation": "Here, “assess” means to evaluate.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-19",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “obtain through a purchasing process”. The program will ___ testing equipment through competitive tenders.",
+      "answer": "procure",
+      "options": [
+        "procure",
+        "ratify",
+        "consolidate"
+      ],
+      "explanation": "Here, “procure” means to obtain through a purchasing process.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-20",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “extend for another period”. The provider must apply to ___ its existing permit before it expires.",
+      "answer": "renew",
+      "options": [
+        "renew",
+        "procure",
+        "verify"
+      ],
+      "explanation": "Here, “renew” means to extend for another period.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-21",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “reduce or limit”. The grant reduction may force the program to ___ discretionary spending.",
+      "answer": "curtail",
+      "options": [
+        "curtail",
+        "appoint",
+        "renew"
+      ],
+      "explanation": "Here, “curtail” means to reduce or limit.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-22",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “assign resources to a use”. The committee will ___ a portion of the budget to staff training.",
+      "answer": "allocate",
+      "options": [
+        "allocate",
+        "cancel",
+        "benchmark"
+      ],
+      "explanation": "Here, “allocate” means to assign resources to a use.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-23",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “compare with a reference standard”. The panel will ___ its performance against comparable programs.",
+      "answer": "benchmark",
+      "options": [
+        "benchmark",
+        "withdraw",
+        "convene"
+      ],
+      "explanation": "Here, “benchmark” means to compare with a reference standard.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-2-en-24",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “support a claim with evidence”. Please provide documents that ___ the expense claim.",
+      "answer": "substantiate",
+      "options": [
+        "substantiate",
+        "curtail",
+        "defer"
+      ],
+      "explanation": "Here, “substantiate” means to support a claim with evidence.",
+      "refs": []
+    }
+  ]
+}

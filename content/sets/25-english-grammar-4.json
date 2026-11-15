@@ -1,0 +1,402 @@
+{
+  "id": "english-grammar-4",
+  "title": "English Grammar · คำเชื่อมและความแม่นยำทางไวยากรณ์",
+  "level": 2,
+  "kind": "study",
+  "tags": [
+    "grammar",
+    "ไวยากรณ์ English"
+  ],
+  "questions": [
+    {
+      "id": "english-grammar-4-en-01",
+      "subject": "en",
+      "question": "Fill the blank. “The report lists the exact ___ of applications received each week.”",
+      "answer": "number",
+      "options": [
+        "number",
+        "amount",
+        "many"
+      ],
+      "explanation": "Use “number of” with countable nouns and “amount of” with uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-02",
+      "subject": "en",
+      "question": "Fill the blank. “They reduced the ___ of time spent on manual entry.”",
+      "answer": "amount",
+      "options": [
+        "amount",
+        "number",
+        "count"
+      ],
+      "explanation": "Use “number of” with countable nouns and “amount of” with uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-03",
+      "subject": "en",
+      "question": "Fill the blank. “The ___ of trained interpreters rose after the intake.”",
+      "answer": "number",
+      "options": [
+        "number",
+        "amount",
+        "total of"
+      ],
+      "explanation": "Use “number of” with countable nouns and “amount of” with uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-04",
+      "subject": "en",
+      "question": "Fill the blank. “The team measured the ___ of fuel used per delivery.”",
+      "answer": "amount",
+      "options": [
+        "amount",
+        "number",
+        "count"
+      ],
+      "explanation": "Use “number of” with countable nouns and “amount of” with uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-05",
+      "subject": "en",
+      "question": "Fill the blank. “The ___ of workshops increased from six to nine.”",
+      "answer": "number",
+      "options": [
+        "number",
+        "amount",
+        "volume of"
+      ],
+      "explanation": "Use “number of” with countable nouns and “amount of” with uncountable quantities.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-06",
+      "subject": "en",
+      "question": "Fill the blank. “The vote was postponed ___ the figures had not been verified.”",
+      "answer": "because",
+      "options": [
+        "because",
+        "because of",
+        "due to"
+      ],
+      "explanation": "Use “because” with a clause and “because of” with a noun phrase.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-07",
+      "subject": "en",
+      "question": "Fill the blank. “The vote was postponed ___ a missing annex.”",
+      "answer": "because of",
+      "options": [
+        "because of",
+        "because",
+        "although"
+      ],
+      "explanation": "Use “because” with a clause and “because of” with a noun phrase.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-08",
+      "subject": "en",
+      "question": "Fill the blank. “The team revised the total ___ one district had used a different denominator.”",
+      "answer": "because",
+      "options": [
+        "because",
+        "because of",
+        "despite of"
+      ],
+      "explanation": "Use “because” with a clause and “because of” with a noun phrase.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-09",
+      "subject": "en",
+      "question": "Fill the blank. “The shipment was delayed ___ heavy rain.”",
+      "answer": "because of",
+      "options": [
+        "because of",
+        "because",
+        "even though"
+      ],
+      "explanation": "Use “because” with a clause and “because of” with a noun phrase.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-10",
+      "subject": "en",
+      "question": "Fill the blank. “Requests increased ___ the service became available online.”",
+      "answer": "because",
+      "options": [
+        "because",
+        "due of",
+        "because of"
+      ],
+      "explanation": "Use “because” with a clause and “because of” with a noun phrase.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-11",
+      "subject": "en",
+      "question": "Fill the blank. “The agency introduced an online form ___ waiting times.”",
+      "answer": "to reduce",
+      "options": [
+        "to reduce",
+        "of reducing",
+        "reduce"
+      ],
+      "explanation": "An expression such as “to review,” “to save,” or “to improve” can state purpose.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-12",
+      "subject": "en",
+      "question": "Fill the blank. “The department published the annex ___ its methodology.”",
+      "answer": "to explain",
+      "options": [
+        "to explain",
+        "explain",
+        "of explain"
+      ],
+      "explanation": "An expression such as “to review,” “to save,” or “to improve” can state purpose.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-13",
+      "subject": "en",
+      "question": "Fill the blank. “The negotiators met privately ___ possible compromises.”",
+      "answer": "to discuss",
+      "options": [
+        "to discuss",
+        "discussed",
+        "of discussing"
+      ],
+      "explanation": "An expression such as “to review,” “to save,” or “to improve” can state purpose.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-14",
+      "subject": "en",
+      "question": "Fill the blank. “The office hired more interpreters ___ access to the hearings.”",
+      "answer": "to improve",
+      "options": [
+        "to improve",
+        "improved",
+        "of improving"
+      ],
+      "explanation": "An expression such as “to review,” “to save,” or “to improve” can state purpose.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-15",
+      "subject": "en",
+      "question": "Fill the blank. “The chair deferred the vote ___ members more time to read the draft.”",
+      "answer": "to give",
+      "options": [
+        "to give",
+        "giving to",
+        "of giving"
+      ],
+      "explanation": "An expression such as “to review,” “to save,” or “to improve” can state purpose.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-16",
+      "subject": "en",
+      "question": "Fill the blank. “The notices ___ on Monday apply to every applicant.”",
+      "answer": "published",
+      "options": [
+        "published",
+        "publishing",
+        "publish"
+      ],
+      "explanation": "A participle usually ends in “-ed” in a passive reduced relative clause for these regular verbs.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-17",
+      "subject": "en",
+      "question": "Fill the blank. “Applications ___ after the closing date will be listed separately.”",
+      "answer": "received",
+      "options": [
+        "received",
+        "receiving",
+        "receive"
+      ],
+      "explanation": "A participle usually ends in “-ed” in a passive reduced relative clause for these regular verbs.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-18",
+      "subject": "en",
+      "question": "Fill the blank. “The provisions ___ by the working group are still under review.”",
+      "answer": "proposed",
+      "options": [
+        "proposed",
+        "proposing",
+        "propose"
+      ],
+      "explanation": "A participle usually ends in “-ed” in a passive reduced relative clause for these regular verbs.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-19",
+      "subject": "en",
+      "question": "Fill the blank. “Files ___ by the clerk are ready for collection.”",
+      "answer": "verified",
+      "options": [
+        "verified",
+        "verifying",
+        "verify"
+      ],
+      "explanation": "A participle usually ends in “-ed” in a passive reduced relative clause for these regular verbs.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-20",
+      "subject": "en",
+      "question": "Fill the blank. “The measures ___ in the briefing have yet to take effect.”",
+      "answer": "announced",
+      "options": [
+        "announced",
+        "announcing",
+        "announce"
+      ],
+      "explanation": "A participle usually ends in “-ed” in a passive reduced relative clause for these regular verbs.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-21",
+      "subject": "en",
+      "question": "Fill the blank. “Not only ___ the report identify the error, but it also explained its cause.”",
+      "answer": "did",
+      "options": [
+        "did",
+        "it did",
+        "had it"
+      ],
+      "explanation": "“Not only” at the start of a clause triggers inversion there; the second clause keeps normal order.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-22",
+      "subject": "en",
+      "question": "Fill the blank. “Not only ___ the office reduced queues, but it has also extended its hours.”",
+      "answer": "has",
+      "options": [
+        "has",
+        "it has",
+        "did it"
+      ],
+      "explanation": "“Not only” at the start of a clause triggers inversion there; the second clause keeps normal order.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-23",
+      "subject": "en",
+      "question": "Fill the blank. “Not only ___ the analysts find a difference, but they also measured its size.”",
+      "answer": "did",
+      "options": [
+        "did",
+        "they did",
+        "were they"
+      ],
+      "explanation": "“Not only” at the start of a clause triggers inversion there; the second clause keeps normal order.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-24",
+      "subject": "en",
+      "question": "Fill the blank. “Not only ___ the new system faster, but it is also easier to audit.”",
+      "answer": "is",
+      "options": [
+        "is",
+        "it is",
+        "does"
+      ],
+      "explanation": "“Not only” at the start of a clause triggers inversion there; the second clause keeps normal order.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-25",
+      "subject": "en",
+      "question": "Fill the blank. “Not only ___ the proposals been published, but they have also been translated.”",
+      "answer": "have",
+      "options": [
+        "have",
+        "they have",
+        "did they"
+      ],
+      "explanation": "“Not only” at the start of a clause triggers inversion there; the second clause keeps normal order.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-26",
+      "subject": "en",
+      "question": "Fill the blank. “The researcher ___ data we used signed the acknowledgement.”",
+      "answer": "whose",
+      "options": [
+        "whose",
+        "who",
+        "whom"
+      ],
+      "explanation": "Use “whose” to link a person or entity to something associated with it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-27",
+      "subject": "en",
+      "question": "Fill the blank. “The firm ___ shipment was delayed filed a notice.”",
+      "answer": "whose",
+      "options": [
+        "whose",
+        "which",
+        "whom"
+      ],
+      "explanation": "Use “whose” to link a person or entity to something associated with it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-28",
+      "subject": "en",
+      "question": "Fill the blank. “The department ___ records were incomplete reopened the review.”",
+      "answer": "whose",
+      "options": [
+        "whose",
+        "which",
+        "who"
+      ],
+      "explanation": "Use “whose” to link a person or entity to something associated with it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-29",
+      "subject": "en",
+      "question": "Fill the blank. “The applicants ___ names appear on the list should check their email.”",
+      "answer": "whose",
+      "options": [
+        "whose",
+        "who",
+        "whom"
+      ],
+      "explanation": "Use “whose” to link a person or entity to something associated with it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-4-en-30",
+      "subject": "en",
+      "question": "Fill the blank. “The official ___ statement was quoted issued a clarification.”",
+      "answer": "whose",
+      "options": [
+        "whose",
+        "who",
+        "whom"
+      ],
+      "explanation": "Use “whose” to link a person or entity to something associated with it.",
+      "refs": []
+    }
+  ]
+}

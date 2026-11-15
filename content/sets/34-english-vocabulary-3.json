@@ -1,0 +1,325 @@
+{
+  "id": "english-vocabulary-3",
+  "title": "English Vocabulary · การวิเคราะห์และหลักฐาน",
+  "level": 3,
+  "kind": "study",
+  "tags": [
+    "vocabulary",
+    "คำศัพท์",
+    "collocations"
+  ],
+  "questions": [
+    {
+      "id": "english-vocabulary-3-en-01",
+      "subject": "en",
+      "question": "In “Two independent records corroborated the witness’s account.”, what does “corroborate” mean?",
+      "answer": "support a statement through other evidence",
+      "options": [
+        "support a statement through other evidence",
+        "invent a new claim",
+        "ignore an independent record"
+      ],
+      "explanation": "Here, “corroborate” means to support a statement through other evidence.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-02",
+      "subject": "en",
+      "question": "In “The authors attributed part of the increase to rising costs.”, what does “attribute” mean?",
+      "answer": "identify as arising from a source or cause",
+      "options": [
+        "identify as arising from a source or cause",
+        "rule out every cause",
+        "compare the size of two effects"
+      ],
+      "explanation": "Here, “attribute” means to identify as arising from a source or cause.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-03",
+      "subject": "en",
+      "question": "In “Missing costs may understate the total burden.”, what does “understate” mean?",
+      "answer": "represent as smaller or less important than it is",
+      "options": [
+        "represent as smaller or less important than it is",
+        "present as larger than warranted",
+        "measure with complete accuracy"
+      ],
+      "explanation": "Here, “understate” means to represent as smaller or less important than it is.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-04",
+      "subject": "en",
+      "question": "In “The analysts warned against extrapolating beyond the observed time period.”, what does “extrapolate” mean?",
+      "answer": "extend a pattern beyond the observations",
+      "options": [
+        "extend a pattern beyond the observations",
+        "correct a recorded error",
+        "exclude a data point because it is extreme"
+      ],
+      "explanation": "Here, “extrapolate” means to extend a pattern beyond the observations.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-05",
+      "subject": "en",
+      "question": "In “The author qualified the conclusion by noting the narrow sample.”, what does “qualify” mean?",
+      "answer": "limit or add a condition to a statement in this context",
+      "options": [
+        "limit or add a condition to a statement in this context",
+        "remove every condition from a claim",
+        "confirm that an applicant meets a threshold"
+      ],
+      "explanation": "Here, “qualify” means to limit or add a condition to a statement in this context.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-06",
+      "subject": "en",
+      "question": "In “The note differentiated approval from payment.”, what does “differentiate” mean?",
+      "answer": "distinguish",
+      "options": [
+        "distinguish",
+        "treat as identical",
+        "estimate a missing total"
+      ],
+      "explanation": "Here, “differentiate” means to distinguish.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-07",
+      "subject": "en",
+      "question": "In “The interim findings foreshadowed later revisions.”, what does “foreshadow” mean?",
+      "answer": "suggest in advance that something will happen",
+      "options": [
+        "suggest in advance that something will happen",
+        "verify that a prediction was right",
+        "prohibit a later change"
+      ],
+      "explanation": "Here, “foreshadow” means to suggest in advance that something will happen.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-08",
+      "subject": "en",
+      "question": "In “A second check attenuated the apparent difference.”, what does “attenuate” mean?",
+      "answer": "weaken or reduce the strength of an effect",
+      "options": [
+        "weaken or reduce the strength of an effect",
+        "record the cause exactly",
+        "intensify a measured effect"
+      ],
+      "explanation": "Here, “attenuate” means to weaken or reduce the strength of an effect.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-09",
+      "subject": "en",
+      "question": "In “The interim agreement does not preclude revision.”, what does “preclude” mean?",
+      "answer": "prevent or rule out",
+      "options": [
+        "prevent or rule out",
+        "authorize in advance",
+        "make highly probable"
+      ],
+      "explanation": "Here, “preclude” means to prevent or rule out.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-10",
+      "subject": "en",
+      "question": "In “The agency released data to rebut the allegation.”, what does “rebut” mean?",
+      "answer": "respond with an argument or evidence against a claim",
+      "options": [
+        "respond with an argument or evidence against a claim",
+        "acknowledge a claim as conclusive",
+        "publish only the original statement"
+      ],
+      "explanation": "Here, “rebut” means to respond with an argument or evidence against a claim.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-11",
+      "subject": "en",
+      "question": "In “The analysts inferred a change in demand from the new figures.”, what does “infer” mean?",
+      "answer": "draw a conclusion from available evidence",
+      "options": [
+        "draw a conclusion from available evidence",
+        "quote a passage word for word",
+        "change the original data"
+      ],
+      "explanation": "Here, “infer” means to draw a conclusion from available evidence.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-12",
+      "subject": "en",
+      "question": "In “The panel scrutinized the revised cost estimate.”, what does “scrutinize” mean?",
+      "answer": "examine closely and critically",
+      "options": [
+        "examine closely and critically",
+        "approve automatically",
+        "summarize without examining"
+      ],
+      "explanation": "Here, “scrutinize” means to examine closely and critically.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-13",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “support a statement through other evidence”. A separate log may ___ the timeline described in the report.",
+      "answer": "corroborate",
+      "options": [
+        "corroborate",
+        "withdraw",
+        "curtail"
+      ],
+      "explanation": "Here, “corroborate” means to support a statement through other evidence.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-14",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “identify as arising from a source or cause”. The review could not confidently ___ the observed change to one policy.",
+      "answer": "attribute",
+      "options": [
+        "attribute",
+        "preclude",
+        "attenuate"
+      ],
+      "explanation": "Here, “attribute” means to identify as arising from a source or cause.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-15",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “represent as smaller or less important than it is”. The estimate may ___ expenditure if it leaves out the maintenance contract.",
+      "answer": "understate",
+      "options": [
+        "understate",
+        "increase",
+        "corroborate"
+      ],
+      "explanation": "Here, “understate” means to represent as smaller or less important than it is.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-16",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “extend a pattern beyond the observations”. It would be risky to ___ a five-week trend over an entire decade.",
+      "answer": "extrapolate",
+      "options": [
+        "extrapolate",
+        "disclose",
+        "curtail"
+      ],
+      "explanation": "Here, “extrapolate” means to extend a pattern beyond the observations.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-17",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “limit or add a condition to a statement in this context”. The team should ___ the finding by explaining which groups were underrepresented.",
+      "answer": "qualify",
+      "options": [
+        "qualify",
+        "extrapolate",
+        "allocate"
+      ],
+      "explanation": "Here, “qualify” means to limit or add a condition to a statement in this context.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-18",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “distinguish”. Readers should ___ a political pledge from a transfer of funds.",
+      "answer": "differentiate",
+      "options": [
+        "differentiate",
+        "convene",
+        "preclude"
+      ],
+      "explanation": "Here, “differentiate” means to distinguish.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-19",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “suggest in advance that something will happen”. Today's warning may ___ a change to the proposed timeline.",
+      "answer": "foreshadow",
+      "options": [
+        "foreshadow",
+        "reconcile",
+        "preclude"
+      ],
+      "explanation": "Here, “foreshadow” means to suggest in advance that something will happen.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-20",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “weaken or reduce the strength of an effect”. Removing duplicated records may ___ the reported surge.",
+      "answer": "attenuate",
+      "options": [
+        "attenuate",
+        "substantiate",
+        "scrutinize"
+      ],
+      "explanation": "Here, “attenuate” means to weaken or reduce the strength of an effect.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-21",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “prevent or rule out”. A narrow review should not ___ reexamining the issue when new evidence arrives.",
+      "answer": "preclude",
+      "options": [
+        "preclude",
+        "endorse",
+        "validate"
+      ],
+      "explanation": "Here, “preclude” means to prevent or rule out.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-22",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “respond with an argument or evidence against a claim”. Any attempt to ___ the report’s conclusion needs relevant counterevidence.",
+      "answer": "rebut",
+      "options": [
+        "rebut",
+        "consolidate",
+        "ratify"
+      ],
+      "explanation": "Here, “rebut” means to respond with an argument or evidence against a claim.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-23",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “draw a conclusion from available evidence”. We can ___ that the deadline shifted by comparing the two notices.",
+      "answer": "infer",
+      "options": [
+        "infer",
+        "attest",
+        "collate"
+      ],
+      "explanation": "Here, “infer” means to draw a conclusion from available evidence.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-3-en-24",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “examine closely and critically”. Reviewers will ___ the principal assumptions before endorsing the forecast.",
+      "answer": "scrutinize",
+      "options": [
+        "scrutinize",
+        "preclude",
+        "attenuate"
+      ],
+      "explanation": "Here, “scrutinize” means to examine closely and critically.",
+      "refs": []
+    }
+  ]
+}

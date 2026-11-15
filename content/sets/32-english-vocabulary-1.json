@@ -1,0 +1,325 @@
+{
+  "id": "english-vocabulary-1",
+  "title": "English Vocabulary · การเจรจาและการประชุม",
+  "level": 1,
+  "kind": "study",
+  "tags": [
+    "vocabulary",
+    "คำศัพท์",
+    "collocations"
+  ],
+  "questions": [
+    {
+      "id": "english-vocabulary-1-en-01",
+      "subject": "en",
+      "question": "In “The legislature voted to ratify the convention.”, what does “ratify” mean?",
+      "answer": "give formal consent to be bound",
+      "options": [
+        "give formal consent to be bound",
+        "negotiate the first wording",
+        "withdraw after approval"
+      ],
+      "explanation": "Here, “ratify” means to give formal consent to be bound.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-02",
+      "subject": "en",
+      "question": "In “The chair tabled the motion for discussion that afternoon.”, what does “table” mean?",
+      "answer": "formally bring forward for discussion in this context",
+      "options": [
+        "formally bring forward for discussion in this context",
+        "delete from the records",
+        "enforce without a vote"
+      ],
+      "explanation": "Here, “table” means to formally bring forward for discussion in this context.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-03",
+      "subject": "en",
+      "question": "In “The panel voted to defer its decision for a week.”, what does “defer” mean?",
+      "answer": "postpone until later",
+      "options": [
+        "postpone until later",
+        "settle permanently",
+        "restate without changing"
+      ],
+      "explanation": "Here, “defer” means to postpone until later.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-04",
+      "subject": "en",
+      "question": "In “The team tried to reconcile two different totals.”, what does “reconcile” mean?",
+      "answer": "bring into agreement",
+      "options": [
+        "bring into agreement",
+        "keep equally uncertain",
+        "publish as unrelated"
+      ],
+      "explanation": "Here, “reconcile” means to bring into agreement.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-05",
+      "subject": "en",
+      "question": "In “The new directive will supersede the earlier circular.”, what does “supersede” mean?",
+      "answer": "replace in authority or effect",
+      "options": [
+        "replace in authority or effect",
+        "confirm through evidence",
+        "publish an attachment to"
+      ],
+      "explanation": "Here, “supersede” means to replace in authority or effect.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-06",
+      "subject": "en",
+      "question": "In “The liaison officer helped facilitate discussions.”, what does “facilitate” mean?",
+      "answer": "make easier",
+      "options": [
+        "make easier",
+        "make legally binding",
+        "make more expensive"
+      ],
+      "explanation": "Here, “facilitate” means to make easier.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-07",
+      "subject": "en",
+      "question": "In “The chair will convene the group next week.”, what does “convene” mean?",
+      "answer": "bring people together for a meeting",
+      "options": [
+        "bring people together for a meeting",
+        "record a completed vote",
+        "send the members home"
+      ],
+      "explanation": "Here, “convene” means to bring people together for a meeting.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-08",
+      "subject": "en",
+      "question": "In “The chair may delegate routine approval to a deputy.”, what does “delegate” mean?",
+      "answer": "assign authority or a task to another person",
+      "options": [
+        "assign authority or a task to another person",
+        "receive a formal complaint",
+        "make a task impossible to assign"
+      ],
+      "explanation": "Here, “delegate” means to assign authority or a task to another person.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-09",
+      "subject": "en",
+      "question": "In “The team asked the agency to clarify its instructions.”, what does “clarify” mean?",
+      "answer": "make more precise or understandable",
+      "options": [
+        "make more precise or understandable",
+        "make legally binding",
+        "make shorter regardless of meaning"
+      ],
+      "explanation": "Here, “clarify” means to make more precise or understandable.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-10",
+      "subject": "en",
+      "question": "In “Firms must comply with the reporting rule.”, what does “comply” mean?",
+      "answer": "act in accordance with a rule",
+      "options": [
+        "act in accordance with a rule",
+        "request removal from a rule",
+        "make a formal protest"
+      ],
+      "explanation": "Here, “comply” means to act in accordance with a rule.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-11",
+      "subject": "en",
+      "question": "In “The authority will designate a new contact point.”, what does “designate” mean?",
+      "answer": "formally name or select for a role",
+      "options": [
+        "formally name or select for a role",
+        "erase from the official list",
+        "repeat an earlier statement"
+      ],
+      "explanation": "Here, “designate” means to formally name or select for a role.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-12",
+      "subject": "en",
+      "question": "In “The sponsor chose to withdraw the proposal before the vote.”, what does “withdraw” mean?",
+      "answer": "remove from consideration or participation",
+      "options": [
+        "remove from consideration or participation",
+        "submit for adoption",
+        "confirm without amendment"
+      ],
+      "explanation": "Here, “withdraw” means to remove from consideration or participation.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-13",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “give formal consent to be bound”. The state plans to ___ the treaty after completing the required approval process.",
+      "answer": "ratify",
+      "options": [
+        "ratify",
+        "convene",
+        "defer"
+      ],
+      "explanation": "Here, “ratify” means to give formal consent to be bound.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-14",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “formally bring forward for discussion in this context”. Using the sense “present formally for discussion,” the delegation will ___ its proposal at the next session.",
+      "answer": "table",
+      "options": [
+        "table",
+        "withdraw",
+        "ratify"
+      ],
+      "explanation": "Here, “table” means to formally bring forward for discussion in this context.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-15",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “postpone until later”. Rather than decide today, the members agreed to ___ the vote until the next session.",
+      "answer": "defer",
+      "options": [
+        "defer",
+        "approve",
+        "circulate"
+      ],
+      "explanation": "Here, “defer” means to postpone until later.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-16",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “bring into agreement”. The reviewers met to ___ two conflicting versions of the report.",
+      "answer": "reconcile",
+      "options": [
+        "reconcile",
+        "defer",
+        "delegate"
+      ],
+      "explanation": "Here, “reconcile” means to bring into agreement.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-17",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “replace in authority or effect”. Once issued, the revised guidance will ___ the instructions currently in use.",
+      "answer": "supersede",
+      "options": [
+        "supersede",
+        "convene",
+        "disclose"
+      ],
+      "explanation": "Here, “supersede” means to replace in authority or effect.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-18",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “make easier”. A common form can ___ the processing of paperwork at the border.",
+      "answer": "facilitate",
+      "options": [
+        "facilitate",
+        "curtail",
+        "withdraw"
+      ],
+      "explanation": "Here, “facilitate” means to make easier.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-19",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “bring people together for a meeting”. The secretariat asked the director to ___ an emergency meeting.",
+      "answer": "convene",
+      "options": [
+        "convene",
+        "ratify",
+        "supersede"
+      ],
+      "explanation": "Here, “convene” means to bring people together for a meeting.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-20",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “assign authority or a task to another person”. The manager can ___ the authority to sign standard receipts.",
+      "answer": "delegate",
+      "options": [
+        "delegate",
+        "verify",
+        "withdraw"
+      ],
+      "explanation": "Here, “delegate” means to assign authority or a task to another person.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-21",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “make more precise or understandable”. The notice should ___ which documents applicants must bring.",
+      "answer": "clarify",
+      "options": [
+        "clarify",
+        "curtail",
+        "postpone"
+      ],
+      "explanation": "Here, “clarify” means to make more precise or understandable.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-22",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “act in accordance with a rule”. Every operator is required to ___ with the new standards.",
+      "answer": "comply",
+      "options": [
+        "comply",
+        "withdraw",
+        "curtail"
+      ],
+      "explanation": "Here, “comply” means to act in accordance with a rule.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-23",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “formally name or select for a role”. Each office must ___ one person to receive official notices.",
+      "answer": "designate",
+      "options": [
+        "designate",
+        "defer",
+        "reconcile"
+      ],
+      "explanation": "Here, “designate” means to formally name or select for a role.",
+      "refs": []
+    },
+    {
+      "id": "english-vocabulary-1-en-24",
+      "subject": "en",
+      "question": "Choose the word that expresses this meaning: “remove from consideration or participation”. The delegation plans to ___ its draft resolution before members consider it.",
+      "answer": "withdraw",
+      "options": [
+        "withdraw",
+        "designate",
+        "ratify"
+      ],
+      "explanation": "Here, “withdraw” means to remove from consideration or participation.",
+      "refs": []
+    }
+  ]
+}

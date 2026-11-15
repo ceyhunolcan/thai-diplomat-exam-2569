@@ -8,6 +8,17 @@ const practice = decks.filter(deck => deck.kind === 'study');
 const exams = decks.filter(deck => deck.kind === 'mock');
 const references = decks.filter(deck => deck.kind === 'recap');
 const byDeck = Object.fromEntries(decks.map(deck => [deck.id, deck]));
+const cardSubjects = new Map(practice.map(deck => [deck.id,
+  new Set(deck.cards.map(id => cards[id].subject))]));
+const searchIndex = new Map(practice.map(deck => {
+  const headings = normalizeSearch([deck.title, ...(deck.tags || [])].join(' '));
+  const searchable = Object.fromEntries(Object.keys(subjects).map(subject => [
+    subject,
+    normalizeSearch(deck.cards.filter(id => cards[id].subject === subject)
+      .map(id => [cards[id].question, cards[id].answer].join(' ')).join(' ')),
+  ]));
+  return [deck.id, { headings, ...searchable, all: searchable.th + ' ' + searchable.en }];
+}));
 const storageKey = 'thai-diplomat-exam-2569-v1';
 const dateFormat = new Intl.DateTimeFormat('th-TH', { dateStyle: 'medium', timeStyle: 'short' });
 let storageAvailable = true;
@@ -100,6 +111,19 @@ function seenCount(deck) {
   return deck.cards.filter(id => seen.has(id)).length;
 }
 
+function missedDeck() {
+  const answered = new Set();
+  const missed = [];
+  for (const attempt of state.attempts) {
+    for (const response of attempt.responses) {
+      if (answered.has(response.id) || !cards[response.id]) continue;
+      answered.add(response.id);
+      if (response.selected !== response.correct) missed.push(response.id);
+    }
+  }
+  return { id: 'missed-questions', title: 'รวมข้อที่พลาด', kind: 'review', cards: missed };
+}
+
 function renderResume() {
   const last = state.last;
   const attempt = state.attempts[0];
@@ -115,8 +139,11 @@ function renderResume() {
     button = 'ดูผลและทบทวน →';
     open = () => openResult(attempt);
   }
-  if (last?.kind === 'study' && byDeck[last.id]) {
-    const deck = byDeck[last.id];
+  const savedStudy = last?.kind === 'study'
+    ? (last.id === 'missed-questions' ? missedDeck() : byDeck[last.id])
+    : null;
+  if (savedStudy?.cards.length) {
+    const deck = savedStudy;
     label = 'กลับมาฝึกต่อ';
     title = deck.title;
     detail = `เปิดเฉลยแล้ว ${seenCount(deck)} / ${deck.cards.length} ข้อ`;
@@ -143,23 +170,68 @@ function tile(title, detail, label, click, status = '') {
   el.append(node('h3', title), node('p', detail));
   if (status) el.append(node('p', status));
   const controls = node('div', '', 'tile-actions');
-  controls.append(action(label, click));
+  const button = action(label, click);
+  button.setAttribute('aria-label', `${label} ${title}`);
+  controls.append(button);
   el.append(controls);
   return el;
 }
 
-function renderLibrary() {
-  $('pack-count').textContent = `ปี 2569 · ${Object.keys(cards).length} ข้อ · ${practice.length} ชุดฝึก · ${exams.length} ข้อสอบจำลอง`;
-  renderResume();
-  pressedGroup($('levels'), Object.entries(levels).map(([id, label]) => [Number(id), label]), activeLevel, level => {
-    activeLevel = level;
-    renderLibrary();
-  });
-  $('study-list').replaceChildren(...practice.filter(deck => deck.level === activeLevel).map(deck => {
+function normalizeSearch(text) {
+  return text.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}\p{M}]+/gu, ' ').trim();
+}
+
+function termMatches(text, term) {
+  return /^[a-z0-9]{1,3}$/.test(term) ? ` ${text} `.includes(` ${term} `) : text.includes(term);
+}
+
+function renderStudyList() {
+  const terms = normalizeSearch($('study-search').value).split(' ').filter(Boolean);
+  const subject = $('library-subject').value;
+  const candidates = practice.filter(deck =>
+    (!activeLevel || deck.level === activeLevel) &&
+    (subject === 'all' || cardSubjects.get(deck.id).has(subject))
+  );
+  const ranked = candidates.map(deck => {
+    const index = searchIndex.get(deck.id);
+    const headings = index.headings;
+    const prompts = index[subject];
+    const score = terms.reduce((result, term) => {
+      if (termMatches(headings, term)) return result + 2;
+      if (termMatches(prompts, term)) return result + 1;
+      return result;
+    }, 0);
+    const matches = terms.every(term => termMatches(headings, term) || termMatches(prompts, term));
+    return { deck, score, matches };
+  }).filter(item => item.matches).sort((a, b) => b.score - a.score);
+  const entries = ranked.map(({ deck }) => {
     const seen = seenCount(deck);
-    return tile(deck.title, `${deck.cards.length} ข้อ · ${levels[deck.level]}`, seen ? 'ฝึกต่อ →' : 'เริ่มฝึก →',
-      () => openStudy(deck), seen ? `เปิดเฉลยแล้ว ${seen} / ${deck.cards.length} ข้อ` : '');
-  }));
+    const label = [...cardSubjects.get(deck.id)].map(key => subjects[key]).join(' + ');
+    return tile(deck.title, `${deck.cards.length} ข้อ · ${levels[deck.level]} · ${label}`,
+      seen ? 'ฝึกต่อ →' : 'เริ่มฝึก →', () => openStudy(deck, subject),
+      seen ? `เปิดเฉลยแล้ว ${seen} / ${deck.cards.length} ข้อ` : '');
+  });
+  $('library-count').textContent = `แสดง ${entries.length} จาก ${practice.length} ชุด`;
+  $('study-list').replaceChildren(...entries);
+  if (!entries.length) {
+    $('study-list').append(node('div', 'ไม่พบชุดฝึก ลองใช้คำอื่นหรือเลือกทุกระดับ', 'empty'));
+  }
+}
+
+function renderLevelFilter() {
+  const choices = [[0, 'ทุกระดับ'], ...Object.entries(levels).map(([id, label]) => [Number(id), label])];
+  pressedGroup($('levels'), choices, activeLevel, level => {
+    activeLevel = level;
+    renderLevelFilter();
+    renderStudyList();
+  });
+}
+
+function renderLibrary() {
+  $('pack-count').textContent = `ปี 2569 · ${Object.keys(cards).length.toLocaleString('en-US')} ข้อ · ${practice.length} ชุดฝึก · ${exams.length} ข้อสอบจำลอง`;
+  renderResume();
+  renderLevelFilter();
+  renderStudyList();
   $('reference-list').replaceChildren(...references.map(deck =>
     action(`${deck.title} · ${deck.cards.length} ข้อ`, () => openStudy(deck), 'text-button')));
 }
@@ -177,6 +249,15 @@ function renderExams() {
 }
 
 function renderHistory() {
+  const pool = missedDeck();
+  const panel = $('mistake-panel');
+  panel.hidden = !pool.cards.length;
+  panel.replaceChildren();
+  if (pool.cards.length) {
+    const summary = node('div');
+    summary.append(node('h2', pool.title), node('p', `${pool.cards.length} ข้อจากผลล่าสุดของแต่ละคำถาม`));
+    panel.append(summary, action('ฝึกข้อที่พลาด →', () => openStudy(pool), 'button primary'));
+  }
   const list = $('history-list');
   list.replaceChildren();
   if (!state.attempts.length) {
@@ -269,13 +350,24 @@ function answerPanel(card, selected, expected, showSelection = false) {
   return panel;
 }
 
+function readingPassage(text) {
+  const panel = node('details', '', 'passage');
+  panel.open = true;
+  const copy = node('p', text);
+  copy.lang = 'en';
+  panel.append(node('summary', 'บทอ่าน'), copy);
+  return panel;
+}
+
 function exercise(question, position, total, topic) {
   const el = node('article', '', 'exercise');
   const meta = node('div', '', 'exercise-meta');
   meta.append(node('span', topic), node('span', `ข้อ ${position + 1} / ${total}`));
   const heading = node('h2', question.question);
   heading.lang = question.subject;
-  el.append(meta, heading);
+  el.append(meta);
+  if (question.passage) el.append(readingPassage(question.passage));
+  el.append(heading);
   return el;
 }
 
@@ -299,9 +391,12 @@ function focusQuestion(container) {
   }
 }
 
-function openStudy(deck) {
+function openStudy(deck, requested = 'all') {
   const progress = studyFor(deck);
-  const subject = studyQuestionIds(deck, progress.subject).length ? progress.subject : 'all';
+  const preferred = requested === 'all' ? progress.subject : requested;
+  const subject = studyQuestionIds(deck, preferred).length ? preferred : 'all';
+  progress.subject = subject;
+  $('study-back').textContent = deck.kind === 'review' ? '← ผลสอบ' : '← ชุดฝึก';
   progress.orders ??= {};
   study = { deck, progress, subject, revealed: false, options: {} };
   state.last = { kind: 'study', id: deck.id };
@@ -421,6 +516,7 @@ function updateQuizStatus() {
   $('quiz-status').textContent = `ตอบแล้ว ${answered} จาก ${quiz.order.length} ข้อ`;
   $('quiz-meter').max = quiz.order.length;
   $('quiz-meter').value = answered;
+  $('next-unanswered').disabled = answered === quiz.order.length;
   $('save-status').textContent = storageAvailable ? 'บันทึกในเบราว์เซอร์นี้' : 'ใช้งานต่อได้ในแท็บนี้';
 }
 
@@ -562,6 +658,7 @@ function renderReview() {
     summary.append(node('span', status, status === 'ถูก' ? 'status-word' : 'status-word missed'),
       document.createTextNode(`ข้อ ${item.index + 1} · `), question);
     detail.append(summary);
+    if (card?.passage) detail.append(readingPassage(card.passage));
     if (card) detail.append(answerPanel(card, item.selected, item.correct, true));
     list.append(detail);
   }
@@ -581,11 +678,32 @@ document.querySelector('.brand').addEventListener('click', () => go('library'));
 for (const button of document.querySelectorAll('nav button')) {
   button.addEventListener('click', () => go(button.dataset.view));
 }
-$('study-back').addEventListener('click', () => go('library'));
+$('study-back').addEventListener('click', () => go(study.deck.kind === 'review' ? 'history' : 'library'));
+$('study-search').addEventListener('input', event => {
+  if (event.target.value.trim() && !$('study-search').dataset.started) {
+    activeLevel = 0;
+    $('study-search').dataset.started = 'yes';
+    renderLevelFilter();
+  }
+  if (!event.target.value.trim()) delete $('study-search').dataset.started;
+  renderStudyList();
+});
+$('library-subject').addEventListener('change', renderStudyList);
 $('shuffle-study').addEventListener('click', shuffleStudy);
 $('quiz-back').addEventListener('click', () => go('exams'));
 $('result-back').addEventListener('click', () => go('history'));
 $('submit-exam').addEventListener('click', submitExam);
+$('next-unanswered').addEventListener('click', () => {
+  const order = quiz.order;
+  const start = quiz.position;
+  for (let offset = 1; offset <= order.length; offset++) {
+    const index = (start + offset) % order.length;
+    if (!Object.hasOwn(quiz.answers, order[index])) {
+      moveQuiz(index);
+      return;
+    }
+  }
+});
 window.addEventListener('storage', event => {
   if (event.key !== storageKey) return;
   // Keep active answer controls stable. Reconcile stored data on a top-level view.

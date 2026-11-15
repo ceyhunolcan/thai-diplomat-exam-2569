@@ -1,0 +1,402 @@
+{
+  "id": "english-grammar-2",
+  "title": "English Grammar · ประโยคซับซ้อนและเงื่อนไข",
+  "level": 2,
+  "kind": "study",
+  "tags": [
+    "grammar",
+    "ไวยากรณ์ English"
+  ],
+  "questions": [
+    {
+      "id": "english-grammar-2-en-01",
+      "subject": "en",
+      "question": "Fill the blank. “The database, ___ was upgraded last month, now includes archived notices.”",
+      "answer": "which",
+      "options": [
+        "which",
+        "that",
+        "who"
+      ],
+      "explanation": "A nonrestrictive clause after a comma may take “which” for a thing and “who” for a person. “That” does not introduce it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-02",
+      "subject": "en",
+      "question": "Fill the blank. “The adviser, ___ led the review, will present the findings.”",
+      "answer": "who",
+      "options": [
+        "who",
+        "which",
+        "that"
+      ],
+      "explanation": "A nonrestrictive clause after a comma may take “which” for a thing and “who” for a person. “That” does not introduce it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-03",
+      "subject": "en",
+      "question": "Fill the blank. “The revised note, ___ is available online, includes a separate appendix.”",
+      "answer": "which",
+      "options": [
+        "which",
+        "who",
+        "that"
+      ],
+      "explanation": "A nonrestrictive clause after a comma may take “which” for a thing and “who” for a person. “That” does not introduce it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-04",
+      "subject": "en",
+      "question": "Fill the blank. “Ms. Chen, ___ chairs the committee, circulated a draft this morning.”",
+      "answer": "who",
+      "options": [
+        "who",
+        "which",
+        "that"
+      ],
+      "explanation": "A nonrestrictive clause after a comma may take “which” for a thing and “who” for a person. “That” does not introduce it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-05",
+      "subject": "en",
+      "question": "Fill the blank. “The two surveys, ___ were designed independently, produced similar findings.”",
+      "answer": "which",
+      "options": [
+        "which",
+        "whose",
+        "that"
+      ],
+      "explanation": "A nonrestrictive clause after a comma may take “which” for a thing and “who” for a person. “That” does not introduce it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-06",
+      "subject": "en",
+      "question": "Fill the blank. “The task is to verify entries, correct errors, and ___ the file.”",
+      "answer": "archive",
+      "options": [
+        "archive",
+        "archiving",
+        "archived"
+      ],
+      "explanation": "Use parallel forms for items linked in a list.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-07",
+      "subject": "en",
+      "question": "Fill the blank. “The team is collecting responses, grouping concerns, and ___ a summary.”",
+      "answer": "drafting",
+      "options": [
+        "drafting",
+        "draft",
+        "drafted"
+      ],
+      "explanation": "Use parallel forms for items linked in a list.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-08",
+      "subject": "en",
+      "question": "Fill the blank. “The sessions covered mapping risks, explaining controls, and ___ results.”",
+      "answer": "evaluating",
+      "options": [
+        "evaluating",
+        "evaluate",
+        "evaluation"
+      ],
+      "explanation": "Use parallel forms for items linked in a list.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-09",
+      "subject": "en",
+      "question": "Fill the blank. “Her brief was to record decisions, note deadlines, and ___ the minutes.”",
+      "answer": "circulate",
+      "options": [
+        "circulate",
+        "circulation",
+        "circulating"
+      ],
+      "explanation": "Use parallel forms for items linked in a list.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-10",
+      "subject": "en",
+      "question": "Fill the blank. “The program involves training staff, updating procedures, and ___ outcomes.”",
+      "answer": "measuring",
+      "options": [
+        "measuring",
+        "measure",
+        "measured"
+      ],
+      "explanation": "Use parallel forms for items linked in a list.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-11",
+      "subject": "en",
+      "question": "Fill the blank. “___ the announcement was late, attendance remained high.”",
+      "answer": "Although",
+      "options": [
+        "Although",
+        "Despite",
+        "Because of"
+      ],
+      "explanation": "Use “although” with a subject and verb, and “despite” with a noun phrase or an -ing form.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-12",
+      "subject": "en",
+      "question": "Fill the blank. “___ the late announcement, attendance remained high.”",
+      "answer": "Despite",
+      "options": [
+        "Despite",
+        "Although",
+        "Even though"
+      ],
+      "explanation": "Use “although” with a subject and verb, and “despite” with a noun phrase or an -ing form.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-13",
+      "subject": "en",
+      "question": "Fill the blank. “___ several firms objected, the policy remained in place.”",
+      "answer": "Although",
+      "options": [
+        "Although",
+        "Despite",
+        "In spite of"
+      ],
+      "explanation": "Use “although” with a subject and verb, and “despite” with a noun phrase or an -ing form.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-14",
+      "subject": "en",
+      "question": "Fill the blank. “___ working with limited data, the team met the deadline.”",
+      "answer": "Despite",
+      "options": [
+        "Despite",
+        "Although",
+        "Even though"
+      ],
+      "explanation": "Use “although” with a subject and verb, and “despite” with a noun phrase or an -ing form.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-15",
+      "subject": "en",
+      "question": "Fill the blank. “___ the initial translation was incomplete, the meeting went ahead.”",
+      "answer": "Although",
+      "options": [
+        "Although",
+        "Despite",
+        "In spite of"
+      ],
+      "explanation": "Use “although” with a subject and verb, and “despite” with a noun phrase or an -ing form.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-16",
+      "subject": "en",
+      "question": "Fill the blank. “When registration closed, all available seats ___ already been taken.”",
+      "answer": "had",
+      "options": [
+        "had",
+        "have",
+        "will have"
+      ],
+      "explanation": "The past perfect marks an event completed before another past event.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-17",
+      "subject": "en",
+      "question": "Fill the blank. “By the time the revised circular arrived, the committee ___ its decision.”",
+      "answer": "had made",
+      "options": [
+        "had made",
+        "has made",
+        "will make"
+      ],
+      "explanation": "The past perfect marks an event completed before another past event.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-18",
+      "subject": "en",
+      "question": "Fill the blank. “Before the help desk opened that Monday, technicians ___ the issue overnight.”",
+      "answer": "had resolved",
+      "options": [
+        "had resolved",
+        "have resolved",
+        "will resolve"
+      ],
+      "explanation": "The past perfect marks an event completed before another past event.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-19",
+      "subject": "en",
+      "question": "Fill the blank. “When the chair entered, the interpreter ___ already checked the microphone.”",
+      "answer": "had",
+      "options": [
+        "had",
+        "has",
+        "will have"
+      ],
+      "explanation": "The past perfect marks an event completed before another past event.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-20",
+      "subject": "en",
+      "question": "Fill the blank. “By the time the conference resumed, both teams ___ the funding clause.”",
+      "answer": "had reviewed",
+      "options": [
+        "had reviewed",
+        "have reviewed",
+        "will review"
+      ],
+      "explanation": "The past perfect marks an event completed before another past event.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-21",
+      "subject": "en",
+      "question": "Fill the blank. “The board requested that each applicant ___ a second copy.”",
+      "answer": "provide",
+      "options": [
+        "provide",
+        "provides",
+        "provided"
+      ],
+      "explanation": "After a formal mandative verb plus “that,” the base form can express what should happen.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-22",
+      "subject": "en",
+      "question": "Fill the blank. “The panel recommended that the notice ___ amended.”",
+      "answer": "be",
+      "options": [
+        "be",
+        "is",
+        "was"
+      ],
+      "explanation": "After a formal mandative verb plus “that,” the base form can express what should happen.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-23",
+      "subject": "en",
+      "question": "Fill the blank. “The auditors proposed that the unit ___ the records for another year.”",
+      "answer": "retain",
+      "options": [
+        "retain",
+        "retains",
+        "retained"
+      ],
+      "explanation": "After a formal mandative verb plus “that,” the base form can express what should happen.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-24",
+      "subject": "en",
+      "question": "Fill the blank. “The director required that the final draft ___ reviewed by counsel.”",
+      "answer": "be",
+      "options": [
+        "be",
+        "is",
+        "was"
+      ],
+      "explanation": "After a formal mandative verb plus “that,” the base form can express what should happen.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-25",
+      "subject": "en",
+      "question": "Fill the blank. “The report recommends that she ___ the methodology before publishing.”",
+      "answer": "clarify",
+      "options": [
+        "clarify",
+        "clarifies",
+        "clarified"
+      ],
+      "explanation": "After a formal mandative verb plus “that,” the base form can express what should happen.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-26",
+      "subject": "en",
+      "question": "Fill the blank. “If the roads had reopened sooner, the team ___ the site on Monday.”",
+      "answer": "would have reached",
+      "options": [
+        "would have reached",
+        "would reach",
+        "will reach"
+      ],
+      "explanation": "A third conditional describes an unreal past condition and uses “would have” plus a past participle for the result.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-27",
+      "subject": "en",
+      "question": "Fill the blank. “If the deadline had been extended, more applicants ___ in time.”",
+      "answer": "would have submitted",
+      "options": [
+        "would have submitted",
+        "would submit",
+        "will submit"
+      ],
+      "explanation": "A third conditional describes an unreal past condition and uses “would have” plus a past participle for the result.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-28",
+      "subject": "en",
+      "question": "Fill the blank. “If the translators had seen the amendment, they ___ the wording.”",
+      "answer": "would have corrected",
+      "options": [
+        "would have corrected",
+        "would correct",
+        "will correct"
+      ],
+      "explanation": "A third conditional describes an unreal past condition and uses “would have” plus a past participle for the result.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-29",
+      "subject": "en",
+      "question": "Fill the blank. “If the data had been available, the analysts ___ the estimate last week.”",
+      "answer": "would have revised",
+      "options": [
+        "would have revised",
+        "would revise",
+        "will revise"
+      ],
+      "explanation": "A third conditional describes an unreal past condition and uses “would have” plus a past participle for the result.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-2-en-30",
+      "subject": "en",
+      "question": "Fill the blank. “If the organizers had secured a larger hall, they ___ more guests yesterday.”",
+      "answer": "would have invited",
+      "options": [
+        "would have invited",
+        "would invite",
+        "will invite"
+      ],
+      "explanation": "A third conditional describes an unreal past condition and uses “would have” plus a past participle for the result.",
+      "refs": []
+    }
+  ]
+}

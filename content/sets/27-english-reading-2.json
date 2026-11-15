@@ -1,0 +1,293 @@
+{
+  "id": "english-reading-2",
+  "title": "English Reading · ขั้นตอนและการสื่อสาร",
+  "level": 1,
+  "kind": "study",
+  "tags": [
+    "reading comprehension",
+    "บทอ่าน",
+    "passage"
+  ],
+  "questions": [
+    {
+      "id": "english-reading-2-en-01",
+      "subject": "en",
+      "question": "Why did the old consular form remain valid until August?",
+      "answer": "To accommodate people who had already prepared it",
+      "options": [
+        "To accommodate people who had already prepared it",
+        "To give the staff a holiday",
+        "To suspend processing existing applications"
+      ],
+      "explanation": "The transition period protected applicants who had prepared the old form.",
+      "refs": [],
+      "passage": "A consular office introduced a shorter application form in June. The old form remained valid through the end of August so that people who had already prepared it could submit it. From September onward, new applications must use the shorter version. Existing applications are processed under the rules that applied when they were submitted."
+    },
+    {
+      "id": "english-reading-2-en-02",
+      "subject": "en",
+      "question": "Which form is required for a new application in September?",
+      "answer": "The shorter version",
+      "options": [
+        "The shorter version",
+        "The old version",
+        "Either version automatically"
+      ],
+      "explanation": "From September, new applications must use the new version.",
+      "refs": [],
+      "passage": "A consular office introduced a shorter application form in June. The old form remained valid through the end of August so that people who had already prepared it could submit it. From September onward, new applications must use the shorter version. Existing applications are processed under the rules that applied when they were submitted."
+    },
+    {
+      "id": "english-reading-2-en-03",
+      "subject": "en",
+      "question": "What happens to applications already submitted?",
+      "answer": "They follow the rules that applied when they were submitted.",
+      "options": [
+        "They follow the rules that applied when they were submitted.",
+        "They must all be resubmitted immediately.",
+        "They are automatically rejected."
+      ],
+      "explanation": "The final sentence addresses existing applications.",
+      "refs": [],
+      "passage": "A consular office introduced a shorter application form in June. The old form remained valid through the end of August so that people who had already prepared it could submit it. From September onward, new applications must use the shorter version. Existing applications are processed under the rules that applied when they were submitted."
+    },
+    {
+      "id": "english-reading-2-en-04",
+      "subject": "en",
+      "question": "When was the shorter form introduced?",
+      "answer": "June",
+      "options": [
+        "June",
+        "August",
+        "September"
+      ],
+      "explanation": "June is the introduction date; September is when it becomes mandatory for new applications.",
+      "refs": [],
+      "passage": "A consular office introduced a shorter application form in June. The old form remained valid through the end of August so that people who had already prepared it could submit it. From September onward, new applications must use the shorter version. Existing applications are processed under the rules that applied when they were submitted."
+    },
+    {
+      "id": "english-reading-2-en-05",
+      "subject": "en",
+      "question": "Which statement best describes the change?",
+      "answer": "The new form became mandatory after a transition period.",
+      "options": [
+        "The new form became mandatory after a transition period.",
+        "Both forms are valid indefinitely.",
+        "The old version became mandatory after August."
+      ],
+      "explanation": "The schedule provides several months for transition.",
+      "refs": [],
+      "passage": "A consular office introduced a shorter application form in June. The old form remained valid through the end of August so that people who had already prepared it could submit it. From September onward, new applications must use the shorter version. Existing applications are processed under the rules that applied when they were submitted."
+    },
+    {
+      "id": "english-reading-2-en-06",
+      "subject": "en",
+      "question": "Who needs to book in advance?",
+      "answer": "Visitors who want a guided tour",
+      "options": [
+        "Visitors who want a guided tour",
+        "Everyone who visits the exhibition",
+        "Only visitors who come on Tuesday"
+      ],
+      "explanation": "The booking requirement applies to guided tours.",
+      "refs": [],
+      "passage": "A museum will host an exhibition for six weeks. General admission is free, but guided tours require advance booking because each group is limited to 12 visitors. The exhibition opens on a Tuesday and closes on a Sunday. On closing day, all guided tours will be offered in English."
+    },
+    {
+      "id": "english-reading-2-en-07",
+      "subject": "en",
+      "question": "Why are guided tours booked in advance?",
+      "answer": "Each group has a capacity limit.",
+      "options": [
+        "Each group has a capacity limit.",
+        "Tours are always held after closing.",
+        "The exhibition charges for general admission."
+      ],
+      "explanation": "A group can have at most 12 visitors.",
+      "refs": [],
+      "passage": "A museum will host an exhibition for six weeks. General admission is free, but guided tours require advance booking because each group is limited to 12 visitors. The exhibition opens on a Tuesday and closes on a Sunday. On closing day, all guided tours will be offered in English."
+    },
+    {
+      "id": "english-reading-2-en-08",
+      "subject": "en",
+      "question": "On what day of the week does the exhibition open?",
+      "answer": "Tuesday",
+      "options": [
+        "Tuesday",
+        "Sunday",
+        "Friday"
+      ],
+      "explanation": "The opening falls on a Tuesday.",
+      "refs": [],
+      "passage": "A museum will host an exhibition for six weeks. General admission is free, but guided tours require advance booking because each group is limited to 12 visitors. The exhibition opens on a Tuesday and closes on a Sunday. On closing day, all guided tours will be offered in English."
+    },
+    {
+      "id": "english-reading-2-en-09",
+      "subject": "en",
+      "question": "What is special about tours on the final Sunday?",
+      "answer": "All are offered in English.",
+      "options": [
+        "All are offered in English.",
+        "None are available.",
+        "Only 24 visitors per group are permitted."
+      ],
+      "explanation": "English is the stated tour language on closing day.",
+      "refs": [],
+      "passage": "A museum will host an exhibition for six weeks. General admission is free, but guided tours require advance booking because each group is limited to 12 visitors. The exhibition opens on a Tuesday and closes on a Sunday. On closing day, all guided tours will be offered in English."
+    },
+    {
+      "id": "english-reading-2-en-10",
+      "subject": "en",
+      "question": "What is free at the exhibition?",
+      "answer": "General admission",
+      "options": [
+        "General admission",
+        "A guided tour without advance booking",
+        "A private tour after closing"
+      ],
+      "explanation": "General admission is explicitly free.",
+      "refs": [],
+      "passage": "A museum will host an exhibition for six weeks. General admission is free, but guided tours require advance booking because each group is limited to 12 visitors. The exhibition opens on a Tuesday and closes on a Sunday. On closing day, all guided tours will be offered in English."
+    },
+    {
+      "id": "english-reading-2-en-11",
+      "subject": "en",
+      "question": "What trips did the shuttle provide?",
+      "answer": "Weekend trips between the station and market",
+      "options": [
+        "Weekend trips between the station and market",
+        "Daily trips between the market and airport",
+        "Only weekday trips to the station"
+      ],
+      "explanation": "The two endpoints and weekend schedule are given.",
+      "refs": [],
+      "passage": "A city ran a trial shuttle between the station and its new market on Saturdays and Sundays. It used an existing vehicle, changing its route during hours of low demand elsewhere. The city counted riders, but it did not collect information on how people had travelled to the market before. It will decide whether to continue after reviewing the full trial."
+    },
+    {
+      "id": "english-reading-2-en-12",
+      "subject": "en",
+      "question": "How did the city obtain the vehicle?",
+      "answer": "It rerouted an existing vehicle.",
+      "options": [
+        "It rerouted an existing vehicle.",
+        "It hired a private coach for each shift.",
+        "It purchased a new vehicle for the trial."
+      ],
+      "explanation": "An existing vehicle was used at low-demand times elsewhere.",
+      "refs": [],
+      "passage": "A city ran a trial shuttle between the station and its new market on Saturdays and Sundays. It used an existing vehicle, changing its route during hours of low demand elsewhere. The city counted riders, but it did not collect information on how people had travelled to the market before. It will decide whether to continue after reviewing the full trial."
+    },
+    {
+      "id": "english-reading-2-en-13",
+      "subject": "en",
+      "question": "Which question cannot be answered from the rider counts alone?",
+      "answer": "How many riders would otherwise have driven",
+      "options": [
+        "How many riders would otherwise have driven",
+        "Whether the shuttle had passengers",
+        "How many journeys were counted"
+      ],
+      "explanation": "The city did not establish riders’ earlier travel habits.",
+      "refs": [],
+      "passage": "A city ran a trial shuttle between the station and its new market on Saturdays and Sundays. It used an existing vehicle, changing its route during hours of low demand elsewhere. The city counted riders, but it did not collect information on how people had travelled to the market before. It will decide whether to continue after reviewing the full trial."
+    },
+    {
+      "id": "english-reading-2-en-14",
+      "subject": "en",
+      "question": "What will happen before the city decides on continuation?",
+      "answer": "It will review the full trial.",
+      "options": [
+        "It will review the full trial.",
+        "It will close the market.",
+        "It will buy a fleet."
+      ],
+      "explanation": "The decision follows a review.",
+      "refs": [],
+      "passage": "A city ran a trial shuttle between the station and its new market on Saturdays and Sundays. It used an existing vehicle, changing its route during hours of low demand elsewhere. The city counted riders, but it did not collect information on how people had travelled to the market before. It will decide whether to continue after reviewing the full trial."
+    },
+    {
+      "id": "english-reading-2-en-15",
+      "subject": "en",
+      "question": "What is the most accurate description of the shuttle’s status?",
+      "answer": "A trial whose future remained undecided",
+      "options": [
+        "A trial whose future remained undecided",
+        "A permanent route mandated by law",
+        "A one-day service that had already ended"
+      ],
+      "explanation": "The passage describes a trial with a decision pending.",
+      "refs": [],
+      "passage": "A city ran a trial shuttle between the station and its new market on Saturdays and Sundays. It used an existing vehicle, changing its route during hours of low demand elsewhere. The city counted riders, but it did not collect information on how people had travelled to the market before. It will decide whether to continue after reviewing the full trial."
+    },
+    {
+      "id": "english-reading-2-en-16",
+      "subject": "en",
+      "question": "What caused the employment release to be delayed?",
+      "answer": "One region’s late submission needed verification.",
+      "options": [
+        "One region’s late submission needed verification.",
+        "The original estimates had already been withdrawn as false.",
+        "The office had cancelled all monthly releases."
+      ],
+      "explanation": "Verification was needed before publication.",
+      "refs": [],
+      "passage": "The statistics office planned to publish its monthly employment figures on 10 August. A late submission from one region required further verification, so the office moved publication to 13 August. It did not announce a revised estimate in the meantime. The release timetable for subsequent months was unchanged."
+    },
+    {
+      "id": "english-reading-2-en-17",
+      "subject": "en",
+      "question": "When was the employment release rescheduled?",
+      "answer": "13 August",
+      "options": [
+        "13 August",
+        "10 August",
+        "Three months later"
+      ],
+      "explanation": "The new release date is 13 August.",
+      "refs": [],
+      "passage": "The statistics office planned to publish its monthly employment figures on 10 August. A late submission from one region required further verification, so the office moved publication to 13 August. It did not announce a revised estimate in the meantime. The release timetable for subsequent months was unchanged."
+    },
+    {
+      "id": "english-reading-2-en-18",
+      "subject": "en",
+      "question": "What did the office release before the revised date?",
+      "answer": "No revised estimate",
+      "options": [
+        "No revised estimate",
+        "A confirmed estimate for every region",
+        "An annual schedule replacing all monthly dates"
+      ],
+      "explanation": "The office announced no revised estimate in the meantime.",
+      "refs": [],
+      "passage": "The statistics office planned to publish its monthly employment figures on 10 August. A late submission from one region required further verification, so the office moved publication to 13 August. It did not announce a revised estimate in the meantime. The release timetable for subsequent months was unchanged."
+    },
+    {
+      "id": "english-reading-2-en-19",
+      "subject": "en",
+      "question": "How did the delay affect later months?",
+      "answer": "Their publication timetable stayed the same.",
+      "options": [
+        "Their publication timetable stayed the same.",
+        "Every subsequent release moved three days.",
+        "Later figures would be published only yearly."
+      ],
+      "explanation": "The change applied to one release.",
+      "refs": [],
+      "passage": "The statistics office planned to publish its monthly employment figures on 10 August. A late submission from one region required further verification, so the office moved publication to 13 August. It did not announce a revised estimate in the meantime. The release timetable for subsequent months was unchanged."
+    },
+    {
+      "id": "english-reading-2-en-20",
+      "subject": "en",
+      "question": "What does “subsequent” mean here?",
+      "answer": "Following this month",
+      "options": [
+        "Following this month",
+        "Previously published",
+        "Unrelated to employment"
+      ],
+      "explanation": "“Subsequent” describes later months.",
+      "refs": [],
+      "passage": "The statistics office planned to publish its monthly employment figures on 10 August. A late submission from one region required further verification, so the office moved publication to 13 August. It did not announce a revised estimate in the meantime. The release timetable for subsequent months was unchanged."
+    }
+  ]
+}

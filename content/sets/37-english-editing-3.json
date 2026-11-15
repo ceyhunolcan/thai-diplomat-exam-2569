@@ -1,0 +1,170 @@
+{
+  "id": "english-editing-3",
+  "title": "English Usage · ตรรกะและข้อสรุป",
+  "level": 3,
+  "kind": "study",
+  "tags": [
+    "functional English",
+    "paraphrase",
+    "formal writing",
+    "สำนวน"
+  ],
+  "questions": [
+    {
+      "id": "english-editing-3-en-01",
+      "subject": "en",
+      "question": "“Approval is necessary but insufficient for disbursement.” Which inference follows?",
+      "answer": "Funds cannot be disbursed without approval, and approval alone does not release them.",
+      "options": [
+        "Funds cannot be disbursed without approval, and approval alone does not release them.",
+        "Funds must be released as soon as approval is given.",
+        "Approval is optional because it does not by itself release funds."
+      ],
+      "explanation": "A necessary condition is required; an insufficient condition cannot guarantee the result.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-02",
+      "subject": "en",
+      "question": "“Neither party has ruled out an extension.” What is established?",
+      "answer": "Both parties still leave an extension possible.",
+      "options": [
+        "Both parties still leave an extension possible.",
+        "Both parties have approved an extension.",
+        "At least one party has definitively rejected an extension."
+      ],
+      "explanation": "Not ruling out a proposal preserves the possibility without accepting it.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-03",
+      "subject": "en",
+      "question": "“The results held when the two largest observations were excluded.” Which claim is directly supported?",
+      "answer": "The conclusion survived that particular sensitivity check.",
+      "options": [
+        "The conclusion survived that particular sensitivity check.",
+        "The conclusion will survive every possible reanalysis.",
+        "The two observations were proven false."
+      ],
+      "explanation": "The statement reports one specified robustness check.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-04",
+      "subject": "en",
+      "question": "“The rule applies from 1 April, without prejudice to rights already acquired.” What does the qualification preserve?",
+      "answer": "Rights already acquired",
+      "options": [
+        "Rights already acquired",
+        "Every future application regardless of scope",
+        "An automatic extension of the old rules for all new cases"
+      ],
+      "explanation": "The qualification protects existing rights from the new rule’s effect.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-05",
+      "subject": "en",
+      "question": "“Unless every branch reports, the national figure is provisional.” All but one branch reported. How should the figure be labeled?",
+      "answer": "Provisional",
+      "options": [
+        "Provisional",
+        "Final because most branches reported",
+        "Unavailable because no branch reported"
+      ],
+      "explanation": "The stated condition requires reports from every branch.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-06",
+      "subject": "en",
+      "question": "“Officials confirmed the meeting would proceed but gave no undertaking on the draft.” Which summary is accurate?",
+      "answer": "The meeting was confirmed; the draft remained without a commitment.",
+      "options": [
+        "The meeting was confirmed; the draft remained without a commitment.",
+        "The draft was confirmed at the meeting.",
+        "The meeting and draft were both cancelled."
+      ],
+      "explanation": "The confirmation concerns the meeting only.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-07",
+      "subject": "en",
+      "question": "Which memo wording keeps the causal claim appropriately narrow?",
+      "answer": "The available evidence is consistent with an effect, although other explanations remain plausible.",
+      "options": [
+        "The available evidence is consistent with an effect, although other explanations remain plausible.",
+        "The evidence proves the measure was the sole cause.",
+        "The evidence cannot be relevant because it is limited."
+      ],
+      "explanation": "This formulation reports consistency while acknowledging other explanations.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-08",
+      "subject": "en",
+      "question": "“Applications received by 5 p.m. will be considered, provided they are complete.” Which application qualifies based on the stated facts?",
+      "answer": "A complete application arriving at 4:50 p.m.",
+      "options": [
+        "A complete application arriving at 4:50 p.m.",
+        "An incomplete application arriving at 4 p.m.",
+        "A complete application arriving at 5:15 p.m."
+      ],
+      "explanation": "The stated requirements are timely arrival and completeness.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-09",
+      "subject": "en",
+      "question": "“The change may have contributed to delays.” Which version removes the hedge and overstates the source?",
+      "answer": "The change caused the delays.",
+      "options": [
+        "The change caused the delays.",
+        "The change was a possible contributor to delays.",
+        "One possible factor was the change."
+      ],
+      "explanation": "Replacing the modal with a categorical statement strengthens the causal claim.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-10",
+      "subject": "en",
+      "question": "“Approval applies to the pilot sites subject to annual review.” Which summary preserves the scope?",
+      "answer": "Approval covers pilot sites and remains subject to annual review.",
+      "options": [
+        "Approval covers pilot sites and remains subject to annual review.",
+        "Approval covers every site permanently.",
+        "Approval terminates immediately at all pilot sites."
+      ],
+      "explanation": "The sentence limits approval by both covered sites and the review condition.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-11",
+      "subject": "en",
+      "question": "“Except as expressly provided, prior notices remain valid.” What should a reviewer check first?",
+      "answer": "Whether an explicit provision changes the validity of a particular notice",
+      "options": [
+        "Whether an explicit provision changes the validity of a particular notice",
+        "Whether every notice has been silently revoked",
+        "Whether the original notices used the same font"
+      ],
+      "explanation": "The stated exception turns on an express provision.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-3-en-12",
+      "subject": "en",
+      "question": "“The observed difference was practically small despite being statistically significant.” Which statement is accurate?",
+      "answer": "The statistical result alone does not imply a large practical effect.",
+      "options": [
+        "The statistical result alone does not imply a large practical effect.",
+        "A statistically significant difference must be practically large.",
+        "The study found no measurable difference at all."
+      ],
+      "explanation": "Statistical significance and practical magnitude answer different questions.",
+      "refs": []
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "english-reading-4",
+  "title": "English Reading · รายงานและผลการประเมิน",
+  "level": 2,
+  "kind": "study",
+  "tags": [
+    "reading comprehension",
+    "บทอ่าน",
+    "passage"
+  ],
+  "questions": [
+    {
+      "id": "english-reading-4-en-01",
+      "subject": "en",
+      "question": "What initially made the river readings difficult to compare?",
+      "answer": "The teams sampled in different seasons.",
+      "options": [
+        "The teams sampled in different seasons.",
+        "Both laboratories used a shared timetable from the start.",
+        "Both teams measured the same samples together."
+      ],
+      "explanation": "Seasonal differences complicate a direct comparison.",
+      "refs": [],
+      "passage": "Monitoring teams on two sides of a border reported different average readings for river pollution. One team sampled during the rainy season, while the other sampled in the dry season. The governments agreed to adopt a shared timetable and laboratory protocol. Neither government endorsed a finding about the source of the pollution."
+    },
+    {
+      "id": "english-reading-4-en-02",
+      "subject": "en",
+      "question": "What did the governments agree to standardize?",
+      "answer": "The sampling timetable and laboratory protocol",
+      "options": [
+        "The sampling timetable and laboratory protocol",
+        "The public attribution of responsibility",
+        "All future water laws"
+      ],
+      "explanation": "They agreed on a common schedule and protocol.",
+      "refs": [],
+      "passage": "Monitoring teams on two sides of a border reported different average readings for river pollution. One team sampled during the rainy season, while the other sampled in the dry season. The governments agreed to adopt a shared timetable and laboratory protocol. Neither government endorsed a finding about the source of the pollution."
+    },
+    {
+      "id": "english-reading-4-en-03",
+      "subject": "en",
+      "question": "What could the coordinated monitoring improve?",
+      "answer": "Comparability of results across the border",
+      "options": [
+        "Comparability of results across the border",
+        "The certainty of a conclusion before new data are collected",
+        "Access to the previous season’s missing samples"
+      ],
+      "explanation": "Aligning timing and methods makes comparisons more credible.",
+      "refs": [],
+      "passage": "Monitoring teams on two sides of a border reported different average readings for river pollution. One team sampled during the rainy season, while the other sampled in the dry season. The governments agreed to adopt a shared timetable and laboratory protocol. Neither government endorsed a finding about the source of the pollution."
+    },
+    {
+      "id": "english-reading-4-en-04",
+      "subject": "en",
+      "question": "What was still open after the river talks?",
+      "answer": "The source of the pollution",
+      "options": [
+        "The source of the pollution",
+        "Whether the existing averages differed",
+        "Whether a shared timetable was agreed"
+      ],
+      "explanation": "No finding on the source was endorsed.",
+      "refs": [],
+      "passage": "Monitoring teams on two sides of a border reported different average readings for river pollution. One team sampled during the rainy season, while the other sampled in the dry season. The governments agreed to adopt a shared timetable and laboratory protocol. Neither government endorsed a finding about the source of the pollution."
+    },
+    {
+      "id": "english-reading-4-en-05",
+      "subject": "en",
+      "question": "Who can be said to have accepted responsibility for the pollution?",
+      "answer": "Neither government is described as accepting responsibility.",
+      "options": [
+        "Neither government is described as accepting responsibility.",
+        "The government that sampled in the dry season.",
+        "The government that sampled during the rainy season."
+      ],
+      "explanation": "The text reports no agreement about attribution.",
+      "refs": [],
+      "passage": "Monitoring teams on two sides of a border reported different average readings for river pollution. One team sampled during the rainy season, while the other sampled in the dry season. The governments agreed to adopt a shared timetable and laboratory protocol. Neither government endorsed a finding about the source of the pollution."
+    },
+    {
+      "id": "english-reading-4-en-06",
+      "subject": "en",
+      "question": "How many agencies submitted incomplete reports by the deadline?",
+      "answer": "Two",
+      "options": [
+        "Two",
+        "One",
+        "Three"
+      ],
+      "explanation": "Two submitted partial reports; another missed the deadline altogether.",
+      "refs": [],
+      "passage": "A regional program invited ten agencies to test a new emissions-reporting template. Seven submitted complete reports. Two submitted partial reports, and one missed the deadline. The program will examine the missing fields before deciding whether to simplify the template or offer additional training."
+    },
+    {
+      "id": "english-reading-4-en-07",
+      "subject": "en",
+      "question": "What share of the invited agencies submitted complete reports?",
+      "answer": "70 percent",
+      "options": [
+        "70 percent",
+        "90 percent",
+        "20 percent"
+      ],
+      "explanation": "Seven out of ten agencies submitted complete reports.",
+      "refs": [],
+      "passage": "A regional program invited ten agencies to test a new emissions-reporting template. Seven submitted complete reports. Two submitted partial reports, and one missed the deadline. The program will examine the missing fields before deciding whether to simplify the template or offer additional training."
+    },
+    {
+      "id": "english-reading-4-en-08",
+      "subject": "en",
+      "question": "What action is planned before a decision on changes?",
+      "answer": "Examine which fields were missing.",
+      "options": [
+        "Examine which fields were missing.",
+        "Drop emissions reporting across the region.",
+        "Count partial submissions as complete."
+      ],
+      "explanation": "The program wants to diagnose missing information first.",
+      "refs": [],
+      "passage": "A regional program invited ten agencies to test a new emissions-reporting template. Seven submitted complete reports. Two submitted partial reports, and one missed the deadline. The program will examine the missing fields before deciding whether to simplify the template or offer additional training."
+    },
+    {
+      "id": "english-reading-4-en-09",
+      "subject": "en",
+      "question": "Which two responses are being considered?",
+      "answer": "A simpler form or more training",
+      "options": [
+        "A simpler form or more training",
+        "A new budget law or a change of leadership",
+        "A new deadline or a ban on submissions"
+      ],
+      "explanation": "The two options are explicitly stated in the final sentence.",
+      "refs": [],
+      "passage": "A regional program invited ten agencies to test a new emissions-reporting template. Seven submitted complete reports. Two submitted partial reports, and one missed the deadline. The program will examine the missing fields before deciding whether to simplify the template or offer additional training."
+    },
+    {
+      "id": "english-reading-4-en-10",
+      "subject": "en",
+      "question": "What is unknown about the incomplete reports?",
+      "answer": "Why particular fields were missing",
+      "options": [
+        "Why particular fields were missing",
+        "Whether all ten agencies were invited",
+        "Whether seven reports were complete"
+      ],
+      "explanation": "The planned analysis may help explain missing fields.",
+      "refs": [],
+      "passage": "A regional program invited ten agencies to test a new emissions-reporting template. Seven submitted complete reports. Two submitted partial reports, and one missed the deadline. The program will examine the missing fields before deciding whether to simplify the template or offer additional training."
+    },
+    {
+      "id": "english-reading-4-en-11",
+      "subject": "en",
+      "question": "What material was outside the mission’s access?",
+      "answer": "Confidential case files",
+      "options": [
+        "Confidential case files",
+        "Selected public hearings",
+        "Statements from willing interviewees"
+      ],
+      "explanation": "The scope explicitly excluded confidential files.",
+      "refs": [],
+      "passage": "An international mission was invited to observe selected public hearings. It could speak with participants who volunteered to be interviewed, but it could not access confidential case files. Its final report separated direct observations from statements made by participants. It did not claim that the selected hearings represented every hearing nationwide."
+    },
+    {
+      "id": "english-reading-4-en-12",
+      "subject": "en",
+      "question": "Why did the report distinguish direct observations from interviews?",
+      "answer": "The two are different kinds of evidence.",
+      "options": [
+        "The two are different kinds of evidence.",
+        "Interviews were prohibited throughout the mission.",
+        "Only direct observations can appear in any report."
+      ],
+      "explanation": "The distinction tells readers how information was obtained.",
+      "refs": [],
+      "passage": "An international mission was invited to observe selected public hearings. It could speak with participants who volunteered to be interviewed, but it could not access confidential case files. Its final report separated direct observations from statements made by participants. It did not claim that the selected hearings represented every hearing nationwide."
+    },
+    {
+      "id": "english-reading-4-en-13",
+      "subject": "en",
+      "question": "What population-level claim did the mission avoid?",
+      "answer": "That selected hearings were representative nationwide",
+      "options": [
+        "That selected hearings were representative nationwide",
+        "That it observed some public hearings",
+        "That some participants volunteered for interviews"
+      ],
+      "explanation": "The report did not generalize the sample to all hearings.",
+      "refs": [],
+      "passage": "An international mission was invited to observe selected public hearings. It could speak with participants who volunteered to be interviewed, but it could not access confidential case files. Its final report separated direct observations from statements made by participants. It did not claim that the selected hearings represented every hearing nationwide."
+    },
+    {
+      "id": "english-reading-4-en-14",
+      "subject": "en",
+      "question": "According to the account, which participants could speak with the mission?",
+      "answer": "Those who volunteered to be interviewed",
+      "options": [
+        "Those who volunteered to be interviewed",
+        "Only those selected by a court ruling",
+        "Every participant, with no limits"
+      ],
+      "explanation": "The invitation allowed voluntary interviews.",
+      "refs": [],
+      "passage": "An international mission was invited to observe selected public hearings. It could speak with participants who volunteered to be interviewed, but it could not access confidential case files. Its final report separated direct observations from statements made by participants. It did not claim that the selected hearings represented every hearing nationwide."
+    },
+    {
+      "id": "english-reading-4-en-15",
+      "subject": "en",
+      "question": "What is the most defensible use of this report?",
+      "answer": "Describe observations and interview accounts within the mission’s scope.",
+      "options": [
+        "Describe observations and interview accounts within the mission’s scope.",
+        "Calculate a national rate of procedural problems exactly.",
+        "Draw conclusions from the confidential case files."
+      ],
+      "explanation": "Its evidence is limited to the covered hearings and participating interviewees.",
+      "refs": [],
+      "passage": "An international mission was invited to observe selected public hearings. It could speak with participants who volunteered to be interviewed, but it could not access confidential case files. Its final report separated direct observations from statements made by participants. It did not claim that the selected hearings represented every hearing nationwide."
+    },
+    {
+      "id": "english-reading-4-en-16",
+      "subject": "en",
+      "question": "How many people completed the program after enrollment expanded?",
+      "answer": "90",
+      "options": [
+        "90",
+        "75",
+        "108"
+      ],
+      "explanation": "75 percent of 120 is 90.",
+      "refs": [],
+      "passage": "A training program expanded enrollment from 80 to 120 people. Completion rates fell from 90 percent to 75 percent. Although the percentage completing the program fell, the report noted that more people completed it in absolute terms. The report did not attempt to establish why the rate declined."
+    },
+    {
+      "id": "english-reading-4-en-17",
+      "subject": "en",
+      "question": "How many people completed it before expansion?",
+      "answer": "72",
+      "options": [
+        "72",
+        "80",
+        "90"
+      ],
+      "explanation": "90 percent of 80 is 72.",
+      "refs": [],
+      "passage": "A training program expanded enrollment from 80 to 120 people. Completion rates fell from 90 percent to 75 percent. Although the percentage completing the program fell, the report noted that more people completed it in absolute terms. The report did not attempt to establish why the rate declined."
+    },
+    {
+      "id": "english-reading-4-en-18",
+      "subject": "en",
+      "question": "What happened to the completion rate?",
+      "answer": "It fell by 15 percentage points.",
+      "options": [
+        "It fell by 15 percentage points.",
+        "It fell by 15 participants.",
+        "It rose by 15 percentage points."
+      ],
+      "explanation": "The rate changed from 90 percent to 75 percent.",
+      "refs": [],
+      "passage": "A training program expanded enrollment from 80 to 120 people. Completion rates fell from 90 percent to 75 percent. Although the percentage completing the program fell, the report noted that more people completed it in absolute terms. The report did not attempt to establish why the rate declined."
+    },
+    {
+      "id": "english-reading-4-en-19",
+      "subject": "en",
+      "question": "How did the absolute count of completions change?",
+      "answer": "It increased by 18 people.",
+      "options": [
+        "It increased by 18 people.",
+        "It fell by 15 people.",
+        "It remained at 72 people."
+      ],
+      "explanation": "The change is 90 minus 72.",
+      "refs": [],
+      "passage": "A training program expanded enrollment from 80 to 120 people. Completion rates fell from 90 percent to 75 percent. Although the percentage completing the program fell, the report noted that more people completed it in absolute terms. The report did not attempt to establish why the rate declined."
+    },
+    {
+      "id": "english-reading-4-en-20",
+      "subject": "en",
+      "question": "What claim would exceed the training report’s findings?",
+      "answer": "Expansion caused the lower completion rate.",
+      "options": [
+        "Expansion caused the lower completion rate.",
+        "Enrollment increased.",
+        "The absolute count of completions rose."
+      ],
+      "explanation": "The report did not investigate causation.",
+      "refs": [],
+      "passage": "A training program expanded enrollment from 80 to 120 people. Completion rates fell from 90 percent to 75 percent. Although the percentage completing the program fell, the report noted that more people completed it in absolute terms. The report did not attempt to establish why the rate declined."
+    }
+  ]
+}

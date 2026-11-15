@@ -1,0 +1,170 @@
+{
+  "id": "english-editing-2",
+  "title": "English Usage · ขอบเขตและความหมาย",
+  "level": 2,
+  "kind": "study",
+  "tags": [
+    "functional English",
+    "paraphrase",
+    "formal writing",
+    "สำนวน"
+  ],
+  "questions": [
+    {
+      "id": "english-editing-2-en-01",
+      "subject": "en",
+      "question": "“We may revisit the threshold after consultation.” Which report preserves the uncertainty?",
+      "answer": "The threshold could be reconsidered after consultation.",
+      "options": [
+        "The threshold could be reconsidered after consultation.",
+        "The threshold will be changed immediately.",
+        "Consultation has already settled the threshold."
+      ],
+      "explanation": "“May” indicates a possibility, with consultation preceding any review.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-02",
+      "subject": "en",
+      "question": "Which wording distinguishes an announced intention from implementation?",
+      "answer": "The agency announced plans to open a branch next year.",
+      "options": [
+        "The agency announced plans to open a branch next year.",
+        "The agency has opened the branch.",
+        "The branch is already accepting applications."
+      ],
+      "explanation": "The first reports the announcement without stating that the branch exists.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-03",
+      "subject": "en",
+      "question": "Which version links the comparison to a specific reference period?",
+      "answer": "The processing time was 15 percent lower than in the preceding quarter.",
+      "options": [
+        "The processing time was 15 percent lower than in the preceding quarter.",
+        "The processing time was 15 percent lower than processing.",
+        "The processing time was lower by roughly a number."
+      ],
+      "explanation": "The first clearly names the measure and comparator.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-04",
+      "subject": "en",
+      "question": "“Reports are required for grants exceeding $50,000.” Which grant is clearly covered?",
+      "answer": "$50,001",
+      "options": [
+        "$50,001",
+        "$50,000 exactly",
+        "$49,999"
+      ],
+      "explanation": "“Exceeding” means strictly greater than.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-05",
+      "subject": "en",
+      "question": "“The approval expires unless the applicant meets the reporting deadline.” What is necessary to avoid expiry under this clause?",
+      "answer": "Meeting the reporting deadline",
+      "options": [
+        "Meeting the reporting deadline",
+        "Ignoring the reporting deadline",
+        "Obtaining approval only after expiry"
+      ],
+      "explanation": "“Unless” gives the condition under which expiry is avoided.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-06",
+      "subject": "en",
+      "question": "Which sentence states that the agency can choose whether to act?",
+      "answer": "The agency may extend the period.",
+      "options": [
+        "The agency may extend the period.",
+        "The agency shall extend the period.",
+        "The agency must extend the period."
+      ],
+      "explanation": "“May” grants discretion in this construction.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-07",
+      "subject": "en",
+      "question": "Which sentence shows an obligation rather than advice?",
+      "answer": "Applicants must provide the original document.",
+      "options": [
+        "Applicants must provide the original document.",
+        "Applicants may provide the original document.",
+        "Applicants are encouraged to provide the original document."
+      ],
+      "explanation": "“Must” makes the requirement obligatory.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-08",
+      "subject": "en",
+      "question": "“The intervention was associated with shorter waits.” Which paraphrase preserves the evidence?",
+      "answer": "Shorter waits were linked to the intervention in the data.",
+      "options": [
+        "Shorter waits were linked to the intervention in the data.",
+        "The intervention necessarily caused shorter waits.",
+        "Shorter waits caused the intervention to be introduced."
+      ],
+      "explanation": "An association does not alone identify a causal direction.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-09",
+      "subject": "en",
+      "question": "Which sentence makes the scope of the exception explicit?",
+      "answer": "The reporting requirement applies to all branches except pilot sites.",
+      "options": [
+        "The reporting requirement applies to all branches except pilot sites.",
+        "Except where possible, reporting requirements apply somehow.",
+        "All pilot sites and other branches are exempt."
+      ],
+      "explanation": "The first identifies the general rule and the exempt group.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-10",
+      "subject": "en",
+      "question": "Choose the phrase that flags an example rather than a complete list.",
+      "answer": "These measures include, for example, staff training.",
+      "options": [
+        "These measures include, for example, staff training.",
+        "These measures consist exclusively of staff training.",
+        "The measures are limited to staff training alone."
+      ],
+      "explanation": "“For example” introduces one illustration.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-11",
+      "subject": "en",
+      "question": "Which revision reports a correction transparently?",
+      "answer": "The total is 125; an earlier version incorrectly listed 152.",
+      "options": [
+        "The total is 125; an earlier version incorrectly listed 152.",
+        "The earlier information was normal.",
+        "The total is different, as everyone probably knows."
+      ],
+      "explanation": "It identifies both the corrected figure and the previous error.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-2-en-12",
+      "subject": "en",
+      "question": "Which sentence accurately describes a draft whose approval is pending?",
+      "answer": "The draft is awaiting approval.",
+      "options": [
+        "The draft is awaiting approval.",
+        "The draft has taken effect.",
+        "The draft was rejected permanently."
+      ],
+      "explanation": "“Awaiting” describes the current, unresolved status.",
+      "refs": []
+    }
+  ]
+}

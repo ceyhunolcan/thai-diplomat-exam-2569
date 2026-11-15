@@ -39,6 +39,21 @@
         <h2>เลือกชุดฝึก</h2>
         <div id="levels" class="segmented" role="group" aria-label="ระดับความยาก"></div>
       </div>
+      <div class="library-controls">
+        <label>
+          <span class="sr-only">ค้นหาชุดฝึก</span>
+          <input type="search" id="study-search" placeholder="ค้นหา เช่น ASEAN, กฎหมายทะเล, reading" autocomplete="off">
+        </label>
+        <label>
+          <span class="sr-only">กรองตามวิชา</span>
+          <select id="library-subject">
+            <option value="all">ทุกวิชา</option>
+            <option value="th">ความรู้ทั่วไป</option>
+            <option value="en">English</option>
+          </select>
+        </label>
+      </div>
+      <p id="library-count" class="library-count" role="status"></p>
       <div id="study-list" class="tile-grid"></div>
       <div id="reference-list" class="reference-row" aria-label="ชุดทบทวนและข้อมูลวันสอบ"></div>
     </section>
@@ -56,6 +71,7 @@
         <h1>ผลสอบของฉัน</h1>
         <p>เก็บผลในเบราว์เซอร์นี้</p>
       </header>
+      <div id="mistake-panel" class="mistake-panel" hidden></div>
       <div id="history-list"></div>
     </section>
 
@@ -84,6 +100,7 @@
         <div id="quiz-card"></div>
         <details class="answer-map" id="answer-map">
           <summary>ไปที่ข้อ</summary>
+          <button class="text-button" id="next-unanswered" type="button">ข้อที่ยังไม่ตอบ →</button>
           <div id="question-map"></div>
         </details>
       </div>

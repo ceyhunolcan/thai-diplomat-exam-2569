@@ -170,5 +170,109 @@
   "uprProcess": [
     "OHCHR · UPR guidance for states",
     "https://www.ohchr.org/sites/default/files/documents/hrbodies/upr/UPR-cycle4-Guidance-Note-on-Addenda-to-UPR-WG-Reports.pdf"
+  ],
+  "icjStatute": [
+    "UN · Statute of the International Court of Justice",
+    "https://www.un.org/en/about-us/un-charter/statute-of-the-international-court-of-justice"
+  ],
+  "hrc": [
+    "UN General Assembly · Resolution 60/251",
+    "https://www.ohchr.org/english/bodies/hrcouncil/docs/A.RES.60.251_En.pdf"
+  ],
+  "special": [
+    "OHCHR · Human rights mechanisms and Special Procedures",
+    "https://uhri.ohchr.org/en/about"
+  ],
+  "treatyBodies": [
+    "OHCHR · Human rights mechanisms and treaty bodies",
+    "https://europe.ohchr.org/human-rights/human-rights-mechanism"
+  ],
+  "gatt": [
+    "WTO · General Agreement on Tariffs and Trade",
+    "https://www.wto.org/english/docs_e/legal_e/gatt47_e.htm"
+  ],
+  "gats": [
+    "WTO · General Agreement on Trade in Services",
+    "https://www.wto.org/english/docs_e/legal_e/26-gats_01_e.htm"
+  ],
+  "trips": [
+    "WTO · TRIPS Agreement",
+    "https://www.wto.org/english/docs_e/legal_e/legal_e.htm"
+  ],
+  "sps": [
+    "WTO · The SPS Agreement",
+    "https://www.wto.org/english/tratop_e/sps_e/spsagr_e.htm"
+  ],
+  "tbt": [
+    "WTO · Agreement on Technical Barriers to Trade",
+    "https://www.wto.org/english/docs_e/legal_e/legal_e.htm"
+  ],
+  "tariffs": [
+    "WTO · Tariffs",
+    "https://www.wto.org/english/tratop_e/tariffs_e/tariffs_e.htm"
+  ],
+  "antidump": [
+    "WTO · Anti-dumping",
+    "https://www.wto.org/english/tratop_e/adp_e/adp_e.htm"
+  ],
+  "tfa": [
+    "WTO · Trade Facilitation Agreement",
+    "https://www.wto.org/english/docs_e/legal_e/tfa_e.htm"
+  ],
+  "art6": [
+    "UNFCCC · Article 6 of the Paris Agreement",
+    "https://unfccc.int/process-and-meetings/the-paris-agreement/article6"
+  ],
+  "cbd": [
+    "CBD · Article 1 and objectives",
+    "https://www.cbd.int/convention/articles/?a=cbd-01"
+  ],
+  "cites": [
+    "CITES · What is CITES?",
+    "https://cites.org/eng/disc/what.php"
+  ],
+  "ramsar": [
+    "Convention on Wetlands · About the convention",
+    "https://www.ramsar.org/about-convention-wetlands"
+  ],
+  "sukhothai": [
+    "UNESCO · Historic Town of Sukhothai",
+    "https://whc.unesco.org/en/list/574"
+  ],
+  "banchiang": [
+    "UNESCO · Ban Chiang Archaeological Site",
+    "https://whc.unesco.org/en/list/575"
+  ],
+  "sithep": [
+    "UNESCO · The Ancient Town of Si Thep",
+    "https://whc.unesco.org/en/list/1662"
+  ],
+  "dong": [
+    "UNESCO · Dong Phayayen-Khao Yai Forest Complex",
+    "https://whc.unesco.org/en/list/590"
+  ],
+  "kaeng": [
+    "UNESCO · Kaeng Krachan Forest Complex",
+    "https://whc.unesco.org/en/list/1461/"
+  ],
+  "thung": [
+    "UNESCO · Thungyai-Huai Kha Khaeng Wildlife Sanctuaries",
+    "https://whc.unesco.org/en/list/591"
+  ],
+  "khon": [
+    "UNESCO · Khon, decision 13.COM 10.b.37",
+    "https://ich.unesco.org/en/Decisions/13.COM/10.b.37"
+  ],
+  "nuad": [
+    "UNESCO · Nuad Thai",
+    "https://ich.unesco.org/en/state/thailand-TH?info=elements-on-the-lists"
+  ],
+  "nora": [
+    "UNESCO · Nora, dance drama in southern Thailand",
+    "https://ich.unesco.org/en/RL/nora-dance-drama-in-southern-thailand-01587"
+  ],
+  "tomyum": [
+    "UNESCO · Tomyum Kung",
+    "https://ich.unesco.org/en/state/thailand-TH?info=elements-on-the-lists"
   ]
 }

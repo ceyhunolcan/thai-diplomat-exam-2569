@@ -1,0 +1,402 @@
+{
+  "id": "english-grammar-3",
+  "title": "English Grammar · โครงสร้างประโยคขั้นสูง",
+  "level": 3,
+  "kind": "study",
+  "tags": [
+    "grammar",
+    "ไวยากรณ์ English"
+  ],
+  "questions": [
+    {
+      "id": "english-grammar-3-en-01",
+      "subject": "en",
+      "question": "Fill the blank. “Only after the documents arrived ___ the analysts complete their checks.”",
+      "answer": "did",
+      "options": [
+        "did",
+        "had",
+        "were"
+      ],
+      "explanation": "A fronted restrictive or negative phrase can trigger subject–auxiliary inversion.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-02",
+      "subject": "en",
+      "question": "Fill the blank. “Not until Monday ___ the office receive the corrected file.”",
+      "answer": "did",
+      "options": [
+        "did",
+        "had",
+        "was"
+      ],
+      "explanation": "A fronted restrictive or negative phrase can trigger subject–auxiliary inversion.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-03",
+      "subject": "en",
+      "question": "Fill the blank. “Only then ___ the reviewers understand the scale of the problem.”",
+      "answer": "did",
+      "options": [
+        "did",
+        "had",
+        "were"
+      ],
+      "explanation": "A fronted restrictive or negative phrase can trigger subject–auxiliary inversion.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-04",
+      "subject": "en",
+      "question": "Fill the blank. “Rarely ___ the committee seen such a rapid response before that meeting.”",
+      "answer": "had",
+      "options": [
+        "had",
+        "did",
+        "was"
+      ],
+      "explanation": "A fronted restrictive or negative phrase can trigger subject–auxiliary inversion.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-05",
+      "subject": "en",
+      "question": "Fill the blank. “Under no circumstances ___ applicants share their login details.”",
+      "answer": "should",
+      "options": [
+        "should",
+        "do to",
+        "must to"
+      ],
+      "explanation": "A fronted restrictive or negative phrase can trigger subject–auxiliary inversion.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-06",
+      "subject": "en",
+      "question": "Fill the blank. “___ the organization requested a permit earlier, the event could have proceeded.”",
+      "answer": "Had",
+      "options": [
+        "Had",
+        "Did",
+        "Were"
+      ],
+      "explanation": "The inverted past counterfactual begins with “had” followed by subject and past participle.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-07",
+      "subject": "en",
+      "question": "Fill the blank. “___ the delegates read the annex, they might have noticed the inconsistency.”",
+      "answer": "Had",
+      "options": [
+        "Had",
+        "Did",
+        "Should"
+      ],
+      "explanation": "The inverted past counterfactual begins with “had” followed by subject and past participle.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-08",
+      "subject": "en",
+      "question": "Fill the blank. “___ the grant been renewed, the project would have continued last year.”",
+      "answer": "Had",
+      "options": [
+        "Had",
+        "Was",
+        "Were"
+      ],
+      "explanation": "The inverted past counterfactual begins with “had” followed by subject and past participle.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-09",
+      "subject": "en",
+      "question": "Fill the blank. “___ a revised estimate been available, the decision might have differed.”",
+      "answer": "Had",
+      "options": [
+        "Had",
+        "Has",
+        "Were"
+      ],
+      "explanation": "The inverted past counterfactual begins with “had” followed by subject and past participle.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-10",
+      "subject": "en",
+      "question": "Fill the blank. “___ the original records survived, reviewers could have verified the account.”",
+      "answer": "Had",
+      "options": [
+        "Had",
+        "Did",
+        "Are"
+      ],
+      "explanation": "The inverted past counterfactual begins with “had” followed by subject and past participle.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-11",
+      "subject": "en",
+      "question": "Fill the blank. “By the end of next month, the branch ___ all applications received so far.”",
+      "answer": "will have processed",
+      "options": [
+        "will have processed",
+        "had processed",
+        "would have processed"
+      ],
+      "explanation": "The future perfect describes completion by a stated future point.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-12",
+      "subject": "en",
+      "question": "Fill the blank. “By this time next year, the team ___ the second stage of the rollout.”",
+      "answer": "will have completed",
+      "options": [
+        "will have completed",
+        "had completed",
+        "has completed"
+      ],
+      "explanation": "The future perfect describes completion by a stated future point.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-13",
+      "subject": "en",
+      "question": "Fill the blank. “By the time the new rules take effect next July, staff ___ the required training.”",
+      "answer": "will have finished",
+      "options": [
+        "will have finished",
+        "had finished",
+        "have finished"
+      ],
+      "explanation": "The future perfect describes completion by a stated future point.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-14",
+      "subject": "en",
+      "question": "Fill the blank. “By next Friday at the latest, all regional desks ___ the instructions.”",
+      "answer": "will have received",
+      "options": [
+        "will have received",
+        "had received",
+        "had been receiving"
+      ],
+      "explanation": "The future perfect describes completion by a stated future point.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-15",
+      "subject": "en",
+      "question": "Fill the blank. “By next month, the auditors ___ every file in the archive.”",
+      "answer": "will have reviewed",
+      "options": [
+        "will have reviewed",
+        "had reviewed",
+        "would have reviewed"
+      ],
+      "explanation": "The future perfect describes completion by a stated future point.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-16",
+      "subject": "en",
+      "question": "Fill the blank. “The advisers with ___ we consulted issued a joint note.”",
+      "answer": "whom",
+      "options": [
+        "whom",
+        "which",
+        "whose"
+      ],
+      "explanation": "Use “whom” after a preposition when formally referring to people. Use “which” for things.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-17",
+      "subject": "en",
+      "question": "Fill the blank. “The procedure under ___ the request was processed has changed.”",
+      "answer": "which",
+      "options": [
+        "which",
+        "whom",
+        "whose"
+      ],
+      "explanation": "Use “whom” after a preposition when formally referring to people. Use “which” for things.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-18",
+      "subject": "en",
+      "question": "Fill the blank. “The officials to ___ the message was addressed responded promptly.”",
+      "answer": "whom",
+      "options": [
+        "whom",
+        "which",
+        "whose"
+      ],
+      "explanation": "Use “whom” after a preposition when formally referring to people. Use “which” for things.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-19",
+      "subject": "en",
+      "question": "Fill the blank. “The standards against ___ the files were assessed are publicly available.”",
+      "answer": "which",
+      "options": [
+        "which",
+        "whom",
+        "where"
+      ],
+      "explanation": "Use “whom” after a preposition when formally referring to people. Use “which” for things.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-20",
+      "subject": "en",
+      "question": "Fill the blank. “The applicants from ___ the office received corrections were notified.”",
+      "answer": "whom",
+      "options": [
+        "whom",
+        "which",
+        "where"
+      ],
+      "explanation": "Use “whom” after a preposition when formally referring to people. Use “which” for things.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-21",
+      "subject": "en",
+      "question": "Fill the blank. “Having reviewed the annex, ___ asked for one correction.”",
+      "answer": "the legal team",
+      "options": [
+        "the legal team",
+        "a correction",
+        "the submission"
+      ],
+      "explanation": "An introductory participial phrase should logically describe the main subject that follows it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-22",
+      "subject": "en",
+      "question": "Fill the blank. “While checking the figures, ___ noticed a duplicate entry.”",
+      "answer": "the analyst",
+      "options": [
+        "the analyst",
+        "the duplicate",
+        "the spreadsheet"
+      ],
+      "explanation": "An introductory participial phrase should logically describe the main subject that follows it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-23",
+      "subject": "en",
+      "question": "Fill the blank. “After comparing the proposals, ___ recommended the lower-risk option.”",
+      "answer": "the panel",
+      "options": [
+        "the panel",
+        "the lower-risk option",
+        "a recommendation"
+      ],
+      "explanation": "An introductory participial phrase should logically describe the main subject that follows it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-24",
+      "subject": "en",
+      "question": "Fill the blank. “Written in plain language, ___ was easy for first-time applicants to follow.”",
+      "answer": "the guidance",
+      "options": [
+        "the guidance",
+        "the first-time applicant",
+        "the review committee"
+      ],
+      "explanation": "An introductory participial phrase should logically describe the main subject that follows it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-25",
+      "subject": "en",
+      "question": "Fill the blank. “Hoping to avoid a delay, ___ sent the clarification before noon.”",
+      "answer": "the organizers",
+      "options": [
+        "the organizers",
+        "the clarification",
+        "the delay"
+      ],
+      "explanation": "An introductory participial phrase should logically describe the main subject that follows it.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-26",
+      "subject": "en",
+      "question": "Fill the blank. “It was ___ a detailed report that the committee needed two sessions to review it.”",
+      "answer": "such",
+      "options": [
+        "such",
+        "so",
+        "too"
+      ],
+      "explanation": "Use “such … that” with a noun phrase and “so … that” with an adjective or adverb.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-27",
+      "subject": "en",
+      "question": "Fill the blank. “The figures were ___ inconsistent that the team repeated the analysis.”",
+      "answer": "so",
+      "options": [
+        "so",
+        "such",
+        "as"
+      ],
+      "explanation": "Use “such … that” with a noun phrase and “so … that” with an adjective or adverb.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-28",
+      "subject": "en",
+      "question": "Fill the blank. “It was ___ an unusual request that the director sought legal advice.”",
+      "answer": "such",
+      "options": [
+        "such",
+        "so",
+        "very"
+      ],
+      "explanation": "Use “such … that” with a noun phrase and “so … that” with an adjective or adverb.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-29",
+      "subject": "en",
+      "question": "Fill the blank. “The applications arrived ___ quickly that additional staff were needed.”",
+      "answer": "so",
+      "options": [
+        "so",
+        "such",
+        "quite"
+      ],
+      "explanation": "Use “such … that” with a noun phrase and “so … that” with an adjective or adverb.",
+      "refs": []
+    },
+    {
+      "id": "english-grammar-3-en-30",
+      "subject": "en",
+      "question": "Fill the blank. “The two were ___ similar that several reviewers mistook one for the other.”",
+      "answer": "so",
+      "options": [
+        "so",
+        "such",
+        "too"
+      ],
+      "explanation": "Use “such … that” with a noun phrase and “so … that” with an adjective or adverb.",
+      "refs": []
+    }
+  ]
+}

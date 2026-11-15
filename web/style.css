@@ -128,3 +128,48 @@ summary { cursor: pointer; }
 }
 
 @media (max-width: 355px) { .brand span { display: none; } }
+
+.library-controls { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: stretch; gap: .5rem; }
+.library-controls input, .library-controls select {
+  min-height: 2.8rem;
+  width: 100%;
+  min-width: 0;
+  padding: .5rem .7rem;
+  border: 1px solid #a5b8a8;
+  border-radius: .6rem;
+  color: var(--ink);
+  background: var(--surface);
+  font: inherit;
+}
+.library-count { color: var(--muted); font-size: .9rem; margin: .45rem 0 .65rem; }
+.mistake-panel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin-bottom: .85rem;
+  border: 1px solid #a8c2af;
+  border-radius: var(--radius);
+  background: var(--soft);
+  padding: .9rem 1rem;
+}
+.passage {
+  background: #f5f5ed;
+  border-radius: .6rem;
+  border-inline-start: 3px solid #9bb29e;
+  padding: .75rem .9rem;
+  margin: .65rem 0 .9rem;
+  max-width: 75ch;
+}
+.passage summary { font-weight: 700; }
+.passage p { margin-top: .4rem; }
+@media (max-width: 430px) {
+  .hero { gap: .85rem; padding: 1.12rem; }
+  #levels { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); width: 100%; }
+  #levels button { padding-inline: .18rem; font-size: .9rem; white-space: nowrap; }
+  .library-controls select { max-width: 7.5rem; }
+}
+
+#question-map { max-height: 18rem; overflow-y: auto; padding: .14rem .2rem .2rem; }
+#next-unanswered { font-size: .9rem; padding-inline: .15rem; }

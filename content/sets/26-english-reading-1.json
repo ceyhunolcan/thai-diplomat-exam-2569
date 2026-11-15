@@ -1,0 +1,293 @@
+{
+  "id": "english-reading-1",
+  "title": "English Reading · ประกาศและบริการ",
+  "level": 1,
+  "kind": "study",
+  "tags": [
+    "reading comprehension",
+    "บทอ่าน",
+    "passage"
+  ],
+  "questions": [
+    {
+      "id": "english-reading-1-en-01",
+      "subject": "en",
+      "question": "When was the second counter open?",
+      "answer": "Monday mornings",
+      "options": [
+        "Monday mornings",
+        "Every weekday afternoon",
+        "Monday afternoons only"
+      ],
+      "explanation": "The additional counter ran from 9 a.m. to noon on Mondays.",
+      "refs": [],
+      "passage": "A district office opened a second counter from 9 a.m. to noon on Mondays, when queues were longest. It reassigned two staff members from a back-office unit and added no staff. After four weeks, the average Monday morning wait fell from 32 to 20 minutes. The office had not yet measured waiting times on other days."
+    },
+    {
+      "id": "english-reading-1-en-02",
+      "subject": "en",
+      "question": "How did the district office staff the new counter?",
+      "answer": "It moved two existing staff members to the counter.",
+      "options": [
+        "It moved two existing staff members to the counter.",
+        "It hired two additional staff members.",
+        "It relied on volunteers."
+      ],
+      "explanation": "Two people were reassigned from a back-office unit.",
+      "refs": [],
+      "passage": "A district office opened a second counter from 9 a.m. to noon on Mondays, when queues were longest. It reassigned two staff members from a back-office unit and added no staff. After four weeks, the average Monday morning wait fell from 32 to 20 minutes. The office had not yet measured waiting times on other days."
+    },
+    {
+      "id": "english-reading-1-en-03",
+      "subject": "en",
+      "question": "By how many minutes did the reported Monday wait fall?",
+      "answer": "12 minutes",
+      "options": [
+        "12 minutes",
+        "20 minutes",
+        "32 minutes"
+      ],
+      "explanation": "The change is 32 minus 20.",
+      "refs": [],
+      "passage": "A district office opened a second counter from 9 a.m. to noon on Mondays, when queues were longest. It reassigned two staff members from a back-office unit and added no staff. After four weeks, the average Monday morning wait fell from 32 to 20 minutes. The office had not yet measured waiting times on other days."
+    },
+    {
+      "id": "english-reading-1-en-04",
+      "subject": "en",
+      "question": "What is unknown about the counter pilot?",
+      "answer": "Whether waiting times changed on other days",
+      "options": [
+        "Whether waiting times changed on other days",
+        "Whether Mondays previously had long queues",
+        "Whether the new counter operated before noon"
+      ],
+      "explanation": "Only Monday mornings were measured.",
+      "refs": [],
+      "passage": "A district office opened a second counter from 9 a.m. to noon on Mondays, when queues were longest. It reassigned two staff members from a back-office unit and added no staff. After four weeks, the average Monday morning wait fell from 32 to 20 minutes. The office had not yet measured waiting times on other days."
+    },
+    {
+      "id": "english-reading-1-en-05",
+      "subject": "en",
+      "question": "Why was Monday selected for the additional counter?",
+      "answer": "Monday had the longest queues.",
+      "options": [
+        "Monday had the longest queues.",
+        "Monday was the only day the branch was open.",
+        "The staff were unavailable on other days."
+      ],
+      "explanation": "The passage identifies Monday as the period with the longest queues.",
+      "refs": [],
+      "passage": "A district office opened a second counter from 9 a.m. to noon on Mondays, when queues were longest. It reassigned two staff members from a back-office unit and added no staff. After four weeks, the average Monday morning wait fell from 32 to 20 minutes. The office had not yet measured waiting times on other days."
+    },
+    {
+      "id": "english-reading-1-en-06",
+      "subject": "en",
+      "question": "What did the delegations agree on at this stage?",
+      "answer": "A schedule for two meetings",
+      "options": [
+        "A schedule for two meetings",
+        "The final agreement text",
+        "A plan to suspend negotiations indefinitely"
+      ],
+      "explanation": "The agreed item was the meeting schedule.",
+      "refs": [],
+      "passage": "The two delegations agreed on a schedule for two more meetings. They deferred a decision on the draft agreement until both legal teams had reviewed it. The chair asked the secretariat to circulate the next agenda by Wednesday. The delegations issued a short statement describing the discussion as constructive."
+    },
+    {
+      "id": "english-reading-1-en-07",
+      "subject": "en",
+      "question": "Who was asked to circulate the agenda?",
+      "answer": "The secretariat",
+      "options": [
+        "The secretariat",
+        "Both legal teams",
+        "The chair of the court"
+      ],
+      "explanation": "The chair assigned this task to the secretariat.",
+      "refs": [],
+      "passage": "The two delegations agreed on a schedule for two more meetings. They deferred a decision on the draft agreement until both legal teams had reviewed it. The chair asked the secretariat to circulate the next agenda by Wednesday. The delegations issued a short statement describing the discussion as constructive."
+    },
+    {
+      "id": "english-reading-1-en-08",
+      "subject": "en",
+      "question": "What must happen before a decision on the draft?",
+      "answer": "Both legal teams must review it.",
+      "options": [
+        "Both legal teams must review it.",
+        "The Wednesday deadline must be extended.",
+        "The statement must be withdrawn."
+      ],
+      "explanation": "The decision was deferred until both legal reviews.",
+      "refs": [],
+      "passage": "The two delegations agreed on a schedule for two more meetings. They deferred a decision on the draft agreement until both legal teams had reviewed it. The chair asked the secretariat to circulate the next agenda by Wednesday. The delegations issued a short statement describing the discussion as constructive."
+    },
+    {
+      "id": "english-reading-1-en-09",
+      "subject": "en",
+      "question": "What does “constructive” suggest in the statement?",
+      "answer": "The discussion was considered useful or productive.",
+      "options": [
+        "The discussion was considered useful or productive.",
+        "A building was approved during the meeting.",
+        "An agreement was legally binding that day."
+      ],
+      "explanation": "In this setting, “constructive” describes helpful discussion.",
+      "refs": [],
+      "passage": "The two delegations agreed on a schedule for two more meetings. They deferred a decision on the draft agreement until both legal teams had reviewed it. The chair asked the secretariat to circulate the next agenda by Wednesday. The delegations issued a short statement describing the discussion as constructive."
+    },
+    {
+      "id": "english-reading-1-en-10",
+      "subject": "en",
+      "question": "What remains undecided in this meeting account?",
+      "answer": "Whether to approve the draft agreement",
+      "options": [
+        "Whether to approve the draft agreement",
+        "Whether a statement was issued",
+        "Whether there will be two meetings"
+      ],
+      "explanation": "The draft decision remains pending.",
+      "refs": [],
+      "passage": "The two delegations agreed on a schedule for two more meetings. They deferred a decision on the draft agreement until both legal teams had reviewed it. The chair asked the secretariat to circulate the next agenda by Wednesday. The delegations issued a short statement describing the discussion as constructive."
+    },
+    {
+      "id": "english-reading-1-en-11",
+      "subject": "en",
+      "question": "When will the reading room close on Friday?",
+      "answer": "4 p.m.",
+      "options": [
+        "4 p.m.",
+        "6 p.m.",
+        "7 p.m."
+      ],
+      "explanation": "Two hours before 6 p.m. is 4 p.m.",
+      "refs": [],
+      "passage": "The reading room normally closes at 6 p.m. On Friday, it will close two hours earlier while staff carry out a safety inspection. Visitors may return books through the outside slot until 7 p.m. The online catalogue will remain available. Regular hours resume on Saturday."
+    },
+    {
+      "id": "english-reading-1-en-12",
+      "subject": "en",
+      "question": "How can a visitor return a book at 5 p.m. on Friday?",
+      "answer": "Use the outside return slot.",
+      "options": [
+        "Use the outside return slot.",
+        "Wait inside the reading room.",
+        "Submit the book through the online catalogue."
+      ],
+      "explanation": "The slot remains available until 7 p.m.",
+      "refs": [],
+      "passage": "The reading room normally closes at 6 p.m. On Friday, it will close two hours earlier while staff carry out a safety inspection. Visitors may return books through the outside slot until 7 p.m. The online catalogue will remain available. Regular hours resume on Saturday."
+    },
+    {
+      "id": "english-reading-1-en-13",
+      "subject": "en",
+      "question": "Why is the room closing early?",
+      "answer": "To allow a safety inspection",
+      "options": [
+        "To allow a safety inspection",
+        "To end Saturday opening hours",
+        "To withdraw the catalogue"
+      ],
+      "explanation": "The safety inspection requires the early closure.",
+      "refs": [],
+      "passage": "The reading room normally closes at 6 p.m. On Friday, it will close two hours earlier while staff carry out a safety inspection. Visitors may return books through the outside slot until 7 p.m. The online catalogue will remain available. Regular hours resume on Saturday."
+    },
+    {
+      "id": "english-reading-1-en-14",
+      "subject": "en",
+      "question": "Which service continues online during the closure?",
+      "answer": "The catalogue",
+      "options": [
+        "The catalogue",
+        "The safety inspection",
+        "The book return slot"
+      ],
+      "explanation": "The passage specifically says the online catalogue remains available.",
+      "refs": [],
+      "passage": "The reading room normally closes at 6 p.m. On Friday, it will close two hours earlier while staff carry out a safety inspection. Visitors may return books through the outside slot until 7 p.m. The online catalogue will remain available. Regular hours resume on Saturday."
+    },
+    {
+      "id": "english-reading-1-en-15",
+      "subject": "en",
+      "question": "When does the room return to its usual hours?",
+      "answer": "Saturday",
+      "options": [
+        "Saturday",
+        "Monday",
+        "The following Friday"
+      ],
+      "explanation": "Regular hours resume on Saturday.",
+      "refs": [],
+      "passage": "The reading room normally closes at 6 p.m. On Friday, it will close two hours earlier while staff carry out a safety inspection. Visitors may return books through the outside slot until 7 p.m. The online catalogue will remain available. Regular hours resume on Saturday."
+    },
+    {
+      "id": "english-reading-1-en-16",
+      "subject": "en",
+      "question": "What determines whose workshop place is confirmed first?",
+      "answer": "When a complete registration arrives",
+      "options": [
+        "When a complete registration arrives",
+        "The applicant’s age",
+        "Whether an interpreter is requested"
+      ],
+      "explanation": "The organizers process complete registrations in arrival order.",
+      "refs": [],
+      "passage": "Applicants register for the workshop online. Space is limited to 24 participants. The organizers confirm places in the order in which complete registrations are received. Applicants who need an interpreter should mark this on the form. A separate email will provide the meeting link two days before the event."
+    },
+    {
+      "id": "english-reading-1-en-17",
+      "subject": "en",
+      "question": "How should an applicant request an interpreter?",
+      "answer": "Mark it on the registration form.",
+      "options": [
+        "Mark it on the registration form.",
+        "Wait to mention it during the workshop.",
+        "Send a request with the meeting link."
+      ],
+      "explanation": "The form is the specified way to record the request.",
+      "refs": [],
+      "passage": "Applicants register for the workshop online. Space is limited to 24 participants. The organizers confirm places in the order in which complete registrations are received. Applicants who need an interpreter should mark this on the form. A separate email will provide the meeting link two days before the event."
+    },
+    {
+      "id": "english-reading-1-en-18",
+      "subject": "en",
+      "question": "How many participants can attend?",
+      "answer": "24",
+      "options": [
+        "24",
+        "12",
+        "48"
+      ],
+      "explanation": "The workshop has a limit of 24.",
+      "refs": [],
+      "passage": "Applicants register for the workshop online. Space is limited to 24 participants. The organizers confirm places in the order in which complete registrations are received. Applicants who need an interpreter should mark this on the form. A separate email will provide the meeting link two days before the event."
+    },
+    {
+      "id": "english-reading-1-en-19",
+      "subject": "en",
+      "question": "How is the meeting link supplied?",
+      "answer": "In a separate email",
+      "options": [
+        "In a separate email",
+        "Inside the public registration form",
+        "By telephone on the day"
+      ],
+      "explanation": "The organizers send the link separately.",
+      "refs": [],
+      "passage": "Applicants register for the workshop online. Space is limited to 24 participants. The organizers confirm places in the order in which complete registrations are received. Applicants who need an interpreter should mark this on the form. A separate email will provide the meeting link two days before the event."
+    },
+    {
+      "id": "english-reading-1-en-20",
+      "subject": "en",
+      "question": "When will the workshop link be sent?",
+      "answer": "Two days before the event",
+      "options": [
+        "Two days before the event",
+        "Immediately after every application",
+        "Two days after the event"
+      ],
+      "explanation": "The final sentence specifies two days before the event.",
+      "refs": [],
+      "passage": "Applicants register for the workshop online. Space is limited to 24 participants. The organizers confirm places in the order in which complete registrations are received. Applicants who need an interpreter should mark this on the form. A separate email will provide the meeting link two days before the event."
+    }
+  ]
+}

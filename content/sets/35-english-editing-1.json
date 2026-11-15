@@ -1,0 +1,170 @@
+{
+  "id": "english-editing-1",
+  "title": "English Usage · การเขียนข้อความทางการ",
+  "level": 1,
+  "kind": "study",
+  "tags": [
+    "functional English",
+    "paraphrase",
+    "formal writing",
+    "สำนวน"
+  ],
+  "questions": [
+    {
+      "id": "english-editing-1-en-01",
+      "subject": "en",
+      "question": "Choose the clearest diplomatic request for a second review.",
+      "answer": "We would appreciate a further review of the proposal.",
+      "options": [
+        "We would appreciate a further review of the proposal.",
+        "You are expected to stop and review it again immediately.",
+        "A further review may perhaps conceivably be considered by somebody."
+      ],
+      "explanation": "The first version identifies the requested action in courteous, direct language.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-02",
+      "subject": "en",
+      "question": "Which sentence communicates a firm deadline politely?",
+      "answer": "Please send the signed copy by 4 p.m. on Tuesday.",
+      "options": [
+        "Please send the signed copy by 4 p.m. on Tuesday.",
+        "You can send the signed copy whenever you get around to it.",
+        "By some point about Tuesday, the copy needs to exist."
+      ],
+      "explanation": "It states a specific deadline and a polite request.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-03",
+      "subject": "en",
+      "question": "Which revision identifies who will verify the figures?",
+      "answer": "The audit team will verify the figures before publication.",
+      "options": [
+        "The audit team will verify the figures before publication.",
+        "The figures will be verified before publication.",
+        "Before publication, verification will take place."
+      ],
+      "explanation": "Naming the audit team makes responsibility explicit.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-04",
+      "subject": "en",
+      "question": "Which opening suits a short acknowledgement of an inquiry?",
+      "answer": "Thank you for your inquiry about the application deadline.",
+      "options": [
+        "Thank you for your inquiry about the application deadline.",
+        "We read all kinds of emails every week.",
+        "Your timing is just about what we thought it would be."
+      ],
+      "explanation": "It acknowledges the inquiry and specifies its topic.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-05",
+      "subject": "en",
+      "question": "Choose the concise equivalent of “At this point in time, the decision has not yet been made.”",
+      "answer": "A decision is still pending.",
+      "options": [
+        "A decision is still pending.",
+        "The decision has already been announced.",
+        "It was decided long ago."
+      ],
+      "explanation": "“Pending” communicates that the decision is still outstanding.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-06",
+      "subject": "en",
+      "question": "Choose the sentence that attaches “only” to the named group.",
+      "answer": "Only registered participants may enter the room.",
+      "options": [
+        "Only registered participants may enter the room.",
+        "Registered participants may only enter the room.",
+        "Registered participants may enter only after the session starts."
+      ],
+      "explanation": "Putting “only” before the group limits who may enter.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-07",
+      "subject": "en",
+      "question": "Which revision avoids an unclear pronoun reference if the deputy sent the document?",
+      "answer": "After the meeting, the deputy sent the document to the chair.",
+      "options": [
+        "After the meeting, the deputy sent the document to the chair.",
+        "The deputy met the chair, and she then sent the document.",
+        "After meeting the chair, it was sent by her."
+      ],
+      "explanation": "Naming the sender and recipient removes ambiguity.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-08",
+      "subject": "en",
+      "question": "Choose the neutral alternative to “The agency failed completely.”",
+      "answer": "The agency did not meet the stated targets.",
+      "options": [
+        "The agency did not meet the stated targets.",
+        "The agency obviously ignored its duties.",
+        "The agency has always been unable to achieve anything."
+      ],
+      "explanation": "This version ties the statement to measurable targets.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-09",
+      "subject": "en",
+      "question": "Which wording makes a requested attachment clear?",
+      "answer": "Please attach a copy of the signed agreement.",
+      "options": [
+        "Please attach a copy of the signed agreement.",
+        "Please send the signed thing along with this if you have it.",
+        "Several documents may possibly be needed somewhere."
+      ],
+      "explanation": "It names the exact document to attach.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-10",
+      "subject": "en",
+      "question": "Which language fits a short follow-up on an unanswered request?",
+      "answer": "I am following up on our request of 4 November.",
+      "options": [
+        "I am following up on our request of 4 November.",
+        "You have had ages to respond.",
+        "A reply should already be here, obviously."
+      ],
+      "explanation": "It identifies the prior request without assuming a reason for the delay.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-11",
+      "subject": "en",
+      "question": "Which version accurately conveys that one office remains open?",
+      "answer": "The central office will remain open during the regional closures.",
+      "options": [
+        "The central office will remain open during the regional closures.",
+        "The central office will close during the regional closures.",
+        "All offices will remain open throughout the period."
+      ],
+      "explanation": "The exception is attached to the central office.",
+      "refs": []
+    },
+    {
+      "id": "english-editing-1-en-12",
+      "subject": "en",
+      "question": "Which sentence uses consistent list structure?",
+      "answer": "Check the form, sign the declaration, and submit both by Friday.",
+      "options": [
+        "Check the form, sign the declaration, and submit both by Friday.",
+        "Check the form, signing the declaration, and submission by Friday.",
+        "The form is checked, sign the declaration, and submitted by Friday."
+      ],
+      "explanation": "All three instructions use the same base-verb form.",
+      "refs": []
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "english-reading-6",
+  "title": "English Reading · การตีความและข้อจำกัด",
+  "level": 3,
+  "kind": "study",
+  "tags": [
+    "reading comprehension",
+    "บทอ่าน",
+    "passage"
+  ],
+  "questions": [
+    {
+      "id": "english-reading-6-en-01",
+      "subject": "en",
+      "question": "What does “up to 12 million” represent?",
+      "answer": "The maximum amount mentioned in the pledge",
+      "options": [
+        "The maximum amount mentioned in the pledge",
+        "The cash already transferred",
+        "The first year’s approved amount"
+      ],
+      "explanation": "The pledge is a ceiling, subject to later approvals.",
+      "refs": [],
+      "passage": "At a meeting, donors pledged up to 12 million units for a program over three years, subject to annual approvals. The first year’s approved amount was 3 million. Only 2 million had been transferred at the date of the report. The program recorded the pledge, approvals, and transfers separately."
+    },
+    {
+      "id": "english-reading-6-en-02",
+      "subject": "en",
+      "question": "How much was approved for the first year?",
+      "answer": "3 million",
+      "options": [
+        "3 million",
+        "2 million",
+        "12 million"
+      ],
+      "explanation": "The passage gives the first-year approval as 3 million.",
+      "refs": [],
+      "passage": "At a meeting, donors pledged up to 12 million units for a program over three years, subject to annual approvals. The first year’s approved amount was 3 million. Only 2 million had been transferred at the date of the report. The program recorded the pledge, approvals, and transfers separately."
+    },
+    {
+      "id": "english-reading-6-en-03",
+      "subject": "en",
+      "question": "What amount had the program actually received?",
+      "answer": "2 million",
+      "options": [
+        "2 million",
+        "3 million",
+        "12 million"
+      ],
+      "explanation": "Transfers measure the amount paid at the reporting date.",
+      "refs": [],
+      "passage": "At a meeting, donors pledged up to 12 million units for a program over three years, subject to annual approvals. The first year’s approved amount was 3 million. Only 2 million had been transferred at the date of the report. The program recorded the pledge, approvals, and transfers separately."
+    },
+    {
+      "id": "english-reading-6-en-04",
+      "subject": "en",
+      "question": "How much of the first-year approval had yet to be transferred?",
+      "answer": "1 million",
+      "options": [
+        "1 million",
+        "2 million",
+        "9 million"
+      ],
+      "explanation": "The difference between 3 million approved and 2 million paid is 1 million.",
+      "refs": [],
+      "passage": "At a meeting, donors pledged up to 12 million units for a program over three years, subject to annual approvals. The first year’s approved amount was 3 million. Only 2 million had been transferred at the date of the report. The program recorded the pledge, approvals, and transfers separately."
+    },
+    {
+      "id": "english-reading-6-en-05",
+      "subject": "en",
+      "question": "Why is it useful to record the three funding figures separately?",
+      "answer": "They describe different stages in making funds available.",
+      "options": [
+        "They describe different stages in making funds available.",
+        "They must always be numerically equal.",
+        "Each figure refers to a different currency."
+      ],
+      "explanation": "A pledge, approval, and transfer are different stages.",
+      "refs": [],
+      "passage": "At a meeting, donors pledged up to 12 million units for a program over three years, subject to annual approvals. The first year’s approved amount was 3 million. Only 2 million had been transferred at the date of the report. The program recorded the pledge, approvals, and transfers separately."
+    },
+    {
+      "id": "english-reading-6-en-06",
+      "subject": "en",
+      "question": "By how much did reported satisfaction rise?",
+      "answer": "9 percentage points",
+      "options": [
+        "9 percentage points",
+        "9 percent relative to the old rate",
+        "29 percentage points"
+      ],
+      "explanation": "The difference between 71 and 62 percent is 9 percentage points.",
+      "refs": [],
+      "passage": "A district survey changed from in-person interviews to an online form. Reported satisfaction rose from 62 percent to 71 percent. The online round reached more young adults and fewer older residents than the earlier round. The published note advised against attributing the increase entirely to changes in service quality."
+    },
+    {
+      "id": "english-reading-6-en-07",
+      "subject": "en",
+      "question": "How did the composition of the sample change?",
+      "answer": "It reached more young adults and fewer older residents.",
+      "options": [
+        "It reached more young adults and fewer older residents.",
+        "It reached fewer people in both age groups.",
+        "Its age composition remained unchanged."
+      ],
+      "explanation": "The passage specifies shifts for young and older people.",
+      "refs": [],
+      "passage": "A district survey changed from in-person interviews to an online form. Reported satisfaction rose from 62 percent to 71 percent. The online round reached more young adults and fewer older residents than the earlier round. The published note advised against attributing the increase entirely to changes in service quality."
+    },
+    {
+      "id": "english-reading-6-en-08",
+      "subject": "en",
+      "question": "Why might the change in collection mode matter?",
+      "answer": "It can change who responds and how responses are given.",
+      "options": [
+        "It can change who responds and how responses are given.",
+        "It automatically measures true service quality more accurately.",
+        "It guarantees every group is equally represented."
+      ],
+      "explanation": "The mode and makeup of the respondents differed.",
+      "refs": [],
+      "passage": "A district survey changed from in-person interviews to an online form. Reported satisfaction rose from 62 percent to 71 percent. The online round reached more young adults and fewer older residents than the earlier round. The published note advised against attributing the increase entirely to changes in service quality."
+    },
+    {
+      "id": "english-reading-6-en-09",
+      "subject": "en",
+      "question": "What would improve the comparison of these survey rounds?",
+      "answer": "Compare age-adjusted results and note the change in collection method.",
+      "options": [
+        "Compare age-adjusted results and note the change in collection method.",
+        "Assume composition did not change because the question text stayed the same.",
+        "Compare only the rounded headline values."
+      ],
+      "explanation": "Adjusting for age can address one difference; the mode change still matters.",
+      "refs": [],
+      "passage": "A district survey changed from in-person interviews to an online form. Reported satisfaction rose from 62 percent to 71 percent. The online round reached more young adults and fewer older residents than the earlier round. The published note advised against attributing the increase entirely to changes in service quality."
+    },
+    {
+      "id": "english-reading-6-en-10",
+      "subject": "en",
+      "question": "What did the published note caution against?",
+      "answer": "Giving service quality full credit for the increase",
+      "options": [
+        "Giving service quality full credit for the increase",
+        "Reporting the two satisfaction rates",
+        "Disclosing the new collection method"
+      ],
+      "explanation": "The note cautioned about causal interpretation.",
+      "refs": [],
+      "passage": "A district survey changed from in-person interviews to an online form. Reported satisfaction rose from 62 percent to 71 percent. The online round reached more young adults and fewer older residents than the earlier round. The published note advised against attributing the increase entirely to changes in service quality."
+    },
+    {
+      "id": "english-reading-6-en-11",
+      "subject": "en",
+      "question": "What was the agreed status of the two texts?",
+      "answer": "They were equally authentic.",
+      "options": [
+        "They were equally authentic.",
+        "Only the English text was authentic.",
+        "Only the Thai text was authentic."
+      ],
+      "explanation": "The instrument gives both versions equal status.",
+      "refs": [],
+      "passage": "A bilateral instrument stated that its English and Thai texts were equally authentic. Reviewers found that one deadline clause appeared to differ between the versions. The parties commissioned a joint legal review using both texts and the instrument’s stated purpose. They postponed issuing instructions until the review was complete."
+    },
+    {
+      "id": "english-reading-6-en-12",
+      "subject": "en",
+      "question": "Where did the reviewers identify a possible difference?",
+      "answer": "A clause concerning a deadline",
+      "options": [
+        "A clause concerning a deadline",
+        "The date in the press release only",
+        "Every substantive clause"
+      ],
+      "explanation": "The possible discrepancy concerned a single deadline clause.",
+      "refs": [],
+      "passage": "A bilateral instrument stated that its English and Thai texts were equally authentic. Reviewers found that one deadline clause appeared to differ between the versions. The parties commissioned a joint legal review using both texts and the instrument’s stated purpose. They postponed issuing instructions until the review was complete."
+    },
+    {
+      "id": "english-reading-6-en-13",
+      "subject": "en",
+      "question": "What material will the joint review consider?",
+      "answer": "Both texts and the instrument’s stated purpose",
+      "options": [
+        "Both texts and the instrument’s stated purpose",
+        "Only the language used by the issuing party",
+        "An unrelated agreement chosen after signature"
+      ],
+      "explanation": "The review mandate explicitly uses both texts and the purpose.",
+      "refs": [],
+      "passage": "A bilateral instrument stated that its English and Thai texts were equally authentic. Reviewers found that one deadline clause appeared to differ between the versions. The parties commissioned a joint legal review using both texts and the instrument’s stated purpose. They postponed issuing instructions until the review was complete."
+    },
+    {
+      "id": "english-reading-6-en-14",
+      "subject": "en",
+      "question": "What was postponed?",
+      "answer": "Issuing instructions",
+      "options": [
+        "Issuing instructions",
+        "Commissioning the joint review",
+        "Finding a discrepancy in the texts"
+      ],
+      "explanation": "Instructions were postponed until the review was complete.",
+      "refs": [],
+      "passage": "A bilateral instrument stated that its English and Thai texts were equally authentic. Reviewers found that one deadline clause appeared to differ between the versions. The parties commissioned a joint legal review using both texts and the instrument’s stated purpose. They postponed issuing instructions until the review was complete."
+    },
+    {
+      "id": "english-reading-6-en-15",
+      "subject": "en",
+      "question": "Which assumption would be inconsistent with the stated language arrangement?",
+      "answer": "Automatically treating one version as controlling solely because of its language",
+      "options": [
+        "Automatically treating one version as controlling solely because of its language",
+        "Starting the analysis with both texts",
+        "Taking the stated purpose into account"
+      ],
+      "explanation": "Both texts are equally authentic under the stated arrangement.",
+      "refs": [],
+      "passage": "A bilateral instrument stated that its English and Thai texts were equally authentic. Reviewers found that one deadline clause appeared to differ between the versions. The parties commissioned a joint legal review using both texts and the instrument’s stated purpose. They postponed issuing instructions until the review was complete."
+    },
+    {
+      "id": "english-reading-6-en-16",
+      "subject": "en",
+      "question": "How many municipalities recorded lower losses?",
+      "answer": "Six",
+      "options": [
+        "Six",
+        "Two",
+        "Eight"
+      ],
+      "explanation": "Six of the eight recorded lower losses.",
+      "refs": [],
+      "passage": "A program funded flood protection in eight municipalities. Two years later, reported flood losses were lower in six, while rainfall was also milder across the region. The evaluation included project records but lacked a comparison group and consistent baseline data. It concluded that the results were promising but attribution remained uncertain."
+    },
+    {
+      "id": "english-reading-6-en-17",
+      "subject": "en",
+      "question": "What other regional change could help explain the losses?",
+      "answer": "Milder rainfall",
+      "options": [
+        "Milder rainfall",
+        "An increase in rainfall across the region",
+        "A switch from flood protection to irrigation"
+      ],
+      "explanation": "Rainfall was milder during the later period.",
+      "refs": [],
+      "passage": "A program funded flood protection in eight municipalities. Two years later, reported flood losses were lower in six, while rainfall was also milder across the region. The evaluation included project records but lacked a comparison group and consistent baseline data. It concluded that the results were promising but attribution remained uncertain."
+    },
+    {
+      "id": "english-reading-6-en-18",
+      "subject": "en",
+      "question": "Which limitation weakens the attribution claim?",
+      "answer": "No comparison group and inconsistent baseline data",
+      "options": [
+        "No comparison group and inconsistent baseline data",
+        "A complete randomized comparison",
+        "Unchanged rainfall in every municipality"
+      ],
+      "explanation": "The evaluation explicitly lacked those elements.",
+      "refs": [],
+      "passage": "A program funded flood protection in eight municipalities. Two years later, reported flood losses were lower in six, while rainfall was also milder across the region. The evaluation included project records but lacked a comparison group and consistent baseline data. It concluded that the results were promising but attribution remained uncertain."
+    },
+    {
+      "id": "english-reading-6-en-19",
+      "subject": "en",
+      "question": "What did “promising” mean in the evaluation’s conclusion?",
+      "answer": "The observations encouraged further inquiry and justified cautious optimism.",
+      "options": [
+        "The observations encouraged further inquiry and justified cautious optimism.",
+        "The program’s causal impact was determined exactly.",
+        "Every municipality recorded lower losses."
+      ],
+      "explanation": "The report paired positive observations with uncertainty about attribution.",
+      "refs": [],
+      "passage": "A program funded flood protection in eight municipalities. Two years later, reported flood losses were lower in six, while rainfall was also milder across the region. The evaluation included project records but lacked a comparison group and consistent baseline data. It concluded that the results were promising but attribution remained uncertain."
+    },
+    {
+      "id": "english-reading-6-en-20",
+      "subject": "en",
+      "question": "What would most directly strengthen a later resilience evaluation?",
+      "answer": "Comparable baseline data and a credible set of unfunded comparison sites",
+      "options": [
+        "Comparable baseline data and a credible set of unfunded comparison sites",
+        "More announcements about future projects",
+        "Removing every site with higher losses"
+      ],
+      "explanation": "The comparison should help distinguish program effects from wider conditions.",
+      "refs": [],
+      "passage": "A program funded flood protection in eight municipalities. Two years later, reported flood losses were lower in six, while rainfall was also milder across the region. The evaluation included project records but lacked a comparison group and consistent baseline data. It concluded that the results were promising but attribution remained uncertain."
+    }
+  ]
+}

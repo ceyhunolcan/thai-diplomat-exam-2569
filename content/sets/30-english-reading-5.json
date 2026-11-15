@@ -1,0 +1,293 @@
+{
+  "id": "english-reading-5",
+  "title": "English Reading · นโยบายและหลักฐาน",
+  "level": 3,
+  "kind": "study",
+  "tags": [
+    "reading comprehension",
+    "บทอ่าน",
+    "passage"
+  ],
+  "questions": [
+    {
+      "id": "english-reading-5-en-01",
+      "subject": "en",
+      "question": "What change was proposed to the eligibility threshold?",
+      "answer": "Lower it from 20 to 10 staff members.",
+      "options": [
+        "Lower it from 20 to 10 staff members.",
+        "Raise it from 10 to 20 staff members.",
+        "Remove every eligibility rule."
+      ],
+      "explanation": "The revised threshold is 10 rather than 20.",
+      "refs": [],
+      "passage": "A draft grant program originally admitted organizations with at least 20 staff members. The revised draft proposed reducing the threshold to 10 and introducing quarterly reporting. A reviewer supported lower entry barriers but reserved judgment on the reporting rule. The funding authority said it would consider the draft at its next meeting."
+    },
+    {
+      "id": "english-reading-5-en-02",
+      "subject": "en",
+      "question": "Which requirement was introduced in the revised draft?",
+      "answer": "Quarterly reporting",
+      "options": [
+        "Quarterly reporting",
+        "Monthly grants to every applicant",
+        "Annual increases in headcount"
+      ],
+      "explanation": "The revision adds a reporting requirement.",
+      "refs": [],
+      "passage": "A draft grant program originally admitted organizations with at least 20 staff members. The revised draft proposed reducing the threshold to 10 and introducing quarterly reporting. A reviewer supported lower entry barriers but reserved judgment on the reporting rule. The funding authority said it would consider the draft at its next meeting."
+    },
+    {
+      "id": "english-reading-5-en-03",
+      "subject": "en",
+      "question": "What was the reviewer’s position on reporting?",
+      "answer": "The reviewer had not reached a final view.",
+      "options": [
+        "The reviewer had not reached a final view.",
+        "The reviewer approved the rule without qualification.",
+        "The reviewer rejected every reporting requirement."
+      ],
+      "explanation": "“Reserved judgment” indicates a decision is pending.",
+      "refs": [],
+      "passage": "A draft grant program originally admitted organizations with at least 20 staff members. The revised draft proposed reducing the threshold to 10 and introducing quarterly reporting. A reviewer supported lower entry barriers but reserved judgment on the reporting rule. The funding authority said it would consider the draft at its next meeting."
+    },
+    {
+      "id": "english-reading-5-en-04",
+      "subject": "en",
+      "question": "What is the funding authority due to do next?",
+      "answer": "Consider the revised draft.",
+      "options": [
+        "Consider the revised draft.",
+        "Make the payments on the current draft immediately.",
+        "Withdraw its authority over the program."
+      ],
+      "explanation": "It plans to consider the draft at its next meeting.",
+      "refs": [],
+      "passage": "A draft grant program originally admitted organizations with at least 20 staff members. The revised draft proposed reducing the threshold to 10 and introducing quarterly reporting. A reviewer supported lower entry barriers but reserved judgment on the reporting rule. The funding authority said it would consider the draft at its next meeting."
+    },
+    {
+      "id": "english-reading-5-en-05",
+      "subject": "en",
+      "question": "Which summary preserves the status of the grant changes?",
+      "answer": "The proposal is still under consideration.",
+      "options": [
+        "The proposal is still under consideration.",
+        "The new rules are already in force.",
+        "The proposal was approved before review."
+      ],
+      "explanation": "The passage describes pending consideration.",
+      "refs": [],
+      "passage": "A draft grant program originally admitted organizations with at least 20 staff members. The revised draft proposed reducing the threshold to 10 and introducing quarterly reporting. A reviewer supported lower entry barriers but reserved judgment on the reporting rule. The funding authority said it would consider the draft at its next meeting."
+    },
+    {
+      "id": "english-reading-5-en-06",
+      "subject": "en",
+      "question": "What condition governs the start of the transport arrangement?",
+      "answer": "Written operating clearances from both sides",
+      "options": [
+        "Written operating clearances from both sides",
+        "Verbal support from one operator",
+        "Publication of a provisional timetable only"
+      ],
+      "explanation": "Both written clearances are required.",
+      "refs": [],
+      "passage": "Officials announced that a temporary transport arrangement would take effect after both sides issued written operating clearances. One side issued its clearance the following day. As of the next briefing, the other side was still consulting operators. No start date was announced."
+    },
+    {
+      "id": "english-reading-5-en-07",
+      "subject": "en",
+      "question": "What did the first side do the following day?",
+      "answer": "Issue its clearance",
+      "options": [
+        "Issue its clearance",
+        "Cancel the arrangement publicly",
+        "Begin operating under the arrangement"
+      ],
+      "explanation": "One side issued its written clearance.",
+      "refs": [],
+      "passage": "Officials announced that a temporary transport arrangement would take effect after both sides issued written operating clearances. One side issued its clearance the following day. As of the next briefing, the other side was still consulting operators. No start date was announced."
+    },
+    {
+      "id": "english-reading-5-en-08",
+      "subject": "en",
+      "question": "What was the other side doing at the time of the next briefing?",
+      "answer": "Consulting operators",
+      "options": [
+        "Consulting operators",
+        "Issuing a second joint clearance",
+        "Ending the arrangement after successful operation"
+      ],
+      "explanation": "The other side was still in consultation.",
+      "refs": [],
+      "passage": "Officials announced that a temporary transport arrangement would take effect after both sides issued written operating clearances. One side issued its clearance the following day. As of the next briefing, the other side was still consulting operators. No start date was announced."
+    },
+    {
+      "id": "english-reading-5-en-09",
+      "subject": "en",
+      "question": "What can the next briefing establish about the start date?",
+      "answer": "A start date had not been announced.",
+      "options": [
+        "A start date had not been announced.",
+        "The arrangement would start the following day.",
+        "The arrangement was already operating."
+      ],
+      "explanation": "The text supplies no announced date.",
+      "refs": [],
+      "passage": "Officials announced that a temporary transport arrangement would take effect after both sides issued written operating clearances. One side issued its clearance the following day. As of the next briefing, the other side was still consulting operators. No start date was announced."
+    },
+    {
+      "id": "english-reading-5-en-10",
+      "subject": "en",
+      "question": "Which statement is safest for a briefing note?",
+      "answer": "Implementation is pending remaining clearance.",
+      "options": [
+        "Implementation is pending remaining clearance.",
+        "Implementation is complete because one clearance exists.",
+        "Both sides declined to issue clearances."
+      ],
+      "explanation": "The stated prerequisite remains partly unmet.",
+      "refs": [],
+      "passage": "Officials announced that a temporary transport arrangement would take effect after both sides issued written operating clearances. One side issued its clearance the following day. As of the next briefing, the other side was still consulting operators. No start date was announced."
+    },
+    {
+      "id": "english-reading-5-en-11",
+      "subject": "en",
+      "question": "How much did the nominal budget increase?",
+      "answer": "10 percent",
+      "options": [
+        "10 percent",
+        "12 percent",
+        "5 percent"
+      ],
+      "explanation": "The increase is 5 million divided by 50 million.",
+      "refs": [],
+      "passage": "The program budget increased from 50 million to 55 million units. Over the same period, the price index for its inputs rose from 100 to 112. The finance team reported both nominal and inflation-adjusted figures. It noted that the new budget could buy fewer inputs at the new index."
+    },
+    {
+      "id": "english-reading-5-en-12",
+      "subject": "en",
+      "question": "How much did the input price index increase?",
+      "answer": "12 percent",
+      "options": [
+        "12 percent",
+        "10 percent",
+        "5 percent"
+      ],
+      "explanation": "The index rose 12 points from a base of 100.",
+      "refs": [],
+      "passage": "The program budget increased from 50 million to 55 million units. Over the same period, the price index for its inputs rose from 100 to 112. The finance team reported both nominal and inflation-adjusted figures. It noted that the new budget could buy fewer inputs at the new index."
+    },
+    {
+      "id": "english-reading-5-en-13",
+      "subject": "en",
+      "question": "Why can purchasing power fall while the nominal budget increases?",
+      "answer": "Input prices rose faster than the budget.",
+      "options": [
+        "Input prices rose faster than the budget.",
+        "The nominal budget itself fell.",
+        "The price index measures the number of staff only."
+      ],
+      "explanation": "The budget’s 10 percent rise was smaller than the 12 percent rise in input prices.",
+      "refs": [],
+      "passage": "The program budget increased from 50 million to 55 million units. Over the same period, the price index for its inputs rose from 100 to 112. The finance team reported both nominal and inflation-adjusted figures. It noted that the new budget could buy fewer inputs at the new index."
+    },
+    {
+      "id": "english-reading-5-en-14",
+      "subject": "en",
+      "question": "What comparison did the finance team provide?",
+      "answer": "Nominal and inflation-adjusted figures",
+      "options": [
+        "Nominal and inflation-adjusted figures",
+        "Only annual operating hours",
+        "A ranking of suppliers by nationality"
+      ],
+      "explanation": "Both kinds of budget figures were reported.",
+      "refs": [],
+      "passage": "The program budget increased from 50 million to 55 million units. Over the same period, the price index for its inputs rose from 100 to 112. The finance team reported both nominal and inflation-adjusted figures. It noted that the new budget could buy fewer inputs at the new index."
+    },
+    {
+      "id": "english-reading-5-en-15",
+      "subject": "en",
+      "question": "Approximately what is the new budget in base-price units?",
+      "answer": "49.1 million",
+      "options": [
+        "49.1 million",
+        "61.6 million",
+        "55.0 million"
+      ],
+      "explanation": "Divide 55 million by 1.12 to express it at base prices.",
+      "refs": [],
+      "passage": "The program budget increased from 50 million to 55 million units. Over the same period, the price index for its inputs rose from 100 to 112. The finance team reported both nominal and inflation-adjusted figures. It noted that the new budget could buy fewer inputs at the new index."
+    },
+    {
+      "id": "english-reading-5-en-16",
+      "subject": "en",
+      "question": "What change was common to both clearance sites?",
+      "answer": "Higher import volumes",
+      "options": [
+        "Higher import volumes",
+        "Additional staff assignments",
+        "A fall in import volumes"
+      ],
+      "explanation": "Both ports faced higher volumes during the test.",
+      "refs": [],
+      "passage": "An agency tested a faster clearance procedure at two ports. Import volumes were higher at both ports during the test, and additional staff were assigned at one of them. The average wait fell at both sites. The evaluators said more data would be needed to separate the effect of the procedure from other changes."
+    },
+    {
+      "id": "english-reading-5-en-17",
+      "subject": "en",
+      "question": "Where were extra staff assigned?",
+      "answer": "At one of the two ports",
+      "options": [
+        "At one of the two ports",
+        "At both ports",
+        "At neither port"
+      ],
+      "explanation": "The staffing change occurred at only one port.",
+      "refs": [],
+      "passage": "An agency tested a faster clearance procedure at two ports. Import volumes were higher at both ports during the test, and additional staff were assigned at one of them. The average wait fell at both sites. The evaluators said more data would be needed to separate the effect of the procedure from other changes."
+    },
+    {
+      "id": "english-reading-5-en-18",
+      "subject": "en",
+      "question": "What outcome did both ports record?",
+      "answer": "Lower average waiting times",
+      "options": [
+        "Lower average waiting times",
+        "Higher average waiting times",
+        "Identical waiting times throughout"
+      ],
+      "explanation": "Average waits fell at both sites.",
+      "refs": [],
+      "passage": "An agency tested a faster clearance procedure at two ports. Import volumes were higher at both ports during the test, and additional staff were assigned at one of them. The average wait fell at both sites. The evaluators said more data would be needed to separate the effect of the procedure from other changes."
+    },
+    {
+      "id": "english-reading-5-en-19",
+      "subject": "en",
+      "question": "Why did the evaluators avoid assigning all credit to the procedure?",
+      "answer": "Several things changed during the test.",
+      "options": [
+        "Several things changed during the test.",
+        "The pilot did not measure waits.",
+        "There was a formal ban on evaluation."
+      ],
+      "explanation": "Concurrent changes make it hard to isolate a causal effect.",
+      "refs": [],
+      "passage": "An agency tested a faster clearance procedure at two ports. Import volumes were higher at both ports during the test, and additional staff were assigned at one of them. The average wait fell at both sites. The evaluators said more data would be needed to separate the effect of the procedure from other changes."
+    },
+    {
+      "id": "english-reading-5-en-20",
+      "subject": "en",
+      "question": "Which study design would address the evaluators’ concern more directly?",
+      "answer": "Compare changes with similar ports that did not adopt the procedure.",
+      "options": [
+        "Compare changes with similar ports that did not adopt the procedure.",
+        "Measure the same two ports only on their busiest day.",
+        "Count the number of press releases about the pilot."
+      ],
+      "explanation": "A comparison group can help separate the procedure from common changes.",
+      "refs": [],
+      "passage": "An agency tested a faster clearance procedure at two ports. Import volumes were higher at both ports during the test, and additional staff were assigned at one of them. The average wait fell at both sites. The evaluators said more data would be needed to separate the effect of the procedure from other changes."
+    }
+  ]
+}

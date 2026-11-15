@@ -1,0 +1,293 @@
+{
+  "id": "english-reading-3",
+  "title": "English Reading · ข้อมูลและการเจรจา",
+  "level": 2,
+  "kind": "study",
+  "tags": [
+    "reading comprehension",
+    "บทอ่าน",
+    "passage"
+  ],
+  "questions": [
+    {
+      "id": "english-reading-3-en-01",
+      "subject": "en",
+      "question": "Where did the first queue-system trial take place?",
+      "answer": "Three offices with reliable internet",
+      "options": [
+        "Three offices with reliable internet",
+        "Every office in the country",
+        "Only offices with weak connections"
+      ],
+      "explanation": "All three trial sites had reliable connectivity.",
+      "refs": [],
+      "passage": "A new digital queue system was tested in three offices with reliable internet connections. Average waiting times fell at two offices and remained stable at the third. The report recommended a second trial in locations with weaker connectivity before national expansion. It did not recommend abandoning the system."
+    },
+    {
+      "id": "english-reading-3-en-02",
+      "subject": "en",
+      "question": "What was the result at the third office?",
+      "answer": "Waiting times stayed stable.",
+      "options": [
+        "Waiting times stayed stable.",
+        "The office was excluded from the trial.",
+        "Waiting times fell twice as quickly as elsewhere."
+      ],
+      "explanation": "The third site showed no reported average change.",
+      "refs": [],
+      "passage": "A new digital queue system was tested in three offices with reliable internet connections. Average waiting times fell at two offices and remained stable at the third. The report recommended a second trial in locations with weaker connectivity before national expansion. It did not recommend abandoning the system."
+    },
+    {
+      "id": "english-reading-3-en-03",
+      "subject": "en",
+      "question": "Why did the report recommend another trial?",
+      "answer": "To see whether the system works in places with weaker connectivity",
+      "options": [
+        "To see whether the system works in places with weaker connectivity",
+        "To replace all the original test results",
+        "To confirm that staffing had increased nationwide"
+      ],
+      "explanation": "The first trial did not cover weak-connectivity sites.",
+      "refs": [],
+      "passage": "A new digital queue system was tested in three offices with reliable internet connections. Average waiting times fell at two offices and remained stable at the third. The report recommended a second trial in locations with weaker connectivity before national expansion. It did not recommend abandoning the system."
+    },
+    {
+      "id": "english-reading-3-en-04",
+      "subject": "en",
+      "question": "Which conclusion goes beyond the evidence about the queue system?",
+      "answer": "It will reduce waits at all national offices.",
+      "options": [
+        "It will reduce waits at all national offices.",
+        "Two of the three trial sites reported shorter waits.",
+        "The report proposed another test."
+      ],
+      "explanation": "The trial was limited to three well-connected offices.",
+      "refs": [],
+      "passage": "A new digital queue system was tested in three offices with reliable internet connections. Average waiting times fell at two offices and remained stable at the third. The report recommended a second trial in locations with weaker connectivity before national expansion. It did not recommend abandoning the system."
+    },
+    {
+      "id": "english-reading-3-en-05",
+      "subject": "en",
+      "question": "How did the report treat the option of abandonment?",
+      "answer": "It did not recommend abandoning the system.",
+      "options": [
+        "It did not recommend abandoning the system.",
+        "It required immediate abandonment.",
+        "It estimated the cost of abandonment at each office."
+      ],
+      "explanation": "The passage explicitly states that abandonment was not recommended.",
+      "refs": [],
+      "passage": "A new digital queue system was tested in three offices with reliable internet connections. Average waiting times fell at two offices and remained stable at the third. The report recommended a second trial in locations with weaker connectivity before national expansion. It did not recommend abandoning the system."
+    },
+    {
+      "id": "english-reading-3-en-06",
+      "subject": "en",
+      "question": "How did the two initial samples differ?",
+      "answer": "Only Agency B included rural respondents.",
+      "options": [
+        "Only Agency B included rural respondents.",
+        "Only Agency A included rural respondents.",
+        "Neither included any city residents."
+      ],
+      "explanation": "Agency A surveyed major cities; Agency B covered cities and rural areas.",
+      "refs": [],
+      "passage": "Two agencies agreed to publish a joint survey after checking their sampling methods. Agency A had surveyed residents in major cities, while Agency B had collected responses from both cities and rural areas. The teams planned to report the samples separately and explain how each was recruited. They postponed a combined estimate until both could justify a common weighting method."
+    },
+    {
+      "id": "english-reading-3-en-07",
+      "subject": "en",
+      "question": "What did the agencies plan to publish about recruitment?",
+      "answer": "An explanation of how each sample was recruited",
+      "options": [
+        "An explanation of how each sample was recruited",
+        "The names of every respondent",
+        "A ranking of individual interviewers"
+      ],
+      "explanation": "Recruitment methods would be explained for both samples.",
+      "refs": [],
+      "passage": "Two agencies agreed to publish a joint survey after checking their sampling methods. Agency A had surveyed residents in major cities, while Agency B had collected responses from both cities and rural areas. The teams planned to report the samples separately and explain how each was recruited. They postponed a combined estimate until both could justify a common weighting method."
+    },
+    {
+      "id": "english-reading-3-en-08",
+      "subject": "en",
+      "question": "Why was a combined estimate postponed?",
+      "answer": "A common weighting method had to be justified.",
+      "options": [
+        "A common weighting method had to be justified.",
+        "Agency B withdrew its entire sample.",
+        "The two agencies had no overlapping topic."
+      ],
+      "explanation": "Combining the samples required an appropriate weighting approach.",
+      "refs": [],
+      "passage": "Two agencies agreed to publish a joint survey after checking their sampling methods. Agency A had surveyed residents in major cities, while Agency B had collected responses from both cities and rural areas. The teams planned to report the samples separately and explain how each was recruited. They postponed a combined estimate until both could justify a common weighting method."
+    },
+    {
+      "id": "english-reading-3-en-09",
+      "subject": "en",
+      "question": "What did the teams plan to do with the samples before a combined estimate?",
+      "answer": "Report them separately",
+      "options": [
+        "Report them separately",
+        "Average them without adjustment",
+        "Discard the rural responses"
+      ],
+      "explanation": "Separate reporting was the agreed interim approach.",
+      "refs": [],
+      "passage": "Two agencies agreed to publish a joint survey after checking their sampling methods. Agency A had surveyed residents in major cities, while Agency B had collected responses from both cities and rural areas. The teams planned to report the samples separately and explain how each was recruited. They postponed a combined estimate until both could justify a common weighting method."
+    },
+    {
+      "id": "english-reading-3-en-10",
+      "subject": "en",
+      "question": "Which concern is central to this survey account?",
+      "answer": "Comparability and representation of different samples",
+      "options": [
+        "Comparability and representation of different samples",
+        "Whether the survey had a title",
+        "The cost of hiring security for the release"
+      ],
+      "explanation": "The passage focuses on whom each survey reached and how to combine the results.",
+      "refs": [],
+      "passage": "Two agencies agreed to publish a joint survey after checking their sampling methods. Agency A had surveyed residents in major cities, while Agency B had collected responses from both cities and rural areas. The teams planned to report the samples separately and explain how each was recruited. They postponed a combined estimate until both could justify a common weighting method."
+    },
+    {
+      "id": "english-reading-3-en-11",
+      "subject": "en",
+      "question": "What happened to total exports by value?",
+      "answer": "They rose by 6 percent.",
+      "options": [
+        "They rose by 6 percent.",
+        "They fell by 6 percent.",
+        "They stayed unchanged."
+      ],
+      "explanation": "The aggregate figure rose 6 percent.",
+      "refs": [],
+      "passage": "Total exports rose by 6 percent in the quarter. Shipments to the three largest traditional markets declined, while sales to several newer markets grew sharply. The ministry noted that the value of some shipments also reflected higher unit prices. It would publish volume figures separately after checking them."
+    },
+    {
+      "id": "english-reading-3-en-12",
+      "subject": "en",
+      "question": "What happened in the three largest traditional markets?",
+      "answer": "Shipments declined.",
+      "options": [
+        "Shipments declined.",
+        "Sales grew faster than anywhere else.",
+        "Prices were fixed by law."
+      ],
+      "explanation": "The passage reports a decline in shipments to those markets.",
+      "refs": [],
+      "passage": "Total exports rose by 6 percent in the quarter. Shipments to the three largest traditional markets declined, while sales to several newer markets grew sharply. The ministry noted that the value of some shipments also reflected higher unit prices. It would publish volume figures separately after checking them."
+    },
+    {
+      "id": "english-reading-3-en-13",
+      "subject": "en",
+      "question": "Why does the 6 percent increase not establish a 6 percent rise in physical volume?",
+      "answer": "Higher unit prices affected some shipment values.",
+      "options": [
+        "Higher unit prices affected some shipment values.",
+        "The reported increase referred to population.",
+        "Traditional markets represented every shipment."
+      ],
+      "explanation": "Value can rise through prices, volumes, or both.",
+      "refs": [],
+      "passage": "Total exports rose by 6 percent in the quarter. Shipments to the three largest traditional markets declined, while sales to several newer markets grew sharply. The ministry noted that the value of some shipments also reflected higher unit prices. It would publish volume figures separately after checking them."
+    },
+    {
+      "id": "english-reading-3-en-14",
+      "subject": "en",
+      "question": "What did the ministry plan to publish separately?",
+      "answer": "Volume figures",
+      "options": [
+        "Volume figures",
+        "A confidential list of exporters’ passwords",
+        "The old customs opening hours"
+      ],
+      "explanation": "Volume figures were to follow verification.",
+      "refs": [],
+      "passage": "Total exports rose by 6 percent in the quarter. Shipments to the three largest traditional markets declined, while sales to several newer markets grew sharply. The ministry noted that the value of some shipments also reflected higher unit prices. It would publish volume figures separately after checking them."
+    },
+    {
+      "id": "english-reading-3-en-15",
+      "subject": "en",
+      "question": "Which description of export performance is supported?",
+      "answer": "The overall rise coincided with declines in several major markets.",
+      "options": [
+        "The overall rise coincided with declines in several major markets.",
+        "Every market contributed to the increase.",
+        "The newer markets recorded no growth."
+      ],
+      "explanation": "Aggregate gains can mask different market-level changes.",
+      "refs": [],
+      "passage": "Total exports rose by 6 percent in the quarter. Shipments to the three largest traditional markets declined, while sales to several newer markets grew sharply. The ministry noted that the value of some shipments also reflected higher unit prices. It would publish volume figures separately after checking them."
+    },
+    {
+      "id": "english-reading-3-en-16",
+      "subject": "en",
+      "question": "Which part of the draft was reopened?",
+      "answer": "The information-sharing clause",
+      "options": [
+        "The information-sharing clause",
+        "Every substantive provision",
+        "The list of signatory names only"
+      ],
+      "explanation": "Officials retained the main provisions and reopened one clause.",
+      "refs": [],
+      "passage": "Officials agreed to retain the main provisions of a draft while reopening one clause on information sharing. They will consider whether the planned reporting deadlines are feasible for small agencies. The draft may be initialled at the next meeting if there is agreement on the revised clause. Ratification, if required, would occur through separate domestic procedures."
+    },
+    {
+      "id": "english-reading-3-en-17",
+      "subject": "en",
+      "question": "What specific issue will the officials examine?",
+      "answer": "Whether small agencies can meet reporting deadlines",
+      "options": [
+        "Whether small agencies can meet reporting deadlines",
+        "Which country should leave the agreement",
+        "Whether the next meeting must be cancelled"
+      ],
+      "explanation": "Feasibility for small agencies is the stated issue.",
+      "refs": [],
+      "passage": "Officials agreed to retain the main provisions of a draft while reopening one clause on information sharing. They will consider whether the planned reporting deadlines are feasible for small agencies. The draft may be initialled at the next meeting if there is agreement on the revised clause. Ratification, if required, would occur through separate domestic procedures."
+    },
+    {
+      "id": "english-reading-3-en-18",
+      "subject": "en",
+      "question": "What condition could allow the draft to be initialled?",
+      "answer": "Agreement on the revised clause",
+      "options": [
+        "Agreement on the revised clause",
+        "Publication of any new report",
+        "Automatic expiry of the draft"
+      ],
+      "explanation": "The text makes initialling conditional on agreement.",
+      "refs": [],
+      "passage": "Officials agreed to retain the main provisions of a draft while reopening one clause on information sharing. They will consider whether the planned reporting deadlines are feasible for small agencies. The draft may be initialled at the next meeting if there is agreement on the revised clause. Ratification, if required, would occur through separate domestic procedures."
+    },
+    {
+      "id": "english-reading-3-en-19",
+      "subject": "en",
+      "question": "How does the passage describe ratification?",
+      "answer": "A separate process if required",
+      "options": [
+        "A separate process if required",
+        "Identical to initialling in every case",
+        "Already completed before the meeting"
+      ],
+      "explanation": "Ratification would follow separate domestic procedures.",
+      "refs": [],
+      "passage": "Officials agreed to retain the main provisions of a draft while reopening one clause on information sharing. They will consider whether the planned reporting deadlines are feasible for small agencies. The draft may be initialled at the next meeting if there is agreement on the revised clause. Ratification, if required, would occur through separate domestic procedures."
+    },
+    {
+      "id": "english-reading-3-en-20",
+      "subject": "en",
+      "question": "Which conclusion about the draft is warranted?",
+      "answer": "Its main provisions remain, and one issue is unresolved.",
+      "options": [
+        "Its main provisions remain, and one issue is unresolved.",
+        "It has already entered into force.",
+        "Every clause has been reopened."
+      ],
+      "explanation": "A targeted negotiation remains underway.",
+      "refs": [],
+      "passage": "Officials agreed to retain the main provisions of a draft while reopening one clause on information sharing. They will consider whether the planned reporting deadlines are feasible for small agencies. The draft may be initialled at the next meeting if there is agreement on the revised clause. Ratification, if required, would occur through separate domestic procedures."
+    }
+  ]
+}

@@ -38,6 +38,9 @@ def build():
         check(deck["kind"] in {"study", "recap"} and deck["title"].strip(), f"{key}: invalid set")
         if deck["kind"] == "study":
             check(deck.get("level") in {1, 2, 3}, f"{key}: level must be 1, 2, or 3")
+        tags = deck.get("tags", [])
+        check(isinstance(tags, list) and all(isinstance(tag, str) and tag.strip() for tag in tags),
+              f"{key}: tags must be a list of non-empty search terms")
         questions = deck.pop("questions")
         check(questions, f"{key}: add at least one question")
         for card in questions:
@@ -49,6 +52,9 @@ def build():
                   f"{card_id}: empty or duplicate question or missing answer")
             check(card["subject"] in {"th", "en"}, f"{card_id}: subject must be th or en")
             check(all(ref in sources for ref in card["refs"]), f"{card_id}: unknown source reference")
+            if "passage" in card:
+                check(card["subject"] == "en" and isinstance(card["passage"], str) and card["passage"].strip(),
+                      f"{card_id}: add a non-empty English reading passage")
             if deck["kind"] == "study":
                 options = card["options"]
                 check(len(options) == len(set(options)) == 3 and all(option.strip() for option in options)
