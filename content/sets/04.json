@@ -1,0 +1,288 @@
+{
+  "id": "set-4",
+  "title": "ไทยและงานการทูต",
+  "kind": "study",
+  "level": 1,
+  "questions": [
+    {
+      "id": "set-4-th-01",
+      "subject": "th",
+      "question": "หน่วยงานใดรับผิดชอบงานหนังสือเดินทางในกระทรวงการต่างประเทศ?",
+      "answer": "กรมการกงสุล",
+      "options": [
+        "กรมการกงสุล",
+        "กรมพิธีการทูต",
+        "กรมองค์การระหว่างประเทศ"
+      ],
+      "explanation": "งานหนังสือเดินทางอยู่ในภารกิจด้านกงสุล",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "set-4-th-02",
+      "subject": "th",
+      "question": "เมื่อคนไทยในต่างประเทศต้องการความช่วยเหลือฉุกเฉินจากทางการไทย ควรติดต่อหน่วยงานใด?",
+      "answer": "สถานเอกอัครราชทูตหรือสถานกงสุลไทยที่รับผิดชอบพื้นที่",
+      "options": [
+        "สถานเอกอัครราชทูตหรือสถานกงสุลไทยที่รับผิดชอบพื้นที่",
+        "สำนักงานเลขาธิการ UN ที่อยู่ใกล้ที่สุด",
+        "สถานทูตของประเทศนั้นในกรุงเทพฯ เท่านั้น"
+      ],
+      "explanation": "สถานทูตและสถานกงสุลไทยเป็นช่องทางสำหรับความช่วยเหลือกงสุลในพื้นที่",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "set-4-th-03",
+      "subject": "th",
+      "question": "ภารกิจใดสัมพันธ์กับกรมสนธิสัญญาและกฎหมายโดยตรงที่สุด?",
+      "answer": "พิจารณาประเด็นกฎหมายระหว่างประเทศที่เกี่ยวข้องกับสนธิสัญญา",
+      "options": [
+        "พิจารณาประเด็นกฎหมายระหว่างประเทศที่เกี่ยวข้องกับสนธิสัญญา",
+        "ออกหนังสือเดินทางทั่วไป",
+        "ประสานการจัดลำดับอาวุโสในพิธีการทูต"
+      ],
+      "explanation": "กรมนี้มีภารกิจด้านสนธิสัญญาและกฎหมายระหว่างประเทศ",
+      "refs": [
+        "thaiTreaty"
+      ]
+    },
+    {
+      "id": "set-4-th-04",
+      "subject": "th",
+      "question": "กรณีผู้แทนไทยไปเจรจากับรัฐบาลประเทศเดียว จัดเป็นการหารือแบบใด?",
+      "answer": "ทวิภาคี",
+      "options": [
+        "ทวิภาคี",
+        "ไตรภาคี",
+        "พหุภาคีในกรอบองค์การระหว่างประเทศ"
+      ],
+      "explanation": "ทวิภาคีหมายถึงการดำเนินงานระหว่างสองฝ่าย",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-4-th-05",
+      "subject": "th",
+      "question": "ไทยใช้ชื่อใดในช่วงเข้าเป็นสมาชิกสหประชาชาติเมื่อปี 1946?",
+      "answer": "สยาม",
+      "options": [
+        "สยาม",
+        "ราชอาณาจักรอยุธยา",
+        "ประเทศไทยในชื่อภาษาอังกฤษว่า Thai Federation"
+      ],
+      "explanation": "เอกสารสมัชชาใหญ่ใช้ชื่อ Siam",
+      "refs": [
+        "thaiun"
+      ]
+    },
+    {
+      "id": "set-4-th-06",
+      "subject": "th",
+      "question": "เมืองประวัติศาสตร์ใดเป็นอดีตราชธานีของสยามและขึ้นทะเบียนเป็นมรดกโลก?",
+      "answer": "พระนครศรีอยุธยา",
+      "options": [
+        "พระนครศรีอยุธยา",
+        "ลพบุรี",
+        "พิษณุโลก"
+      ],
+      "explanation": "UNESCO ขึ้นทะเบียน Historic City of Ayutthaya ในปี 1991",
+      "refs": [
+        "ayutthaya"
+      ]
+    },
+    {
+      "id": "set-4-th-07",
+      "subject": "th",
+      "question": "สงกรานต์ได้รับการขึ้นทะเบียนโดย UNESCO ในฐานะอะไร?",
+      "answer": "ประเพณีปีใหม่ไทยในบัญชีมรดกวัฒนธรรมที่จับต้องไม่ได้",
+      "options": [
+        "ประเพณีปีใหม่ไทยในบัญชีมรดกวัฒนธรรมที่จับต้องไม่ได้",
+        "โบราณสถานในบัญชีมรดกโลก",
+        "เขตสงวนชีวมณฑล"
+      ],
+      "explanation": "การขึ้นทะเบียนเป็นการรับรององค์ประกอบของวัฒนธรรมที่มีชีวิต",
+      "refs": [
+        "songkran"
+      ]
+    },
+    {
+      "id": "set-4-th-08",
+      "subject": "th",
+      "question": "ข้อใดเป็นงานกงสุลที่เห็นได้ชัด?",
+      "answer": "ช่วยประสานงานเมื่อคนชาติทำหนังสือเดินทางสูญหาย",
+      "options": [
+        "ช่วยประสานงานเมื่อคนชาติทำหนังสือเดินทางสูญหาย",
+        "เจรจาร่างมติคณะมนตรีความมั่นคง",
+        "ออกเสียงแทนรัฐอื่นในองค์การระหว่างประเทศ"
+      ],
+      "explanation": "งานด้านเอกสารเดินทางและความช่วยเหลือคนชาติเป็นหน้าที่กงสุล",
+      "refs": [
+        "consular"
+      ]
+    },
+    {
+      "id": "set-4-th-09",
+      "subject": "th",
+      "question": "ในการเข้าพบรัฐบาลต่างประเทศเพื่อเจรจาความร่วมมือ ผู้แทนทางการทูตทำหน้าที่ใด?",
+      "answer": "เจรจากับรัฐบาลรัฐผู้รับในนามรัฐผู้ส่ง",
+      "options": [
+        "เจรจากับรัฐบาลรัฐผู้รับในนามรัฐผู้ส่ง",
+        "ใช้อำนาจพิจารณาคดีของรัฐผู้รับ",
+        "ทำหน้าที่ผู้แทนรัฐบาลรัฐผู้รับ"
+      ],
+      "explanation": "การเป็นผู้แทนและการเจรจาอยู่ในข้อ 3 ของอนุสัญญา ค.ศ. 1961",
+      "refs": [
+        "vienna"
+      ]
+    },
+    {
+      "id": "set-4-th-10",
+      "subject": "th",
+      "question": "ราชการส่วนใดในกระทรวงการต่างประเทศเกี่ยวข้องกับงานสหประชาชาติโดยตรงที่สุด?",
+      "answer": "กรมองค์การระหว่างประเทศ",
+      "options": [
+        "กรมองค์การระหว่างประเทศ",
+        "กรมพิธีการทูต",
+        "กรมการกงสุล"
+      ],
+      "explanation": "กรมองค์การระหว่างประเทศรับผิดชอบงานภายใต้กรอบพหุภาคี เช่น UN และสิทธิมนุษยชน",
+      "refs": [
+        "thaiIO"
+      ]
+    },
+    {
+      "id": "set-4-en-01",
+      "subject": "en",
+      "question": "Which option is an appropriate opening to a formal written request?",
+      "answer": "I am writing to request further information about the program.",
+      "options": [
+        "I am writing to request further information about the program.",
+        "Hey, send me the program stuff.",
+        "You should have sent the information already."
+      ],
+      "explanation": "The first version states a clear purpose in a formal register.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-02",
+      "subject": "en",
+      "question": "The documents ___ ready for collection.",
+      "answer": "are",
+      "options": [
+        "are",
+        "is",
+        "was"
+      ],
+      "explanation": "“Documents” is plural.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-03",
+      "subject": "en",
+      "question": "Each applicant must bring ___ own pen. Choose the gender-neutral option.",
+      "answer": "their",
+      "options": [
+        "their",
+        "them",
+        "theirs"
+      ],
+      "explanation": "Singular “their” functions as a possessive determiner.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-04",
+      "subject": "en",
+      "question": "“The consultation was postponed.” What happened?",
+      "answer": "It was moved to a later time.",
+      "options": [
+        "It was moved to a later time.",
+        "It was canceled permanently.",
+        "It took place earlier than planned."
+      ],
+      "explanation": "“Postpone” means reschedule to a later time.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-05",
+      "subject": "en",
+      "question": "The team reviewed the draft ___ making changes.",
+      "answer": "before",
+      "options": [
+        "before",
+        "despite of",
+        "because of it"
+      ],
+      "explanation": "“Before” can take an -ing clause.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-06",
+      "subject": "en",
+      "question": "Choose the correct spelling.",
+      "answer": "accommodation",
+      "options": [
+        "accommodation",
+        "accomodation",
+        "acommodation"
+      ],
+      "explanation": "“Accommodation” has double c and double m.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-07",
+      "subject": "en",
+      "question": "The minister ___ speech was televised arrived early.",
+      "answer": "whose",
+      "options": [
+        "whose",
+        "which",
+        "whom"
+      ],
+      "explanation": "“Whose” marks possession: the minister’s speech.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-08",
+      "subject": "en",
+      "question": "What does “brief” mean in “a brief meeting”?",
+      "answer": "Short",
+      "options": [
+        "Short",
+        "Confidential",
+        "Mandatory"
+      ],
+      "explanation": "Here “brief” describes duration.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-09",
+      "subject": "en",
+      "question": "“The queue was shorter after a second desk opened.” Which event happened first?",
+      "answer": "A second desk opened.",
+      "options": [
+        "A second desk opened.",
+        "The queue became shorter.",
+        "The first desk closed."
+      ],
+      "explanation": "“After” places the shorter queue later.",
+      "refs": []
+    },
+    {
+      "id": "set-4-en-10",
+      "subject": "en",
+      "question": "The embassy said it would reply ___ two working days. Which preposition means before the end of that period?",
+      "answer": "within",
+      "options": [
+        "within",
+        "beyond",
+        "throughout"
+      ],
+      "explanation": "“Within” sets an outside time limit.",
+      "refs": []
+    }
+  ]
+}

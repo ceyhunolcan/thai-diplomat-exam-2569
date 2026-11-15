@@ -1,0 +1,291 @@
+{
+  "id": "set-8",
+  "title": "ไทย สังคม และการวิเคราะห์ข่าว",
+  "kind": "study",
+  "level": 2,
+  "questions": [
+    {
+      "id": "set-8-th-01",
+      "subject": "th",
+      "question": "ถ้าข่าวระบุว่าไทยและเมียนมา “เห็นพ้องที่จะจัดประชุมคณะทำงานร่วม” ข้อสรุปใดตรงหลักฐาน?",
+      "answer": "มีความตกลงจะประชุม โดยผลของมาตรการยังต้องติดตาม",
+      "options": [
+        "มีความตกลงจะประชุม โดยผลของมาตรการยังต้องติดตาม",
+        "พิสูจน์ได้ว่าคุณภาพน้ำดีขึ้นแล้ว",
+        "เกิดสนธิสัญญาที่มีผลใช้บังคับแน่นอน"
+      ],
+      "explanation": "ถ้อยคำรายงานขั้นตอนที่ตกลงกันโดยยังไม่มีข้อมูลผลลัพธ์",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-8-th-02",
+      "subject": "th",
+      "question": "หากต้องเทียบคุณภาพน้ำสองฝั่งแม่น้ำ หลักฐานแบบใดเปรียบเทียบได้มากที่สุด?",
+      "answer": "เก็บตัวอย่างจุดและช่วงเวลาที่สอดคล้องกันด้วยวิธีเดียวกัน",
+      "options": [
+        "เก็บตัวอย่างจุดและช่วงเวลาที่สอดคล้องกันด้วยวิธีเดียวกัน",
+        "ใช้ค่าเฉลี่ยปีหนึ่งเทียบกับตัวอย่างหนึ่งวัน",
+        "ใช้การวัดคนละหน่วยโดยไม่แปลง"
+      ],
+      "explanation": "การตั้งเงื่อนไขการวัดให้สอดคล้องช่วยลดความคลาดเคลื่อน",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-8-th-03",
+      "subject": "th",
+      "question": "จากการนำเสนอรายงาน UPR ของไทย รอบที่ 4 ข้อใดอธิบายกลไกได้ถูกต้อง?",
+      "answer": "รัฐอื่นมีโอกาสตั้งข้อสังเกตและเสนอข้อแนะนำ",
+      "options": [
+        "รัฐอื่นมีโอกาสตั้งข้อสังเกตและเสนอข้อแนะนำ",
+        "คณะทำงานออกคำพิพากษาอาญาต่อบุคคล",
+        "คณะมนตรีความมั่นคงใช้สิทธิวีโตต่อรายงานโดยตรง"
+      ],
+      "explanation": "UPR เป็นกระบวนการทบทวนระหว่างรัฐสมาชิก",
+      "refs": [
+        "upr"
+      ]
+    },
+    {
+      "id": "set-8-th-04",
+      "subject": "th",
+      "question": "การขึ้นทะเบียนแหล่งโบราณสถานกับประเพณีสงกรานต์ต่างกันในประเด็นใด?",
+      "answer": "แหล่งโบราณสถานเป็นทรัพย์สินทางวัฒนธรรม ส่วนสงกรานต์เป็นประเพณีที่ชุมชนสืบทอด",
+      "options": [
+        "แหล่งโบราณสถานเป็นทรัพย์สินทางวัฒนธรรม ส่วนสงกรานต์เป็นประเพณีที่ชุมชนสืบทอด",
+        "ทั้งสองอยู่ในบัญชีมรดกโลกประเภทเดียวกัน",
+        "สงกรานต์ได้รับการขึ้นทะเบียนเป็นแหล่งธรรมชาติ"
+      ],
+      "explanation": "บัญชีมรดกโลกและบัญชีมรดกที่จับต้องไม่ได้เป็นคนละกรอบ",
+      "refs": [
+        "songkran",
+        "ayutthaya"
+      ]
+    },
+    {
+      "id": "set-8-th-05",
+      "subject": "th",
+      "question": "จากข้อมูลของ UNESCO ปัจจัยใดช่วยอธิบายว่าทำไมอยุธยาดึงดูดพ่อค้าต่างชาติ?",
+      "answer": "เส้นทางน้ำเชื่อมเมืองกับทะเลและเครือข่ายค้าขาย",
+      "options": [
+        "เส้นทางน้ำเชื่อมเมืองกับทะเลและเครือข่ายค้าขาย",
+        "เป็นเมืองท่ากลางมหาสมุทรโดยไม่มีแม่น้ำ",
+        "มีอุปสรรคเดินทางสูงจนการค้าทางไกลหายไป"
+      ],
+      "explanation": "ทำเลที่ตั้งช่วยให้เชื่อมการค้าภายในกับการเดินเรือ",
+      "refs": [
+        "ayutthaya"
+      ]
+    },
+    {
+      "id": "set-8-th-06",
+      "subject": "th",
+      "question": "ถ้าต้องสรุปข่าวการทูตสำหรับผู้บริหาร ข้อใดระบุสถานะของข้อมูลได้รัดกุมที่สุด?",
+      "answer": "แยกสิ่งที่ประกาศแล้ว สิ่งที่จะดำเนินการ และประเด็นที่ยังต้องยืนยัน",
+      "options": [
+        "แยกสิ่งที่ประกาศแล้ว สิ่งที่จะดำเนินการ และประเด็นที่ยังต้องยืนยัน",
+        "เปลี่ยนคำว่า “จะพิจารณา” เป็น “ได้ดำเนินการแล้ว”",
+        "รายงานคำประกาศเป็นผลสัมฤทธิ์ทันที"
+      ],
+      "explanation": "การแยกสถานะของข้อเท็จจริงช่วยให้ผู้ใช้ข้อมูลตัดสินใจได้ถูกต้อง",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-8-th-07",
+      "subject": "th",
+      "question": "เมื่อต้องส่งข่าวสารทางการเกี่ยวกับข้อริเริ่มของกระทรวงให้สาธารณชน งานใดเกี่ยวข้องที่สุด?",
+      "answer": "งานสารนิเทศและสื่อสารสาธารณะ",
+      "options": [
+        "งานสารนิเทศและสื่อสารสาธารณะ",
+        "งานออกหนังสือเดินทาง",
+        "งานรับรองลายมือชื่อเอกสาร"
+      ],
+      "explanation": "งานสื่อสารสาธารณะอยู่ในภารกิจด้านสารนิเทศของกระทรวง",
+      "refs": [
+        "thaiMfa"
+      ]
+    },
+    {
+      "id": "set-8-th-08",
+      "subject": "th",
+      "question": "หากเรื่องหนึ่งเป็นคำร้องประสานความช่วยเหลือคนไทยในต่างประเทศ ควรส่งให้หน่วยงานใดเป็นลำดับต้น?",
+      "answer": "หน่วยงานกงสุลไทยที่รับผิดชอบพื้นที่",
+      "options": [
+        "หน่วยงานกงสุลไทยที่รับผิดชอบพื้นที่",
+        "หน่วยงานกฎหมายการค้าของ WTO",
+        "หน่วยงานรักษาความปลอดภัยของสหประชาชาติ"
+      ],
+      "explanation": "เลือกหน่วยงานจากลักษณะงานและเขตที่รับผิดชอบ",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "set-8-th-09",
+      "subject": "th",
+      "question": "ข้อใดสะท้อนความแตกต่างระหว่างการประสานงานด้านสนธิสัญญากับการทำงานกงสุล?",
+      "answer": "ฝ่ายแรกดูกรอบข้อผูกพันระหว่างประเทศ ฝ่ายหลังอาจช่วยแก้ปัญหาเอกสารเดินทางของประชาชน",
+      "options": [
+        "ฝ่ายแรกดูกรอบข้อผูกพันระหว่างประเทศ ฝ่ายหลังอาจช่วยแก้ปัญหาเอกสารเดินทางของประชาชน",
+        "ทั้งสองฝ่ายทำได้เฉพาะงานออกหนังสือเดินทาง",
+        "งานกงสุลทำได้เฉพาะในกรอบ UN"
+      ],
+      "explanation": "แต่ละภารกิจต้องส่งให้หน่วยงานที่รับผิดชอบ",
+      "refs": [
+        "thaiTreaty",
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "set-8-th-10",
+      "subject": "th",
+      "question": "รัฐบาลสองฝ่ายเห็นชอบทำงานร่วมกัน แต่ยังไม่ได้ลงนามในเอกสารใด คำบรรยายสั้นใดเหมาะสม?",
+      "answer": "ทั้งสองฝ่ายเห็นพ้องในหลักการให้เดินหน้าความร่วมมือ",
+      "options": [
+        "ทั้งสองฝ่ายเห็นพ้องในหลักการให้เดินหน้าความร่วมมือ",
+        "สนธิสัญญามีผลบังคับย้อนหลัง",
+        "ฝ่ายหนึ่งให้สัตยาบันแล้วแน่นอน"
+      ],
+      "explanation": "ถ้อยคำควรตรงกับระดับความคืบหน้าที่มีหลักฐาน",
+      "refs": [
+        "myanmar",
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-8-en-01",
+      "subject": "en",
+      "question": "What does “allocate” mean in “The agency allocated funds to the program”?",
+      "answer": "Set aside for a purpose",
+      "options": [
+        "Set aside for a purpose",
+        "Borrow from a supplier",
+        "Recover a past debt"
+      ],
+      "explanation": "Allocation assigns resources to a use.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-02",
+      "subject": "en",
+      "question": "Choose the natural phrasing.",
+      "answer": "The findings are consistent with the earlier study.",
+      "options": [
+        "The findings are consistent with the earlier study.",
+        "The findings are consistent to the earlier study.",
+        "The findings consist with the earlier study."
+      ],
+      "explanation": "“Consistent with” means compatible with.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-03",
+      "subject": "en",
+      "question": "“The ministry declined to comment while the review was underway.” What follows?",
+      "answer": "No comment was offered at that time.",
+      "options": [
+        "No comment was offered at that time.",
+        "The ministry rejected every finding in the review.",
+        "The ministry confirmed that the review was completed."
+      ],
+      "explanation": "Declining to comment does not state a position on the findings.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-04",
+      "subject": "en",
+      "question": "“She suggested that they ___ the deadline.”",
+      "answer": "extend",
+      "options": [
+        "extend",
+        "extends",
+        "had extended"
+      ],
+      "explanation": "The bare form is standard in the formal mandative construction.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-05",
+      "subject": "en",
+      "question": "“If the deadline is extended, more applicants ___ be able to submit.”",
+      "answer": "may",
+      "options": [
+        "may",
+        "would have",
+        "had"
+      ],
+      "explanation": "“May” presents a possible future result of a real condition.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-06",
+      "subject": "en",
+      "question": "Which version is the least ambiguous?",
+      "answer": "The embassy will notify applicants by email on Friday.",
+      "options": [
+        "The embassy will notify applicants by email on Friday.",
+        "On Friday, applicants with email were notified it will happen.",
+        "The embassy will notify on Friday applicants by email possibly."
+      ],
+      "explanation": "The first sentence clearly specifies actor, recipients, medium, and timing.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-07",
+      "subject": "en",
+      "question": "“The announcement supersedes the earlier guidance.” What does it say about the earlier guidance?",
+      "answer": "It has been replaced by the announcement.",
+      "options": [
+        "It has been replaced by the announcement.",
+        "It remains the controlling guidance.",
+        "It is a draft of the coming announcement."
+      ],
+      "explanation": "“Supersede” means replace in authority or use.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-08",
+      "subject": "en",
+      "question": "Choose the most precise word. “The report was based on a small, non-random ___.”",
+      "answer": "sample",
+      "options": [
+        "sample",
+        "population",
+        "census"
+      ],
+      "explanation": "A sample is the subset actually observed.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-09",
+      "subject": "en",
+      "question": "“The interviews illustrate common concerns but were not designed to estimate prevalence.” What can the interviews show?",
+      "answer": "Examples of concerns raised in the interviews",
+      "options": [
+        "Examples of concerns raised in the interviews",
+        "A reliable national percentage reporting each concern",
+        "That every concern occurs equally often nationwide"
+      ],
+      "explanation": "The design supports illustration, not population-level estimates.",
+      "refs": []
+    },
+    {
+      "id": "set-8-en-10",
+      "subject": "en",
+      "question": "Which sentence is most concise without changing the meaning?",
+      "answer": "We need to clarify the procedure before implementation.",
+      "options": [
+        "We need to clarify the procedure before implementation.",
+        "A need exists for there to be clarification of the procedure prior to implementation.",
+        "Procedures have been clarified during implementation."
+      ],
+      "explanation": "The first preserves the timing and meaning while removing needless wording.",
+      "refs": []
+    }
+  ]
+}

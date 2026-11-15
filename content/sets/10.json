@@ -1,0 +1,288 @@
+{
+  "id": "set-10",
+  "title": "ข้อกฎหมายและขอบเขตอำนาจ",
+  "kind": "study",
+  "level": 3,
+  "questions": [
+    {
+      "id": "set-10-th-01",
+      "subject": "th",
+      "question": "ร่างมติคณะมนตรีความมั่นคงเรื่องสาระสำคัญได้ 14 เสียงเห็นชอบและสมาชิกถาวรหนึ่งประเทศออกเสียงคัดค้าน ผลคืออะไร?",
+      "answer": "ร่างมติไม่ผ่านเพราะถูกวีโต",
+      "options": [
+        "ร่างมติไม่ผ่านเพราะถูกวีโต",
+        "ร่างมติผ่านเพราะครบ 9 เสียง",
+        "ต้องให้สมัชชาใหญ่ลงมติซ้ำเพื่อรับรองโดยอัตโนมัติ"
+      ],
+      "explanation": "สำหรับเรื่องสาระสำคัญ เสียงคัดค้านของสมาชิกถาวรขัดขวางการรับร่างมติ",
+      "refs": [
+        "unvote"
+      ]
+    },
+    {
+      "id": "set-10-th-02",
+      "subject": "th",
+      "question": "ร่างมติเรื่องสาระสำคัญได้ 9 เสียงเห็นชอบและสมาชิกถาวรงดออกเสียงโดยไม่มีสมาชิกถาวรออกเสียงคัดค้าน ผลตามแนวปฏิบัติคืออะไร?",
+      "answer": "รับร่างมติได้",
+      "options": [
+        "รับร่างมติได้",
+        "สมาชิกถาวรงดออกเสียงเท่ากับวีโต",
+        "ต้องได้ 15 เสียงเสมอเมื่อมีการงดออกเสียง"
+      ],
+      "explanation": "แนวปฏิบัติแยกการงดออกเสียงของสมาชิกถาวรออกจากเสียงคัดค้าน",
+      "refs": [
+        "unvote"
+      ]
+    },
+    {
+      "id": "set-10-th-03",
+      "subject": "th",
+      "question": "สนธิสัญญาฉบับหนึ่งให้ลงนามโดยต้องให้สัตยาบันภายหลัง ก่อนให้สัตยาบัน รัฐผู้ลงนามมีหน้าที่ใดตามข้อ 18 โดยทั่วไป?",
+      "answer": "งดการกระทำที่ทำลายวัตถุและความมุ่งประสงค์จนกว่าจะแสดงชัดว่าไม่ประสงค์เป็นภาคี",
+      "options": [
+        "งดการกระทำที่ทำลายวัตถุและความมุ่งประสงค์จนกว่าจะแสดงชัดว่าไม่ประสงค์เป็นภาคี",
+        "ต้องปฏิบัติทุกข้อเสมือนความตกลงมีผลใช้บังคับแล้วโดยอัตโนมัติ",
+        "ไม่มีหน้าที่ใดที่เกี่ยวข้องกับสนธิสัญญาในช่วงนั้น"
+      ],
+      "explanation": "ข้อ 18 กำหนดหน้าที่เฉพาะก่อนสนธิสัญญามีผลในกรณีที่เข้าเงื่อนไข",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-10-th-04",
+      "subject": "th",
+      "question": "เมื่อมีข้อพิพาทเรื่องถ้อยคำในสนธิสัญญา วิธีเริ่มวิเคราะห์ตามข้อ 31 คืออะไร?",
+      "answer": "ตีความโดยสุจริตตามความหมายปกติในบริบทและพิจารณาวัตถุและความมุ่งประสงค์",
+      "options": [
+        "ตีความโดยสุจริตตามความหมายปกติในบริบทและพิจารณาวัตถุและความมุ่งประสงค์",
+        "ยึดบันทึกเจรจาเป็นแหล่งเดียวก่อนดูข้อความ",
+        "ยึดความเห็นภายหลังของภาคีฝ่ายเดียวเสมอ"
+      ],
+      "explanation": "ข้อ 31 ให้ใช้ตัวบท บริบท และวัตถุประสงค์ร่วมกัน",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-10-th-05",
+      "subject": "th",
+      "question": "รัฐอ้างกฎหมายภายในเพื่อแก้ตัวเมื่อไม่ปฏิบัติตามสนธิสัญญา หลักทั่วไปตามข้อ 27 คืออะไร?",
+      "answer": "อ้างกฎหมายภายในเป็นเหตุแก้ตัวไม่ได้ตามหลักทั่วไป โดยคงข้อ 46 ไว้",
+      "options": [
+        "อ้างกฎหมายภายในเป็นเหตุแก้ตัวไม่ได้ตามหลักทั่วไป โดยคงข้อ 46 ไว้",
+        "กฎหมายภายในที่ตราภายหลังยกเลิกพันธกรณีระหว่างประเทศทันที",
+        "อ้างได้หากรัฐเป็นผู้เสนอร่างสนธิสัญญา"
+      ],
+      "explanation": "ข้อ 27 กำหนดหลักทั่วไป ส่วนข้อ 46 มีเงื่อนไขเฉพาะเกี่ยวกับความยินยอม",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-10-th-06",
+      "subject": "th",
+      "question": "สองรัฐทำสนธิสัญญาระหว่างกันแล้วเขียนหน้าที่ให้รัฐที่สาม โดยรัฐที่สามไม่ได้ยินยอม หลักทั่วไปคืออะไร?",
+      "answer": "สนธิสัญญาไม่ก่อพันธกรณีแก่รัฐที่สามโดยปราศจากความยินยอม",
+      "options": [
+        "สนธิสัญญาไม่ก่อพันธกรณีแก่รัฐที่สามโดยปราศจากความยินยอม",
+        "พันธกรณีเกิดทันทีเมื่อสนธิสัญญามีผลระหว่างภาคี",
+        "หน้าที่เกิดขึ้นเมื่อจดทะเบียนสนธิสัญญากับ UN แม้รัฐที่สามคัดค้าน"
+      ],
+      "explanation": "ข้อ 34 วางหลักเกี่ยวกับรัฐที่สาม",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-10-th-07",
+      "subject": "th",
+      "question": "เรือพาณิชย์ต่างชาติจะเดินเรือผ่าน EEZ ของรัฐชายฝั่ง ข้อใดถูกต้องที่สุด?",
+      "answer": "มีเสรีภาพในการเดินเรือภายใต้ UNCLOS โดยคำนึงถึงสิทธิและหน้าที่ของรัฐชายฝั่ง",
+      "options": [
+        "มีเสรีภาพในการเดินเรือภายใต้ UNCLOS โดยคำนึงถึงสิทธิและหน้าที่ของรัฐชายฝั่ง",
+        "ต้องขออนุญาตเสมอเพราะ EEZ เหมือนน่านน้ำภายใน",
+        "เสรีภาพเดินเรือแปลว่าเรือมีสิทธิทำประมงได้โดยเสรีด้วย"
+      ],
+      "explanation": "ข้อ 58 วางหลักเสรีภาพเดินเรือ ส่วนทรัพยากรอยู่ใต้สิทธิของรัฐชายฝั่งตามข้อ 56",
+      "refs": [
+        "sea"
+      ]
+    },
+    {
+      "id": "set-10-th-08",
+      "subject": "th",
+      "question": "เอกอัครราชทูตมีความคุ้มกัน แต่ถูกกล่าวหาว่าฝ่าฝืนกฎหมายรัฐผู้รับ ข้อใดอธิบายความสัมพันธ์ได้ถูกต้องที่สุด?",
+      "answer": "ยังมีหน้าที่เคารพกฎหมาย และการสละความคุ้มกันต้องกระทำโดยรัฐผู้ส่งอย่างชัดแจ้ง",
+      "options": [
+        "ยังมีหน้าที่เคารพกฎหมาย และการสละความคุ้มกันต้องกระทำโดยรัฐผู้ส่งอย่างชัดแจ้ง",
+        "ความคุ้มกันยกเลิกหน้าที่เคารพกฎหมาย",
+        "รัฐผู้รับสละความคุ้มกันแทนรัฐผู้ส่งได้เอง"
+      ],
+      "explanation": "แยกหน้าที่ตามข้อ 41 ออกจากความคุ้มกันและการสละตามข้อ 31–32",
+      "refs": [
+        "vienna"
+      ]
+    },
+    {
+      "id": "set-10-th-09",
+      "subject": "th",
+      "question": "ผู้เสียหายเอกชนต้องการเป็นคู่ความในคดีพิพาทที่ ICJ โดยฟ้องรัฐโดยตรง ข้อใดถูกต้อง?",
+      "answer": "บุคคลเอกชนไม่มีฐานะคู่ความในคดีพิพาทที่ ICJ",
+      "options": [
+        "บุคคลเอกชนไม่มีฐานะคู่ความในคดีพิพาทที่ ICJ",
+        "บุคคลเข้าเป็นคู่ความได้หากถือสัญชาติของสมาชิก UN",
+        "บุคคลเข้าเป็นคู่ความได้ถ้าศาลในประเทศมีคำสั่งอนุญาต"
+      ],
+      "explanation": "ธรรมนูญ ICJ ข้อ 34(1) ให้เฉพาะรัฐเป็นคู่ความในคดีพิพาท",
+      "refs": [
+        "icj"
+      ]
+    },
+    {
+      "id": "set-10-th-10",
+      "subject": "th",
+      "question": "ข้อใดแยกหน้าที่ตามข้อ 39 และข้อ 41 ของกฎบัตร UN ได้ถูกต้อง?",
+      "answer": "ข้อ 39 ให้คณะมนตรีชี้สถานการณ์ด้านสันติภาพ ส่วนข้อ 41 ว่าด้วยมาตรการที่ไม่ใช้กำลัง",
+      "options": [
+        "ข้อ 39 ให้คณะมนตรีชี้สถานการณ์ด้านสันติภาพ ส่วนข้อ 41 ว่าด้วยมาตรการที่ไม่ใช้กำลัง",
+        "ข้อ 39 ว่าด้วยสิทธิลงคะแนน ส่วนข้อ 41 ยอมให้รัฐใช้กำลังป้องกันตนเอง",
+        "ข้อ 39 ให้รัฐฟ้องศาล ส่วนข้อ 41 กำหนดสมาชิกถาวร"
+      ],
+      "explanation": "ทั้งสองข้ออยู่ในหมวด VII แต่ทำหน้าที่คนละขั้น",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-10-en-01",
+      "subject": "en",
+      "question": "“Where the two provisions conflict, Article 6 prevails.” What does the clause establish?",
+      "answer": "Article 6 controls in the event of conflict.",
+      "options": [
+        "Article 6 controls in the event of conflict.",
+        "Article 6 controls only if both provisions are identical.",
+        "Article 6 is repealed whenever there is a conflict."
+      ],
+      "explanation": "“Prevails” establishes priority in the stated circumstances.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-02",
+      "subject": "en",
+      "question": "The obligation remains in force ___ otherwise agreed by the parties.",
+      "answer": "unless",
+      "options": [
+        "unless",
+        "although",
+        "given that"
+      ],
+      "explanation": "“Unless otherwise agreed” creates an exception by agreement.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-03",
+      "subject": "en",
+      "question": "What does “notwithstanding” mean in “notwithstanding the preceding paragraph”?",
+      "answer": "Despite",
+      "options": [
+        "Despite",
+        "In addition to and always consistent with",
+        "Only as required by"
+      ],
+      "explanation": "The term signals that the rule applies despite the cited provision.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-04",
+      "subject": "en",
+      "question": "Were the parties to ratify the instrument, it ___ enter into force under the stated conditions.",
+      "answer": "would",
+      "options": [
+        "would",
+        "will have",
+        "must have"
+      ],
+      "explanation": "“Were … to” introduces a hypothetical condition and pairs with “would.”",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-05",
+      "subject": "en",
+      "question": "“The committee found the evidence inconclusive. It did not find the allegation false.” Which is the best inference?",
+      "answer": "The evidence did not allow a firm conclusion about the allegation.",
+      "options": [
+        "The evidence did not allow a firm conclusion about the allegation.",
+        "The committee proved the allegation false.",
+        "The committee accepted the allegation as established."
+      ],
+      "explanation": "Inconclusive evidence leaves the question unresolved.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-06",
+      "subject": "en",
+      "question": "Which wording expressly introduces a necessary condition?",
+      "answer": "The waiver applies only if written notice is given.",
+      "options": [
+        "The waiver applies only if written notice is given.",
+        "The waiver applies even if written notice is withheld.",
+        "The waiver applies whether or not written notice is given."
+      ],
+      "explanation": "“Only if” makes notice necessary without stating that it is sufficient.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-07",
+      "subject": "en",
+      "question": "“The term shall be interpreted in light of the agreement’s purpose.” What role does the purpose play?",
+      "answer": "It informs the interpretation.",
+      "options": [
+        "It informs the interpretation.",
+        "It replaces every provision automatically.",
+        "It applies only if all parties ignore the text."
+      ],
+      "explanation": "“In light of” means taking something into account.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-08",
+      "subject": "en",
+      "question": "“The clause does not preclude a later agreement.” Which is closest in meaning?",
+      "answer": "A later agreement remains possible.",
+      "options": [
+        "A later agreement remains possible.",
+        "A later agreement is mandatory.",
+        "A later agreement is automatically in force."
+      ],
+      "explanation": "“Preclude” means prevent or rule out.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-09",
+      "subject": "en",
+      "question": "“The decision was upheld on procedural grounds, leaving the substantive issue open.” What is clear?",
+      "answer": "The outcome stood, but the underlying substantive issue was unresolved.",
+      "options": [
+        "The outcome stood, but the underlying substantive issue was unresolved.",
+        "The substantive issue was resolved in full.",
+        "The decision was overturned because of procedural error."
+      ],
+      "explanation": "“Upheld” preserves the outcome; the basis was procedural.",
+      "refs": []
+    },
+    {
+      "id": "set-10-en-10",
+      "subject": "en",
+      "question": "Choose the sentence that states the narrower claim.",
+      "answer": "The measure may apply to certain categories.",
+      "options": [
+        "The measure may apply to certain categories.",
+        "The measure applies automatically to every category.",
+        "The measure always applies regardless of category."
+      ],
+      "explanation": "“May” and “certain” both limit the claim.",
+      "refs": []
+    }
+  ]
+}

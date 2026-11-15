@@ -1,0 +1,288 @@
+{
+  "id": "set-6",
+  "title": "สถาบันและกฎหมายระหว่างประเทศ",
+  "kind": "study",
+  "level": 2,
+  "questions": [
+    {
+      "id": "set-6-th-01",
+      "subject": "th",
+      "question": "เมื่อเอกอัครราชทูตได้รับแต่งตั้งใหม่ รัฐผู้ส่งต้องขอความเห็นชอบใดจากรัฐผู้รับก่อน?",
+      "answer": "Agrément",
+      "options": [
+        "Agrément",
+        "Exequatur สำหรับหัวหน้าสถานกงสุล",
+        "การให้สัตยาบันสนธิสัญญา"
+      ],
+      "explanation": "ข้อ 4 ของอนุสัญญา ค.ศ. 1961 กล่าวถึง agrément ของหัวหน้าคณะผู้แทน",
+      "refs": [
+        "vienna"
+      ]
+    },
+    {
+      "id": "set-6-th-02",
+      "subject": "th",
+      "question": "เมื่อรัฐผู้รับประกาศนักการทูตเป็น persona non grata ผลตามอนุสัญญาคืออะไร?",
+      "answer": "รัฐผู้ส่งต้องเรียกตัวกลับหรือยุติหน้าที่ของบุคคลนั้นในคณะผู้แทน",
+      "options": [
+        "รัฐผู้ส่งต้องเรียกตัวกลับหรือยุติหน้าที่ของบุคคลนั้นในคณะผู้แทน",
+        "รัฐผู้รับต้องรอให้คณะมนตรีความมั่นคงมีมติ",
+        "การประกาศทำให้อนุสัญญาสิ้นผลระหว่างสองรัฐ"
+      ],
+      "explanation": "ข้อ 9 กำหนดทางเลือกแก่รัฐผู้ส่งโดยรัฐผู้รับไม่จำเป็นต้องชี้แจงเหตุผล",
+      "refs": [
+        "vienna"
+      ]
+    },
+    {
+      "id": "set-6-th-03",
+      "subject": "th",
+      "question": "คนสัญชาติต่างชาติถูกควบคุมตัว ข้อ 36 ของอนุสัญญากงสุลกำหนดให้แจ้งสถานกงสุลเมื่อใด?",
+      "answer": "แจ้งโดยไม่ชักช้าหากผู้ถูกควบคุมตัวร้องขอ",
+      "options": [
+        "แจ้งโดยไม่ชักช้าหากผู้ถูกควบคุมตัวร้องขอ",
+        "แจ้งเมื่อศาลตัดสินคดีแล้วเท่านั้น",
+        "แจ้งเฉพาะเมื่อมีคำสั่งของสหประชาชาติ"
+      ],
+      "explanation": "เจ้าหน้าที่ต้องแจ้งสิทธิดังกล่าวแก่ผู้ถูกควบคุมตัวโดยไม่ชักช้าด้วย",
+      "refs": [
+        "consular"
+      ]
+    },
+    {
+      "id": "set-6-th-04",
+      "subject": "th",
+      "question": "คณะมนตรีความมั่นคงมีมติใช้มาตรการเศรษฐกิจโดยไม่ใช้กำลัง กฎบัตรข้อใดเกี่ยวข้องโดยตรง?",
+      "answer": "ข้อ 41",
+      "options": [
+        "ข้อ 41",
+        "ข้อ 33",
+        "ข้อ 51"
+      ],
+      "explanation": "ข้อ 41 ครอบคลุมมาตรการที่ไม่เกี่ยวกับการใช้กำลังทหาร",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-6-th-05",
+      "subject": "th",
+      "question": "มติเชิงกระบวนการของคณะมนตรีความมั่นคงต้องได้เสียงเห็นชอบอย่างน้อยกี่เสียง?",
+      "answer": "9 เสียง",
+      "options": [
+        "9 เสียง",
+        "8 เสียง",
+        "10 เสียง"
+      ],
+      "explanation": "ข้อ 27(2) กำหนดเสียงเห็นชอบ 9 เสียงสำหรับเรื่องเชิงกระบวนการ",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-6-th-06",
+      "subject": "th",
+      "question": "ข้อใดเป็นตัวอย่างพื้นฐานของ consent ต่อเขตอำนาจ ICJ ในคดีพิพาท?",
+      "answer": "ทั้งสองรัฐทำความตกลงพิเศษให้นำข้อพิพาทขึ้นศาล",
+      "options": [
+        "ทั้งสองรัฐทำความตกลงพิเศษให้นำข้อพิพาทขึ้นศาล",
+        "รัฐผู้ร้องเป็นสมาชิก UN เพียงอย่างเดียว",
+        "สื่อมวลชนของทั้งสองรัฐรายงานตรงกัน"
+      ],
+      "explanation": "Special agreement เป็นหนึ่งในฐานความยินยอมต่ออำนาจศาล",
+      "refs": [
+        "icj"
+      ]
+    },
+    {
+      "id": "set-6-th-07",
+      "subject": "th",
+      "question": "เขตต่อเนื่องตาม UNCLOS ขยายออกได้ไกลสุดเท่าใดจากเส้นฐาน?",
+      "answer": "24 ไมล์ทะเล",
+      "options": [
+        "24 ไมล์ทะเล",
+        "จากขอบทะเลอาณาเขตออกไปอีก 24 ไมล์ทะเล",
+        "200 ไมล์ทะเล"
+      ],
+      "explanation": "ข้อ 33 วัดเพดานจากเส้นฐานเดียวกับทะเลอาณาเขต",
+      "refs": [
+        "sea"
+      ]
+    },
+    {
+      "id": "set-6-th-08",
+      "subject": "th",
+      "question": "ใน EEZ รัฐชายฝั่งมีสิทธิแบบใดเกี่ยวกับทรัพยากร?",
+      "answer": "สิทธิอธิปไตยเพื่อสำรวจ ใช้ประโยชน์ อนุรักษ์ และจัดการทรัพยากร",
+      "options": [
+        "สิทธิอธิปไตยเพื่อสำรวจ ใช้ประโยชน์ อนุรักษ์ และจัดการทรัพยากร",
+        "อธิปไตยเหนือการเดินเรือทั้งหมดเช่นในน่านน้ำภายใน",
+        "สิทธิออกสัญชาติให้เรือต่างชาติได้ฝ่ายเดียว"
+      ],
+      "explanation": "ข้อ 56 กำหนด sovereign rights เพื่อวัตถุประสงค์ที่กำหนด",
+      "refs": [
+        "sea"
+      ]
+    },
+    {
+      "id": "set-6-th-09",
+      "subject": "th",
+      "question": "ความตกลงหนึ่งเปิดให้รัฐที่ไม่ได้ลงนามแต่แรกเข้าร่วมภายหลัง การเข้าร่วมโดยทั่วไปเรียกว่าอะไร?",
+      "answer": "ภาคยานุวัติ (accession)",
+      "options": [
+        "ภาคยานุวัติ (accession)",
+        "การรับรองความถูกต้องของตัวบท (authentication)",
+        "การตั้งข้อสงวน (reservation)"
+      ],
+      "explanation": "ภาคยานุวัติเป็นวิธีแสดงความยินยอมผูกพันเมื่อมีเงื่อนไขรองรับ",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-6-th-10",
+      "subject": "th",
+      "question": "หลัก pacta sunt servanda หมายถึงอะไร?",
+      "answer": "สนธิสัญญาที่มีผลใช้บังคับผูกพันภาคีและต้องปฏิบัติโดยสุจริต",
+      "options": [
+        "สนธิสัญญาที่มีผลใช้บังคับผูกพันภาคีและต้องปฏิบัติโดยสุจริต",
+        "เมื่อรัฐบาลเปลี่ยน สนธิสัญญาสิ้นสุดโดยอัตโนมัติ",
+        "สนธิสัญญามีผลย้อนหลังเสมอ"
+      ],
+      "explanation": "เป็นหลักในข้อ 26 ของอนุสัญญากฎหมายสนธิสัญญา",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-6-en-01",
+      "subject": "en",
+      "question": "The report, along with its annexes, ___ available online.",
+      "answer": "is",
+      "options": [
+        "is",
+        "are",
+        "were"
+      ],
+      "explanation": "The main subject “report” is singular. The phrase “along with” does not change agreement.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-02",
+      "subject": "en",
+      "question": "The director insisted that the original records ___ retained.",
+      "answer": "be",
+      "options": [
+        "be",
+        "are being",
+        "were"
+      ],
+      "explanation": "The mandative clause uses the base form “be,” here in a passive construction.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-03",
+      "subject": "en",
+      "question": "What does “waive” mean in “The sending State may waive immunity”?",
+      "answer": "Formally give up the protection",
+      "options": [
+        "Formally give up the protection",
+        "Extend the protection indefinitely",
+        "Transfer the protection to another person"
+      ],
+      "explanation": "“Waive” is to relinquish a right, requirement, or protection.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-04",
+      "subject": "en",
+      "question": "Choose the most precise word. “The rules apply to members and are legally ___ on them.”",
+      "answer": "binding",
+      "options": [
+        "binding",
+        "bound",
+        "bind"
+      ],
+      "explanation": "“Legally binding” describes obligations that have legal force.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-05",
+      "subject": "en",
+      "question": "Choose the appropriate phrase. “The notification must be sent ___ accordance with the agreed procedure.”",
+      "answer": "in",
+      "options": [
+        "in",
+        "by",
+        "with"
+      ],
+      "explanation": "The established phrase is “in accordance with.”",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-06",
+      "subject": "en",
+      "question": "Which wording preserves the meaning? “The court lacks jurisdiction unless both states consent.”",
+      "answer": "Consent from both states is necessary for jurisdiction in this example.",
+      "options": [
+        "Consent from both states is necessary for jurisdiction in this example.",
+        "Consent from either state alone establishes jurisdiction.",
+        "The court has jurisdiction even without consent."
+      ],
+      "explanation": "The sentence states a necessary condition in the example.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-07",
+      "subject": "en",
+      "question": "“The ruling addresses admissibility. It does not decide the merits.” What did the court leave undecided?",
+      "answer": "The substantive claims",
+      "options": [
+        "The substantive claims",
+        "Whether the ruling exists",
+        "Which language the filing used"
+      ],
+      "explanation": "“Merits” concern the substance of the case.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-08",
+      "subject": "en",
+      "question": "Choose the closest synonym for “pursuant to” in “pursuant to Article 5.”",
+      "answer": "Under",
+      "options": [
+        "Under",
+        "Despite",
+        "Apart from"
+      ],
+      "explanation": "“Pursuant to” means acting under or in compliance with a provision.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-09",
+      "subject": "en",
+      "question": "“The change takes effect upon publication.” When does it take effect?",
+      "answer": "When it is published",
+      "options": [
+        "When it is published",
+        "When the draft is written",
+        "Before it is published"
+      ],
+      "explanation": "“Upon” means at the time of the stated event here.",
+      "refs": []
+    },
+    {
+      "id": "set-6-en-10",
+      "subject": "en",
+      "question": "The two instruments differ ___ scope and purpose.",
+      "answer": "in",
+      "options": [
+        "in",
+        "to",
+        "with"
+      ],
+      "explanation": "“Differ in” introduces the characteristics that vary.",
+      "refs": []
+    }
+  ]
+}

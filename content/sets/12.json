@@ -1,0 +1,290 @@
+{
+  "id": "set-12",
+  "title": "วิเคราะห์ข่าวและนโยบายไทย",
+  "kind": "study",
+  "level": 3,
+  "questions": [
+    {
+      "id": "set-12-th-01",
+      "subject": "th",
+      "question": "รายงาน UPR ใช้คำว่า “รัฐรับทราบข้อเสนอแนะ” ควรเขียนสรุปอย่างไร?",
+      "answer": "รัฐรับทราบข้อเสนอแนะ และควรตรวจสถานะการสนับสนุนแยกต่างหาก",
+      "options": [
+        "รัฐรับทราบข้อเสนอแนะ และควรตรวจสถานะการสนับสนุนแยกต่างหาก",
+        "รัฐยอมรับข้อเสนอและดำเนินการครบแล้ว",
+        "คณะทำงานออกคำตัดสินบังคับทางศาล"
+      ],
+      "explanation": "แยกข้อเสนอที่สนับสนุนกับข้อเสนอที่รับทราบ และแยกออกจากผลปฏิบัติ",
+      "refs": [
+        "uprProcess"
+      ]
+    },
+    {
+      "id": "set-12-th-02",
+      "subject": "th",
+      "question": "หากต้องเปรียบเทียบข่าวการประชุมอาเซียนของสองปีและต้องการทราบว่ามติเปลี่ยนตรงไหน หลักฐานใดเหมาะที่สุด?",
+      "answer": "เอกสารผลการประชุมฉบับทางการทั้งสองปีและข้อความที่เกี่ยวข้อง",
+      "options": [
+        "เอกสารผลการประชุมฉบับทางการทั้งสองปีและข้อความที่เกี่ยวข้อง",
+        "พาดหัวฉบับล่าสุดฉบับเดียว",
+        "จำนวนผู้ติดตามของสื่อที่รายงาน"
+      ],
+      "explanation": "เปรียบเทียบถ้อยคำทางการของทั้งสองช่วงเวลาโดยตรง",
+      "refs": [
+        "five"
+      ]
+    },
+    {
+      "id": "set-12-th-03",
+      "subject": "th",
+      "question": "มีรายงานค่าเฉลี่ยมลพิษดีขึ้น แต่ชุดข้อมูลปีล่าสุดตัดจุดตรวจที่มลพิษสูงออก ควรทำอย่างไร?",
+      "answer": "คำนวณใหม่เฉพาะจุดตรวจที่มีทั้งสองช่วง และเปิดเผยผลของการตัดจุด",
+      "options": [
+        "คำนวณใหม่เฉพาะจุดตรวจที่มีทั้งสองช่วง และเปิดเผยผลของการตัดจุด",
+        "เปรียบเทียบค่าเฉลี่ยทันทีเพราะจำนวนปีเท่ากัน",
+        "สรุปว่าการลดลงเกิดจากนโยบายอย่างแน่นอน"
+      ],
+      "explanation": "การเปลี่ยนองค์ประกอบกลุ่มตัวอย่างอาจทำให้ค่าเฉลี่ยเคลื่อน",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-12-th-04",
+      "subject": "th",
+      "question": "สถานกงสุลรายงานว่าคำขอเอกสารเพิ่มจาก 800 เป็น 1,000 เรื่อง แต่จำนวนเรื่องค้างลดจาก 200 เป็น 150 ข้อใดสรุปได้?",
+      "answer": "คำขอเพิ่ม 25% และเรื่องค้างลด 25% แต่ยังสรุปเหตุไม่ได้จากสองตัวเลข",
+      "options": [
+        "คำขอเพิ่ม 25% และเรื่องค้างลด 25% แต่ยังสรุปเหตุไม่ได้จากสองตัวเลข",
+        "คำขอและเรื่องค้างเพิ่มเท่ากัน",
+        "เวลาเฉลี่ยในการดำเนินการลดลง 25% อย่างแน่นอน"
+      ],
+      "explanation": "เปรียบเทียบแต่ละตัวเลขกับค่าฐาน และต้องมีข้อมูลเพิ่มเพื่อสรุปเวลาและสาเหตุ",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "set-12-th-05",
+      "subject": "th",
+      "question": "ข้อเสนอให้ระบุสงกรานต์เป็นมรดกโลกทางกายภาพอาศัยความเข้าใจผิดเรื่องใด?",
+      "answer": "สับสนระหว่างบัญชีมรดกวัฒนธรรมที่จับต้องไม่ได้กับบัญชีมรดกโลก",
+      "options": [
+        "สับสนระหว่างบัญชีมรดกวัฒนธรรมที่จับต้องไม่ได้กับบัญชีมรดกโลก",
+        "เข้าใจผิดว่าทั้งสองบัญชีไม่มีความเกี่ยวข้องกับ UNESCO",
+        "จำปีลงนามปฏิญญากรุงเทพผิด"
+      ],
+      "explanation": "ชื่อบัญชีและวัตถุที่ขึ้นทะเบียนต่างกัน",
+      "refs": [
+        "songkran",
+        "ayutthaya"
+      ]
+    },
+    {
+      "id": "set-12-th-06",
+      "subject": "th",
+      "question": "สมมติสถานที่มรดกมีนักท่องเที่ยวเพิ่มหลังขึ้นทะเบียน ข้อใดเป็นหลักฐานที่ช่วยทดสอบเหตุและผลได้มากกว่า?",
+      "answer": "แนวโน้มก่อน–หลังเทียบกับแหล่งคล้ายกัน โดยพิจารณาปัจจัยเช่นการเดินทางและการตลาด",
+      "options": [
+        "แนวโน้มก่อน–หลังเทียบกับแหล่งคล้ายกัน โดยพิจารณาปัจจัยเช่นการเดินทางและการตลาด",
+        "เปรียบเทียบยอดวันหยุดหนึ่งวันของสองปีเท่านั้น",
+        "ถามเฉพาะผู้ประกอบการรายได้สูงสุด"
+      ],
+      "explanation": "กลุ่มเปรียบเทียบและข้อมูลแนวโน้มช่วยตรวจคำอธิบายอื่น",
+      "refs": [
+        "ayutthaya"
+      ]
+    },
+    {
+      "id": "set-12-th-07",
+      "subject": "th",
+      "question": "หากข่าวระบุว่าประเทศหนึ่งยื่นข้อเสนอเจรจาแต่ยังไม่มีแถลงการณ์ร่วม ควรใช้ถ้อยคำใดในบันทึกทางการ?",
+      "answer": "ฝ่ายนั้นยื่นข้อเสนอ สถานะการตอบรับยังต้องยืนยัน",
+      "options": [
+        "ฝ่ายนั้นยื่นข้อเสนอ สถานะการตอบรับยังต้องยืนยัน",
+        "ทั้งสองฝ่ายตกลงตามข้อเสนอเรียบร้อย",
+        "เกิดข้อผูกพันทางกฎหมายแล้ว"
+      ],
+      "explanation": "หลักฐานรองรับเพียงการเสนอ จึงต้องแยกสถานะฝ่ายรับ",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-12-th-08",
+      "subject": "th",
+      "question": "สมมติไทยต้องการเจรจาทั้งมาตรฐานเอกสารเดินทางและการตีความความตกลงเดิม ควรจัดการอย่างไร?",
+      "answer": "ประสานฝ่ายกงสุลและฝ่ายกฎหมายตามประเด็น เพื่อให้ข้อเสนอด้านปฏิบัติสอดคล้องกับพันธกรณี",
+      "options": [
+        "ประสานฝ่ายกงสุลและฝ่ายกฎหมายตามประเด็น เพื่อให้ข้อเสนอด้านปฏิบัติสอดคล้องกับพันธกรณี",
+        "ส่งให้ฝ่ายหนังสือเดินทางพิจารณากฎหมายระหว่างประเทศลำพัง",
+        "ให้ฝ่ายสื่อสารออกประกาศแทนการตรวจตัวบท"
+      ],
+      "explanation": "เรื่องหนึ่งมีทั้งมิติการดำเนินงานและมิติข้อผูกพัน",
+      "refs": [
+        "thaiConsul",
+        "thaiTreaty"
+      ]
+    },
+    {
+      "id": "set-12-th-09",
+      "subject": "th",
+      "question": "คำแถลงพูดถึงความสำเร็จของโครงการจากจำนวนผู้สมัครเพียงอย่างเดียว หากเป้าหมายคือเพิ่มการเข้าถึงของคนในพื้นที่ ควรวัดอะไรเพิ่ม?",
+      "answer": "สัดส่วนกลุ่มเป้าหมายที่ใช้บริการสำเร็จ แยกตามพื้นที่และเทียบกับก่อนเริ่ม",
+      "options": [
+        "สัดส่วนกลุ่มเป้าหมายที่ใช้บริการสำเร็จ แยกตามพื้นที่และเทียบกับก่อนเริ่ม",
+        "จำนวนโพสต์ประชาสัมพันธ์",
+        "จำนวนหน้าของแบบฟอร์มสมัคร"
+      ],
+      "explanation": "จำนวนผู้สมัครวัดความสนใจ ส่วนการเข้าถึงต้องวัดการใช้บริการสำเร็จ",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "set-12-th-10",
+      "subject": "th",
+      "question": "สองแหล่งข่าวให้วันและสถานะการประชุมไม่ตรงกัน ควรรายงานอย่างไรเมื่อตรวจเอกสารต้นทางไม่ได้ทัน?",
+      "answer": "ระบุว่าข้อมูลยังไม่ยืนยัน บอกสิ่งที่ตรงกัน และระบุประเด็นที่จะตรวจต่อ",
+      "options": [
+        "ระบุว่าข้อมูลยังไม่ยืนยัน บอกสิ่งที่ตรงกัน และระบุประเด็นที่จะตรวจต่อ",
+        "เลือกแหล่งที่เขียนมั่นใจที่สุดแล้วรายงานเป็นข้อยุติ",
+        "เฉลี่ยวันที่จากสองแหล่งแล้วใช้เป็นวันประชุม"
+      ],
+      "explanation": "รักษาความแตกต่างระหว่างข้อเท็จจริงที่ยืนยันแล้วกับข้อมูลที่ยังขัดแย้ง",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-12-en-01",
+      "subject": "en",
+      "question": "“The study found no statistically significant difference.” Which summary is most accurate?",
+      "answer": "The data did not provide sufficient statistical evidence of a difference under the test.",
+      "options": [
+        "The data did not provide sufficient statistical evidence of a difference under the test.",
+        "The study proved the treatments are exactly equivalent.",
+        "The two treatments must have opposite effects."
+      ],
+      "explanation": "A nonsignificant result does not establish exact equivalence.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-02",
+      "subject": "en",
+      "question": "“Coverage rose among respondents, but people without internet access were underrepresented.” What is the main concern?",
+      "answer": "The observed change may not represent the whole target population.",
+      "options": [
+        "The observed change may not represent the whole target population.",
+        "Every person with internet access was missing.",
+        "The survey proves the policy reached all groups equally."
+      ],
+      "explanation": "Underrepresentation limits generalization to groups poorly captured.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-03",
+      "subject": "en",
+      "question": "Choose the clearest revision. “Following the meeting, the minister told the ambassador that she would issue a statement.” Assume the minister will issue it.",
+      "answer": "After the meeting, the minister told the ambassador, “I will issue a statement.”",
+      "options": [
+        "After the meeting, the minister told the ambassador, “I will issue a statement.”",
+        "The minister said to the ambassador that she would issue it following the meeting.",
+        "After meeting the minister, she said a statement would issue."
+      ],
+      "explanation": "Direct quotation clearly assigns the commitment to the minister.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-04",
+      "subject": "en",
+      "question": "“The recommendation was adopted in principle, with the financing arrangements left to a working group.” What is settled?",
+      "answer": "The broad recommendation has been accepted.",
+      "options": [
+        "The broad recommendation has been accepted.",
+        "All funding details have been agreed.",
+        "The working group rejected the recommendation."
+      ],
+      "explanation": "“In principle” signals agreement on the broad approach, with details pending.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-05",
+      "subject": "en",
+      "question": "Which sentence maintains hedging appropriate to limited evidence?",
+      "answer": "The available data suggest a possible decline.",
+      "options": [
+        "The available data suggest a possible decline.",
+        "The available data prove the problem is over.",
+        "The limited data conclusively rule out other causes."
+      ],
+      "explanation": "“Suggest” and “possible” preserve uncertainty.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-06",
+      "subject": "en",
+      "question": "“Rather than attribute the decline to one cause, the review identifies several contributing factors.” What approach did the review take?",
+      "answer": "It identified multiple possible contributors.",
+      "options": [
+        "It identified multiple possible contributors.",
+        "It proved a single cause was decisive.",
+        "It found that no factor could contribute."
+      ],
+      "explanation": "“Rather than” introduces the approach the review avoided.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-07",
+      "subject": "en",
+      "question": "“Owing to a reporting change, figures before and after July are not directly comparable.” What is the best next step?",
+      "answer": "Check whether the series can be harmonized before comparing totals.",
+      "options": [
+        "Check whether the series can be harmonized before comparing totals.",
+        "Treat the change in totals as entirely real.",
+        "Use totals without noting the reporting change."
+      ],
+      "explanation": "A change in measurement may affect apparent trends.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-08",
+      "subject": "en",
+      "question": "Which is the best formal paraphrase of “We can go ahead once they sign off”?",
+      "answer": "We can proceed once approval is granted.",
+      "options": [
+        "We can proceed once approval is granted.",
+        "We must proceed before approval is granted.",
+        "We can proceed only after the project ends."
+      ],
+      "explanation": "“Sign off” means approve in this context.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-09",
+      "subject": "en",
+      "question": "“The briefing distinguishes between an announcement and an outcome.” Which pair illustrates the distinction?",
+      "answer": "A promise to open two centers, followed by records showing they opened",
+      "options": [
+        "A promise to open two centers, followed by records showing they opened",
+        "Two announcements about the same goal",
+        "A headline and a summary repeating the same promise"
+      ],
+      "explanation": "The first pair distinguishes a commitment from verified implementation.",
+      "refs": []
+    },
+    {
+      "id": "set-12-en-10",
+      "subject": "en",
+      "question": "“The office can accommodate additional requests, provided that their submission does not delay urgent cases.” What is the operative condition?",
+      "answer": "Additional requests must not delay urgent cases.",
+      "options": [
+        "Additional requests must not delay urgent cases.",
+        "Additional requests take priority over urgent cases.",
+        "Urgent cases may be delayed at the office’s discretion."
+      ],
+      "explanation": "“Provided that” introduces the condition on accepting extra requests.",
+      "refs": []
+    }
+  ]
+}

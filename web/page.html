@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="แฟลชการ์ดและข้อสอบจำลองสำหรับการสอบนักการทูต ภาค ก ปี 2569">
+  <meta name="theme-color" content="#f6f4ed">
+  <title>เตรียมสอบนักการทูต ภาค ก · 2569</title>
+  <style>/* STYLES */</style>
+</head>
+<body>
+  <a class="skip-link" href="#main">ข้ามไปยังเนื้อหา</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <button type="button" class="brand" aria-label="หน้าแรก เตรียมสอบนักการทูต">นักการทูต <span>ภาค ก</span></button>
+      <nav aria-label="เมนูหลัก">
+        <button type="button" data-view="library">ชุดฝึก</button>
+        <button type="button" data-view="exams">ข้อสอบจำลอง</button>
+        <button type="button" data-view="history">ผลสอบ</button>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="shell" tabindex="-1">
+    <section id="library" class="view">
+      <header class="hero">
+        <div class="hero-copy">
+          <h1>เตรียมสอบ<br>นักการทูต ภาค ก</h1>
+          <p id="pack-count"></p>
+        </div>
+        <div class="hero-next">
+          <p id="resume-heading" class="eyebrow"></p>
+          <strong id="resume-title"></strong>
+          <p id="resume-detail"></p>
+          <button type="button" id="resume" class="button hero-button"></button>
+        </div>
+      </header>
+      <div class="section-head">
+        <h2>เลือกชุดฝึก</h2>
+        <div id="levels" class="segmented" role="group" aria-label="ระดับความยาก"></div>
+      </div>
+      <div id="study-list" class="tile-grid"></div>
+      <div id="reference-list" class="reference-row" aria-label="ชุดทบทวนและข้อมูลวันสอบ"></div>
+    </section>
+
+    <section id="exams" class="view" hidden>
+      <header class="page-head">
+        <h1>ข้อสอบจำลอง</h1>
+        <p>ทำทั้งสองวิชาในชุดเดียว ดูคะแนนแยกวิชาและเฉลยหลังส่ง</p>
+      </header>
+      <div id="exam-list" class="tile-grid"></div>
+    </section>
+
+    <section id="history" class="view" hidden>
+      <header class="page-head">
+        <h1>ผลสอบของฉัน</h1>
+        <p>เก็บผลในเบราว์เซอร์นี้</p>
+      </header>
+      <div id="history-list"></div>
+    </section>
+
+    <section id="study" class="view" hidden>
+      <header class="page-head compact">
+        <button type="button" id="study-back" class="text-button">← ชุดฝึก</button>
+        <h1 id="study-title"></h1>
+        <div class="study-tools">
+          <div id="subject-filter" class="segmented" role="group" aria-label="วิชาที่ต้องการฝึก"></div>
+          <button type="button" class="button" id="shuffle-study">สลับข้อ</button>
+        </div>
+      </header>
+      <div id="study-card"></div>
+    </section>
+
+    <section id="quiz" class="view" hidden>
+      <header class="page-head compact">
+        <button type="button" id="quiz-back" class="text-button">← ข้อสอบจำลอง</button>
+        <h1 id="quiz-title"></h1>
+        <div class="quiz-progress">
+          <label id="quiz-status" for="quiz-meter" role="status"></label>
+          <progress id="quiz-meter"></progress>
+        </div>
+      </header>
+      <div class="quiz-grid">
+        <div id="quiz-card"></div>
+        <details class="answer-map" id="answer-map">
+          <summary>ไปที่ข้อ</summary>
+          <div id="question-map"></div>
+        </details>
+      </div>
+      <div class="submit-row">
+        <span id="save-status"></span>
+        <button type="button" id="submit-exam" class="button primary">ส่งข้อสอบ</button>
+      </div>
+    </section>
+
+    <section id="result" class="view" hidden>
+      <header class="page-head compact">
+        <button type="button" id="result-back" class="text-button">← ผลสอบทั้งหมด</button>
+        <h1 id="result-title"></h1>
+      </header>
+      <div id="result-summary" class="result-panel"></div>
+      <div id="result-actions" class="result-actions"></div>
+      <div class="section-head">
+        <h2>เฉลยและคำอธิบาย</h2>
+        <div id="review-filter" class="segmented" role="group" aria-label="กรองเฉลย"></div>
+      </div>
+      <div id="review-list" class="review-list"></div>
+    </section>
+    <noscript>เปิด JavaScript ในเบราว์เซอร์เพื่อใช้แฟลชการ์ดและข้อสอบจำลอง</noscript>
+  </main>
+  <footer class="shell site-footer">
+    <p>ชุดฝึกอิสระสำหรับการสอบปี 2569 · <a href="https://www.mfa.go.th/th/content/สอบนักการทูต2569" target="_blank" rel="noopener noreferrer">ประกาศกระทรวงการต่างประเทศ</a></p>
+  </footer>
+  <script type="application/json" id="study-data"><!-- STUDY_DATA --></script>
+  <script>/* APP_CODE */</script>
+</body>
+</html>

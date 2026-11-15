@@ -1,0 +1,288 @@
+{
+  "id": "set-1",
+  "title": "อาเซียนและภูมิภาค",
+  "kind": "study",
+  "level": 1,
+  "questions": [
+    {
+      "id": "set-1-th-01",
+      "subject": "th",
+      "question": "ประเทศใดลงนามปฏิญญากรุงเทพในปี 2510 พร้อมกับไทย?",
+      "answer": "สิงคโปร์",
+      "options": [
+        "สิงคโปร์",
+        "เวียดนาม",
+        "บรูไน"
+      ],
+      "explanation": "ไทย สิงคโปร์ มาเลเซีย อินโดนีเซีย และฟิลิปปินส์เป็นผู้ก่อตั้ง",
+      "refs": [
+        "bangkok"
+      ]
+    },
+    {
+      "id": "set-1-th-02",
+      "subject": "th",
+      "question": "ปฏิญญากรุงเทพมีความสำคัญอย่างไรต่ออาเซียน?",
+      "answer": "เป็นเอกสารก่อตั้งอาเซียน",
+      "options": [
+        "เป็นเอกสารก่อตั้งอาเซียน",
+        "เป็นความตกลงการค้าของ RCEP",
+        "เป็นเอกสารตั้งศาลระหว่างประเทศ"
+      ],
+      "explanation": "ลงนามที่กรุงเทพฯ เมื่อ 8 สิงหาคม 2510",
+      "refs": [
+        "bangkok"
+      ]
+    },
+    {
+      "id": "set-1-th-03",
+      "subject": "th",
+      "question": "ถ้าวาระหลักคือการพัฒนาตลาดภูมิภาค ควรเชื่อมโยงกับเสาประชาคมใด?",
+      "answer": "ประชาคมเศรษฐกิจอาเซียน",
+      "options": [
+        "ประชาคมเศรษฐกิจอาเซียน",
+        "ประชาคมสังคมและวัฒนธรรมอาเซียน",
+        "ประชาคมการเมืองและความมั่นคงอาเซียน"
+      ],
+      "explanation": "การรวมตัวทางเศรษฐกิจเป็นแกนของ AEC",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-1-th-04",
+      "subject": "th",
+      "question": "เวทีใดเปิดให้คู่เจรจานอกภูมิภาคบางประเทศหารือประเด็นการเมืองและความมั่นคงร่วมกับอาเซียน?",
+      "answer": "ASEAN Regional Forum",
+      "options": [
+        "ASEAN Regional Forum",
+        "ASEAN Secretariat",
+        "ASEAN Intergovernmental Commission on Human Rights"
+      ],
+      "explanation": "ARF เป็นเวทีหารือด้านการเมืองและความมั่นคง",
+      "refs": [
+        "external"
+      ]
+    },
+    {
+      "id": "set-1-th-05",
+      "subject": "th",
+      "question": "กรณีแผ่นดินไหวในประเทศสมาชิก หน่วยงานใดมีบทบาทประสานความช่วยเหลือด้านภัยพิบัติของอาเซียน?",
+      "answer": "AHA Centre",
+      "options": [
+        "AHA Centre",
+        "คณะกรรมการผู้แทนถาวรประจำอาเซียน",
+        "สำนักเลขาธิการ APEC"
+      ],
+      "explanation": "AHA Centre เน้นการจัดการภัยพิบัติและการประสานการตอบสนองในภูมิภาค",
+      "refs": [
+        "aha"
+      ]
+    },
+    {
+      "id": "set-1-th-06",
+      "subject": "th",
+      "question": "สำนักเลขาธิการอาเซียนตั้งอยู่ที่ใด?",
+      "answer": "จาการ์ตา",
+      "options": [
+        "จาการ์ตา",
+        "กรุงเทพฯ",
+        "มะนิลา"
+      ],
+      "explanation": "อินโดนีเซียเป็นที่ตั้งสำนักเลขาธิการ ตามข้อ 11 ของกฎบัตรอาเซียน",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-1-th-07",
+      "subject": "th",
+      "question": "ภาษาใดเป็นภาษาทำงานของอาเซียนตามกฎบัตร?",
+      "answer": "ภาษาอังกฤษ",
+      "options": [
+        "ภาษาอังกฤษ",
+        "ภาษามลายู",
+        "ภาษาอินโดนีเซีย"
+      ],
+      "explanation": "กฎบัตรอาเซียน ข้อ 34 กำหนดภาษาทำงานไว้",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-1-th-08",
+      "subject": "th",
+      "question": "ข้อใดกล่าวถึงสถานะของอาเซียนตามกฎบัตรได้ถูกต้อง?",
+      "answer": "อาเซียนมีสภาพบุคคลตามกฎหมายในฐานะองค์การระหว่างรัฐบาล",
+      "options": [
+        "อาเซียนมีสภาพบุคคลตามกฎหมายในฐานะองค์การระหว่างรัฐบาล",
+        "อาเซียนมีฐานะเป็นหน่วยงานย่อยของสหประชาชาติ",
+        "อาเซียนคือสหพันธรัฐของเอเชียตะวันออกเฉียงใต้"
+      ],
+      "explanation": "ข้อ 3 ระบุสภาพบุคคลของอาเซียนในฐานะองค์การระหว่างรัฐบาล",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-1-th-09",
+      "subject": "th",
+      "question": "ประเทศใดเข้าอาเซียนภายหลังเวียดนาม?",
+      "answer": "กัมพูชา",
+      "options": [
+        "กัมพูชา",
+        "บรูไน",
+        "ฟิลิปปินส์"
+      ],
+      "explanation": "เวียดนามเข้าในปี 2538 และกัมพูชาเข้าในปี 2542",
+      "refs": [
+        "members"
+      ]
+    },
+    {
+      "id": "set-1-th-10",
+      "subject": "th",
+      "question": "ASEAN Summit ประกอบด้วยผู้แทนระดับใด?",
+      "answer": "ประมุขแห่งรัฐหรือหัวหน้ารัฐบาลของประเทศสมาชิก",
+      "options": [
+        "ประมุขแห่งรัฐหรือหัวหน้ารัฐบาลของประเทศสมาชิก",
+        "ผู้แทนถาวรประจำอาเซียนเท่านั้น",
+        "เลขาธิการอาเซียนกับเอกอัครราชทูตคู่เจรจา"
+      ],
+      "explanation": "ข้อ 7 กำหนดองค์ประกอบและให้เป็นองค์กรกำหนดนโยบายสูงสุดของอาเซียน",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-1-en-01",
+      "subject": "en",
+      "question": "The ministers arrived ___ the conference center before noon.",
+      "answer": "at",
+      "options": [
+        "at",
+        "on",
+        "for"
+      ],
+      "explanation": "Use “arrive at” for a specific place.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-02",
+      "subject": "en",
+      "question": "The office ___ applications every weekday.",
+      "answer": "accepts",
+      "options": [
+        "accepts",
+        "accept",
+        "accepting"
+      ],
+      "explanation": "“The office” is a singular subject in the simple present.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-03",
+      "subject": "en",
+      "question": "The meeting ___ at 9 a.m. yesterday.",
+      "answer": "began",
+      "options": [
+        "began",
+        "has begun",
+        "begins"
+      ],
+      "explanation": "A finished past time calls for the simple past.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-04",
+      "subject": "en",
+      "question": "There ___ two copies of the report on the desk.",
+      "answer": "are",
+      "options": [
+        "are",
+        "is",
+        "has"
+      ],
+      "explanation": "The noun phrase after “there” is plural.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-05",
+      "subject": "en",
+      "question": "Which word best completes the sentence? “Please ___ the form before submitting it.”",
+      "answer": "complete",
+      "options": [
+        "complete",
+        "completion",
+        "completely"
+      ],
+      "explanation": "“Please” introduces an imperative with a base verb.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-06",
+      "subject": "en",
+      "question": "What does “annual” mean in “an annual summit”?",
+      "answer": "Held once a year",
+      "options": [
+        "Held once a year",
+        "Held once a month",
+        "Held only one time"
+      ],
+      "explanation": "“Annual” describes something that occurs every year.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-07",
+      "subject": "en",
+      "question": "The chair thanked the delegates ___ their cooperation.",
+      "answer": "for",
+      "options": [
+        "for",
+        "from",
+        "with"
+      ],
+      "explanation": "The pattern is “thank someone for something.”",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-08",
+      "subject": "en",
+      "question": "Which sentence uses “both” and the verb correctly?",
+      "answer": "Both delegates signed the document.",
+      "options": [
+        "Both delegates signed the document.",
+        "Both delegate signed the document.",
+        "Both delegates has signed the document."
+      ],
+      "explanation": "“Both” takes a plural count noun here.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-09",
+      "subject": "en",
+      "question": "“The room can seat 40 people.” What does “seat” mean?",
+      "answer": "Provide seats for",
+      "options": [
+        "Provide seats for",
+        "Give directions to",
+        "Invite officially"
+      ],
+      "explanation": "As a verb here, “seat” expresses capacity.",
+      "refs": []
+    },
+    {
+      "id": "set-1-en-10",
+      "subject": "en",
+      "question": "“The public session begins at 10. Registration opens half an hour earlier.” When does registration open?",
+      "answer": "9:30",
+      "options": [
+        "9:30",
+        "10:30",
+        "9:00"
+      ],
+      "explanation": "Subtract 30 minutes from 10:00.",
+      "refs": []
+    }
+  ]
+}

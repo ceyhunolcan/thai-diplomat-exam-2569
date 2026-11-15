@@ -1,0 +1,428 @@
+{
+  "id": "recap",
+  "title": "ทบทวนชุดเดิม",
+  "kind": "recap",
+  "questions": [
+    {
+      "id": "recap-th-01",
+      "subject": "th",
+      "question": "ภาค ก วิชาความรู้ความสามารถทั่วไปครอบคลุมเรื่องใด?",
+      "answer": "ความรู้และการคิดวิเคราะห์ด้านความสัมพันธ์ระหว่างประเทศและการต่างประเทศ ทั้งการเมือง เศรษฐกิจ สังคม ประวัติศาสตร์ วัฒนธรรม และกฎหมายของไทยและโลก รวมถึงงานราชการของกระทรวงการต่างประเทศ",
+      "refs": [
+        "syllabus"
+      ]
+    },
+    {
+      "id": "recap-th-02",
+      "subject": "th",
+      "question": "อาเซียนก่อตั้งเมื่อใด และมีประเทศผู้ก่อตั้งใครบ้าง?",
+      "answer": "8 สิงหาคม 2510 (1967) ตามปฏิญญากรุงเทพ โดยอินโดนีเซีย มาเลเซีย ฟิลิปปินส์ สิงคโปร์ และไทย",
+      "refs": [
+        "bangkok"
+      ]
+    },
+    {
+      "id": "recap-th-03",
+      "subject": "th",
+      "question": "อาเซียนตัดสินใจโดยหลักใดตามกฎบัตร?",
+      "answer": "หลักพื้นฐานคือการปรึกษาหารือและฉันทามติ ตามข้อ 20 ของกฎบัตรอาเซียน",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "recap-th-04",
+      "subject": "th",
+      "question": "ประชาคมอาเซียนมีสามเสาหลักอะไรบ้าง?",
+      "answer": "ประชาคมการเมืองและความมั่นคงอาเซียน ประชาคมเศรษฐกิจอาเซียน และประชาคมสังคมและวัฒนธรรมอาเซียน",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "recap-th-05",
+      "subject": "th",
+      "question": "ประเทศใดเป็นสมาชิกอาเซียนลำดับที่ 11?",
+      "answer": "ติมอร์-เลสเต เข้าเป็นสมาชิกในเดือนตุลาคม 2568 (2025)",
+      "refs": [
+        "timor"
+      ]
+    },
+    {
+      "id": "recap-th-06",
+      "subject": "th",
+      "question": "ประเทศใดเป็นประธานอาเซียนในปี 2569 (2026)?",
+      "answer": "ฟิลิปปินส์ ซึ่งเป็นเจ้าภาพการประชุมสุดยอดอาเซียนครั้งที่ 49 ที่กรุงมะนิลา",
+      "refs": [
+        "chair"
+      ]
+    },
+    {
+      "id": "recap-th-07",
+      "subject": "th",
+      "question": "ฉันทามติ 5 ข้อของอาเซียนเกี่ยวกับเมียนมามีอะไรบ้าง?",
+      "answer": "ยุติความรุนแรงโดยทันที ให้ทุกฝ่ายหารืออย่างสร้างสรรค์ ให้ผู้แทนพิเศษของประธานอาเซียนช่วยอำนวยการเจรจา ให้อาเซียนส่งความช่วยเหลือมนุษยธรรมผ่าน AHA Centre และให้ผู้แทนพิเศษเดินทางไปพบทุกฝ่ายที่เกี่ยวข้อง",
+      "refs": [
+        "five"
+      ]
+    },
+    {
+      "id": "recap-th-08",
+      "subject": "th",
+      "question": "ไทยเข้าเป็นสมาชิกสหประชาชาติเมื่อใด?",
+      "answer": "16 ธันวาคม 2489 (1946) ในขณะนั้นใช้ชื่อสยาม",
+      "refs": [
+        "thaiun"
+      ]
+    },
+    {
+      "id": "recap-th-09",
+      "subject": "th",
+      "question": "องค์กรหลักของสหประชาชาติมีกี่องค์กร อะไรบ้าง?",
+      "answer": "6 องค์กร ได้แก่ สมัชชาใหญ่ คณะมนตรีความมั่นคง คณะมนตรีเศรษฐกิจและสังคม คณะมนตรีภาวะทรัสตี ศาลยุติธรรมระหว่างประเทศ และสำนักเลขาธิการ",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "recap-th-10",
+      "subject": "th",
+      "question": "สมัชชาใหญ่กับคณะมนตรีความมั่นคงของสหประชาชาติมีบทบาทต่างกันอย่างไร?",
+      "answer": "สมัชชาใหญ่เป็นเวทีที่สมาชิกทุกประเทศมีหนึ่งเสียงและโดยทั่วไปออกข้อเสนอแนะ คณะมนตรีความมั่นคงรับผิดชอบหลักด้านสันติภาพและความมั่นคงระหว่างประเทศ และสามารถมีมติที่ผูกพันสมาชิกได้",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "recap-th-11",
+      "subject": "th",
+      "question": "สมาชิกถาวรของคณะมนตรีความมั่นคงแห่งสหประชาชาติมีใครบ้าง?",
+      "answer": "จีน ฝรั่งเศส รัสเซีย สหราชอาณาจักร และสหรัฐอเมริกา เรียกรวมว่า P5",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "recap-th-12",
+      "subject": "th",
+      "question": "ในคดีพิพาทระหว่างประเทศ ใครเข้าเป็นคู่ความต่อ ICJ ได้?",
+      "answer": "เฉพาะรัฐ และอำนาจพิจารณาคดีของศาลต้องมีฐานจากความยินยอมของรัฐที่เกี่ยวข้อง",
+      "refs": [
+        "icj"
+      ]
+    },
+    {
+      "id": "recap-th-13",
+      "subject": "th",
+      "question": "กฎบัตรสหประชาชาติข้อ 2(4) และข้อ 51 เกี่ยวกับอะไร?",
+      "answer": "ข้อ 2(4) ว่าด้วยการห้ามขู่หรือใช้กำลังในความสัมพันธ์ระหว่างประเทศตามขอบเขตของกฎบัตร ข้อ 51 รับรองสิทธิป้องกันตนเองโดยลำพังหรือร่วมกันเมื่อเกิดการโจมตีด้วยอาวุธ",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "recap-th-14",
+      "subject": "th",
+      "question": "อนุสัญญากรุงเวียนนา ค.ศ. 1961 กับ ค.ศ. 1963 ต่างกันอย่างไร?",
+      "answer": "ฉบับ 1961 ว่าด้วยความสัมพันธ์ทางการทูต ฉบับ 1963 ว่าด้วยความสัมพันธ์ทางกงสุล เช่น การช่วยเหลือคนชาติและการออกหนังสือเดินทาง",
+      "refs": [
+        "vienna",
+        "consular"
+      ]
+    },
+    {
+      "id": "recap-th-15",
+      "subject": "th",
+      "question": "หน้าที่หลักของคณะผู้แทนทางการทูตตามอนุสัญญากรุงเวียนนา ค.ศ. 1961 คืออะไร?",
+      "answer": "เป็นผู้แทนรัฐผู้ส่ง คุ้มครองผลประโยชน์ของรัฐและคนชาติ เจรจากับรัฐบาลรัฐผู้รับ ติดตามและรายงานสถานการณ์ด้วยวิธีที่ชอบด้วยกฎหมาย และส่งเสริมความสัมพันธ์ฉันมิตร",
+      "refs": [
+        "vienna"
+      ]
+    },
+    {
+      "id": "recap-th-16",
+      "subject": "th",
+      "question": "กรมการกงสุลเกี่ยวข้องกับงานประเภทใด?",
+      "answer": "ตัวอย่างคือหนังสือเดินทาง การตรวจลงตรา การรับรองเอกสาร และการคุ้มครองและดูแลผลประโยชน์ของคนไทยในต่างประเทศ",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "recap-th-17",
+      "subject": "th",
+      "question": "ความสัมพันธ์ทวิภาคีกับพหุภาคีต่างกันอย่างไร?",
+      "answer": "ทวิภาคีเกี่ยวข้องกับสองฝ่าย เช่น การเจรจาระหว่างไทยกับเมียนมา พหุภาคีเกี่ยวข้องกับหลายฝ่าย เช่น การหารือระหว่างสมาชิกอาเซียน",
+      "refs": [
+        "myanmar",
+        "chair"
+      ]
+    },
+    {
+      "id": "recap-th-18",
+      "subject": "th",
+      "question": "WTO ทำหน้าที่อะไร?",
+      "answer": "เป็นกรอบกติกาการค้าระหว่างสมาชิก เป็นเวทีเจรจา ติดตามนโยบายการค้า และมีกลไกระงับข้อพิพาททางการค้า",
+      "refs": [
+        "wto"
+      ]
+    },
+    {
+      "id": "recap-th-19",
+      "subject": "th",
+      "question": "หลัก MFN และ National Treatment ในการค้าระหว่างประเทศต่างกันอย่างไร?",
+      "answer": "MFN เปรียบเทียบการปฏิบัติต่อคู่ค้าต่างประเทศด้วยกัน ส่วน National Treatment เปรียบเทียบการปฏิบัติต่อสินค้านำเข้ากับสินค้าภายในเมื่อสินค้าเข้าสู่ตลาดแล้ว ภายใต้กติกาที่ใช้บังคับ",
+      "refs": [
+        "trade"
+      ]
+    },
+    {
+      "id": "recap-th-20",
+      "subject": "th",
+      "question": "APEC ทำงานโดยมีลักษณะสำคัญอย่างไร?",
+      "answer": "เป็นเวทีความร่วมมือทางเศรษฐกิจของ 21 เขตเศรษฐกิจ ใช้ฉันทามติและดำเนินงานโดยสมัครใจ ข้อผูกพันของเวทีไม่มีผลบังคับทางกฎหมาย",
+      "refs": [
+        "apec"
+      ]
+    },
+    {
+      "id": "recap-th-21",
+      "subject": "th",
+      "question": "RCEP คืออะไร?",
+      "answer": "Regional Comprehensive Economic Partnership หรือความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค เป็นความตกลงการค้าเสรีของ 15 ภาคี รวมถึงไทย จีน ญี่ปุ่น และเกาหลีใต้",
+      "refs": [
+        "rcep"
+      ]
+    },
+    {
+      "id": "recap-th-22",
+      "subject": "th",
+      "question": "ถ้าเงินบาทอ่อนค่าลง ผู้นำเข้าที่ต้องจ่ายเป็นดอลลาร์จะได้รับผลอย่างไร หากราคาดอลลาร์ของสินค้าเท่าเดิม?",
+      "answer": "ต้องใช้เงินบาทมากขึ้นเพื่อซื้อดอลลาร์จำนวนเดิม ต้นทุนเงินบาทจึงสูงขึ้นหากไม่มีการป้องกันความเสี่ยงค่าเงิน",
+      "refs": [
+        "fx"
+      ]
+    },
+    {
+      "id": "recap-th-23",
+      "subject": "th",
+      "question": "ความตกลงปารีสมีเป้าหมายด้านอุณหภูมิอย่างไร?",
+      "answer": "รักษาการเพิ่มขึ้นของอุณหภูมิเฉลี่ยโลกให้ต่ำกว่า 2°C มากเมื่อเทียบกับระดับก่อนอุตสาหกรรม และพยายามจำกัดไว้ที่ 1.5°C",
+      "refs": [
+        "paris"
+      ]
+    },
+    {
+      "id": "recap-th-24",
+      "subject": "th",
+      "question": "NDC ย่อมาจากอะไรในกรอบความตกลงปารีส?",
+      "answer": "Nationally Determined Contribution คือการมีส่วนร่วมที่ประเทศกำหนดเองด้านสภาพภูมิอากาศ ซึ่งแต่ละภาคีสื่อสารตามรอบ 5 ปี",
+      "refs": [
+        "ndc"
+      ]
+    },
+    {
+      "id": "recap-th-25",
+      "subject": "th",
+      "question": "SDGs มีกี่เป้าหมาย และอยู่ภายใต้วาระใด?",
+      "answer": "17 เป้าหมาย ภายใต้วาระการพัฒนาที่ยั่งยืน ค.ศ. 2030 ของสหประชาชาติ",
+      "refs": [
+        "sdg"
+      ]
+    },
+    {
+      "id": "recap-th-26",
+      "subject": "th",
+      "question": "เพราะเหตุใดอยุธยาจึงเป็นศูนย์กลางการค้าระหว่างประเทศในอดีต?",
+      "answer": "อยุธยาตั้งอยู่บนเกาะที่ล้อมรอบด้วยแม่น้ำ 3 สายและเชื่อมเส้นทางน้ำออกสู่ทะเล ทำให้เป็นจุดเชื่อมการค้ากับต่างประเทศ",
+      "refs": [
+        "ayutthaya"
+      ]
+    },
+    {
+      "id": "recap-th-27",
+      "subject": "th",
+      "question": "UNESCO ขึ้นทะเบียนสงกรานต์ไทยไว้ในบัญชีประเภทใด?",
+      "answer": "บัญชีตัวแทนมรดกวัฒนธรรมที่จับต้องไม่ได้ของมนุษยชาติ เมื่อปี 2566 (2023)",
+      "refs": [
+        "songkran"
+      ]
+    },
+    {
+      "id": "recap-th-28",
+      "subject": "th",
+      "question": "UPR ในระบบสิทธิมนุษยชนของสหประชาชาติคืออะไร?",
+      "answer": "Universal Periodic Review คือกลไกของคณะมนตรีสิทธิมนุษยชนที่รัฐสมาชิกสหประชาชาติทบทวนสถานการณ์สิทธิมนุษยชนของกันและกันเป็นรอบ",
+      "refs": [
+        "upr"
+      ]
+    },
+    {
+      "id": "recap-th-29",
+      "subject": "th",
+      "question": "วันที่ 12 พฤศจิกายน 2569 ไทยนำเสนอรายงานสิทธิมนุษยชนผ่านกลไกใด?",
+      "answer": "ไทยนำเสนอรายงานประเทศรอบที่ 4 ภายใต้กลไก Universal Periodic Review (UPR)",
+      "refs": [
+        "upr"
+      ]
+    },
+    {
+      "id": "recap-th-30",
+      "subject": "th",
+      "question": "ในการเยือนเมียนมา 12 พฤศจิกายน 2569 ไทยและเมียนมาเห็นพ้องจะจัดประชุมคณะทำงานด้านใด?",
+      "answer": "คณะทำงานร่วมด้านการบริหารจัดการคุณภาพน้ำในแม่น้ำข้ามพรมแดน เพื่อกำหนดแนวทางแก้ปัญหามลพิษที่กระทบทั้งสองประเทศ",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "recap-th-31",
+      "subject": "th",
+      "question": "ถ้าแม่น้ำข้ามแดนมีมลพิษและข้อมูลจากสองประเทศต่างกัน ควรเสนอขั้นตอนแรกอะไร?",
+      "answer": "ตัวอย่างคำตอบ ตั้งทีมร่วมเก็บตัวอย่างด้วยวิธีและช่วงเวลาเดียวกัน แลกเปลี่ยนผล แล้วกำหนดมาตรการจากหลักฐานที่ทั้งสองฝ่ายตรวจสอบได้",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "recap-en-01",
+      "subject": "en",
+      "question": "Choose the correct word. “The delegation agreed ___ the revised text.” (to / with / at)",
+      "answer": "to. “Agree to” fits a proposal, request, or text. “Agree with” commonly fits a person or opinion.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-02",
+      "subject": "en",
+      "question": "Choose the correct word. “The ministry is responsible ___ issuing passports.” (to / for / of)",
+      "answer": "for. The pattern is “responsible for” followed by a noun or an -ing form.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-03",
+      "subject": "en",
+      "question": "Choose the correct verb. “Neither of the two proposals ___ enough support.” (has / have)",
+      "answer": "has. In formal exam English, “neither of” is generally treated as singular.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-04",
+      "subject": "en",
+      "question": "Choose the correct verb. “A number of delegates ___ requested more time.” (has / have)",
+      "answer": "have. “A number of” means several. “The number of delegates” takes a singular verb.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-05",
+      "subject": "en",
+      "question": "Complete the sentence. “The committee ___ the report yesterday.” (approved / has approved)",
+      "answer": "approved. Use the simple past with a completed time reference such as “yesterday.”",
+      "refs": []
+    },
+    {
+      "id": "recap-en-06",
+      "subject": "en",
+      "question": "Complete the sentence. “Since taking office, she ___ three regional meetings.” (attended / has attended)",
+      "answer": "has attended. The present perfect fits a period that began in the past and continues to the present.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-07",
+      "subject": "en",
+      "question": "Choose the correct connector. “___ the talks were lengthy, the parties reached agreement.” (Although / Despite / Therefore)",
+      "answer": "Although. It introduces a clause with a subject and verb. “Despite” could introduce “the length of the talks.”",
+      "refs": []
+    },
+    {
+      "id": "recap-en-08",
+      "subject": "en",
+      "question": "Choose the correct connector. “The draft was incomplete. ___, the committee postponed the vote.” (Nevertheless / Therefore / Meanwhile)",
+      "answer": "Therefore. The second sentence states a consequence of the first.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-09",
+      "subject": "en",
+      "question": "Fill in the blank. “If the parties had shared data earlier, they ___ the problem sooner.” (will identify / would identify / would have identified)",
+      "answer": "would have identified. The sentence imagines a different outcome in the past.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-10",
+      "subject": "en",
+      "question": "Choose the correct form. “The chair recommended that the committee ___ the draft.” (revises / revise / revised)",
+      "answer": "revise. The base form follows “recommended that” in this construction.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-11",
+      "subject": "en",
+      "question": "What does “reiterate” mean in “The delegation reiterated its support for the proposal”?",
+      "answer": "To state something again, often for emphasis.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-12",
+      "subject": "en",
+      "question": "What does “mitigate” mean in “The measures aim to mitigate the impact of flooding”?",
+      "answer": "To make the impact less severe.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-13",
+      "subject": "en",
+      "question": "What does “pending” mean in “The decision is pending further review”?",
+      "answer": "The decision is on hold while further review takes place.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-14",
+      "subject": "en",
+      "question": "What does “enter into force” mean when used of a treaty?",
+      "answer": "To become legally operative under the applicable conditions.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-15",
+      "subject": "en",
+      "question": "What does “subject to approval” mean in “The arrangement is subject to cabinet approval”?",
+      "answer": "The arrangement depends on the cabinet giving its approval.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-16",
+      "subject": "en",
+      "question": "Read and infer. “All parties accepted the objectives. However, two delegations requested more time to assess the funding mechanism.” What remains unresolved?",
+      "answer": "The funding mechanism. The objectives already have all parties’ support.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-17",
+      "subject": "en",
+      "question": "Read and infer. “The pilot reduced processing times in urban offices. Rural offices were excluded because they lacked reliable connectivity.” Can the same impact be inferred for rural offices?",
+      "answer": "No. The pilot provides no results for rural offices because they were excluded.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-18",
+      "subject": "en",
+      "question": "Choose the closest paraphrase. “The measure may improve access, provided that funding is sustained.” (A) Better access is guaranteed. (B) Better access is possible if funding continues. (C) Funding stops once access improves.",
+      "answer": "B. “Provided that” introduces a condition. “May” indicates possibility.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-19",
+      "subject": "en",
+      "question": "Choose the best word. “The parties exchanged views ___ the draft agreement.” (on / at / by)",
+      "answer": "on. “Exchange views on” introduces the topic under discussion.",
+      "refs": []
+    },
+    {
+      "id": "recap-en-20",
+      "subject": "en",
+      "question": "What does “address” mean in “The parties agreed to address the shortage”?",
+      "answer": "To deal with the shortage or take action on it.",
+      "refs": []
+    }
+  ]
+}

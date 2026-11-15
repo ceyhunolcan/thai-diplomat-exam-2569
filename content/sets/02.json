@@ -1,0 +1,288 @@
+{
+  "id": "set-2",
+  "title": "สหประชาชาติและกฎหมาย",
+  "kind": "study",
+  "level": 1,
+  "questions": [
+    {
+      "id": "set-2-th-01",
+      "subject": "th",
+      "question": "หน่วยงานใดเป็นองค์กรตุลาการหลักของสหประชาชาติ?",
+      "answer": "ศาลยุติธรรมระหว่างประเทศ (ICJ)",
+      "options": [
+        "ศาลยุติธรรมระหว่างประเทศ (ICJ)",
+        "ศาลอาญาระหว่างประเทศ (ICC)",
+        "ศาลอนุญาโตตุลาการถาวร (PCA)"
+      ],
+      "explanation": "กฎบัตรสหประชาชาติ ข้อ 92 กำหนดสถานะของ ICJ",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-2-th-02",
+      "subject": "th",
+      "question": "ประเทศหนึ่งมีสมาชิกภาพใน UNGA โดยทั่วไปมีสิทธิออกเสียงกี่เสียง?",
+      "answer": "หนึ่งเสียง",
+      "options": [
+        "หนึ่งเสียง",
+        "ตามจำนวนประชากร",
+        "หนึ่งเสียงต่อคณะผู้แทนย่อย"
+      ],
+      "explanation": "กฎบัตรข้อ 18 ให้สมาชิกสมัชชาใหญ่แต่ละประเทศมีหนึ่งเสียง",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-2-th-03",
+      "subject": "th",
+      "question": "ประเทศใดมีที่นั่งถาวรในคณะมนตรีความมั่นคง UN?",
+      "answer": "ฝรั่งเศส",
+      "options": [
+        "ฝรั่งเศส",
+        "เยอรมนี",
+        "ญี่ปุ่น"
+      ],
+      "explanation": "ฝรั่งเศสเป็นหนึ่งใน P5 ร่วมกับจีน รัสเซีย สหราชอาณาจักร และสหรัฐฯ",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-2-th-04",
+      "subject": "th",
+      "question": "คณะมนตรีความมั่นคง UN มีสมาชิกทั้งหมดกี่ประเทศ?",
+      "answer": "15 ประเทศ",
+      "options": [
+        "15 ประเทศ",
+        "10 ประเทศ",
+        "5 ประเทศ"
+      ],
+      "explanation": "มีสมาชิกถาวร 5 และสมาชิกไม่ถาวร 10",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-2-th-05",
+      "subject": "th",
+      "question": "องค์กรใดเป็นกลไกหลักด้านการหารือและประสานงานเศรษฐกิจและสังคมในระบบ UN?",
+      "answer": "ECOSOC",
+      "options": [
+        "ECOSOC",
+        "ICJ",
+        "คณะมนตรีภาวะทรัสตี"
+      ],
+      "explanation": "ECOSOC ย่อมาจาก Economic and Social Council",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-2-th-06",
+      "subject": "th",
+      "question": "สนธิสัญญาที่ใช้กับงานด้านวีซ่าและการช่วยเหลือคนชาติในต่างประเทศโดยตรงคือฉบับใด?",
+      "answer": "อนุสัญญากรุงเวียนนาว่าด้วยความสัมพันธ์ทางกงสุล ค.ศ. 1963",
+      "options": [
+        "อนุสัญญากรุงเวียนนาว่าด้วยความสัมพันธ์ทางกงสุล ค.ศ. 1963",
+        "อนุสัญญากรุงเวียนนาว่าด้วยความสัมพันธ์ทางการทูต ค.ศ. 1961",
+        "อนุสัญญากรุงเวียนนาว่าด้วยกฎหมายสนธิสัญญา ค.ศ. 1969"
+      ],
+      "explanation": "หน้าที่กงสุลอยู่ในข้อ 5 ของอนุสัญญา ค.ศ. 1963",
+      "refs": [
+        "consular"
+      ]
+    },
+    {
+      "id": "set-2-th-07",
+      "subject": "th",
+      "question": "ข้อใดเป็นตัวอย่างการระงับข้อพิพาทโดยสันติภายใต้กฎบัตร UN?",
+      "answer": "การไกล่เกลี่ย",
+      "options": [
+        "การไกล่เกลี่ย",
+        "การยึดทรัพย์ทางเศรษฐกิจโดยอัตโนมัติ",
+        "การตัดความสัมพันธ์ทางทูต"
+      ],
+      "explanation": "ข้อ 33 ระบุวิธี เช่น เจรจา ไกล่เกลี่ย อนุญาโตตุลาการ และการระงับข้อพิพาททางศาล",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "set-2-th-08",
+      "subject": "th",
+      "question": "กฎหมายทะเลระหว่างประเทศฉบับใดกำหนดกรอบเรื่องทะเลอาณาเขตและเขตเศรษฐกิจจำเพาะ?",
+      "answer": "UNCLOS",
+      "options": [
+        "UNCLOS",
+        "UNFCCC",
+        "อนุสัญญาว่าด้วยความหลากหลายทางชีวภาพ"
+      ],
+      "explanation": "UNCLOS คืออนุสัญญาสหประชาชาติว่าด้วยกฎหมายทะเล",
+      "refs": [
+        "sea"
+      ]
+    },
+    {
+      "id": "set-2-th-09",
+      "subject": "th",
+      "question": "รัฐชายฝั่งกำหนดความกว้างทะเลอาณาเขตได้ไม่เกินเท่าใดจากเส้นฐาน?",
+      "answer": "12 ไมล์ทะเล",
+      "options": [
+        "12 ไมล์ทะเล",
+        "24 ไมล์ทะเล",
+        "200 ไมล์ทะเล"
+      ],
+      "explanation": "ข้อ 3 ของ UNCLOS กำหนดเพดาน 12 ไมล์ทะเล",
+      "refs": [
+        "sea"
+      ]
+    },
+    {
+      "id": "set-2-th-10",
+      "subject": "th",
+      "question": "เอกสิทธิ์และความคุ้มกันทางการทูตมุ่งให้เกิดผลใด?",
+      "answer": "ให้คณะผู้แทนทางการทูตปฏิบัติหน้าที่ได้อย่างมีประสิทธิภาพ",
+      "options": [
+        "ให้คณะผู้แทนทางการทูตปฏิบัติหน้าที่ได้อย่างมีประสิทธิภาพ",
+        "ยกเว้นหน้าที่เคารพกฎหมายของรัฐผู้รับ",
+        "โอนอำนาจตุลาการของรัฐผู้รับไปยังรัฐผู้ส่งทั้งหมด"
+      ],
+      "explanation": "อารัมภบทของอนุสัญญา ค.ศ. 1961 อธิบายวัตถุประสงค์ด้านการทำหน้าที่ของคณะผู้แทน",
+      "refs": [
+        "vienna"
+      ]
+    },
+    {
+      "id": "set-2-en-01",
+      "subject": "en",
+      "question": "Please send the documents ___ Friday at the latest.",
+      "answer": "by",
+      "options": [
+        "by",
+        "since",
+        "during"
+      ],
+      "explanation": "“By” sets the latest acceptable time.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-02",
+      "subject": "en",
+      "question": "Choose the natural phrase. “The embassy ___ assistance to stranded travelers.”",
+      "answer": "provided",
+      "options": [
+        "provided",
+        "performed",
+        "committed"
+      ],
+      "explanation": "“Provide assistance” is the usual collocation.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-03",
+      "subject": "en",
+      "question": "The organization works ___ governments to improve access to services.",
+      "answer": "with",
+      "options": [
+        "with",
+        "at",
+        "during"
+      ],
+      "explanation": "Here “with” identifies partners.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-04",
+      "subject": "en",
+      "question": "The members ___ their decision after a short break.",
+      "answer": "announced",
+      "options": [
+        "announced",
+        "announcement",
+        "announcing"
+      ],
+      "explanation": "The sentence needs a finite verb.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-05",
+      "subject": "en",
+      "question": "Which word best fits? “The parties reached an ___ after two days of talks.”",
+      "answer": "agreement",
+      "options": [
+        "agreement",
+        "agree",
+        "agreeable"
+      ],
+      "explanation": "The article “an” introduces a singular noun.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-06",
+      "subject": "en",
+      "question": "“The copies are identical.” What does “identical” mean?",
+      "answer": "Exactly the same",
+      "options": [
+        "Exactly the same",
+        "Equally important",
+        "Related but different"
+      ],
+      "explanation": "“Identical” stresses sameness.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-07",
+      "subject": "en",
+      "question": "Which sentence keeps the meaning of “The office is closed on Sundays”?",
+      "answer": "The office does not open on Sundays.",
+      "options": [
+        "The office does not open on Sundays.",
+        "The office is closed until Sunday.",
+        "The office closes only at noon on Sundays."
+      ],
+      "explanation": "The sentence describes a recurring Sunday closure.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-08",
+      "subject": "en",
+      "question": "Choose “fewer” or “less.” “The second round attracted ___ applicants.”",
+      "answer": "fewer",
+      "options": [
+        "fewer",
+        "less",
+        "least"
+      ],
+      "explanation": "Use “fewer” with plural count nouns in formal usage.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-09",
+      "subject": "en",
+      "question": "“Applicants must show an original ID. Photocopies will not be accepted.” What is required?",
+      "answer": "The original ID",
+      "options": [
+        "The original ID",
+        "Any printed copy",
+        "A photo of the ID on a phone"
+      ],
+      "explanation": "The text expressly requires the original.",
+      "refs": []
+    },
+    {
+      "id": "set-2-en-10",
+      "subject": "en",
+      "question": "Which request is most appropriate in a formal email?",
+      "answer": "Could you please confirm receipt of the documents?",
+      "options": [
+        "Could you please confirm receipt of the documents?",
+        "You need to tell me you got those papers ASAP.",
+        "Got the papers or what?"
+      ],
+      "explanation": "The first version is clear and courteous.",
+      "refs": []
+    }
+  ]
+}

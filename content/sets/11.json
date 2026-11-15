@@ -1,0 +1,289 @@
+{
+  "id": "set-11",
+  "title": "การค้า ค่าเงิน และภูมิอากาศ",
+  "kind": "study",
+  "level": 3,
+  "questions": [
+    {
+      "id": "set-11-th-01",
+      "subject": "th",
+      "question": "ผู้นำเข้าจ่าย 100,000 ดอลลาร์ ค่าเงินเปลี่ยนจาก 34 เป็น 36 บาทต่อดอลลาร์ และไม่มีการป้องกันความเสี่ยง ต้นทุนเงินบาทเปลี่ยนเท่าใด?",
+      "answer": "เพิ่ม 200,000 บาท",
+      "options": [
+        "เพิ่ม 200,000 บาท",
+        "ลด 200,000 บาท",
+        "เพิ่ม 20,000 บาท"
+      ],
+      "explanation": "ส่วนต่าง 2 บาทต่อดอลลาร์คูณด้วย 100,000 ดอลลาร์",
+      "refs": [
+        "fx"
+      ]
+    },
+    {
+      "id": "set-11-th-02",
+      "subject": "th",
+      "question": "ผู้ส่งออกมีรายรับ 100,000 ดอลลาร์และต้นทุนวัตถุดิบ 60,000 ดอลลาร์ในงวดเดียวกัน ค่าเงินเปลี่ยนจาก 34 เป็น 36 บาทต่อดอลลาร์ ส่วนต่างก่อนต้นทุนอื่นเปลี่ยนอย่างไร?",
+      "answer": "เพิ่ม 80,000 บาท",
+      "options": [
+        "เพิ่ม 80,000 บาท",
+        "เพิ่ม 200,000 บาท",
+        "ลด 120,000 บาท"
+      ],
+      "explanation": "ฐานะสุทธิเป็นรายรับ 40,000 ดอลลาร์ คูณกับส่วนต่าง 2 บาทต่อดอลลาร์",
+      "refs": [
+        "fx"
+      ]
+    },
+    {
+      "id": "set-11-th-03",
+      "subject": "th",
+      "question": "เพิ่มอากรให้สินค้าจากสมาชิก X เท่านั้นและเพิ่มภาษีภายในให้สินค้านำเข้าทุกแหล่งเมื่อเทียบกับสินค้าท้องถิ่นที่เหมือนกัน ควรตรวจประเด็นใดตามลำดับ?",
+      "answer": "MFN แล้ว National Treatment",
+      "options": [
+        "MFN แล้ว National Treatment",
+        "National Treatment แล้ว MFN",
+        "กฎถิ่นกำเนิด แล้ว safeguard"
+      ],
+      "explanation": "อากรต่างกันตามแหล่งสะท้อน MFN และภาษีภายในต่างกันตามสถานะนำเข้าสะท้อน National Treatment",
+      "refs": [
+        "trade"
+      ]
+    },
+    {
+      "id": "set-11-th-04",
+      "subject": "th",
+      "question": "ข้อใดจำแนกมาตรการ safeguard ออกจาก anti-dumping ได้ดีที่สุด?",
+      "answer": "Safeguard เน้นการนำเข้าเพิ่มและความเสียหายร้ายแรง ส่วน anti-dumping ต้องตรวจการทุ่มตลาดและความเสียหายตามเกณฑ์",
+      "options": [
+        "Safeguard เน้นการนำเข้าเพิ่มและความเสียหายร้ายแรง ส่วน anti-dumping ต้องตรวจการทุ่มตลาดและความเสียหายตามเกณฑ์",
+        "ทั้งสองมาตรการต้องพิสูจน์เงินอุดหนุนของรัฐบาลผู้ส่งออก",
+        "Safeguard ใช้เพียงเมื่อผู้ส่งออกตั้งราคาต่ำกว่ามูลค่าปกติ"
+      ],
+      "explanation": "ฐานข้อเท็จจริงและเกณฑ์ความเสียหายของมาตรการสองประเภทต่างกัน",
+      "refs": [
+        "safeguard",
+        "wtoGloss"
+      ]
+    },
+    {
+      "id": "set-11-th-05",
+      "subject": "th",
+      "question": "ผู้ผลิตไทยใช้วัตถุดิบจากภาคี RCEP ต้องตัดสินถิ่นกำเนิดอย่างไร?",
+      "answer": "ตรวจว่าปัจจัยการผลิตมีถิ่นกำเนิดตามเกณฑ์ และตรวจเงื่อนไขสะสมถิ่นกำเนิดกับกฎรายสินค้า",
+      "options": [
+        "ตรวจว่าปัจจัยการผลิตมีถิ่นกำเนิดตามเกณฑ์ และตรวจเงื่อนไขสะสมถิ่นกำเนิดกับกฎรายสินค้า",
+        "ถือว่าสินค้าผ่านเพียงเพราะซื้อวัตถุดิบจากผู้ขายที่จดทะเบียนในภาคี",
+        "ดูเพียงสัญชาติของเจ้าของโรงงาน"
+      ],
+      "explanation": "สถานที่ซื้ออย่างเดียวไม่ยืนยันสถานะถิ่นกำเนิด",
+      "refs": [
+        "rcep"
+      ]
+    },
+    {
+      "id": "set-11-th-06",
+      "subject": "th",
+      "question": "หากนักท่องเที่ยวต่างชาติจ่ายค่าบริการโรงแรมในไทย และคนไทยซื้อพันธบัตรต่างประเทศ รายการเกี่ยวข้องกับบัญชีใดตามลำดับ?",
+      "answer": "บัญชีเดินสะพัด แล้วบัญชีการเงิน",
+      "options": [
+        "บัญชีเดินสะพัด แล้วบัญชีการเงิน",
+        "บัญชีการเงิน แล้วบัญชีเดินสะพัด",
+        "บัญชีทุนทั้งสองรายการ"
+      ],
+      "explanation": "บริการท่องเที่ยวอยู่ในบัญชีเดินสะพัด และการซื้อหลักทรัพย์เป็นการลงทุนในบัญชีการเงิน",
+      "refs": [
+        "bop"
+      ]
+    },
+    {
+      "id": "set-11-th-07",
+      "subject": "th",
+      "question": "ความตกลงปารีสข้อ 13 กับข้อ 14 แยกหน้าที่อย่างไร?",
+      "answer": "ข้อ 13 วางกรอบความโปร่งใส ส่วนข้อ 14 ประเมินความก้าวหน้าร่วมผ่าน Global Stocktake",
+      "options": [
+        "ข้อ 13 วางกรอบความโปร่งใส ส่วนข้อ 14 ประเมินความก้าวหน้าร่วมผ่าน Global Stocktake",
+        "ข้อ 13 ตั้งเป้าหมายอุณหภูมิ ส่วนข้อ 14 กำหนดภาษีคาร์บอนเดียวทั่วโลก",
+        "ข้อ 13 และ 14 ต่างให้อำนาจกำหนดคะแนนและปรับรัฐโดยอัตโนมัติ"
+      ],
+      "explanation": "การรายงานและทบทวนข้อมูลสนับสนุนการประเมินรวม แต่สองข้อทำหน้าที่ต่างกัน",
+      "refs": [
+        "parisText"
+      ]
+    },
+    {
+      "id": "set-11-th-08",
+      "subject": "th",
+      "question": "เมื่อจะประเมินว่านโยบายภูมิอากาศลดการปล่อยจริง ควรเลือกตัวชี้วัดใด?",
+      "answer": "ปริมาณการปล่อยที่วัดหรือประมาณตามวิธีเดียวกันและเทียบกับฐานที่ชัดเจน",
+      "options": [
+        "ปริมาณการปล่อยที่วัดหรือประมาณตามวิธีเดียวกันและเทียบกับฐานที่ชัดเจน",
+        "จำนวนสไลด์ที่นำเสนอในที่ประชุม",
+        "ยอดผู้เข้าร่วมรับฟังเพียงอย่างเดียว"
+      ],
+      "explanation": "ใช้ตัวชี้วัดที่สัมพันธ์กับผลที่อ้าง และระบุวิธีเปรียบเทียบ",
+      "refs": [
+        "parisText"
+      ]
+    },
+    {
+      "id": "set-11-th-09",
+      "subject": "th",
+      "question": "ประเทศหนึ่งประกาศ NDC สูงขึ้น ข้อใดสรุปได้จากการประกาศอย่างเดียว?",
+      "answer": "ระดับความมุ่งหมายที่สื่อสารเปลี่ยน ส่วนผลที่เกิดต้องดูการดำเนินงานและข้อมูลการปล่อย",
+      "options": [
+        "ระดับความมุ่งหมายที่สื่อสารเปลี่ยน ส่วนผลที่เกิดต้องดูการดำเนินงานและข้อมูลการปล่อย",
+        "การปล่อยลดลงเท่ากับเป้าหมายทันที",
+        "ทุกประเทศต้องเปลี่ยนเป้าหมายให้เท่ากัน"
+      ],
+      "explanation": "เป้าหมายกับการดำเนินการและผลจริงเป็นข้อมูลคนละระดับ",
+      "refs": [
+        "ndc"
+      ]
+    },
+    {
+      "id": "set-11-th-10",
+      "subject": "th",
+      "question": "SDR ของ IMF มีสถานะใด?",
+      "answer": "สินทรัพย์สำรองระหว่างประเทศที่ IMF สร้างขึ้น",
+      "options": [
+        "สินทรัพย์สำรองระหว่างประเทศที่ IMF สร้างขึ้น",
+        "สกุลเงินสากลที่ประชาชนใช้ชำระค่าสินค้าได้โดยทั่วไป",
+        "สิทธิออกเสียงใน WTO"
+      ],
+      "explanation": "SDR เป็นสินทรัพย์สำรอง และแลกเป็นสกุลเงินที่ใช้ได้โดยเสรีได้ตามกลไก",
+      "refs": [
+        "sdr"
+      ]
+    },
+    {
+      "id": "set-11-en-01",
+      "subject": "en",
+      "question": "“The headline rate eased, yet the index itself continued to rise.” What is consistent with that statement?",
+      "answer": "Prices rose more slowly.",
+      "options": [
+        "Prices rose more slowly.",
+        "Prices necessarily fell.",
+        "The index fell because it was unchanged."
+      ],
+      "explanation": "A lower positive growth rate can coexist with a higher index level.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-02",
+      "subject": "en",
+      "question": "“The policy was associated with lower costs, after adjusting for firm size.” Which claim is justified?",
+      "answer": "There was an adjusted association. Causation needs further evidence.",
+      "options": [
+        "There was an adjusted association. Causation needs further evidence.",
+        "The estimate proves the policy lowered costs for each firm.",
+        "Firm size caused the policy change."
+      ],
+      "explanation": "Adjustment helps address one factor but does not by itself establish causality.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-03",
+      "subject": "en",
+      "question": "Choose the word that fits. “The baseline is uncertain, so the estimate should be treated as ___.”",
+      "answer": "provisional",
+      "options": [
+        "provisional",
+        "prescriptive",
+        "definitive"
+      ],
+      "explanation": "“Provisional” means subject to revision after further information.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-04",
+      "subject": "en",
+      "question": "“Although revenue rose in nominal terms, it fell after adjusting for inflation.” What happened in real terms?",
+      "answer": "Revenue fell.",
+      "options": [
+        "Revenue fell.",
+        "Revenue rose by the nominal increase.",
+        "Revenue was unchanged."
+      ],
+      "explanation": "Inflation-adjusted values are real values.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-05",
+      "subject": "en",
+      "question": "“Had the exchange rate remained stable, the foreign-exchange loss would have been smaller.” What does the sentence imply about the actual exchange rate?",
+      "answer": "It did not remain stable.",
+      "options": [
+        "It did not remain stable.",
+        "It did remain stable.",
+        "Its exact percentage change is disclosed."
+      ],
+      "explanation": "The past counterfactual describes a condition that did not hold.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-06",
+      "subject": "en",
+      "question": "“The estimate holds other factors constant.” What limitation follows?",
+      "answer": "It describes a modeled comparison allowing for an assumption about other factors.",
+      "options": [
+        "It describes a modeled comparison allowing for an assumption about other factors.",
+        "It proves all other factors actually stayed unchanged.",
+        "It requires every factor to change simultaneously."
+      ],
+      "explanation": "“Holding constant” can be an analytical assumption rather than a description of observed conditions.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-07",
+      "subject": "en",
+      "question": "Choose the best connector. “Demand fell. Rising input costs, ___, kept prices high.”",
+      "answer": "however",
+      "options": [
+        "however",
+        "therefore",
+        "similarly"
+      ],
+      "explanation": "“However” introduces the countervailing factor.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-08",
+      "subject": "en",
+      "question": "“Several firms diversified their suppliers to hedge against disruption.” What was their purpose?",
+      "answer": "Reduce exposure to supply disruption",
+      "options": [
+        "Reduce exposure to supply disruption",
+        "Guarantee disruption could never occur",
+        "Consolidate purchases with one supplier"
+      ],
+      "explanation": "To hedge against a risk is to reduce exposure to it.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-09",
+      "subject": "en",
+      "question": "“The decline was concentrated in two sectors.” What can be inferred?",
+      "answer": "Two sectors accounted for a substantial part of the decline.",
+      "options": [
+        "Two sectors accounted for a substantial part of the decline.",
+        "Every sector contributed equally.",
+        "No other sector could have declined."
+      ],
+      "explanation": "“Concentrated” describes where the decline was most pronounced.",
+      "refs": []
+    },
+    {
+      "id": "set-11-en-10",
+      "subject": "en",
+      "question": "Which conclusion preserves the qualification? “The results are robust to alternative assumptions within the tested range.”",
+      "answer": "The results are stable across the tested assumptions.",
+      "options": [
+        "The results are stable across the tested assumptions.",
+        "The results hold under every possible assumption.",
+        "The results must change under any untested assumption."
+      ],
+      "explanation": "The conclusion is limited to the alternatives examined.",
+      "refs": []
+    }
+  ]
+}

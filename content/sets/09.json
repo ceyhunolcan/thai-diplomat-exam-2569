@@ -1,0 +1,289 @@
+{
+  "id": "set-9",
+  "title": "ภูมิภาคและการเจรจา",
+  "kind": "study",
+  "level": 3,
+  "questions": [
+    {
+      "id": "set-9-th-01",
+      "subject": "th",
+      "question": "สมาชิกอาเซียนหนึ่งประเทศขอเลื่อนการเข้าร่วมมาตรการเศรษฐกิจ ข้อใดอธิบาย ASEAN Minus X ตามกฎบัตรได้ดีที่สุด?",
+      "answer": "ใช้ความยืดหยุ่นในการปฏิบัติตามข้อผูกพันทางเศรษฐกิจได้เมื่อมีฉันทามติ",
+      "options": [
+        "ใช้ความยืดหยุ่นในการปฏิบัติตามข้อผูกพันทางเศรษฐกิจได้เมื่อมีฉันทามติ",
+        "บังคับใช้ทุกมติที่มีผู้คัดค้านหนึ่งประเทศได้ทันที",
+        "ใช้กับทุกประเด็นการเมืองโดยอัตโนมัติ"
+      ],
+      "explanation": "ข้อ 21(2) ระบุขอบเขตเศรษฐกิจและเงื่อนไขฉันทามติ",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-9-th-02",
+      "subject": "th",
+      "question": "เมื่อมีการไม่ปฏิบัติตามกฎบัตรอาเซียนอย่างร้ายแรง ควรส่งเรื่องไปที่ใดตามข้อ 20(4)?",
+      "answer": "ที่ประชุมสุดยอดอาเซียน",
+      "options": [
+        "ที่ประชุมสุดยอดอาเซียน",
+        "คณะมนตรีความมั่นคง UN โดยอัตโนมัติ",
+        "ศาลยุติธรรมระหว่างประเทศโดยไม่ต้องมีฐานอำนาจ"
+      ],
+      "explanation": "กฎบัตรกำหนดให้เรื่องการฝ่าฝืนร้ายแรงหรือไม่ปฏิบัติตามส่งถึงที่ประชุมสุดยอด",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-9-th-03",
+      "subject": "th",
+      "question": "รัฐคู่เจรจาต้องการเข้าร่วมอาเซียน ข้อใดระบุเงื่อนไขการรับสมาชิกรายใหม่ได้ตรงที่สุด?",
+      "answer": "ที่ประชุมสุดยอดตัดสินโดยฉันทามติบนข้อเสนอแนะของคณะมนตรีประสานงานอาเซียน",
+      "options": [
+        "ที่ประชุมสุดยอดตัดสินโดยฉันทามติบนข้อเสนอแนะของคณะมนตรีประสานงานอาเซียน",
+        "เลขาธิการตัดสินโดยให้นับเสียงคู่เจรจา",
+        "รัฐผู้สมัครเข้าเป็นสมาชิกได้ทันทีเมื่อเป็นคู่เจรจาครบระยะเวลา"
+      ],
+      "explanation": "กฎบัตรข้อ 6 แยกเกณฑ์คุณสมบัติและกระบวนการรับเข้า",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-9-th-04",
+      "subject": "th",
+      "question": "สองสมาชิกอาเซียนเห็นต่างเรื่องมาตรฐานหนึ่ง โดยมีทั้งเป้าหมายร่วมและข้อจำกัดการปฏิบัติ ข้อเสนอแรกที่เหมาะสมคืออะไร?",
+      "answer": "หารือข้อกังวลและร่างกรอบติดตามที่ทั้งสองฝ่ายตรวจสอบได้",
+      "options": [
+        "หารือข้อกังวลและร่างกรอบติดตามที่ทั้งสองฝ่ายตรวจสอบได้",
+        "ประกาศว่าข้อกังวลหมดไปเพราะมีเป้าหมายร่วม",
+        "เสนอให้ตีความความเงียบของอีกฝ่ายเป็นการยอมรับโดยทันที"
+      ],
+      "explanation": "การหารือก่อนตัดสินใจช่วยระบุเงื่อนไขที่ทำให้เกิดฉันทามติ",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "set-9-th-05",
+      "subject": "th",
+      "question": "หากต้องประเมินความคืบหน้าด้านมนุษยธรรมตามฉันทามติ 5 ข้อ ตัวชี้วัดใดสะท้อนผลโดยตรงที่สุด?",
+      "answer": "สัดส่วนครัวเรือนเป้าหมายที่ได้รับความช่วยเหลือตามเกณฑ์ที่ตรวจสอบได้",
+      "options": [
+        "สัดส่วนครัวเรือนเป้าหมายที่ได้รับความช่วยเหลือตามเกณฑ์ที่ตรวจสอบได้",
+        "จำนวนครั้งที่ออกแถลงการณ์รับรองเป้าหมาย",
+        "จำนวนการประชุมที่กำหนดไว้แต่ยังไม่จัด"
+      ],
+      "explanation": "วัดการเข้าถึงความช่วยเหลือจริงเพื่อประเมินผลด้านมนุษยธรรม",
+      "refs": [
+        "five"
+      ]
+    },
+    {
+      "id": "set-9-th-06",
+      "subject": "th",
+      "question": "ASEAN เป็นเจ้าภาพเวทีหารือเรื่องความมั่นคงระดับรัฐมนตรีและเวทียุทธศาสตร์ระดับผู้นำ ควรจับคู่ตามลำดับอย่างไร?",
+      "answer": "ARF แล้ว EAS",
+      "options": [
+        "ARF แล้ว EAS",
+        "EAS แล้ว ARF",
+        "AHA Centre แล้ว APEC"
+      ],
+      "explanation": "ARF กับ EAS ต่างกันทั้งระดับผู้เข้าร่วมและบทบาท",
+      "refs": [
+        "external"
+      ]
+    },
+    {
+      "id": "set-9-th-07",
+      "subject": "th",
+      "question": "สถานการณ์สมมติที่ประเทศต้นน้ำและปลายน้ำโต้แย้งสาเหตุของมลพิษ ควรดำเนินการใดก่อนตัดสินข้อกล่าวหา?",
+      "answer": "ตกลงแผนเก็บข้อมูลร่วมและกำหนดการตรวจทวนอิสระ",
+      "options": [
+        "ตกลงแผนเก็บข้อมูลร่วมและกำหนดการตรวจทวนอิสระ",
+        "สรุปแหล่งกำเนิดจากข้อมูลเฉลี่ยปลายน้ำเพียงจุดเดียว",
+        "ตั้งเงื่อนไขว่าต้องตกลงฝ่ายรับผิดก่อนเก็บตัวอย่าง"
+      ],
+      "explanation": "การวัดที่ตรวจสอบได้ช่วยแยกข้อเท็จจริงจากข้อกล่าวหา",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "set-9-th-08",
+      "subject": "th",
+      "question": "หากข่าวหนึ่งบอกว่ากลุ่มประเทศ “reaffirmed their commitment” ต่อความตกลง คำอธิบายใดรัดกุมที่สุด?",
+      "answer": "กลุ่มยืนยันเจตนารมณ์เดิม ส่วนการเปลี่ยนพันธกรณีต้องตรวจเอกสารที่เกี่ยวข้อง",
+      "options": [
+        "กลุ่มยืนยันเจตนารมณ์เดิม ส่วนการเปลี่ยนพันธกรณีต้องตรวจเอกสารที่เกี่ยวข้อง",
+        "กลุ่มได้แก้ไขตัวบทโดยอัตโนมัติ",
+        "กลุ่มให้สัตยาบันความตกลงใหม่แล้วทุกประเทศ"
+      ],
+      "explanation": "ถ้อยคำยืนยันทางการเมืองเพียงอย่างเดียวไม่ยืนยันการแก้ไขสนธิสัญญา",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "set-9-th-09",
+      "subject": "th",
+      "question": "ข้อใดเป็นตัวอย่างการติดตามผลของแผนงานภูมิภาคที่แยกกิจกรรมออกจากผลลัพธ์ได้ดีที่สุด?",
+      "answer": "จำนวนการอบรมเป็นกิจกรรม ส่วนเวลาที่ใช้ร่วมตอบสนองภัยพิบัติเป็นตัววัดผลลัพธ์",
+      "options": [
+        "จำนวนการอบรมเป็นกิจกรรม ส่วนเวลาที่ใช้ร่วมตอบสนองภัยพิบัติเป็นตัววัดผลลัพธ์",
+        "จำนวนการประชุมคือผลสำเร็จของการช่วยเหลือผู้ประสบภัยโดยตรง",
+        "จำนวนเอกสารที่แจกและจำนวนหน้ารายงานเป็นผลลัพธ์สุดท้ายเท่านั้น"
+      ],
+      "explanation": "งานที่จัดขึ้นกับการเปลี่ยนแปลงหน้างานเป็นคนละระดับการวัด",
+      "refs": [
+        "aha"
+      ]
+    },
+    {
+      "id": "set-9-th-10",
+      "subject": "th",
+      "question": "หากเอกสารวิสัยทัศน์อาเซียนฉบับหนึ่งกำหนดเป้าหมาย แต่ไม่กำหนดอัตราอากร ข้อใดเป็นวิธีหาสิทธิอากรของสินค้าจริง?",
+      "answer": "ตรวจความตกลงการค้า ตารางข้อผูกพัน และกฎถิ่นกำเนิดที่เกี่ยวข้อง",
+      "options": [
+        "ตรวจความตกลงการค้า ตารางข้อผูกพัน และกฎถิ่นกำเนิดที่เกี่ยวข้อง",
+        "ใช้ปีในชื่อวิสัยทัศน์แทนอัตราอากร",
+        "ยึดแถลงการณ์ทางการเมืองเสมือนตารางลดภาษี"
+      ],
+      "explanation": "สิทธิอากรขึ้นกับตัวบทและตารางข้อผูกพันทางการค้า",
+      "refs": [
+        "vision",
+        "rcep"
+      ]
+    },
+    {
+      "id": "set-9-en-01",
+      "subject": "en",
+      "question": "Only after the final delegation arrived ___ the chair open the session.",
+      "answer": "did",
+      "options": [
+        "did",
+        "had",
+        "was"
+      ],
+      "explanation": "After fronted “only after,” the main clause uses subject–auxiliary inversion.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-02",
+      "subject": "en",
+      "question": "The delegations agreed on principles, the implementation of ___ would be reviewed annually.",
+      "answer": "which",
+      "options": [
+        "which",
+        "whose",
+        "whom"
+      ],
+      "explanation": "“Of which” refers back to the principles.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-03",
+      "subject": "en",
+      "question": "The chair’s statement signals convergence on the agenda, but it stops short of endorsing the draft. What is supported?",
+      "answer": "There was broad alignment on the agenda without an endorsement of the draft.",
+      "options": [
+        "There was broad alignment on the agenda without an endorsement of the draft.",
+        "The draft was approved because the agenda was agreed.",
+        "The delegations could not agree on the agenda."
+      ],
+      "explanation": "“Stops short of” marks a step that was not taken.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-04",
+      "subject": "en",
+      "question": "Had the parties accepted the proposal, the review ___ last month.",
+      "answer": "would have begun",
+      "options": [
+        "would have begun",
+        "would begin",
+        "will have begun"
+      ],
+      "explanation": "The inverted past counterfactual takes “would have” plus a past participle.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-05",
+      "subject": "en",
+      "question": "Which word best fits? “The agreement calls for sharing data, ___ to each party’s domestic privacy law.”",
+      "answer": "subject",
+      "options": [
+        "subject",
+        "pursuant",
+        "notwithstanding"
+      ],
+      "explanation": "“Subject to” makes the rule conditional on or limited by something else.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-06",
+      "subject": "en",
+      "question": "“A workable proposal must be both technically sound and politically acceptable.” Which is necessary?",
+      "answer": "Both technical soundness and political acceptability",
+      "options": [
+        "Both technical soundness and political acceptability",
+        "Either technical soundness or political acceptability",
+        "Political acceptability only when technical soundness fails"
+      ],
+      "explanation": "“Both … and” makes each a requirement.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-07",
+      "subject": "en",
+      "question": "“Not until the annex was circulated ___ how the formula worked.”",
+      "answer": "did the delegates see",
+      "options": [
+        "did the delegates see",
+        "the delegates saw",
+        "had the delegates saw"
+      ],
+      "explanation": "Fronted “not until” triggers inversion in the main clause and uses the base form after “did.”",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-08",
+      "subject": "en",
+      "question": "“These commitments are without prejudice to the parties’ existing rights.” What does “without prejudice to” mean here?",
+      "answer": "Without affecting those existing rights",
+      "options": [
+        "Without affecting those existing rights",
+        "Without permitting parties to invoke those rights",
+        "Instead of continuing those existing rights"
+      ],
+      "explanation": "The phrase preserves the existing legal position on the specified issue.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-09",
+      "subject": "en",
+      "question": "“Several delegations supported the principle in general but reserved their positions on the financing clause.” What remains open?",
+      "answer": "Their positions on the financing clause",
+      "options": [
+        "Their positions on the financing clause",
+        "Whether the statement mentions any support in principle",
+        "Whether the financing clause exists"
+      ],
+      "explanation": "“Reserve a position” means withhold a final position for now.",
+      "refs": []
+    },
+    {
+      "id": "set-9-en-10",
+      "subject": "en",
+      "question": "Choose the most diplomatic revision of “Your figures are wrong.”",
+      "answer": "We would welcome clarification of the assumptions behind these figures.",
+      "options": [
+        "We would welcome clarification of the assumptions behind these figures.",
+        "Your figures are clearly false and must be withdrawn.",
+        "We have verified that you knowingly misreported the figures."
+      ],
+      "explanation": "The first requests evidence and avoids asserting intent or facts not established.",
+      "refs": []
+    }
+  ]
+}

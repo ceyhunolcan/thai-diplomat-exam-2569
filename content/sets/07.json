@@ -1,0 +1,288 @@
+{
+  "id": "set-7",
+  "title": "เศรษฐกิจและนโยบายภูมิอากาศ",
+  "kind": "study",
+  "level": 2,
+  "questions": [
+    {
+      "id": "set-7-th-01",
+      "subject": "th",
+      "question": "ถ้ารัฐลดอากรสินค้าจากคู่ค้า A เท่านั้น ภายใต้หลัก MFN ควรตรวจอะไรต่อ?",
+      "answer": "สิทธินั้นต้องขยายไปยังสมาชิกอื่นหรือเข้าเงื่อนไขข้อยกเว้นที่ใช้ได้หรือไม่",
+      "options": [
+        "สิทธินั้นต้องขยายไปยังสมาชิกอื่นหรือเข้าเงื่อนไขข้อยกเว้นที่ใช้ได้หรือไม่",
+        "สินค้าจาก A ขายในราคาเดียวกับสินค้าท้องถิ่นหรือไม่เท่านั้น",
+        "ธนาคารกลาง A ใช้สกุลเงินอะไร"
+      ],
+      "explanation": "MFN เปรียบเทียบการปฏิบัติต่อคู่ค้าต่างประเทศ",
+      "refs": [
+        "trade"
+      ]
+    },
+    {
+      "id": "set-7-th-02",
+      "subject": "th",
+      "question": "ถ้าสินค้านำเข้าผ่านศุลกากรแล้วเสียภาษีสรรพสามิตมากกว่าสินค้าในประเทศที่เหมือนกัน ประเด็นหลักคืออะไร?",
+      "answer": "การปฏิบัติเยี่ยงคนชาติ (National Treatment)",
+      "options": [
+        "การปฏิบัติเยี่ยงคนชาติ (National Treatment)",
+        "กฎถิ่นกำเนิดสินค้าแบบสะสม",
+        "สิทธิออกเสียงใน WTO"
+      ],
+      "explanation": "เป็นการเปรียบเทียบภาษีภายในของสินค้านำเข้ากับสินค้าในประเทศ",
+      "refs": [
+        "trade"
+      ]
+    },
+    {
+      "id": "set-7-th-03",
+      "subject": "th",
+      "question": "ถ้าผู้ส่งออกต้องการอัตราภาษีพิเศษตาม FTA สิ่งใดต้องตรวจเอกสารก่อน?",
+      "answer": "ว่าสินค้าเข้าเกณฑ์ถิ่นกำเนิดตามความตกลงหรือไม่",
+      "options": [
+        "ว่าสินค้าเข้าเกณฑ์ถิ่นกำเนิดตามความตกลงหรือไม่",
+        "ผู้ค้าจดทะเบียนในตลาดหลักทรัพย์หรือไม่",
+        "เรือขนส่งชักธงประเทศคู่ภาคีหรือไม่เสมอ"
+      ],
+      "explanation": "สิทธิพิเศษขึ้นกับกฎถิ่นกำเนิด ยืนยันจากหลักฐานที่ความตกลงกำหนด",
+      "refs": [
+        "rcep"
+      ]
+    },
+    {
+      "id": "set-7-th-04",
+      "subject": "th",
+      "question": "การทุ่มตลาดพิจารณาความแตกต่างของราคาส่งออกกับอะไร?",
+      "answer": "มูลค่าปกติของสินค้าตามเกณฑ์ที่กำหนด",
+      "options": [
+        "มูลค่าปกติของสินค้าตามเกณฑ์ที่กำหนด",
+        "อัตราภาษีมูลค่าเพิ่มของผู้นำเข้า",
+        "ค่าเงินสำรองของรัฐผู้ส่งออก"
+      ],
+      "explanation": "การเปรียบเทียบกับ normal value เป็นองค์ประกอบหลักของ dumping",
+      "refs": [
+        "wtoGloss"
+      ]
+    },
+    {
+      "id": "set-7-th-05",
+      "subject": "th",
+      "question": "ถ้าการนำเข้าเพิ่มขึ้นฉับพลันจนเกิดความเสียหายร้ายแรงต่ออุตสาหกรรมในประเทศ ประเภทมาตรการใดอาจเกี่ยวข้องโดยตรง?",
+      "answer": "Safeguard",
+      "options": [
+        "Safeguard",
+        "Anti-dumping โดยต้องสันนิษฐานว่าราคาต่ำกว่ามูลค่าปกติ",
+        "มาตรการตอบโต้การอุดหนุนโดยไม่ต้องตรวจเงินอุดหนุน"
+      ],
+      "explanation": "Safeguard ใช้พิจารณาการเพิ่มขึ้นของการนำเข้าและความเสียหายร้ายแรงตามเงื่อนไข",
+      "refs": [
+        "safeguard"
+      ]
+    },
+    {
+      "id": "set-7-th-06",
+      "subject": "th",
+      "question": "ค่าเงินอ่อนแต่ราคาส่งออกเป็นดอลลาร์เท่าเดิมและยอดขายคงที่ ผู้ส่งออกได้รับผลเชิงบัญชีอย่างไรเมื่อแปลงเป็นบาท?",
+      "answer": "รายได้ต่อหน่วยเป็นบาทเพิ่มขึ้น หากไม่ได้ป้องกันความเสี่ยง",
+      "options": [
+        "รายได้ต่อหน่วยเป็นบาทเพิ่มขึ้น หากไม่ได้ป้องกันความเสี่ยง",
+        "รายได้ต่อหน่วยเป็นบาทลดลง",
+        "ต้นทุนวัตถุดิบนำเข้าลดลงโดยอัตโนมัติ"
+      ],
+      "explanation": "ดอลลาร์เท่าเดิมแลกกลับได้บาทมากขึ้น แต่ผลกำไรรวมขึ้นกับต้นทุนด้วย",
+      "refs": [
+        "fx"
+      ]
+    },
+    {
+      "id": "set-7-th-07",
+      "subject": "th",
+      "question": "รายการใดโดยทั่วไปอยู่ในบัญชีเดินสะพัด?",
+      "answer": "การส่งออกบริการท่องเที่ยว",
+      "options": [
+        "การส่งออกบริการท่องเที่ยว",
+        "การซื้อพันธบัตรต่างประเทศ",
+        "การเพิ่มเงินสำรองระหว่างประเทศ"
+      ],
+      "explanation": "บัญชีเดินสะพัดรวมสินค้า บริการ และรายได้ปฐมภูมิและทุติยภูมิ",
+      "refs": [
+        "bop"
+      ]
+    },
+    {
+      "id": "set-7-th-08",
+      "subject": "th",
+      "question": "แต่ละภาคีต้องสื่อสาร NDC ใหม่ในรอบใดตามความตกลงปารีส?",
+      "answer": "ทุก 5 ปี",
+      "options": [
+        "ทุก 5 ปี",
+        "ทุก 2 ปี",
+        "ทุก 10 ปี"
+      ],
+      "explanation": "ข้อ 4(9) กำหนดรอบ 5 ปี",
+      "refs": [
+        "parisText"
+      ]
+    },
+    {
+      "id": "set-7-th-09",
+      "subject": "th",
+      "question": "Global Stocktake ในความตกลงปารีสประเมินอะไร?",
+      "answer": "ความคืบหน้าร่วมกันเพื่อบรรลุวัตถุประสงค์และเป้าหมายระยะยาว",
+      "options": [
+        "ความคืบหน้าร่วมกันเพื่อบรรลุวัตถุประสงค์และเป้าหมายระยะยาว",
+        "คะแนนการปฏิบัติตามของแต่ละรัฐเพื่อปรับโดยอัตโนมัติ",
+        "เงินลงทุนด้านภูมิอากาศของธนาคารเอกชนเท่านั้น"
+      ],
+      "explanation": "ข้อ 14 ระบุการประเมินความคืบหน้าในภาพรวม",
+      "refs": [
+        "parisText"
+      ]
+    },
+    {
+      "id": "set-7-th-10",
+      "subject": "th",
+      "question": "รัฐหนึ่งทำแผนรับมือภัยแล้งและลดการใช้ถ่านหิน มาตรการสองอย่างเป็นประเภทใดตามลำดับ?",
+      "answer": "Adaptation แล้ว Mitigation",
+      "options": [
+        "Adaptation แล้ว Mitigation",
+        "Mitigation แล้ว Adaptation",
+        "ทั้งคู่เป็น Adaptation"
+      ],
+      "explanation": "แผนภัยแล้งลดความเปราะบาง ส่วนการลดถ่านหินมุ่งลดการปล่อย",
+      "refs": [
+        "paris"
+      ]
+    },
+    {
+      "id": "set-7-en-01",
+      "subject": "en",
+      "question": "Choose the best connector. “Costs rose ___ demand remained flat.”",
+      "answer": "whereas",
+      "options": [
+        "whereas",
+        "therefore",
+        "in order to"
+      ],
+      "explanation": "“Whereas” contrasts the two trends.",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-02",
+      "subject": "en",
+      "question": "What does “offset” mean in “Higher exports offset the decline in tourism revenue”?",
+      "answer": "Counterbalance",
+      "options": [
+        "Counterbalance",
+        "Cause",
+        "Predict"
+      ],
+      "explanation": "An offsetting increase reduces or cancels the effect of a decline.",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-03",
+      "subject": "en",
+      "question": "“The share rose from 20% to 25%.” What was the change in percentage points?",
+      "answer": "5 percentage points",
+      "options": [
+        "5 percentage points",
+        "25 percentage points",
+        "20 percentage points"
+      ],
+      "explanation": "Subtract the original percentage from the new one.",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-04",
+      "subject": "en",
+      "question": "The agency revised its estimate ___ account for missing data.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for",
+        "despite"
+      ],
+      "explanation": "A to-infinitive gives the purpose of the revision.",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-05",
+      "subject": "en",
+      "question": "“Overall exports increased, although shipments to three major markets fell.” Which conclusion follows?",
+      "answer": "Total exports and exports to specific markets moved in different directions.",
+      "options": [
+        "Total exports and exports to specific markets moved in different directions.",
+        "Every export market recorded an increase.",
+        "The three markets contributed no exports."
+      ],
+      "explanation": "An aggregate increase can coexist with declines in some markets.",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-06",
+      "subject": "en",
+      "question": "Choose the best word. “The new policy is intended to ___ investment.”",
+      "answer": "encourage",
+      "options": [
+        "encourage",
+        "endorsement",
+        "enforcement"
+      ],
+      "explanation": "The verb “encourage” follows “intended to.”",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-07",
+      "subject": "en",
+      "question": "“The initial estimate was revised downward.” What changed?",
+      "answer": "The new estimate is lower.",
+      "options": [
+        "The new estimate is lower.",
+        "The true value must be lower.",
+        "The estimate was withdrawn and never replaced."
+      ],
+      "explanation": "“Downward” describes the revision, not the independently measured true value.",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-08",
+      "subject": "en",
+      "question": "What does “exempt” mean in “Small firms are exempt from the fee”?",
+      "answer": "Not required to pay it",
+      "options": [
+        "Not required to pay it",
+        "Allowed to pay it twice",
+        "Required to pay before larger firms"
+      ],
+      "explanation": "An exemption releases a group from an obligation.",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-09",
+      "subject": "en",
+      "question": "“Prices remained stable despite a decline in output.” What remained stable?",
+      "answer": "Prices",
+      "options": [
+        "Prices",
+        "Output",
+        "Both output and prices"
+      ],
+      "explanation": "The subject of “remained stable” is “prices.”",
+      "refs": []
+    },
+    {
+      "id": "set-7-en-10",
+      "subject": "en",
+      "question": "Which option best completes the sentence? “The report recommends ___ emissions more frequently.”",
+      "answer": "monitoring",
+      "options": [
+        "monitoring",
+        "monitor",
+        "monitored"
+      ],
+      "explanation": "“Recommend” can take an -ing form as its object.",
+      "refs": []
+    }
+  ]
+}
