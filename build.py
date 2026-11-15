@@ -31,12 +31,16 @@ def build():
     cards, decks, prompts, deck_ids = {}, [], set(), set()
     paths = sorted((CONTENT / "sets").glob("*.json"))
     paths.extend([CONTENT / "recap.json", CONTENT / "logistics.json"])
+    paths.extend(sorted((CONTENT / "assessments").glob("*.json")))
+    mock_only_ids = set()
+    topics = read_json(CONTENT / "topics.json")
+    check(all(KEY.fullmatch(key) and label.strip() for key, label in topics.items()), "invalid topic map")
     for path in paths:
         deck = read_json(path)
         key = deck["id"]
         check(KEY.fullmatch(key) and key not in deck_ids, f"{path.name}: invalid or duplicate set ID")
-        check(deck["kind"] in {"study", "recap"} and deck["title"].strip(), f"{key}: invalid set")
-        if deck["kind"] == "study":
+        check(deck["kind"] in {"study", "recap", "assessment"} and deck["title"].strip(), f"{key}: invalid set")
+        if deck["kind"] in {"study", "assessment"}:
             check(deck.get("level") in {1, 2, 3}, f"{key}: level must be 1, 2, or 3")
         tags = deck.get("tags", [])
         check(isinstance(tags, list) and all(isinstance(tag, str) and tag.strip() for tag in tags),
@@ -52,20 +56,33 @@ def build():
                   f"{card_id}: empty or duplicate question or missing answer")
             check(card["subject"] in {"th", "en"}, f"{card_id}: subject must be th or en")
             check(all(ref in sources for ref in card["refs"]), f"{card_id}: unknown source reference")
+            if "topic" in card:
+                check(card["topic"] in topics, f"{card_id}: unknown topic")
+            if deck["kind"] == "assessment":
+                check(card.get("topic") in topics, f"{card_id}: add an assessment topic")
+                mock_only_ids.add(card_id)
             if "passage" in card:
                 check(card["subject"] == "en" and isinstance(card["passage"], str) and card["passage"].strip(),
                       f"{card_id}: add a non-empty English reading passage")
-            if deck["kind"] == "study":
+            if deck["kind"] in {"study", "assessment"}:
                 options = card["options"]
                 check(len(options) == len(set(options)) == 3 and all(option.strip() for option in options)
                       and card["answer"] in options, f"{card_id}: give three distinct choices and a matching answer")
                 check(card.get("explanation", "").strip(), f"{card_id}: add an explanation")
                 check(card["subject"] == "en" or card["refs"], f"{card_id}: cite the factual basis")
+                if "distractors" in card:
+                    expected = set(options) - {card["answer"]}
+                    reasons = card["distractors"]
+                    check(isinstance(reasons, dict) and set(reasons) == expected
+                          and all(reason.strip() for reason in reasons.values()),
+                          f"{card_id}: write an explanation for each distractor")
             cards[card_id] = {**card, "level": deck.get("level")}
             prompts.add(prompt)
         deck_ids.add(key)
-        decks.append({**deck, "cards": [card["id"] for card in questions]})
+        if deck["kind"] != "assessment":
+            decks.append({**deck, "cards": [card["id"] for card in questions]})
 
+    timed_ids = set()
     for mock in read_json(CONTENT / "mocks.json"):
         key, ids = mock["id"], mock["cards"]
         check(KEY.fullmatch(key) and key not in deck_ids, f"{key}: invalid or duplicate mock ID")
@@ -76,10 +93,23 @@ def build():
               f"{key}: every question needs an existing multiple-choice card")
         check({cards[card_id]["subject"] for card_id in ids} == {"th", "en"},
               f"{key}: include both exam subjects")
+        if "sections" in mock:
+            sections = mock["sections"]
+            check(sections == [{"subject": "th", "minutes": 120}, {"subject": "en", "minutes": 90}],
+                  f"{key}: timed sections must follow the Part A order and durations")
+            subjects = [cards[card_id]["subject"] for card_id in ids]
+            check(subjects == sorted(subjects, reverse=True) and subjects.count("th") == subjects.count("en"),
+                  f"{key}: list equal Thai and English sections in that order")
+            check(set(ids) <= mock_only_ids and not timed_ids.intersection(ids),
+                  f"{key}: timed mocks require distinct assessment-only questions")
+            timed_ids.update(ids)
+        else:
+            check(not mock_only_ids.intersection(ids), f"{key}: assessment-only questions belong in timed mocks")
         deck_ids.add(key)
         decks.append(mock)
+    check(timed_ids == mock_only_ids, "every assessment-only question must belong to one timed mock")
 
-    payload = json.dumps({"cards": cards, "decks": decks, "sources": sources},
+    payload = json.dumps({"cards": cards, "decks": decks, "sources": sources, "topics": topics},
                          ensure_ascii=False, separators=(",", ":")).replace("<", "\\u003c")
     html = (ROOT / "web" / "page.html").read_text(encoding="utf-8")
     return (html.replace("/* STYLES */", (ROOT / "web" / "style.css").read_text(encoding="utf-8"), 1)

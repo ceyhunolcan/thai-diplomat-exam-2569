@@ -1,12 +1,13 @@
 'use strict';
 
-const { cards, decks, sources } = JSON.parse(document.getElementById('study-data').textContent);
+const { cards, decks, sources, topics } = JSON.parse(document.getElementById('study-data').textContent);
 const $ = id => document.getElementById(id);
 const levels = { 1: 'พื้นฐาน', 2: 'ประยุกต์', 3: 'ยาก' };
 const subjects = { th: 'ความรู้ทั่วไป', en: 'English' };
 const practice = decks.filter(deck => deck.kind === 'study');
 const exams = decks.filter(deck => deck.kind === 'mock');
 const references = decks.filter(deck => deck.kind === 'recap');
+const studyIds = new Set([...practice, ...references].flatMap(deck => deck.cards));
 const byDeck = Object.fromEntries(decks.map(deck => [deck.id, deck]));
 const cardSubjects = new Map(practice.map(deck => [deck.id,
   new Set(deck.cards.map(id => cards[id].subject))]));
@@ -124,6 +125,17 @@ function missedDeck() {
   return { id: 'missed-questions', title: 'รวมข้อที่พลาด', kind: 'review', cards: missed };
 }
 
+function topicDrill(topic) {
+  const ids = practice.flatMap(deck => deck.cards).filter(id => cards[id].topic === topic).slice(0, 8);
+  return { id: `topic-${topic}`, title: `ฝึกเฉพาะหัวข้อ · ${topics[topic]}`, kind: 'review', cards: ids };
+}
+
+function resumeStudy(id) {
+  if (id === 'missed-questions') return missedDeck();
+  if (id.startsWith('topic-') && topics[id.slice(6)]) return topicDrill(id.slice(6));
+  return byDeck[id];
+}
+
 function renderResume() {
   const last = state.last;
   const attempt = state.attempts[0];
@@ -140,7 +152,7 @@ function renderResume() {
     open = () => openResult(attempt);
   }
   const savedStudy = last?.kind === 'study'
-    ? (last.id === 'missed-questions' ? missedDeck() : byDeck[last.id])
+    ? resumeStudy(last.id)
     : null;
   if (savedStudy?.cards.length) {
     const deck = savedStudy;
@@ -228,7 +240,7 @@ function renderLevelFilter() {
 }
 
 function renderLibrary() {
-  $('pack-count').textContent = `ปี 2569 · ${Object.keys(cards).length.toLocaleString('en-US')} ข้อ · ${practice.length} ชุดฝึก · ${exams.length} ข้อสอบจำลอง`;
+  $('pack-count').textContent = `ปี 2569 · ${studyIds.size.toLocaleString('en-US')} ข้อฝึก · ${practice.length} ชุดฝึก · ${exams.length} ข้อสอบจำลอง`;
   renderResume();
   renderLevelFilter();
   renderStudyList();
@@ -238,14 +250,19 @@ function renderLibrary() {
 
 function renderExams() {
   const completed = completedFullExams();
-  $('exam-list').replaceChildren(...exams.map(deck => {
+  const makeTile = deck => {
     const draft = state.drafts[deck.id];
     const status = draft ? `ตอบแล้ว ${answerCount(draft)} / ${draft.order.length} ข้อ`
       : completed.has(deck.id) ? 'ทำครบแล้ว' : '';
-    return tile(deck.title, `${deck.cards.length} ข้อ · เน้นระดับ${levels[deck.level]}`,
+    const detail = deck.sections
+      ? `${deck.cards.length} ข้อใหม่สำหรับฝึก · 2 วิชา`
+      : `${deck.cards.length} ข้อ · เน้นระดับ${levels[deck.level]}`;
+    return tile(deck.title, detail,
       draft ? 'ทำข้อสอบต่อ →' : completed.has(deck.id) ? 'ทำอีกครั้ง →' : 'เริ่มทำข้อสอบ →',
       () => openQuiz(deck, draft), status);
-  }));
+  };
+  $('timed-exam-list').replaceChildren(...exams.filter(deck => deck.sections).map(makeTile));
+  $('exam-list').replaceChildren(...exams.filter(deck => !deck.sections).map(makeTile));
 }
 
 function renderHistory() {
@@ -333,6 +350,18 @@ function answerPanel(card, selected, expected, showSelection = false) {
     panel.append(text);
   }
   if (expected !== card.answer) panel.append(node('p', 'คำถามนี้ได้รับการปรับปรุงหลังจากที่คุณส่งคำตอบ'));
+  if (expected === card.answer && card.distractors) {
+    const details = node('details', '', 'choice-reasons');
+    const list = node('ul');
+    list.lang = card.subject;
+    for (const [option, reason] of Object.entries(card.distractors)) {
+      const item = node('li');
+      item.append(node('strong', option), document.createTextNode(` · ${reason}`));
+      list.append(item);
+    }
+    details.append(node('summary', 'เหตุผลของตัวเลือกอื่น'), list);
+    panel.append(details);
+  }
   if (card.refs.length) {
     const list = node('ul', '', 'source-links');
     for (const ref of card.refs) {
@@ -472,8 +501,16 @@ function shuffleStudy() {
   focusQuestion($('study-card'));
 }
 
-function answerCount(draft) {
-  return draft.order.filter(id => Object.hasOwn(draft.answers, id)).length;
+function quizSpan(draft) {
+  const section = draft.timing?.sections[draft.timing.index];
+  if (!section) return { start: 0, end: draft.order.length, section: null };
+  const start = draft.order.findIndex(id => cards[id].subject === section.subject);
+  const length = draft.order.filter(id => cards[id].subject === section.subject).length;
+  return { start, end: start + length, section };
+}
+
+function answerCount(draft, start = 0, end = draft.order.length) {
+  return draft.order.slice(start, end).filter(id => Object.hasOwn(draft.answers, id)).length;
 }
 
 function startDraft(deck, attempt) {
@@ -489,6 +526,9 @@ function startDraft(deck, attempt) {
     position: 0,
     answers: {},
     options: {},
+    timing: !attempt && deck.sections
+      ? { index: 0, sections: deck.sections.map(section => ({ ...section })) }
+      : null,
   };
 }
 
@@ -501,38 +541,95 @@ function openQuiz(deck, draft, retryOf) {
     go('exams');
     return;
   }
-  quiz.position = Math.min(quiz.position, quiz.order.length - 1);
+  const { start, end } = quizSpan(quiz);
+  quiz.position = Math.max(start, Math.min(quiz.position, end - 1));
   state.drafts[quiz.id] = quiz;
   state.last = { kind: 'quiz', id: quiz.id };
   save();
   $('quiz-title').textContent = quiz.title;
   $('answer-map').open = window.matchMedia('(min-width: 681px)').matches;
-  renderQuiz();
   show('quiz');
+  if (!expireSection()) renderQuiz();
+}
+
+function clockText(milliseconds) {
+  const seconds = Math.max(0, Math.ceil(milliseconds / 1000));
+  return [Math.floor(seconds / 3600), Math.floor(seconds / 60) % 60, seconds % 60]
+    .map(value => String(value).padStart(2, '0')).join(':');
+}
+
+function startSection(section) {
+  if (section.started) return;
+  section.started = Date.now();
+  section.deadline = section.started + section.minutes * 60000;
+  save();
+  renderQuiz();
+  focusQuestion($('quiz-card'));
+}
+
+function expireSection() {
+  const { section } = quizSpan(quiz);
+  if (!section?.deadline || Date.now() < section.deadline) return false;
+  closeSection(section, true);
+  return true;
+}
+
+function updateClock(section) {
+  const timer = $('exam-timer');
+  timer.hidden = !section?.deadline;
+  if (timer.hidden) return;
+  const remaining = section.deadline - Date.now();
+  timer.textContent = `${subjects[section.subject]} · เหลือ ${clockText(remaining)}`;
+  timer.classList.toggle('short', remaining < 5 * 60000);
+}
+
+function renderSectionReady(section) {
+  const card = node('article', '', 'exercise section-ready');
+  const previous = quiz.timing.sections[quiz.timing.index - 1];
+  if (previous) card.append(node('p', previous.expired
+    ? `หมดเวลาวิชา${subjects[previous.subject]}และบันทึกคำตอบแล้ว`
+    : `ส่งวิชา${subjects[previous.subject]}แล้ว`));
+  const { start, end } = quizSpan(quiz);
+  card.append(node('h2', `${subjects[section.subject]} · ${section.minutes} นาที`),
+    node('p', `${end - start} ข้อ เวลาเดินต่อเมื่อออกจากหน้านี้ วิชาถัดไปเริ่มเมื่อกดเริ่ม`),
+    action(`เริ่มวิชา${subjects[section.subject]} →`, () => startSection(section), 'button primary'));
+  $('quiz-card').replaceChildren(card);
+  $('quiz-meter').parentElement.hidden = true;
+  $('answer-map').hidden = true;
+  $('submit-exam').parentElement.hidden = true;
+  updateClock(section);
 }
 
 function updateQuizStatus() {
-  const answered = answerCount(quiz);
-  $('quiz-status').textContent = `ตอบแล้ว ${answered} จาก ${quiz.order.length} ข้อ`;
-  $('quiz-meter').max = quiz.order.length;
+  const { start, end, section } = quizSpan(quiz);
+  const answered = answerCount(quiz, start, end);
+  const length = end - start;
+  $('quiz-status').textContent = `ตอบแล้ว ${answered} จาก ${length} ข้อ`;
+  $('quiz-meter').max = length;
   $('quiz-meter').value = answered;
-  $('next-unanswered').disabled = answered === quiz.order.length;
+  $('next-unanswered').disabled = answered === length;
   $('save-status').textContent = storageAvailable ? 'บันทึกในเบราว์เซอร์นี้' : 'ใช้งานต่อได้ในแท็บนี้';
+  $('submit-exam').textContent = section ? `ส่งวิชา${subjects[section.subject]}` : 'ส่งข้อสอบ';
 }
 
 function renderQuizMap() {
   const map = $('question-map');
+  const { start, end } = quizSpan(quiz);
   map.replaceChildren();
-  quiz.order.forEach((id, index) => {
+  quiz.order.slice(start, end).forEach((id, offset) => {
+    const index = start + offset;
     const answered = Object.hasOwn(quiz.answers, id);
-    const button = action(String(index + 1), () => moveQuiz(index), answered ? 'jump answered' : 'jump');
-    button.setAttribute('aria-label', `ข้อ ${index + 1} ${answered ? 'ตอบแล้ว' : 'ยังไม่ตอบ'}`);
+    const button = action(String(offset + 1), () => moveQuiz(index), answered ? 'jump answered' : 'jump');
+    button.setAttribute('aria-label', `ข้อ ${offset + 1} ${answered ? 'ตอบแล้ว' : 'ยังไม่ตอบ'}`);
     if (index === quiz.position) button.setAttribute('aria-current', 'step');
     map.append(button);
   });
 }
 
 function moveQuiz(index) {
+  if (expireSection()) return;
+  const { start, end } = quizSpan(quiz);
+  if (index < start || index >= end) return;
   quiz.position = index;
   save();
   renderQuiz();
@@ -540,10 +637,18 @@ function moveQuiz(index) {
 }
 
 function renderQuiz() {
+  const { start, end, section } = quizSpan(quiz);
+  if (section && !section.started) {
+    renderSectionReady(section);
+    return;
+  }
+  $('quiz-meter').parentElement.hidden = false;
+  $('answer-map').hidden = false;
+  $('submit-exam').parentElement.hidden = false;
   const { order, position } = quiz;
   const id = order[position];
   const card = cards[id];
-  const el = exercise(card, position, order.length, subjects[card.subject]);
+  const el = exercise(card, position - start, end - start, subjects[card.subject]);
   const previousOrder = quiz.options[id];
   if (!previousOrder || card.options.some(option => !previousOrder.includes(option))) {
     quiz.options[id] = shuffle(card.options);
@@ -551,27 +656,59 @@ function renderQuiz() {
     save();
   }
   el.append(optionGroup(id, card, quiz.options[id], quiz.answers[id], false, value => {
+    if (expireSection()) return;
     quiz.answers[id] = value;
     save();
     updateQuizStatus();
     renderQuizMap();
   }));
-  el.append(navigation(position, order.length, step => moveQuiz(position + step)));
+  el.append(navigation(position - start, end - start, step => moveQuiz(position + step)));
   $('quiz-card').replaceChildren(el);
   $('submit-exam').disabled = false;
   renderQuizMap();
   updateQuizStatus();
+  updateClock(section);
 }
 
 function submitExam() {
-  const remaining = quiz.order.length - answerCount(quiz);
+  if (expireSection()) return;
+  const { start, end, section } = quizSpan(quiz);
+  const remaining = end - start - answerCount(quiz, start, end);
+  if (section) {
+    if (!section.started) return;
+    const context = remaining ? `ยังไม่ได้ตอบ ${remaining} ข้อ · ` : '';
+    if (!window.confirm(`${context}ส่งวิชา${subjects[section.subject]}และล็อกคำตอบ?`)) return;
+    if (!expireSection()) closeSection(section, false);
+    return;
+  }
   if (remaining && !window.confirm(`ยังไม่ได้ตอบ ${remaining} ข้อ ต้องการส่งข้อสอบตอนนี้หรือไม่?`)) return;
+  finishQuiz();
+}
+
+function closeSection(section, expired) {
+  const { start, end } = quizSpan(quiz);
+  section.elapsed = (expired ? section.deadline : Date.now()) - section.started;
+  section.expired = expired;
+  section.unanswered = end - start - answerCount(quiz, start, end);
+  if (quiz.timing.index + 1 === quiz.timing.sections.length) {
+    finishQuiz();
+    return;
+  }
+  quiz.timing.index++;
+  quiz.position = end;
+  save();
+  renderQuiz();
+  focusQuestion($('quiz-card'));
+}
+
+function finishQuiz() {
   $('submit-exam').disabled = true;
   const responses = quiz.order.map(id => ({
     id,
     selected: quiz.answers[id] ?? null,
     correct: cards[id].answer,
     subject: cards[id].subject,
+    topic: cards[id].topic,
   }));
   const attempt = {
     id: `${quiz.deckId}-${Date.now()}`,
@@ -582,6 +719,7 @@ function submitExam() {
     correct: responses.filter(item => item.selected === item.correct).length,
     total: responses.length,
     responses,
+    sections: quiz.timing?.sections,
   };
   state.attempts.unshift(attempt);
   delete state.drafts[quiz.id];
@@ -613,6 +751,52 @@ function renderSummary(attempt) {
   $('result-summary').replaceChildren(score, breakdown);
 }
 
+function topicBreakdown(attempt) {
+  const counts = new Map();
+  for (const item of attempt.responses) {
+    if (!item.topic || !topics[item.topic]) continue;
+    if (!counts.has(item.topic)) counts.set(item.topic, { topic: item.topic, total: 0, missed: 0 });
+    const count = counts.get(item.topic);
+    count.total++;
+    if (item.selected !== item.correct) count.missed++;
+  }
+  return [...counts.values()].sort((a, b) => b.missed / b.total - a.missed / a.total || b.missed - a.missed);
+}
+
+function renderDiagnostics(attempt) {
+  const box = $('result-diagnostics');
+  box.hidden = !attempt.sections;
+  box.replaceChildren();
+  if (!attempt.sections) return;
+
+  const timings = node('ul');
+  for (const section of attempt.sections) {
+    const status = section.expired ? 'หมดเวลา' : 'ส่งก่อนหมดเวลา';
+    timings.append(node('li',
+      `${subjects[section.subject]} · ใช้ ${clockText(section.elapsed)} / ${clockText(section.minutes * 60000)} · ${status} · เว้นว่าง ${section.unanswered} ข้อ`));
+  }
+  const breakdown = topicBreakdown(attempt);
+  const scores = node('ul');
+  for (const group of breakdown) {
+    scores.append(node('li', `${topics[group.topic]} · ถูก ${group.total - group.missed} / ${group.total} ข้อ`));
+  }
+  box.append(node('h2', 'เวลาและหัวข้อที่ควรทบทวน'), timings, node('h3', 'ผลแยกตามหัวข้อ'), scores);
+  const weakest = breakdown.find(group => group.missed > 0 && topicDrill(group.topic).cards.length > 0);
+  if (weakest) {
+    box.append(action(`ฝึกต่อ · ${topics[weakest.topic]} →`, () => openStudy(topicDrill(weakest.topic)), 'button primary'));
+  }
+  const comparison = state.attempts.find(previous =>
+    previous.sections && previous.deckId !== attempt.deckId && previous.finished < attempt.finished);
+  if (comparison) {
+    const previousMisses = new Map(topicBreakdown(comparison).map(group => [group.topic, group.missed]));
+    const repeated = breakdown.filter(group => group.missed >= 2 && previousMisses.get(group.topic) >= 2);
+    const note = repeated.length
+      ? `หัวข้อที่พลาดอย่างน้อย 2 ข้อทั้งสองชุด · ${repeated.map(group => topics[group.topic]).join(', ')}`
+      : 'ไม่มีหัวข้อที่พลาดอย่างน้อย 2 ข้อทั้งสองชุด';
+    box.append(node('h3', `เทียบกับ${comparison.title}`), node('p', note));
+  }
+}
+
 function renderResultActions(attempt) {
   const box = $('result-actions');
   box.replaceChildren();
@@ -624,12 +808,14 @@ function renderResultActions(attempt) {
       () => openQuiz(original, draft, attempt), 'button primary'));
   }
   const complete = completedFullExams();
-  const next = exams.find(deck => !complete.has(deck.id));
+  const next = exams.find(deck => !complete.has(deck.id) && (!attempt.sections || deck.sections));
   if (next) {
     box.append(action(`${state.drafts[next.id] ? 'ทำต่อ' : 'ลองชุดใหม่'} · ${next.title}`,
       () => openQuiz(next, state.drafts[next.id]), missed.length ? 'button' : 'button primary'));
   } else {
-    box.append(node('p', 'ทำข้อสอบจำลองครบทุกชุดแล้ว กลับมาทำข้อที่พลาดอีกครั้งก่อนเริ่มชุดใหม่ได้', 'next-note'));
+    box.append(node('p', attempt.sections
+      ? 'ทำข้อสอบจับเวลาครบทั้งสองชุดแล้ว'
+      : 'ทำข้อสอบจำลองครบทุกชุดแล้ว กลับมาทำข้อที่พลาดอีกครั้งก่อนเริ่มชุดใหม่ได้', 'next-note'));
     box.append(action('ดูข้อสอบทั้งหมด', () => go('exams')));
   }
 }
@@ -669,6 +855,7 @@ function openResult(attempt) {
   reviewMode = attempt.correct === attempt.total ? 'all' : 'missed';
   $('result-title').textContent = attempt.title;
   renderSummary(attempt);
+  renderDiagnostics(attempt);
   renderResultActions(attempt);
   renderReview();
   show('result');
@@ -695,15 +882,20 @@ $('result-back').addEventListener('click', () => go('history'));
 $('submit-exam').addEventListener('click', submitExam);
 $('next-unanswered').addEventListener('click', () => {
   const order = quiz.order;
-  const start = quiz.position;
-  for (let offset = 1; offset <= order.length; offset++) {
-    const index = (start + offset) % order.length;
+  const { start, end } = quizSpan(quiz);
+  const length = end - start;
+  for (let offset = 1; offset <= length; offset++) {
+    const index = start + (quiz.position - start + offset) % length;
     if (!Object.hasOwn(quiz.answers, order[index])) {
       moveQuiz(index);
       return;
     }
   }
 });
+setInterval(() => {
+  if (currentView !== 'quiz' || !quiz.timing || expireSection()) return;
+  updateClock(quizSpan(quiz).section);
+}, 500);
 window.addEventListener('storage', event => {
   if (event.key !== storageKey) return;
   // Keep active answer controls stable. Reconcile stored data on a top-level view.

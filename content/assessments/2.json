@@ -1,0 +1,1055 @@
+{
+  "id": "timed-bank-2",
+  "title": "ชุดข้อสอบจับเวลา 2",
+  "kind": "assessment",
+  "level": 3,
+  "questions": [
+    {
+      "id": "timed-bank-2-01",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "เจ้าหน้าที่ทำบันทึกการหารือ พบว่าร่างข้อบทภาษาไทยใช้คำว่า “อาจ” แต่ฉบับที่เสนออีกภาษาดูเหมือนเป็นหน้าที่ ควรดำเนินการลำดับแรกอย่างไร?",
+      "answer": "ระบุความต่างและประสานฝ่ายสนธิสัญญาเพื่อตรวจสถานะตัวบทและความหมาย",
+      "options": [
+        "ระบุความต่างและประสานฝ่ายสนธิสัญญาเพื่อตรวจสถานะตัวบทและความหมาย",
+        "แทนทั้งสองคำด้วยคำที่ผู้แปลเห็นว่าสละสลวยที่สุด",
+        "ใช้ฉบับที่มีคำแรงกว่าเป็นข้อยุติโดยอัตโนมัติ"
+      ],
+      "explanation": "ผลต่างระหว่างดุลพินิจกับข้อผูกพันมีสาระและต้องตรวจตัวบทที่ใช้",
+      "refs": [
+        "thaiTreaty",
+        "vclt"
+      ]
+    },
+    {
+      "id": "timed-bank-2-02",
+      "subject": "th",
+      "topic": "current",
+      "question": "รายงาน UPR ของไทยใน พฤศจิกายน 2569 ใช้เป็นหลักฐานโดยตรงสำหรับข้อสรุปใดได้?",
+      "answer": "ไทยได้เข้ากระบวนการนำเสนอรายงานในรอบที่ระบุ",
+      "options": [
+        "ไทยได้เข้ากระบวนการนำเสนอรายงานในรอบที่ระบุ",
+        "ทุกข้อเสนอแนะใหม่ได้รับการปฏิบัติครบแล้ว",
+        "คณะมนตรีความมั่นคงตัดสินผลการนำเสนอ"
+      ],
+      "explanation": "รายงานการประชุมยืนยันการนำเสนอ ส่วนผลดำเนินงานต้องตรวจต่างหาก",
+      "refs": [
+        "upr"
+      ]
+    },
+    {
+      "id": "timed-bank-2-03",
+      "subject": "th",
+      "topic": "society",
+      "question": "โครงการดิจิทัลรายงานจำนวนผู้สูงอายุที่สมัครเพิ่มขึ้น แต่ต้องการประเมินการเรียนรู้ ควรเก็บอะไรเพิ่ม?",
+      "answer": "ข้อมูลการทำภารกิจได้จริงก่อนและหลัง โดยใช้เกณฑ์เดิม",
+      "options": [
+        "ข้อมูลการทำภารกิจได้จริงก่อนและหลัง โดยใช้เกณฑ์เดิม",
+        "จำนวนโปสเตอร์ที่ติดในแต่ละชุมชน",
+        "จำนวนวันตั้งแต่เปิดรับสมัครเท่านั้น"
+      ],
+      "explanation": "การสมัครเป็นตัวชี้วัดการเข้าร่วม ส่วนการเรียนรู้ต้องวัดทักษะที่ทำได้",
+      "refs": [
+        "seniorNso",
+        "socialNso"
+      ]
+    },
+    {
+      "id": "timed-bank-2-04",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "ถ้ารัฐให้สัตยาบันความตกลงแล้วแต่วันมีผลยังไม่ถึง ข้อใดแยกสองสถานะได้แม่นที่สุด?",
+      "answer": "รัฐแสดงความยินยอมผูกพันตามขั้นตอนแล้ว ส่วนวันเริ่มใช้ให้ดูเงื่อนไข",
+      "options": [
+        "รัฐแสดงความยินยอมผูกพันตามขั้นตอนแล้ว ส่วนวันเริ่มใช้ให้ดูเงื่อนไข",
+        "ความตกลงมีผลใช้ทันทีเมื่อส่งข่าวให้สื่อ",
+        "รัฐยังไม่ได้ดำเนินการใดเลยจนถึงวันมีผล"
+      ],
+      "explanation": "การให้สัตยาบันและการมีผลใช้บังคับอาจเกิดแยกเวลา",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "timed-bank-2-05",
+      "subject": "th",
+      "topic": "economics",
+      "question": "เมื่อเงินบาทอ่อนจาก 33 เป็น 35 บาทต่อดอลลาร์ ผู้นำเข้าใช้ 18,000 ดอลลาร์ โดยไม่มีการป้องกันความเสี่ยง ต้นทุนเงินบาทเปลี่ยนอย่างไร?",
+      "answer": "เพิ่ม 36,000 บาท",
+      "options": [
+        "เพิ่ม 36,000 บาท",
+        "เพิ่ม 630,000 บาท",
+        "ลด 36,000 บาท"
+      ],
+      "explanation": "ส่วนต่าง 2 บาทต่อดอลลาร์คูณ 18,000 ดอลลาร์",
+      "refs": [
+        "fx"
+      ]
+    },
+    {
+      "id": "timed-bank-2-06",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "ก่อนรับอักษรสาส์นตราตั้งจากผู้แทนใหม่ งานใดต้องประสานข้อมูลเรื่องขั้นตอนนัดหมายและการยื่นเอกสารโดยตรง?",
+      "answer": "พิธีการทูต",
+      "options": [
+        "พิธีการทูต",
+        "งานประเมินผลความตกลงการค้า",
+        "งานจัดทำรายงานรอบ UPR"
+      ],
+      "explanation": "การเข้ารับหน้าที่และการยื่นสาส์นตราตั้งเป็นงานตามแบบปฏิบัติพิธีการทูต",
+      "refs": [
+        "protocol",
+        "vienna"
+      ]
+    },
+    {
+      "id": "timed-bank-2-07",
+      "subject": "th",
+      "topic": "current",
+      "question": "เมื่อต้องร่างบทสรุปเชื่อมการประชุมอาเซียนเดือนพฤศจิกายน 2569 กับ TAC ประโยคใดแม่นยำที่สุด?",
+      "answer": "การเข้าร่วม TAC สะท้อนการยอมรับกรอบมิตรภาพ โดยสถานะสมาชิกพิจารณาตามกฎบัตรอีกส่วนหนึ่ง",
+      "options": [
+        "การเข้าร่วม TAC สะท้อนการยอมรับกรอบมิตรภาพ โดยสถานะสมาชิกพิจารณาตามกฎบัตรอีกส่วนหนึ่ง",
+        "ผู้ลงนาม TAC ทุกประเทศมีสิทธิเท่ารัฐสมาชิกอาเซียนทันที",
+        "พิธี TAC เป็นการเจรจาภาษีประจำปีของ RCEP"
+      ],
+      "explanation": "TAC และกระบวนการรับสมาชิกตั้งอยู่บนเครื่องมือและขั้นตอนต่างกัน",
+      "refs": [
+        "tac2026",
+        "charter"
+      ]
+    },
+    {
+      "id": "timed-bank-2-08",
+      "subject": "th",
+      "topic": "society",
+      "question": "ถ้ารายได้หญิงชายต่างกันในข้อมูลรวม และอาชีพของผู้ตอบทั้งสองกลุ่มกระจายต่างกัน ควรทำอะไรก่อนอธิบายสาเหตุ?",
+      "answer": "เทียบกลุ่มอาชีพและชั่วโมงทำงานที่คล้ายกัน พร้อมระบุข้อจำกัดข้อมูล",
+      "options": [
+        "เทียบกลุ่มอาชีพและชั่วโมงทำงานที่คล้ายกัน พร้อมระบุข้อจำกัดข้อมูล",
+        "ใช้ค่าเฉลี่ยรวมสรุปสาเหตุเดียวทันที",
+        "เปรียบเทียบจำนวนผู้ตอบแต่ละเพศแทนรายได้"
+      ],
+      "explanation": "องค์ประกอบอาชีพและเวลาทำงานเป็นปัจจัยที่อาจเปลี่ยนการเปรียบเทียบ",
+      "refs": [
+        "socialNso"
+      ]
+    },
+    {
+      "id": "timed-bank-2-09",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "ในการหารือเขตเศรษฐกิจจำเพาะ รัฐชายฝั่งเสนอให้ถือว่าอนุญาตประมงโดยอัตโนมัติเพราะมีเสรีภาพเดินเรือ ข้อใดควรทบทวน?",
+      "answer": "แยกเสรีภาพเดินเรือของรัฐอื่นจากสิทธิรัฐชายฝั่งเกี่ยวกับทรัพยากร",
+      "options": [
+        "แยกเสรีภาพเดินเรือของรัฐอื่นจากสิทธิรัฐชายฝั่งเกี่ยวกับทรัพยากร",
+        "ถือว่าเสรีภาพเดินเรือรวมสิทธิประมงเสมอ",
+        "ให้อำนาจท่าเรือปลายทางออกใบอนุญาตในทุก EEZ"
+      ],
+      "explanation": "สิทธิเดินเรือกับสิทธิแสวงประโยชน์จากทรัพยากรอยู่คนละกรอบ",
+      "refs": [
+        "sea"
+      ]
+    },
+    {
+      "id": "timed-bank-2-10",
+      "subject": "th",
+      "topic": "economics",
+      "question": "ถ้าอัตราเงินเฟ้อลดจาก 5% เป็น 2% ขณะที่อัตรายังเป็นบวก ข้อใดสอดคล้องกับข้อมูล?",
+      "answer": "ระดับราคาโดยรวมยังเพิ่มในอัตราที่ช้าลง",
+      "options": [
+        "ระดับราคาโดยรวมยังเพิ่มในอัตราที่ช้าลง",
+        "ระดับราคาลดลง 3% โดยอัตโนมัติ",
+        "ราคาทุกรายการเพิ่มขึ้นเท่ากัน 2%"
+      ],
+      "explanation": "อัตราการเพิ่มลดลงได้แม้ระดับโดยรวมยังเพิ่ม",
+      "refs": [
+        "syllabus"
+      ]
+    },
+    {
+      "id": "timed-bank-2-11",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "หากครอบครัวในไทยติดต่อเรื่องคนไทยสูญหายในต่างประเทศ ข้อมูลฉบับใดเหมาะส่งให้ทีมกงสุลสำหรับติดตาม?",
+      "answer": "ข้อมูลยืนยันตัวตนที่จำเป็น สถานที่และเวลาที่ติดต่อได้ล่าสุด พร้อมช่องทางติดต่อครอบครัว",
+      "options": [
+        "ข้อมูลยืนยันตัวตนที่จำเป็น สถานที่และเวลาที่ติดต่อได้ล่าสุด พร้อมช่องทางติดต่อครอบครัว",
+        "สำเนาข่าวที่มีความเห็นและไม่มีข้อมูลบุคคลหรือช่วงเวลา",
+        "ยอดการแจ้งทุกประเทศโดยไม่มีรายละเอียดของกรณี"
+      ],
+      "explanation": "การประสานเฉพาะกรณีต้องมีข้อมูลจำเป็นที่ช่วยค้นหาและติดต่อได้",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "timed-bank-2-12",
+      "subject": "th",
+      "topic": "current",
+      "question": "หลังการหารือคุณภาพน้ำข้ามแดนเดือนพฤศจิกายน 2569 ผู้จัดทำรายงานพบข้อมูลเดือนฝนต่างจากเดือนแล้ง วิธีใช้ข่าวควบคู่ข้อมูลใดเหมาะที่สุด?",
+      "answer": "อ้างข่าวเรื่องการประสาน และเปรียบเทียบผลเฉพาะเมื่อปรับความต่างของช่วงเวลาและวิธีตรวจ",
+      "options": [
+        "อ้างข่าวเรื่องการประสาน และเปรียบเทียบผลเฉพาะเมื่อปรับความต่างของช่วงเวลาและวิธีตรวจ",
+        "สรุปว่าข่าวยืนยันผลตรวจครั้งใหม่โดยไม่ดูช่วงเวลา",
+        "นำค่าของสองฤดูเฉลี่ยแล้วใช้เป็นหลักฐานผลของนโยบาย"
+      ],
+      "explanation": "ข่าวบอกสถานะการประสาน ส่วนข้อสรุปด้านคุณภาพน้ำต้องอาศัยข้อมูลเทียบได้",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "timed-bank-2-13",
+      "subject": "th",
+      "topic": "society",
+      "question": "หน่วยงานจัดแบบฟอร์มทางเลือกเพื่อช่วยให้ผู้มีข้อจำกัดทางการเห็นเข้าถึงบริการได้เช่นเดียวกับผู้อื่น ควรอ่านกรณีนี้ร่วมกับหลักใด?",
+      "answer": "หลักความเสมอภาคและการขจัดอุปสรรคต่อการใช้สิทธิตามมาตรา 27",
+      "options": [
+        "หลักความเสมอภาคและการขจัดอุปสรรคต่อการใช้สิทธิตามมาตรา 27",
+        "หลักที่ว่าต้องใช้วิธีให้บริการเดียวกันเสมอแม้กลุ่มหนึ่งเข้าถึงไม่ได้",
+        "หลักที่อนุญาตให้ปฏิเสธผู้ขอใช้บริการกลุ่มนั้นทั้งหมด"
+      ],
+      "explanation": "มาตรการขจัดอุปสรรคสอดคล้องกับการส่งเสริมให้ใช้สิทธิได้เช่นเดียวกับผู้อื่น",
+      "refs": [
+        "thaiConstitution"
+      ]
+    },
+    {
+      "id": "timed-bank-2-14",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "ถ้า 10 ประเทศสนับสนุนมติสาระสำคัญใน UNSC และสมาชิกถาวรหนึ่งประเทศลงคะแนนคัดค้าน ข้อใดอธิบายผลได้ดีที่สุด?",
+      "answer": "ร่างไม่ผ่านแม้จำนวนเสียงเห็นชอบถึงเกณฑ์ขั้นต่ำ",
+      "options": [
+        "ร่างไม่ผ่านแม้จำนวนเสียงเห็นชอบถึงเกณฑ์ขั้นต่ำ",
+        "ร่างผ่านเพราะเสียงเกินครึ่งโดยไม่ต้องดูสมาชิกถาวร",
+        "ร่างมีผลเพียงในรัฐที่สนับสนุน"
+      ],
+      "explanation": "การคัดค้านของสมาชิกถาวรในมติสาระสำคัญเป็นการใช้วีโต",
+      "refs": [
+        "unvote"
+      ]
+    },
+    {
+      "id": "timed-bank-2-15",
+      "subject": "th",
+      "topic": "economics",
+      "question": "ภาษีภายในสำหรับสินค้าเหมือนกันต่างตามสถานะนำเข้า แม้อัตราอากรนำเข้าต่อคู่ค้าทุกรายเท่ากัน ประเด็นใดเหมาะกับข้อเท็จจริง?",
+      "answer": "การปฏิบัติเยี่ยงคนชาติของภาษีภายใน",
+      "options": [
+        "การปฏิบัติเยี่ยงคนชาติของภาษีภายใน",
+        "หลัก MFN ของอัตราอากรระหว่างคู่ค้าเป็นประเด็นเดียว",
+        "ข้อกำหนดสมาชิกถาวรของสถาบันระหว่างประเทศ"
+      ],
+      "explanation": "การทดสอบภาษีภายในเปรียบเทียบสินค้านำเข้ากับสินค้าภายใน",
+      "refs": [
+        "trade"
+      ]
+    },
+    {
+      "id": "timed-bank-2-16",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "ในการจัดทำคำชี้แจงสื่อเรื่องการประชุมพหุภาคี เจ้าของประเด็นแจ้งว่าการตัดสินใจจะมีอีกในสัปดาห์หน้า ควรรายงานผลวันนี้อย่างไร?",
+      "answer": "สรุปสิ่งที่หารือและระบุกรอบเวลาพิจารณาที่ได้รับแจ้ง",
+      "options": [
+        "สรุปสิ่งที่หารือและระบุกรอบเวลาพิจารณาที่ได้รับแจ้ง",
+        "ใช้คำว่ารับรองแล้วเพราะทุกฝ่ายได้รับร่าง",
+        "บอกว่าร่างถูกยกเลิกเพราะยังไม่มีการตัดสินใจ"
+      ],
+      "explanation": "ยังแยกการหมุนเวียนร่างจากการรับรองและรักษาสถานะของข้อมูล",
+      "refs": [
+        "thaiMfa"
+      ]
+    },
+    {
+      "id": "timed-bank-2-17",
+      "subject": "th",
+      "topic": "current",
+      "question": "หากข่าวหลายชิ้นใช้คำว่า “ร่วมเป็นสักขีพยาน” กับพิธีภาคยานุวัติ ควรตีความบทบาทของผู้ร่วมพิธีอย่างไร?",
+      "answer": "แยกผู้ร่วมเป็นสักขีพยานออกจากรัฐที่ลงนามในพิธีนั้น",
+      "options": [
+        "แยกผู้ร่วมเป็นสักขีพยานออกจากรัฐที่ลงนามในพิธีนั้น",
+        "ถือว่าผู้ร่วมเป็นสักขีพยานทุกรายเป็นผู้ยื่นตราสารใหม่ในวันเดียวกัน",
+        "นับผู้ร่วมเป็นสักขีพยานเป็นรัฐบาลเจ้าภาพของพิธีทุกคน"
+      ],
+      "explanation": "คำบรรยายบทบาทในพิธีบ่งชี้คนละการกระทำ",
+      "refs": [
+        "tac2026"
+      ]
+    },
+    {
+      "id": "timed-bank-2-18",
+      "subject": "th",
+      "topic": "society",
+      "question": "ผู้เขียนบันทึกข่าวสับสนระหว่างสภาผู้แทนราษฎรกับรัฐสภาทั้งหมด คำชี้แจงใดระบุโครงสร้างตามมาตรา 79 ได้ครบ?",
+      "answer": "สภาผู้แทนราษฎรเป็นองค์ประกอบหนึ่งของรัฐสภา อีกองค์ประกอบคือวุฒิสภา",
+      "options": [
+        "สภาผู้แทนราษฎรเป็นองค์ประกอบหนึ่งของรัฐสภา อีกองค์ประกอบคือวุฒิสภา",
+        "สภาผู้แทนราษฎรกับรัฐสภาเป็นชื่อเรียกที่ใช้แทนกันได้เสมอ",
+        "วุฒิสภาเป็นอีกชื่อหนึ่งของสภาผู้แทนราษฎร"
+      ],
+      "explanation": "มาตรา 79 แสดงความสัมพันธ์ขององค์ประกอบสองสภากับรัฐสภา",
+      "refs": [
+        "thaiConstitution"
+      ]
+    },
+    {
+      "id": "timed-bank-2-19",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "หากการเจรจาอาเซียนวางวิธีนำข้อผูกพันเศรษฐกิจไปใช้แบบยืดหยุ่น สิ่งใดต้องตรวจเป็นหลักตามกฎบัตร?",
+      "answer": "ว่ามีฉันทามติให้ใช้กลไกยืดหยุ่นกับการปฏิบัติตามข้อผูกพันนั้นหรือไม่",
+      "options": [
+        "ว่ามีฉันทามติให้ใช้กลไกยืดหยุ่นกับการปฏิบัติตามข้อผูกพันนั้นหรือไม่",
+        "ว่าเลขาธิการลงนามสั่งให้ใช้กับทุกเรื่องการเมืองหรือไม่",
+        "ว่ามีสมาชิกคัดค้านหนึ่งประเทศจึงเกิดความยืดหยุ่นทันทีหรือไม่"
+      ],
+      "explanation": "ข้อ 21 กล่าวถึงความยืดหยุ่นในการปฏิบัติตามข้อผูกพันเศรษฐกิจเมื่อมีฉันทามติ",
+      "refs": [
+        "charter"
+      ]
+    },
+    {
+      "id": "timed-bank-2-20",
+      "subject": "th",
+      "topic": "economics",
+      "question": "เมื่อประเมินสิทธิ FTA ผู้ซื้อพบว่าสินค้าถูกส่งจากภาคี แต่การผลิตเกิดในหลายประเทศ ควรขอหลักฐานใดเพิ่ม?",
+      "answer": "หลักฐานถิ่นกำเนิดและตารางกฎรายสินค้าที่นำมาใช้",
+      "options": [
+        "หลักฐานถิ่นกำเนิดและตารางกฎรายสินค้าที่นำมาใช้",
+        "เพียงรหัสเที่ยวบินหรือชื่อผู้ให้บริการขนส่ง",
+        "จำนวนครั้งที่สินค้าผ่านด่านสุดท้าย"
+      ],
+      "explanation": "การขนส่งจากภาคีเพียงอย่างเดียวไม่ยืนยันถิ่นกำเนิด",
+      "refs": [
+        "rcep"
+      ]
+    },
+    {
+      "id": "timed-bank-2-21",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "เจ้าหน้าที่ได้รับคำขอตรวจความถูกต้องของเอกสารส่วนบุคคลเพื่อใช้ต่างประเทศกับคำขอตรวจสนธิสัญญาทวิภาคี ควรมอบสองงานตามลำดับอย่างไร?",
+      "answer": "งานกงสุล แล้วงานสนธิสัญญาและกฎหมาย",
+      "options": [
+        "งานกงสุล แล้วงานสนธิสัญญาและกฎหมาย",
+        "งานพิธีการทูตทั้งคู่",
+        "งานสนธิสัญญา แล้วงานสารนิเทศ"
+      ],
+      "explanation": "การรับรองเอกสารส่วนบุคคลกับการตรวจข้อผูกพันระหว่างรัฐเป็นภารกิจคนละลักษณะ",
+      "refs": [
+        "thaiConsul",
+        "thaiTreaty"
+      ]
+    },
+    {
+      "id": "timed-bank-2-22",
+      "subject": "th",
+      "topic": "current",
+      "question": "ก่อนตีพิมพ์ว่าจะมีผลการประชุมเจ้าหน้าที่อาวุโสตามข่าวที่กล่าวว่าจะเตรียมการสำหรับผู้นำ ข้อใดเป็นการรายงานที่รัดกุม?",
+      "answer": "รายงานการเตรียมการและรอเอกสารของการประชุมผู้นำเพื่อยืนยันมติ",
+      "options": [
+        "รายงานการเตรียมการและรอเอกสารของการประชุมผู้นำเพื่อยืนยันมติ",
+        "นำรายการวาระเตรียมการไปพิมพ์เป็นมติผู้นำ",
+        "บอกว่างานเตรียมการมีผลแก้กฎบัตรโดยอัตโนมัติ"
+      ],
+      "explanation": "เอกสารเตรียมการและผลประชุมในระดับตัดสินใจมีบทบาทต่างกัน",
+      "refs": [
+        "brief2026",
+        "charter"
+      ]
+    },
+    {
+      "id": "timed-bank-2-23",
+      "subject": "th",
+      "topic": "society",
+      "question": "ข้อเสนอวางแผนเศรษฐกิจในเมืองประวัติศาสตร์จะใช้จำนวนผู้มาเยือนเพียงตัวเดียว สิ่งใดช่วยให้สอดคล้องเป้าหมายการอนุรักษ์มากขึ้น?",
+      "answer": "เพิ่มตัวชี้วัดสภาพแหล่งมรดกและผลต่อชุมชน พร้อมติดตามยอดผู้มาเยือน",
+      "options": [
+        "เพิ่มตัวชี้วัดสภาพแหล่งมรดกและผลต่อชุมชน พร้อมติดตามยอดผู้มาเยือน",
+        "ให้จำนวนผู้มาเยือนเป็นคำตัดสินสภาพโบราณสถาน",
+        "งดเก็บข้อมูลผู้ประกอบการท้องถิ่นเพื่อความรวดเร็ว"
+      ],
+      "explanation": "วัดทั้งผลเศรษฐกิจและการอนุรักษ์ตามวัตถุประสงค์ของแผน",
+      "refs": [
+        "sukhothai",
+        "sdg"
+      ]
+    },
+    {
+      "id": "timed-bank-2-24",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "การทบทวนรายงานรัฐภาคีตาม ICCPR กับ UPR ต่างกันอย่างไรในด้านผู้ทบทวน?",
+      "answer": "คณะผู้เชี่ยวชาญตามสนธิสัญญาทบทวนรายงานรัฐภาคี ส่วน UPR เป็นการทบทวนระหว่างรัฐ",
+      "options": [
+        "คณะผู้เชี่ยวชาญตามสนธิสัญญาทบทวนรายงานรัฐภาคี ส่วน UPR เป็นการทบทวนระหว่างรัฐ",
+        "ทั้งสองระบบมีผู้พิพากษาศาลอาญาเป็นผู้ทบทวน",
+        "รายงาน ICCPR ทบทวนโดยผู้ประกอบการในกรอบ WTO"
+      ],
+      "explanation": "กลไกสนธิสัญญากับการทบทวนโดยรัฐมีองค์ประกอบผู้ทบทวนต่างกัน",
+      "refs": [
+        "treatyBodies",
+        "upr"
+      ]
+    },
+    {
+      "id": "timed-bank-2-25",
+      "subject": "th",
+      "topic": "economics",
+      "question": "อัตราภาษีผูกพัน 18% และประเทศใช้อัตรา 10% เมื่อมีข่าวว่าอัตราใช้จริงปรับเป็น 12% ข้อสรุปใดถูกต้องจากตัวเลขเท่านี้?",
+      "answer": "อัตราใช้จริงสูงขึ้นและยังต่ำกว่าเพดานผูกพันที่ยกมา",
+      "options": [
+        "อัตราใช้จริงสูงขึ้นและยังต่ำกว่าเพดานผูกพันที่ยกมา",
+        "ประเทศปรับเพดานผูกพันเป็น 12% โดยอัตโนมัติ",
+        "ผู้ซื้อจ่ายอัตรา 18% ทุกครั้งเพราะมีข้อผูกพัน"
+      ],
+      "explanation": "อัตราที่ใช้จริงและเพดานผูกพันเป็นตัวเลขคนละชนิด",
+      "refs": [
+        "tariffs"
+      ]
+    },
+    {
+      "id": "timed-bank-2-26",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "ก่อนส่งหนังสือสรุปท่าทีไทยต่อองค์กรระหว่างประเทศ ควรตรวจคู่ข้อมูลใดเพื่อให้สอดคล้องกับงานพหุภาคี?",
+      "answer": "ฉบับร่างล่าสุดขององค์กรและท่าทีที่หน่วยงานไทยเจ้าของเรื่องยืนยัน",
+      "options": [
+        "ฉบับร่างล่าสุดขององค์กรและท่าทีที่หน่วยงานไทยเจ้าของเรื่องยืนยัน",
+        "ความเห็นจากข่าวเก่าและจำนวนการเข้าชม",
+        "ชื่อโรงแรมผู้แทนกับกำหนดเที่ยวบินเท่านั้น"
+      ],
+      "explanation": "ตัวบทที่เป็นปัจจุบันและท่าทีที่ได้รับการยืนยันเป็นฐานของการสรุป",
+      "refs": [
+        "thaiIO"
+      ]
+    },
+    {
+      "id": "timed-bank-2-27",
+      "subject": "th",
+      "topic": "current",
+      "question": "รายงาน ASEAN Community Vision 2045 กับข่าวการเข้าร่วมประชุมของไทยมีบทบาทต่างกันอย่างไรในบทวิเคราะห์?",
+      "answer": "ใช้วิสัยทัศน์อธิบายเป้าหมายระยะยาว และข่าวทางการยืนยันเหตุการณ์หรือท่าทีที่รายงาน",
+      "options": [
+        "ใช้วิสัยทัศน์อธิบายเป้าหมายระยะยาว และข่าวทางการยืนยันเหตุการณ์หรือท่าทีที่รายงาน",
+        "ใช้ข่าววงประชุมหนึ่งครั้งแทนตัวบทวิสัยทัศน์ทั้งหมด",
+        "ถือว่าวิสัยทัศน์ใช้ยืนยันว่าใครเข้าร่วมการประชุมโดยตรง"
+      ],
+      "explanation": "ต้องเลือกแหล่งตามชนิดข้อกล่าวอ้างที่ต้องการยืนยัน",
+      "refs": [
+        "vision",
+        "brief2026"
+      ]
+    },
+    {
+      "id": "timed-bank-2-28",
+      "subject": "th",
+      "topic": "society",
+      "question": "ถ้าแบบสอบถามการใช้บริการจำเป็นต้องใช้บัญชีออนไลน์อยู่แล้ว การวัดคนที่ขาดทักษะดิจิทัลควรเสริมด้วยวิธีใด?",
+      "answer": "สุ่มติดต่อหลายช่องทางและเก็บข้อมูลกลุ่มที่ไม่ใช้บัญชีด้วย",
+      "options": [
+        "สุ่มติดต่อหลายช่องทางและเก็บข้อมูลกลุ่มที่ไม่ใช้บัญชีด้วย",
+        "เปิดแบบสอบถามออนไลน์เพียงช่องทางเดิมให้นานขึ้น",
+        "นับบัญชีที่สร้างใหม่ทั้งหมดเป็นผู้ขาดทักษะดิจิทัล"
+      ],
+      "explanation": "การเปิดช่องทางอื่นช่วยลดการตกหล่นของกลุ่มเป้าหมาย",
+      "refs": [
+        "socialNso"
+      ]
+    },
+    {
+      "id": "timed-bank-2-29",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "เมื่อความหมายของสนธิสัญญายังคลุมเครือหลังตรวจภาษา บริบท และวัตถุประสงค์แล้ว เอกสารใดอาจช่วยตามวิธีตีความเพิ่มเติม?",
+      "answer": "บันทึกเตรียมร่างที่เกี่ยวข้องกับข้อบท",
+      "options": [
+        "บันทึกเตรียมร่างที่เกี่ยวข้องกับข้อบท",
+        "แผนเลือกตั้งของรัฐที่ไม่ใช่ภาคี",
+        "ข่าวตลาดเงินในสัปดาห์หลังลงนามที่ไม่เกี่ยวกับสาระ"
+      ],
+      "explanation": "เอกสารเตรียมร่างอาจใช้ตามเงื่อนไขของการตีความเพิ่มเติม",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "timed-bank-2-30",
+      "subject": "th",
+      "topic": "economics",
+      "question": "มูลค่าส่งออกสินค้าเพิ่ม 8% แต่ค่านำเข้าพลังงานเพิ่มเร็วกว่ามาก ข้อใดต้องขอเพิ่มก่อนสรุปดุลการค้าสินค้า?",
+      "answer": "มูลค่ารวมของการส่งออกและนำเข้าสินค้าในช่วงเดียวกัน",
+      "options": [
+        "มูลค่ารวมของการส่งออกและนำเข้าสินค้าในช่วงเดียวกัน",
+        "เฉพาะอัตราร้อยละการเติบโตของสองรายการโดยไม่ดูระดับ",
+        "จำนวนตลาดส่งออกที่เปิดเพิ่มเท่านั้น"
+      ],
+      "explanation": "ดุลการค้าใช้ส่วนต่างของมูลค่ารวม การเติบโตขององค์ประกอบเดียวไม่พอ",
+      "refs": [
+        "bop"
+      ]
+    },
+    {
+      "id": "timed-bank-2-31",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which conclusion about the consultation responses is best supported?",
+      "answer": "Responding small offices generally favored a common format and raised staffing concerns about quarterly updates.",
+      "options": [
+        "Responding small offices generally favored a common format and raised staffing concerns about quarterly updates.",
+        "A nationally representative majority chose the searchable register.",
+        "Implementing offices and information users all favored the same option for the same reason."
+      ],
+      "explanation": "The passage describes responses by a particular group with a stated concern.",
+      "refs": [],
+      "distractors": {
+        "A nationally representative majority chose the searchable register.": "The open consultation does not establish population-wide preferences.",
+        "Implementing offices and information users all favored the same option for the same reason.": "The groups raised distinct priorities."
+      },
+      "passage": "A regional committee released a consultation paper proposing that licensing records be published online. It presented two options. The first would require publication of basic records in a common format. The second would also require a searchable register and quarterly updates. Most small offices responding to the questionnaire supported a common format but warned that quarterly updates would require additional staff. Several civil society submissions favored the searchable register and described difficulties finding older records. The secretariat summarized the responses but made clear that the questionnaire was open to any interested person and could not establish the proportion of the entire population favoring either option. It also separated responses from offices that would be responsible for implementation from those of potential users. The committee announced that it would continue consulting on staffing and costs. It retained the original timetable for publishing a recommendation, but it postponed any decision on the date when new requirements would become applicable. A circulated briefing then said that “the consultation confirmed the public’s preference for the searchable register and that the requirements would start on the previously announced date.” The committee chair requested that both claims be narrowed."
+    },
+    {
+      "id": "timed-bank-2-32",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which sentence could replace the briefing’s two overstated claims?",
+      "answer": "Some submissions favored a searchable register. The recommendation timetable remains, and the start date is undecided.",
+      "options": [
+        "Some submissions favored a searchable register. The recommendation timetable remains, and the start date is undecided.",
+        "The population approved the register, and its implementation schedule has been confirmed.",
+        "The committee cancelled the recommendation because no group expressed a preference."
+      ],
+      "explanation": "It preserves the evidence and distinguishes recommendation from implementation.",
+      "refs": [],
+      "distractors": {
+        "The population approved the register, and its implementation schedule has been confirmed.": "Neither representativeness nor the start date is established.",
+        "The committee cancelled the recommendation because no group expressed a preference.": "The recommendation timetable was retained and preferences were expressed."
+      },
+      "passage": "A regional committee released a consultation paper proposing that licensing records be published online. It presented two options. The first would require publication of basic records in a common format. The second would also require a searchable register and quarterly updates. Most small offices responding to the questionnaire supported a common format but warned that quarterly updates would require additional staff. Several civil society submissions favored the searchable register and described difficulties finding older records. The secretariat summarized the responses but made clear that the questionnaire was open to any interested person and could not establish the proportion of the entire population favoring either option. It also separated responses from offices that would be responsible for implementation from those of potential users. The committee announced that it would continue consulting on staffing and costs. It retained the original timetable for publishing a recommendation, but it postponed any decision on the date when new requirements would become applicable. A circulated briefing then said that “the consultation confirmed the public’s preference for the searchable register and that the requirements would start on the previously announced date.” The committee chair requested that both claims be narrowed."
+    },
+    {
+      "id": "timed-bank-2-33",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why did the secretariat separate submissions by respondent type?",
+      "answer": "Implementing offices and users could have different interests and obligations.",
+      "options": [
+        "Implementing offices and users could have different interests and obligations.",
+        "Only implementing offices had permission to answer the questionnaire.",
+        "Separating responses made the sample representative of the population."
+      ],
+      "explanation": "Their roles give different context to support and practical concerns.",
+      "refs": [],
+      "distractors": {
+        "Only implementing offices had permission to answer the questionnaire.": "The questionnaire was open to interested people.",
+        "Separating responses made the sample representative of the population.": "Reporting subgroups cannot turn self-selection into representative sampling."
+      },
+      "passage": "A regional committee released a consultation paper proposing that licensing records be published online. It presented two options. The first would require publication of basic records in a common format. The second would also require a searchable register and quarterly updates. Most small offices responding to the questionnaire supported a common format but warned that quarterly updates would require additional staff. Several civil society submissions favored the searchable register and described difficulties finding older records. The secretariat summarized the responses but made clear that the questionnaire was open to any interested person and could not establish the proportion of the entire population favoring either option. It also separated responses from offices that would be responsible for implementation from those of potential users. The committee announced that it would continue consulting on staffing and costs. It retained the original timetable for publishing a recommendation, but it postponed any decision on the date when new requirements would become applicable. A circulated briefing then said that “the consultation confirmed the public’s preference for the searchable register and that the requirements would start on the previously announced date.” The committee chair requested that both claims be narrowed."
+    },
+    {
+      "id": "timed-bank-2-34",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which date has the committee postponed deciding?",
+      "answer": "When the new requirements would become applicable.",
+      "options": [
+        "When the new requirements would become applicable.",
+        "When to publish a recommendation.",
+        "When to receive the responses already summarized."
+      ],
+      "explanation": "The last decision concerns the effective date of requirements.",
+      "refs": [],
+      "distractors": {
+        "When to publish a recommendation.": "The existing recommendation timetable was retained.",
+        "When to receive the responses already summarized.": "The consultation responses have already been summarized."
+      },
+      "passage": "A regional committee released a consultation paper proposing that licensing records be published online. It presented two options. The first would require publication of basic records in a common format. The second would also require a searchable register and quarterly updates. Most small offices responding to the questionnaire supported a common format but warned that quarterly updates would require additional staff. Several civil society submissions favored the searchable register and described difficulties finding older records. The secretariat summarized the responses but made clear that the questionnaire was open to any interested person and could not establish the proportion of the entire population favoring either option. It also separated responses from offices that would be responsible for implementation from those of potential users. The committee announced that it would continue consulting on staffing and costs. It retained the original timetable for publishing a recommendation, but it postponed any decision on the date when new requirements would become applicable. A circulated briefing then said that “the consultation confirmed the public’s preference for the searchable register and that the requirements would start on the previously announced date.” The committee chair requested that both claims be narrowed."
+    },
+    {
+      "id": "timed-bank-2-35",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What practical uncertainty did responding small offices most directly identify?",
+      "answer": "Whether they could staff quarterly updates.",
+      "options": [
+        "Whether they could staff quarterly updates.",
+        "Whether the register would be accessible to civil society.",
+        "Whether anyone would respond to the questionnaire."
+      ],
+      "explanation": "They linked the update frequency to staffing needs.",
+      "refs": [],
+      "distractors": {
+        "Whether the register would be accessible to civil society.": "The difficulty locating records came from users.",
+        "Whether anyone would respond to the questionnaire.": "Responses had already been received."
+      },
+      "passage": "A regional committee released a consultation paper proposing that licensing records be published online. It presented two options. The first would require publication of basic records in a common format. The second would also require a searchable register and quarterly updates. Most small offices responding to the questionnaire supported a common format but warned that quarterly updates would require additional staff. Several civil society submissions favored the searchable register and described difficulties finding older records. The secretariat summarized the responses but made clear that the questionnaire was open to any interested person and could not establish the proportion of the entire population favoring either option. It also separated responses from offices that would be responsible for implementation from those of potential users. The committee announced that it would continue consulting on staffing and costs. It retained the original timetable for publishing a recommendation, but it postponed any decision on the date when new requirements would become applicable. A circulated briefing then said that “the consultation confirmed the public’s preference for the searchable register and that the requirements would start on the previously announced date.” The committee chair requested that both claims be narrowed."
+    },
+    {
+      "id": "timed-bank-2-36",
+      "subject": "en",
+      "topic": "tone",
+      "question": "If the recommendation is published on schedule, what can a briefing safely say about implementation?",
+      "answer": "The recommendation has been issued; the effective date remains a separate decision.",
+      "options": [
+        "The recommendation has been issued; the effective date remains a separate decision.",
+        "The requirements became applicable on publication unless a user objected.",
+        "The published recommendation proves an open questionnaire was nationally representative."
+      ],
+      "explanation": "Publication and implementation were treated as different milestones.",
+      "refs": [],
+      "distractors": {
+        "The requirements became applicable on publication unless a user objected.": "No effective date was confirmed.",
+        "The published recommendation proves an open questionnaire was nationally representative.": "Publication does not alter the survey’s sampling method."
+      },
+      "passage": "A regional committee released a consultation paper proposing that licensing records be published online. It presented two options. The first would require publication of basic records in a common format. The second would also require a searchable register and quarterly updates. Most small offices responding to the questionnaire supported a common format but warned that quarterly updates would require additional staff. Several civil society submissions favored the searchable register and described difficulties finding older records. The secretariat summarized the responses but made clear that the questionnaire was open to any interested person and could not establish the proportion of the entire population favoring either option. It also separated responses from offices that would be responsible for implementation from those of potential users. The committee announced that it would continue consulting on staffing and costs. It retained the original timetable for publishing a recommendation, but it postponed any decision on the date when new requirements would become applicable. A circulated briefing then said that “the consultation confirmed the public’s preference for the searchable register and that the requirements would start on the previously announced date.” The committee chair requested that both claims be narrowed."
+    },
+    {
+      "id": "timed-bank-2-37",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which public sentence fits the confirmed record most closely?",
+      "answer": "Officials will identify shared data fields and estimate connection costs as discussions continue.",
+      "options": [
+        "Officials will identify shared data fields and estimate connection costs as discussions continue.",
+        "The governments committed to launching a shared reporting system in January.",
+        "The governments agreed that all existing limits on data use had been lifted."
+      ],
+      "explanation": "Both technical tasks are recorded as confirmed next steps.",
+      "refs": [],
+      "distractors": {
+        "The governments committed to launching a shared reporting system in January.": "The minutes specifically lack a launch date.",
+        "The governments agreed that all existing limits on data use had been lifted.": "The scope of permitted data use remains under legal review."
+      },
+      "passage": "Two administrations issued separate statements after discussing how to exchange safety data. The first statement said that they had agreed to develop a common form. The second said that the parties had agreed to consider developing a common form after reviewing the cost. A draft joint note prepared by staff says that the governments settled on launching a reporting system in January. The record of the meeting shows that neither side committed to a launch date. It does show that officials were asked to identify the fields both sides already collect and to estimate the cost of connecting their systems. The legal teams are also comparing the proposed note with an existing arrangement that limits the use of exchanged data to specified purposes. One team warned that changing those purposes might require an amendment under the existing arrangement. The coordinating official asked for two products. The first was a public sentence limited to confirmed next steps. The second was a confidential list of details still requiring agreement, with a separate heading for questions about the existing arrangement. She directed the team to keep records of any later commitment rather than editing earlier statements to make them look definitive."
+    },
+    {
+      "id": "timed-bank-2-38",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What difference between the initial two statements matters most?",
+      "answer": "One reports agreement to develop a form, while the other reports agreement only to consider it after a review.",
+      "options": [
+        "One reports agreement to develop a form, while the other reports agreement only to consider it after a review.",
+        "Both report an identical start date and differ only in punctuation.",
+        "One statement announces that the existing arrangement was terminated."
+      ],
+      "explanation": "The two formulations represent different degrees of commitment.",
+      "refs": [],
+      "distractors": {
+        "Both report an identical start date and differ only in punctuation.": "No launch date is reported in either formulation.",
+        "One statement announces that the existing arrangement was terminated.": "The passage does not report termination."
+      },
+      "passage": "Two administrations issued separate statements after discussing how to exchange safety data. The first statement said that they had agreed to develop a common form. The second said that the parties had agreed to consider developing a common form after reviewing the cost. A draft joint note prepared by staff says that the governments settled on launching a reporting system in January. The record of the meeting shows that neither side committed to a launch date. It does show that officials were asked to identify the fields both sides already collect and to estimate the cost of connecting their systems. The legal teams are also comparing the proposed note with an existing arrangement that limits the use of exchanged data to specified purposes. One team warned that changing those purposes might require an amendment under the existing arrangement. The coordinating official asked for two products. The first was a public sentence limited to confirmed next steps. The second was a confidential list of details still requiring agreement, with a separate heading for questions about the existing arrangement. She directed the team to keep records of any later commitment rather than editing earlier statements to make them look definitive."
+    },
+    {
+      "id": "timed-bank-2-39",
+      "subject": "en",
+      "topic": "usage",
+      "question": "How should an editor interpret “might require an amendment”?",
+      "answer": "An amendment is possible, depending on what the existing arrangement requires.",
+      "options": [
+        "An amendment is possible, depending on what the existing arrangement requires.",
+        "An amendment has already entered into force.",
+        "An amendment is mandatory for every exchange of data."
+      ],
+      "explanation": "The wording leaves the result of the legal review open.",
+      "refs": [],
+      "distractors": {
+        "An amendment has already entered into force.": "No amendment is reported as adopted.",
+        "An amendment is mandatory for every exchange of data.": "The warning concerns changing specified purposes, rather than every exchange."
+      },
+      "passage": "Two administrations issued separate statements after discussing how to exchange safety data. The first statement said that they had agreed to develop a common form. The second said that the parties had agreed to consider developing a common form after reviewing the cost. A draft joint note prepared by staff says that the governments settled on launching a reporting system in January. The record of the meeting shows that neither side committed to a launch date. It does show that officials were asked to identify the fields both sides already collect and to estimate the cost of connecting their systems. The legal teams are also comparing the proposed note with an existing arrangement that limits the use of exchanged data to specified purposes. One team warned that changing those purposes might require an amendment under the existing arrangement. The coordinating official asked for two products. The first was a public sentence limited to confirmed next steps. The second was a confidential list of details still requiring agreement, with a separate heading for questions about the existing arrangement. She directed the team to keep records of any later commitment rather than editing earlier statements to make them look definitive."
+    },
+    {
+      "id": "timed-bank-2-40",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why separate legal questions from other unresolved details?",
+      "answer": "A decision about permitted uses depends on the existing arrangement in addition to technical choices.",
+      "options": [
+        "A decision about permitted uses depends on the existing arrangement in addition to technical choices.",
+        "Legal questions can be settled by estimating connection cost alone.",
+        "Technical details were already agreed and could no longer change."
+      ],
+      "explanation": "The two workstreams address different constraints on implementation.",
+      "refs": [],
+      "distractors": {
+        "Legal questions can be settled by estimating connection cost alone.": "A cost estimate cannot determine the legal scope of use.",
+        "Technical details were already agreed and could no longer change.": "Fields and costs remained under review."
+      },
+      "passage": "Two administrations issued separate statements after discussing how to exchange safety data. The first statement said that they had agreed to develop a common form. The second said that the parties had agreed to consider developing a common form after reviewing the cost. A draft joint note prepared by staff says that the governments settled on launching a reporting system in January. The record of the meeting shows that neither side committed to a launch date. It does show that officials were asked to identify the fields both sides already collect and to estimate the cost of connecting their systems. The legal teams are also comparing the proposed note with an existing arrangement that limits the use of exchanged data to specified purposes. One team warned that changing those purposes might require an amendment under the existing arrangement. The coordinating official asked for two products. The first was a public sentence limited to confirmed next steps. The second was a confidential list of details still requiring agreement, with a separate heading for questions about the existing arrangement. She directed the team to keep records of any later commitment rather than editing earlier statements to make them look definitive."
+    },
+    {
+      "id": "timed-bank-2-41",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which editing practice follows the coordinating official’s direction?",
+      "answer": "Record any subsequent commitment with its own date and preserve the earlier statements as issued.",
+      "options": [
+        "Record any subsequent commitment with its own date and preserve the earlier statements as issued.",
+        "Revise the original statements to imply that a later commitment was made from the start.",
+        "Delete all notes about unresolved questions once a technical estimate arrives."
+      ],
+      "explanation": "The request preserves the chronology of decisions and any later change.",
+      "refs": [],
+      "distractors": {
+        "Revise the original statements to imply that a later commitment was made from the start.": "That practice would make earlier tentative statements look definitive.",
+        "Delete all notes about unresolved questions once a technical estimate arrives.": "Producing an estimate does not settle the other points."
+      },
+      "passage": "Two administrations issued separate statements after discussing how to exchange safety data. The first statement said that they had agreed to develop a common form. The second said that the parties had agreed to consider developing a common form after reviewing the cost. A draft joint note prepared by staff says that the governments settled on launching a reporting system in January. The record of the meeting shows that neither side committed to a launch date. It does show that officials were asked to identify the fields both sides already collect and to estimate the cost of connecting their systems. The legal teams are also comparing the proposed note with an existing arrangement that limits the use of exchanged data to specified purposes. One team warned that changing those purposes might require an amendment under the existing arrangement. The coordinating official asked for two products. The first was a public sentence limited to confirmed next steps. The second was a confidential list of details still requiring agreement, with a separate heading for questions about the existing arrangement. She directed the team to keep records of any later commitment rather than editing earlier statements to make them look definitive."
+    },
+    {
+      "id": "timed-bank-2-42",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What remains unconfirmed even though work on data fields was assigned?",
+      "answer": "A shared launch date.",
+      "options": [
+        "A shared launch date.",
+        "The request to estimate connection costs.",
+        "The existence of limits on permitted data use in the current arrangement."
+      ],
+      "explanation": "The launch date was not agreed in the recorded meeting.",
+      "refs": [],
+      "distractors": {
+        "The request to estimate connection costs.": "Cost estimation was explicitly assigned.",
+        "The existence of limits on permitted data use in the current arrangement.": "The current arrangement is described as limiting permissible uses."
+      },
+      "passage": "Two administrations issued separate statements after discussing how to exchange safety data. The first statement said that they had agreed to develop a common form. The second said that the parties had agreed to consider developing a common form after reviewing the cost. A draft joint note prepared by staff says that the governments settled on launching a reporting system in January. The record of the meeting shows that neither side committed to a launch date. It does show that officials were asked to identify the fields both sides already collect and to estimate the cost of connecting their systems. The legal teams are also comparing the proposed note with an existing arrangement that limits the use of exchanged data to specified purposes. One team warned that changing those purposes might require an amendment under the existing arrangement. The coordinating official asked for two products. The first was a public sentence limited to confirmed next steps. The second was a confidential list of details still requiring agreement, with a separate heading for questions about the existing arrangement. She directed the team to keep records of any later commitment rather than editing earlier statements to make them look definitive."
+    },
+    {
+      "id": "timed-bank-2-43",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which statement about the latest financial update is supported?",
+      "answer": "More projects were approved, and transfers had yet to increase.",
+      "options": [
+        "More projects were approved, and transfers had yet to increase.",
+        "Donors raised the amount pledged in the latest update.",
+        "All pledged funds had been spent before the dashboard changed."
+      ],
+      "explanation": "Two project approvals raised the approved total while transfers stayed the same.",
+      "refs": [],
+      "distractors": {
+        "Donors raised the amount pledged in the latest update.": "The pledge total was unchanged.",
+        "All pledged funds had been spent before the dashboard changed.": "The new columns were added to avoid this conflation."
+      },
+      "passage": "A resilience facility announced a new round of support for drainage projects. Its public dashboard showed money pledged by donors, amounts approved for named projects, and the amount transferred to regional implementing offices. The facility revised the dashboard after a newspaper treated the total pledge as cash already spent. It added a fourth column showing reported expenditure, with a note that three offices had not yet sent verified returns. The pledge total had not changed. Approvals rose in the latest update because two project designs cleared review, while transfers were unchanged pending signature of implementation agreements. The facility said that it expected transfers to follow after those signatures but could not guarantee a date. It also warned that lower flood losses reported in two participating municipalities coincided with unusually mild rainfall. An external evaluation proposed comparing the sites with similar municipalities that were not funded, using consistent baseline information on rainfall and damages. The director asked for an interim statement that both acknowledged project approvals and was precise about how much financing had moved. She asked that the statement avoid describing financial progress as evidence that the intervention had already reduced flood losses."
+    },
+    {
+      "id": "timed-bank-2-44",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What limits interpretation of the expenditure figure?",
+      "answer": "Three offices had not submitted verified returns.",
+      "options": [
+        "Three offices had not submitted verified returns.",
+        "No project design had been reviewed.",
+        "Every donor had already withdrawn its pledge."
+      ],
+      "explanation": "The dashboard has incomplete verified reporting on expenditure.",
+      "refs": [],
+      "distractors": {
+        "No project design had been reviewed.": "Two designs cleared review in the update.",
+        "Every donor had already withdrawn its pledge.": "The passage reports no withdrawal."
+      },
+      "passage": "A resilience facility announced a new round of support for drainage projects. Its public dashboard showed money pledged by donors, amounts approved for named projects, and the amount transferred to regional implementing offices. The facility revised the dashboard after a newspaper treated the total pledge as cash already spent. It added a fourth column showing reported expenditure, with a note that three offices had not yet sent verified returns. The pledge total had not changed. Approvals rose in the latest update because two project designs cleared review, while transfers were unchanged pending signature of implementation agreements. The facility said that it expected transfers to follow after those signatures but could not guarantee a date. It also warned that lower flood losses reported in two participating municipalities coincided with unusually mild rainfall. An external evaluation proposed comparing the sites with similar municipalities that were not funded, using consistent baseline information on rainfall and damages. The director asked for an interim statement that both acknowledged project approvals and was precise about how much financing had moved. She asked that the statement avoid describing financial progress as evidence that the intervention had already reduced flood losses."
+    },
+    {
+      "id": "timed-bank-2-45",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which interim statement would satisfy the director’s request?",
+      "answer": "Two more projects were approved. Transfers remain unchanged pending agreements. The impact on losses is still under evaluation.",
+      "options": [
+        "Two more projects were approved. Transfers remain unchanged pending agreements. The impact on losses is still under evaluation.",
+        "The latest approvals prove the facility has spent the pledged funds and reduced losses.",
+        "Because flood losses fell, all participating projects are deemed complete."
+      ],
+      "explanation": "This distinguishes approvals, financing movement, and uncertain impact.",
+      "refs": [],
+      "distractors": {
+        "The latest approvals prove the facility has spent the pledged funds and reduced losses.": "Approval does not establish expenditure or effects.",
+        "Because flood losses fell, all participating projects are deemed complete.": "An outcome observation does not establish project completion."
+      },
+      "passage": "A resilience facility announced a new round of support for drainage projects. Its public dashboard showed money pledged by donors, amounts approved for named projects, and the amount transferred to regional implementing offices. The facility revised the dashboard after a newspaper treated the total pledge as cash already spent. It added a fourth column showing reported expenditure, with a note that three offices had not yet sent verified returns. The pledge total had not changed. Approvals rose in the latest update because two project designs cleared review, while transfers were unchanged pending signature of implementation agreements. The facility said that it expected transfers to follow after those signatures but could not guarantee a date. It also warned that lower flood losses reported in two participating municipalities coincided with unusually mild rainfall. An external evaluation proposed comparing the sites with similar municipalities that were not funded, using consistent baseline information on rainfall and damages. The director asked for an interim statement that both acknowledged project approvals and was precise about how much financing had moved. She asked that the statement avoid describing financial progress as evidence that the intervention had already reduced flood losses."
+    },
+    {
+      "id": "timed-bank-2-46",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why is milder rainfall relevant to the interpretation of lower flood losses?",
+      "answer": "It is a plausible alternative contributor to the observed fall in losses.",
+      "options": [
+        "It is a plausible alternative contributor to the observed fall in losses.",
+        "It proves projects were irrelevant in all municipalities.",
+        "It changes the amount already transferred by the facility."
+      ],
+      "explanation": "Weather changes can affect losses even if interventions remain unchanged.",
+      "refs": [],
+      "distractors": {
+        "It proves projects were irrelevant in all municipalities.": "Contribution by the projects remains possible.",
+        "It changes the amount already transferred by the facility.": "Rainfall and financing flows are distinct measures."
+      },
+      "passage": "A resilience facility announced a new round of support for drainage projects. Its public dashboard showed money pledged by donors, amounts approved for named projects, and the amount transferred to regional implementing offices. The facility revised the dashboard after a newspaper treated the total pledge as cash already spent. It added a fourth column showing reported expenditure, with a note that three offices had not yet sent verified returns. The pledge total had not changed. Approvals rose in the latest update because two project designs cleared review, while transfers were unchanged pending signature of implementation agreements. The facility said that it expected transfers to follow after those signatures but could not guarantee a date. It also warned that lower flood losses reported in two participating municipalities coincided with unusually mild rainfall. An external evaluation proposed comparing the sites with similar municipalities that were not funded, using consistent baseline information on rainfall and damages. The director asked for an interim statement that both acknowledged project approvals and was precise about how much financing had moved. She asked that the statement avoid describing financial progress as evidence that the intervention had already reduced flood losses."
+    },
+    {
+      "id": "timed-bank-2-47",
+      "subject": "en",
+      "topic": "usage",
+      "question": "What does “pending signature” mean for the transfer timetable?",
+      "answer": "The transfers are awaiting signature of the agreements.",
+      "options": [
+        "The transfers are awaiting signature of the agreements.",
+        "The transfers have taken place before the agreements were signed.",
+        "The agreements guarantee a date regardless of whether they are signed."
+      ],
+      "explanation": "The phrase identifies an outstanding condition.",
+      "refs": [],
+      "distractors": {
+        "The transfers have taken place before the agreements were signed.": "Transfers were reported as unchanged.",
+        "The agreements guarantee a date regardless of whether they are signed.": "No date was guaranteed."
+      },
+      "passage": "A resilience facility announced a new round of support for drainage projects. Its public dashboard showed money pledged by donors, amounts approved for named projects, and the amount transferred to regional implementing offices. The facility revised the dashboard after a newspaper treated the total pledge as cash already spent. It added a fourth column showing reported expenditure, with a note that three offices had not yet sent verified returns. The pledge total had not changed. Approvals rose in the latest update because two project designs cleared review, while transfers were unchanged pending signature of implementation agreements. The facility said that it expected transfers to follow after those signatures but could not guarantee a date. It also warned that lower flood losses reported in two participating municipalities coincided with unusually mild rainfall. An external evaluation proposed comparing the sites with similar municipalities that were not funded, using consistent baseline information on rainfall and damages. The director asked for an interim statement that both acknowledged project approvals and was precise about how much financing had moved. She asked that the statement avoid describing financial progress as evidence that the intervention had already reduced flood losses."
+    },
+    {
+      "id": "timed-bank-2-48",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why would the proposed comparison improve the evaluation?",
+      "answer": "It can help distinguish wider weather conditions from differences associated with funding.",
+      "options": [
+        "It can help distinguish wider weather conditions from differences associated with funding.",
+        "It guarantees that every funding and rainfall difference has been eliminated.",
+        "It allows the facility to estimate impact without comparable baseline records."
+      ],
+      "explanation": "Similar comparison sites and consistent baselines address some alternative explanations.",
+      "refs": [],
+      "distractors": {
+        "It guarantees that every funding and rainfall difference has been eliminated.": "The proposed design improves evidence, without guaranteeing perfect control.",
+        "It allows the facility to estimate impact without comparable baseline records.": "The evaluation explicitly calls for baseline information."
+      },
+      "passage": "A resilience facility announced a new round of support for drainage projects. Its public dashboard showed money pledged by donors, amounts approved for named projects, and the amount transferred to regional implementing offices. The facility revised the dashboard after a newspaper treated the total pledge as cash already spent. It added a fourth column showing reported expenditure, with a note that three offices had not yet sent verified returns. The pledge total had not changed. Approvals rose in the latest update because two project designs cleared review, while transfers were unchanged pending signature of implementation agreements. The facility said that it expected transfers to follow after those signatures but could not guarantee a date. It also warned that lower flood losses reported in two participating municipalities coincided with unusually mild rainfall. An external evaluation proposed comparing the sites with similar municipalities that were not funded, using consistent baseline information on rainfall and damages. The director asked for an interim statement that both acknowledged project approvals and was precise about how much financing had moved. She asked that the statement avoid describing financial progress as evidence that the intervention had already reduced flood losses."
+    },
+    {
+      "id": "timed-bank-2-49",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“The board endorsed the proposal in principle and referred the timetable for further work.” Which part was settled?",
+      "answer": "Support for the broad proposal.",
+      "options": [
+        "Support for the broad proposal.",
+        "A final implementation timetable.",
+        "The complete list of actors responsible for implementation."
+      ],
+      "explanation": "An endorsement in principle concerns the broad approach.",
+      "refs": [],
+      "distractors": {
+        "A final implementation timetable.": "The timetable was explicitly referred for more work.",
+        "The complete list of actors responsible for implementation.": "Responsibilities were not established in the statement."
+      }
+    },
+    {
+      "id": "timed-bank-2-50",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which diplomatic reply clearly requests an updated estimate while preserving the option to revise the schedule?",
+      "answer": "Could you send an updated estimate by Wednesday? We will review the schedule after receiving it.",
+      "options": [
+        "Could you send an updated estimate by Wednesday? We will review the schedule after receiving it.",
+        "Your office must accept our timetable before we will review an estimate.",
+        "The timetable has already been revised, so an estimate is unnecessary."
+      ],
+      "explanation": "It makes a concrete request and leaves the scheduling decision open.",
+      "refs": [],
+      "distractors": {
+        "Your office must accept our timetable before we will review an estimate.": "This imposes a new condition unrelated to the request.",
+        "The timetable has already been revised, so an estimate is unnecessary.": "It makes a decision the writer wished to reserve."
+      }
+    },
+    {
+      "id": "timed-bank-2-51",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which sentence conveys that a publication is expected, with the date subject to change?",
+      "answer": "Publication is expected on 15 June, subject to final clearance.",
+      "options": [
+        "Publication is expected on 15 June, subject to final clearance.",
+        "Publication is guaranteed on 15 June regardless of clearance.",
+        "Publications will be suspended after 15 June in all cases."
+      ],
+      "explanation": "The expected date remains conditional on clearance.",
+      "refs": [],
+      "distractors": {
+        "Publication is guaranteed on 15 June regardless of clearance.": "It turns an expectation into a guarantee.",
+        "Publications will be suspended after 15 June in all cases.": "It changes the action and the time relationship."
+      }
+    },
+    {
+      "id": "timed-bank-2-52",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "A city reports that 80% of respondents support a policy. Only residents who had used the service in the last month were invited. What can be reported without overstating the evidence?",
+      "answer": "Four in five respondents in the invited service-user group supported the policy.",
+      "options": [
+        "Four in five respondents in the invited service-user group supported the policy.",
+        "Four in five city residents supported the policy.",
+        "The policy increased support by 80 percentage points."
+      ],
+      "explanation": "The figure is for respondents reached by that sampling rule.",
+      "refs": [],
+      "distractors": {
+        "Four in five city residents supported the policy.": "People outside the invited group were not represented by the figure.",
+        "The policy increased support by 80 percentage points.": "No baseline was provided to measure a change."
+      }
+    },
+    {
+      "id": "timed-bank-2-53",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which wording avoids implying an unconditional commitment to issue a permit?",
+      "answer": "The office may issue a permit if the applicant meets the criteria.",
+      "options": [
+        "The office may issue a permit if the applicant meets the criteria.",
+        "The office must issue every permit on receipt of the first form.",
+        "The applicant is deemed to hold a permit regardless of the criteria."
+      ],
+      "explanation": "“May ... if” leaves an authority or discretion contingent on the criteria.",
+      "refs": [],
+      "distractors": {
+        "The office must issue every permit on receipt of the first form.": "It creates an obligation using a different condition.",
+        "The applicant is deemed to hold a permit regardless of the criteria.": "It removes the stated condition entirely."
+      }
+    },
+    {
+      "id": "timed-bank-2-54",
+      "subject": "en",
+      "topic": "tone",
+      "question": "An internal brief must mention an error for which responsibility remains uncertain. Which sentence works best?",
+      "answer": "We identified a discrepancy in the figures and are checking how it arose.",
+      "options": [
+        "We identified a discrepancy in the figures and are checking how it arose.",
+        "The partner supplied false figures deliberately.",
+        "No discrepancy exists because nobody has admitted a mistake."
+      ],
+      "explanation": "This states the finding and the unresolved question separately.",
+      "refs": [],
+      "distractors": {
+        "The partner supplied false figures deliberately.": "It asserts both a source and an intent with no evidence.",
+        "No discrepancy exists because nobody has admitted a mistake.": "Responsibility does not determine whether a discrepancy exists."
+      }
+    },
+    {
+      "id": "timed-bank-2-55",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“No later than the third working day after receipt” establishes what?",
+      "answer": "A latest permitted day measured in working days from receipt.",
+      "options": [
+        "A latest permitted day measured in working days from receipt.",
+        "An instruction to act exactly three calendar days after receipt.",
+        "A minimum three-working-day waiting period."
+      ],
+      "explanation": "“No later than” places an upper bound on the timing.",
+      "refs": [],
+      "distractors": {
+        "An instruction to act exactly three calendar days after receipt.": "It allows earlier action and specifies working days.",
+        "A minimum three-working-day waiting period.": "It sets a deadline rather than imposing a minimum wait."
+      }
+    },
+    {
+      "id": "timed-bank-2-56",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "A revised method increased the estimated number of eligible households. What would distinguish a measurement change from a population change?",
+      "answer": "Apply both methods to the same reference period and compare their estimates.",
+      "options": [
+        "Apply both methods to the same reference period and compare their estimates.",
+        "Compare the revised estimate with last year’s total from a different region.",
+        "Use the higher number and assume new households moved into the area."
+      ],
+      "explanation": "Holding the reference period fixed isolates the effect of method more directly.",
+      "refs": [],
+      "distractors": {
+        "Compare the revised estimate with last year’s total from a different region.": "Time and geography both differ in that comparison.",
+        "Use the higher number and assume new households moved into the area.": "A revision alone does not establish migration."
+      }
+    },
+    {
+      "id": "timed-bank-2-57",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Choose the sentence that marks “the results” as the subject of the verb.",
+      "answer": "The results, along with the validation report, are available.",
+      "options": [
+        "The results, along with the validation report, are available.",
+        "The results, along with the validation report, is available.",
+        "The results, along with the validation report, has become available."
+      ],
+      "explanation": "The plural head noun is “results.”",
+      "refs": [],
+      "distractors": {
+        "The results, along with the validation report, is available.": "The interrupting singular phrase does not control agreement.",
+        "The results, along with the validation report, has become available.": "“Has” incorrectly treats the plural subject as singular."
+      }
+    },
+    {
+      "id": "timed-bank-2-58",
+      "subject": "en",
+      "topic": "tone",
+      "question": "A statement needs to report partial adoption and ongoing negotiation. Which version is most accurate?",
+      "answer": "Members adopted the common template and will continue discussing the reporting deadline.",
+      "options": [
+        "Members adopted the common template and will continue discussing the reporting deadline.",
+        "Members adopted the template and approved every detail of the deadline.",
+        "Members rejected all proposals because the deadline remained open."
+      ],
+      "explanation": "It records one completed decision and one continuing discussion.",
+      "refs": [],
+      "distractors": {
+        "Members adopted the template and approved every detail of the deadline.": "It adds a completed decision unsupported by the situation.",
+        "Members rejected all proposals because the deadline remained open.": "An open deadline does not negate adoption of the template."
+      }
+    },
+    {
+      "id": "timed-bank-2-59",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“The two forms may be used interchangeably until 31 August.” Which instruction follows?",
+      "answer": "Either form is acceptable up to 31 August under the transitional rule.",
+      "options": [
+        "Either form is acceptable up to 31 August under the transitional rule.",
+        "Both forms must be submitted together by 31 August.",
+        "Neither form is valid before 31 August."
+      ],
+      "explanation": "“Interchangeably” allows either form during the stated period.",
+      "refs": [],
+      "distractors": {
+        "Both forms must be submitted together by 31 August.": "It turns alternatives into a joint requirement.",
+        "Neither form is valid before 31 August.": "It reverses the time relationship."
+      }
+    },
+    {
+      "id": "timed-bank-2-60",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "A follow-up report says average processing improved although more cases exceeded the service target. Which inference is justified?",
+      "answer": "The average improved while a measure of delayed cases moved in the opposite direction.",
+      "options": [
+        "The average improved while a measure of delayed cases moved in the opposite direction.",
+        "Every case was handled faster and met the target.",
+        "The target must have changed on the day processing was measured."
+      ],
+      "explanation": "A mean and a count past a threshold can move differently.",
+      "refs": [],
+      "distractors": {
+        "Every case was handled faster and met the target.": "The increase in late cases does not support a universal improvement.",
+        "The target must have changed on the day processing was measured.": "The result is possible even if the target stayed fixed."
+      }
+    }
+  ]
+}

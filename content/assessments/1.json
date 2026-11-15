@@ -1,0 +1,1055 @@
+{
+  "id": "timed-bank-1",
+  "title": "ชุดข้อสอบจับเวลา 1",
+  "kind": "assessment",
+  "level": 3,
+  "questions": [
+    {
+      "id": "timed-bank-1-01",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "ฝ่ายต่างประเทศต้องชี้แจงสถานะข้อผูกพันเกี่ยวกับค่าธรรมเนียมตามร่างความตกลง เจ้าหน้าที่ควรส่งหลักฐานใดให้ฝ่ายกฎหมายเป็นลำดับแรก?",
+      "answer": "ตัวบทฉบับที่รับรองและบันทึกสถานะการมีผลใช้บังคับ",
+      "options": [
+        "ตัวบทฉบับที่รับรองและบันทึกสถานะการมีผลใช้บังคับ",
+        "สรุปข่าวภาษาเดียวที่เรียกเอกสารว่าใช้แล้ว",
+        "สไลด์ประชาสัมพันธ์ที่อธิบายประโยชน์ของข้อตกลง"
+      ],
+      "explanation": "สถานะข้อผูกพันต้องพิจารณาตัวบทและเงื่อนไขที่มีผลจริง",
+      "refs": [
+        "thaiTreaty",
+        "vclt"
+      ]
+    },
+    {
+      "id": "timed-bank-1-02",
+      "subject": "th",
+      "topic": "current",
+      "question": "หมายข่าวสรุปการแถลงของ กต. วันที่ 11 พฤศจิกายน 2569 ระบุสิ่งที่ผู้แทนไทยมีกำหนดเข้าร่วม เพื่อนำข้อความไปอ้างหลังงานควรเปลี่ยนอะไร?",
+      "answer": "แยกข้อความที่เป็นกำหนดการและตรวจแถลงหลังงานก่อนยืนยันการเข้าร่วมหรือผล",
+      "options": [
+        "แยกข้อความที่เป็นกำหนดการและตรวจแถลงหลังงานก่อนยืนยันการเข้าร่วมหรือผล",
+        "เปลี่ยนกาลของคำกริยาเป็นอดีตเมื่อวันในกำหนดการผ่านไป",
+        "ถือว่าประเด็นหารือทุกข้อเป็นมติร่วมหลังข่าวเผยแพร่"
+      ],
+      "explanation": "เอกสารก่อนงานไม่ยืนยันว่าการจัดงานและผลต่าง ๆ เกิดขึ้นจริง",
+      "refs": [
+        "brief2026"
+      ]
+    },
+    {
+      "id": "timed-bank-1-03",
+      "subject": "th",
+      "topic": "society",
+      "question": "รายงานผู้สูงอายุบอกว่าจำนวนคนทำงานเพิ่ม แต่ประชากรผู้สูงอายุเพิ่มด้วย ข้อใดจำเป็นต่อการประเมินว่าการทำงานแพร่หลายขึ้นหรือไม่?",
+      "answer": "เทียบสัดส่วนที่ทำงานในประชากรผู้สูงอายุแต่ละช่วงโดยใช้ขอบเขตเดียวกัน",
+      "options": [
+        "เทียบสัดส่วนที่ทำงานในประชากรผู้สูงอายุแต่ละช่วงโดยใช้ขอบเขตเดียวกัน",
+        "เทียบจำนวนคนทำงานอย่างเดียวและสรุปว่าสัดส่วนเพิ่ม",
+        "เปรียบเทียบกับจำนวนสำนักงานจัดหางานเท่านั้น"
+      ],
+      "explanation": "ถ้าตัวหารเพิ่ม อัตราอาจเปลี่ยนต่างจากจำนวนนับ",
+      "refs": [
+        "seniorNso"
+      ]
+    },
+    {
+      "id": "timed-bank-1-04",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "เมื่อรัฐต้องการให้ ICJ รับคดีพิพาทเกี่ยวกับข้อบทสนธิสัญญา หลักฐานใดเกี่ยวกับอำนาจศาลตรงประเด็นที่สุด?",
+      "answer": "ข้อกำหนดระงับข้อพิพาทหรือหลักฐานความยินยอมของรัฐที่ใช้ได้กับคดี",
+      "options": [
+        "ข้อกำหนดระงับข้อพิพาทหรือหลักฐานความยินยอมของรัฐที่ใช้ได้กับคดี",
+        "ข่าวว่าผู้เสียหายต้องการให้ศาลรับเรื่อง",
+        "ข้ออ้างว่าทั้งสองรัฐเป็นสมาชิกสมัชชาใหญ่เพียงอย่างเดียว"
+      ],
+      "explanation": "คดีพิพาทของ ICJ ต้องมีฐานความยินยอมที่ครอบคลุมคู่กรณีและประเด็น",
+      "refs": [
+        "icjStatute"
+      ]
+    },
+    {
+      "id": "timed-bank-1-05",
+      "subject": "th",
+      "topic": "economics",
+      "question": "นำเข้ามูลค่า 72,000 บาท เสียอากรตามมูลค่า 8% ถ้ามาตรการใหม่ลดเป็น 5% และมูลค่าคงเดิม อากรลดเท่าไร?",
+      "answer": "2,160 บาท",
+      "options": [
+        "2,160 บาท",
+        "3,600 บาท",
+        "5,760 บาท"
+      ],
+      "explanation": "ส่วนต่างอัตรา 3 จุดร้อยละคูณมูลค่า 72,000 บาท",
+      "refs": [
+        "tariffs"
+      ]
+    },
+    {
+      "id": "timed-bank-1-06",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "เจ้าหน้าที่คนเดียวได้รับคำร้องฉุกเฉินจากคนไทยต่างประเทศและคำขอให้จัดพิธีต้อนรับคณะผู้แทน ควรตัดสินใจอย่างไรในเบื้องต้น?",
+      "answer": "ส่งคำร้องให้ผู้รับผิดชอบด้านกงสุลทันที และประสานงานพิธีแยกตามกำหนด",
+      "options": [
+        "ส่งคำร้องให้ผู้รับผิดชอบด้านกงสุลทันที และประสานงานพิธีแยกตามกำหนด",
+        "ให้ทีมพิธีพิจารณาความช่วยเหลือพร้อมจัดที่นั่ง",
+        "รอคำสั่งยืนยันการเข้าร่วมพิธีก่อนประสานการช่วยเหลือ"
+      ],
+      "explanation": "เส้นทางประสานขึ้นกับทั้งความเร่งด่วนและบทบาทของแต่ละหน่วย",
+      "refs": [
+        "thaiConsul",
+        "protocol"
+      ]
+    },
+    {
+      "id": "timed-bank-1-07",
+      "subject": "th",
+      "topic": "current",
+      "question": "เมื่อติดตามข่าวพิธีภาคยานุวัติ TAC ที่กรุงมะนิลาใน พฤศจิกายน 2569 ควรใช้ตัวชี้วัดใดเพื่อประเมินการติดตามในกรอบนั้น?",
+      "answer": "กิจกรรมหรือความร่วมมือที่เชื่อมกับหลักการและวัตถุประสงค์ของ TAC",
+      "options": [
+        "กิจกรรมหรือความร่วมมือที่เชื่อมกับหลักการและวัตถุประสงค์ของ TAC",
+        "จำนวนรายการที่ลดภาษีภายใต้ RCEP ของทุกผู้ลงนาม",
+        "จำนวนที่นั่งในที่ประชุมสุดยอดที่รัฐใหม่ได้รับ"
+      ],
+      "explanation": "TAC เกี่ยวข้องกับความสัมพันธ์และการอยู่ร่วมอย่างสันติ จึงต้องแยกผลจากกรอบการค้าและการเป็นสมาชิก",
+      "refs": [
+        "tac2026"
+      ]
+    },
+    {
+      "id": "timed-bank-1-08",
+      "subject": "th",
+      "topic": "society",
+      "question": "จังหวัด A มีผู้เข้าเกณฑ์ 800 ครัวเรือนและให้บริการ 480 ส่วนจังหวัด B มีผู้เข้าเกณฑ์ 400 และให้บริการ 280 จังหวัดใดมีความครอบคลุมสูงกว่า?",
+      "answer": "จังหวัด B เพราะครอบคลุม 70% เทียบกับ 60% ใน A",
+      "options": [
+        "จังหวัด B เพราะครอบคลุม 70% เทียบกับ 60% ใน A",
+        "จังหวัด A เพราะให้บริการ 480 ครัวเรือน",
+        "เท่ากันเพราะทั้งสองพื้นที่ใช้เกณฑ์เดียวกัน"
+      ],
+      "explanation": "ต้องหารจำนวนที่ได้รับบริการด้วยจำนวนครัวเรือนเข้าเกณฑ์ของแต่ละจังหวัด",
+      "refs": [
+        "socialNso"
+      ]
+    },
+    {
+      "id": "timed-bank-1-09",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "การประสานแผนของทั้งสามเสาอาเซียนก่อนประชุมผู้นำแตกต่างจากการให้สัตยาบันสนธิสัญญาอย่างไร?",
+      "answer": "เป็นการประสานงานในโครงสร้างอาเซียน ส่วนสัตยาบันเป็นการแสดงความยินยอมในกรอบสนธิสัญญา",
+      "options": [
+        "เป็นการประสานงานในโครงสร้างอาเซียน ส่วนสัตยาบันเป็นการแสดงความยินยอมในกรอบสนธิสัญญา",
+        "ทั้งสองกำหนดให้รัฐฝากตราสารฉบับเดียวกันเสมอ",
+        "การประสานเสาประชาคมมีผลเป็นสัตยาบันโดยปริยาย"
+      ],
+      "explanation": "ต้องแยกกลไกกำหนดวาระขององค์การจากขั้นตอนสร้างข้อผูกพันของรัฐ",
+      "refs": [
+        "charter",
+        "vclt"
+      ]
+    },
+    {
+      "id": "timed-bank-1-10",
+      "subject": "th",
+      "topic": "economics",
+      "question": "ดัชนีมูลค่าส่งออกเพิ่มจาก 100 เป็น 110 แต่ดัชนีราคาเพิ่มเป็น 110 เหมือนกัน ข้อใดอธิบายปริมาณโดยประมาณภายใต้การปรับราคานี้?",
+      "answer": "ปริมาณโดยประมาณทรงตัว",
+      "options": [
+        "ปริมาณโดยประมาณทรงตัว",
+        "ปริมาณเพิ่ม 10% เท่ากับมูลค่า",
+        "ปริมาณลด 10% เท่ากับการขึ้นราคา"
+      ],
+      "explanation": "หารดัชนีมูลค่าด้วยดัชนีราคา อัตราส่วนคงเดิม",
+      "refs": [
+        "fx"
+      ]
+    },
+    {
+      "id": "timed-bank-1-11",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "หลังหน่วยงานหลายแห่งให้ข้อมูลสำหรับ UPR พบว่าตัวเลขของปีเดียวกันใช้คนละนิยาม เจ้าหน้าที่จัดทำท่าทีควรทำอย่างไร?",
+      "answer": "ขอให้เจ้าของข้อมูลอธิบายนิยามและใช้ตัวชี้วัดที่เทียบกันได้ก่อนสรุป",
+      "options": [
+        "ขอให้เจ้าของข้อมูลอธิบายนิยามและใช้ตัวชี้วัดที่เทียบกันได้ก่อนสรุป",
+        "เลือกตัวเลขที่สูงกว่าแล้วอ้างทุกหน่วยงาน",
+        "ใช้ค่าเฉลี่ยของตัวเลขสองชุดเพื่อกลบความต่างของนิยาม"
+      ],
+      "explanation": "การเทียบหรือรวมข้อมูลต้องเริ่มจากนิยามและขอบเขตที่ตรงกัน",
+      "refs": [
+        "upr",
+        "thaiIO"
+      ]
+    },
+    {
+      "id": "timed-bank-1-12",
+      "subject": "th",
+      "topic": "current",
+      "question": "จากการนำเสนอ UPR ของไทย พฤศจิกายน 2569 ข้อใดเป็นขั้นติดตามที่แยกการประกาศจากการดำเนินงานได้ดีที่สุด?",
+      "answer": "เทียบคำตอบทางการต่อข้อแนะนำกับมาตรการที่มีหลักฐานดำเนินการภายหลัง",
+      "options": [
+        "เทียบคำตอบทางการต่อข้อแนะนำกับมาตรการที่มีหลักฐานดำเนินการภายหลัง",
+        "นับทุกข้อแนะนำเป็นนโยบายใหม่ที่ดำเนินแล้วทันที",
+        "ใช้จำนวนคณะผู้แทนที่เข้าร่วมเป็นหลักฐานผลของมาตรการ"
+      ],
+      "explanation": "ข้อแนะนำ การตอบรับ และการดำเนินจริงเป็นข้อมูลคนละขั้น",
+      "refs": [
+        "upr",
+        "uprProcess"
+      ]
+    },
+    {
+      "id": "timed-bank-1-13",
+      "subject": "th",
+      "topic": "society",
+      "question": "รายงานว่านโยบายผ่านวุฒิสภาแล้ว ผู้เรียบเรียงควรแยกข้อเท็จจริงอะไรเมื่อใช้คำว่ารัฐสภาตามมาตรา 79?",
+      "answer": "แยกมติของวุฒิสภาจากสถานะกระบวนการของทั้งสองสภา",
+      "options": [
+        "แยกมติของวุฒิสภาจากสถานะกระบวนการของทั้งสองสภา",
+        "ใช้มติวุฒิสภาเป็นผลการพิจารณาของรัฐสภาทั้งหมดโดยอัตโนมัติ",
+        "อธิบายว่าวุฒิสภาเป็นหน่วยย่อยของคณะรัฐมนตรี"
+      ],
+      "explanation": "วุฒิสภาเป็นหนึ่งในสองสภาตามโครงสร้างรัฐสภา ขอบเขตของข่าวต้องตรงกับองค์กรที่มีมติ",
+      "refs": [
+        "thaiConstitution"
+      ]
+    },
+    {
+      "id": "timed-bank-1-14",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "ข้อบทให้ภาคีแก้ข้อพิพาทโดยหารือก่อนใช้กระบวนการอื่น หากรัฐเพิ่งแสดงความเห็นต่าง ข้อใดเป็นขั้นที่สอดคล้องกับลำดับ?",
+      "answer": "เปิดการหารือตามข้อบทและบันทึกสิ่งที่ยังตกลงไม่ได้",
+      "options": [
+        "เปิดการหารือตามข้อบทและบันทึกสิ่งที่ยังตกลงไม่ได้",
+        "ประกาศว่าศาลมีอำนาจทันทีโดยไม่ดูข้อกำหนด",
+        "ถือว่าข้อผูกพันในความตกลงสิ้นสุดทันทีเมื่อเห็นต่าง"
+      ],
+      "explanation": "หน้าที่เรื่องการหารือและทางเลือกเรื่องอำนาจศาลต้องตรวจตามเครื่องมือที่ใช้",
+      "refs": [
+        "un",
+        "vclt"
+      ]
+    },
+    {
+      "id": "timed-bank-1-15",
+      "subject": "th",
+      "topic": "economics",
+      "question": "ประเทศลดอากรเฉพาะภาคี FTA ข้อใดเป็นการตรวจที่มีลำดับเหมาะสมก่อนสรุปว่าจะใช้สิทธิได้?",
+      "answer": "ตรวจความตกลง รายการสินค้า เกณฑ์ถิ่นกำเนิด และหลักฐานตามเงื่อนไข",
+      "options": [
+        "ตรวจความตกลง รายการสินค้า เกณฑ์ถิ่นกำเนิด และหลักฐานตามเงื่อนไข",
+        "ดูเฉพาะประเทศที่ออกใบแจ้งหนี้",
+        "ใช้อัตราที่คู่ค้าแจ้งด้วยวาจาแม้พิกัดและที่มาไม่ชัด"
+      ],
+      "explanation": "อัตราสิทธิพิเศษต้องตรงกับรายการและคุณสมบัติของสินค้า",
+      "refs": [
+        "rcep",
+        "trade"
+      ]
+    },
+    {
+      "id": "timed-bank-1-16",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "ร่างบันทึกกล่าวว่า “ไทยเห็นชอบ” แต่ผู้แทนแจ้งเพียงว่าสนใจหารือต่อ ข้อแก้ใดรักษาสถานะของท่าทีไว้ครบ?",
+      "answer": "ไทยแสดงความสนใจที่จะหารือเรื่องนี้ต่อ",
+      "options": [
+        "ไทยแสดงความสนใจที่จะหารือเรื่องนี้ต่อ",
+        "ไทยเห็นชอบโดยไม่มีเงื่อนไข",
+        "ไทยไม่รับข้อเสนอและจะไม่มีการหารือ"
+      ],
+      "explanation": "การแสดงความสนใจให้เจรจาต่อเป็นขั้นที่ต่างจากความเห็นชอบ",
+      "refs": [
+        "thaiMfa"
+      ]
+    },
+    {
+      "id": "timed-bank-1-17",
+      "subject": "th",
+      "topic": "current",
+      "question": "ข่าวการหารือเรื่องน้ำข้ามแดนของไทยและเมียนมา พฤศจิกายน 2569 ให้เหตุผลใดสำหรับการเก็บข้อมูลร่วม?",
+      "answer": "วิธีร่วมทำให้เทียบการตรวจและใช้ผลหารือได้ดีขึ้น",
+      "options": [
+        "วิธีร่วมทำให้เทียบการตรวจและใช้ผลหารือได้ดีขึ้น",
+        "ทำให้พิสูจน์แหล่งมลพิษเสร็จตั้งแต่ก่อนเริ่มวัด",
+        "แทนการติดตามผลทั้งหมดด้วยถ้อยคำในแถลงการณ์"
+      ],
+      "explanation": "การประสานวิธีตรวจช่วยสร้างหลักฐานร่วม แต่การระบุแหล่งกำเนิดต้องอาศัยข้อมูล",
+      "refs": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "timed-bank-1-18",
+      "subject": "th",
+      "topic": "society",
+      "question": "การสำรวจหลังเปิดช่องทางออนไลน์พบความพึงพอใจสูงขึ้น แต่เก็บเฉพาะผู้ที่ทำรายการเสร็จ ข้อใดควรตรวจเพิ่ม?",
+      "answer": "สาเหตุและประสบการณ์ของคนที่เริ่มแล้วทำรายการไม่สำเร็จ",
+      "options": [
+        "สาเหตุและประสบการณ์ของคนที่เริ่มแล้วทำรายการไม่สำเร็จ",
+        "ความพึงพอใจของผู้ที่ทำสำเร็จอีกครั้งโดยไม่เปลี่ยนกลุ่มสำรวจ",
+        "จำนวนหน้าของแบบสอบถามอย่างเดียว"
+      ],
+      "explanation": "ตัวอย่างที่จำกัดเฉพาะคนทำสำเร็จอาจไม่เห็นอุปสรรคของผู้หลุดออกจากกระบวนการ",
+      "refs": [
+        "socialNso"
+      ]
+    },
+    {
+      "id": "timed-bank-1-19",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "พื้นที่ทะเลอยู่ 15 ไมล์ทะเลจากเส้นฐาน กล่าวถึงการระงับการฝ่าฝืนศุลกากรที่จะเกิดในทะเลอาณาเขต ควรพิจารณาสิทธิในเขตใดโดยตรง?",
+      "answer": "เขตต่อเนื่องตามกรอบ UNCLOS",
+      "options": [
+        "เขตต่อเนื่องตามกรอบ UNCLOS",
+        "น่านน้ำภายในโดยอัตโนมัติ",
+        "เขตพื้นที่ใต้ทะเลระหว่างประเทศ"
+      ],
+      "explanation": "เขตต่อเนื่องอาจครอบคลุมตำแหน่งนี้และให้การควบคุมด้านศุลกากรตามเงื่อนไข",
+      "refs": [
+        "sea"
+      ]
+    },
+    {
+      "id": "timed-bank-1-20",
+      "subject": "th",
+      "topic": "economics",
+      "question": "ผู้ผลิตขอการคุ้มกันเพราะมีการนำเข้าเพิ่ม แต่หลักฐานเสียหายมาจากเหตุที่รายงานเดียวกันระบุว่าเกิดก่อนการนำเข้าเพิ่ม ข้อใดควรตรวจเป็นพิเศษ?",
+      "answer": "ความสัมพันธ์เชิงเหตุระหว่างการนำเข้ากับความเสียหายและตัวแปรอื่น",
+      "options": [
+        "ความสัมพันธ์เชิงเหตุระหว่างการนำเข้ากับความเสียหายและตัวแปรอื่น",
+        "สิทธิลงคะแนนของประเทศผู้ส่งออกในสมัชชาใหญ่",
+        "ว่าอัตราแลกเปลี่ยนเท่ากันทุกตลาดหรือไม่เพียงอย่างเดียว"
+      ],
+      "explanation": "การเพิ่มของการนำเข้าและความเสียหายต้องพิสูจน์ตามเงื่อนไข รวมถึงความสัมพันธ์เชิงเหตุ",
+      "refs": [
+        "safeguard"
+      ]
+    },
+    {
+      "id": "timed-bank-1-21",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "สื่อถามเรื่องฉุกเฉินทางกงสุลโดยระบุข้อมูลส่วนบุคคลที่ยังตรวจไม่ได้ หน่วยงานควรสื่อสารอย่างไร?",
+      "answer": "ยืนยันข้อมูลทั่วไปที่ตรวจได้และประสานรายละเอียดรายกรณีผ่านช่องทางที่รับผิดชอบ",
+      "options": [
+        "ยืนยันข้อมูลทั่วไปที่ตรวจได้และประสานรายละเอียดรายกรณีผ่านช่องทางที่รับผิดชอบ",
+        "รับรองชื่อและสถานะที่สื่อแจ้งเพื่อให้ข่าวออกเร็ว",
+        "ใช้ข้อมูลรายกรณีที่ยังไม่ยืนยันเป็นหลักฐานสรุป"
+      ],
+      "explanation": "แยกการประสานเฉพาะกรณีออกจากข้อมูลที่เหมาะสำหรับการสื่อสารสาธารณะ",
+      "refs": [
+        "thaiConsul"
+      ]
+    },
+    {
+      "id": "timed-bank-1-22",
+      "subject": "th",
+      "topic": "current",
+      "question": "หลังเหตุการณ์เดียวกันมีทั้งโพสต์ส่วนตัวและถ้อยแถลงทางการ โดยตัวเลขผู้ลงนามไม่ตรงกัน เอกสารใดเหมาะที่สุดสำหรับยืนยันรายชื่อผู้ลงนาม?",
+      "answer": "บันทึกพิธีหรือประกาศทางการที่ระบุชื่อผู้ลงนามโดยตรง",
+      "options": [
+        "บันทึกพิธีหรือประกาศทางการที่ระบุชื่อผู้ลงนามโดยตรง",
+        "ยอดเข้าชมโพสต์ส่วนตัวของผู้สื่อข่าว",
+        "บทวิเคราะห์ที่เผยแพร่ก่อนพิธีและคาดว่าจะมีผู้ลงนาม"
+      ],
+      "explanation": "เอกสารที่บันทึกผลของพิธีตรงเรื่องกว่าข้อมูลยอดชมและการคาดการณ์ล่วงหน้า",
+      "refs": [
+        "tac2026"
+      ]
+    },
+    {
+      "id": "timed-bank-1-23",
+      "subject": "th",
+      "topic": "society",
+      "question": "มีข้อเสนอแก้กฎหมายที่กระทบผู้ใช้บริการหลายกลุ่ม แนวทางใดทำให้การประเมินตามมาตรา 77 มีหลักฐานรอบด้านที่สุด?",
+      "answer": "รับฟังผู้รับผลกระทบหลายกลุ่ม วิเคราะห์ทางเลือกและผล แล้วเปิดเผยผลประกอบการพิจารณา",
+      "options": [
+        "รับฟังผู้รับผลกระทบหลายกลุ่ม วิเคราะห์ทางเลือกและผล แล้วเปิดเผยผลประกอบการพิจารณา",
+        "เก็บความเห็นเฉพาะหน่วยงานที่เสนอร่างเพื่อให้ผลสอดคล้องกับข้อเสนอ",
+        "แจ้งผู้เกี่ยวข้องหลังมีผลบังคับใช้และเรียกการแจ้งนั้นว่าประเมินก่อนตรา"
+      ],
+      "explanation": "การรับฟังและวิเคราะห์ผลเป็นขั้นประกอบก่อนตรากฎหมายตามแนวทางมาตรา 77",
+      "refs": [
+        "thaiConstitution"
+      ]
+    },
+    {
+      "id": "timed-bank-1-24",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "เมื่อคู่ภาคีเผยแพร่ข้อความแปลที่ไม่ได้รับรองและมีความหมายต่างจากตัวบทที่รับรอง ข้อใดควรใช้เป็นจุดเริ่มต้นการตีความ?",
+      "answer": "ตัวบทที่รับรองและบริบทของความตกลง",
+      "options": [
+        "ตัวบทที่รับรองและบริบทของความตกลง",
+        "คำแปลล่าสุดเพียงเพราะเผยแพร่ภายหลัง",
+        "พาดหัวข่าวที่ถอดความสั้นที่สุด"
+      ],
+      "explanation": "สถานะข้อความที่รับรองแยกจากคำแปลเพื่อสื่อสารทั่วไป",
+      "refs": [
+        "vclt"
+      ]
+    },
+    {
+      "id": "timed-bank-1-25",
+      "subject": "th",
+      "topic": "economics",
+      "question": "นักท่องเที่ยวต่างชาติซื้อบริการในไทยเพิ่ม ขณะที่คนไทยซื้อหลักทรัพย์ต่างประเทศเพิ่ม ควรรายงานรายการสองประเภทอย่างไร?",
+      "answer": "บริการอยู่ในบัญชีเดินสะพัด ส่วนการซื้อหลักทรัพย์อยู่ในบัญชีการเงิน",
+      "options": [
+        "บริการอยู่ในบัญชีเดินสะพัด ส่วนการซื้อหลักทรัพย์อยู่ในบัญชีการเงิน",
+        "รวมทั้งสองเป็นการส่งออกบริการ",
+        "รวมทั้งสองเป็นรายได้รัฐบาลจากภาษี"
+      ],
+      "explanation": "ธุรกรรมบริการและการลงทุนทางการเงินจัดอยู่คนละบัญชี",
+      "refs": [
+        "bop"
+      ]
+    },
+    {
+      "id": "timed-bank-1-26",
+      "subject": "th",
+      "topic": "mfa",
+      "question": "สถานทูตมีข้อมูลว่ารัฐผู้รับเปลี่ยนหลักเกณฑ์เอกสาร ข้อใดเป็นรายงานต่อส่วนกลางที่ใช้ดำเนินการได้ที่สุด?",
+      "answer": "แนบประกาศทางการ ระบุวันมีผล กลุ่มที่ได้รับผล และประเด็นที่ยังต้องสอบถาม",
+      "options": [
+        "แนบประกาศทางการ ระบุวันมีผล กลุ่มที่ได้รับผล และประเด็นที่ยังต้องสอบถาม",
+        "แนบข้อความถ่ายทอดต่อกันโดยไม่มีวันที่เพื่อประหยัดเวลา",
+        "รายงานเพียงจำนวนคนที่แชร์ประกาศโดยไม่บอกเนื้อหา"
+      ],
+      "explanation": "วันมีผล ขอบเขต และหลักฐานต้นทางจำเป็นต่อการแนะนำการดำเนินการ",
+      "refs": [
+        "thaiMfa",
+        "vienna"
+      ]
+    },
+    {
+      "id": "timed-bank-1-27",
+      "subject": "th",
+      "topic": "current",
+      "question": "เมื่อตรวจเอกสาร ASEAN Community Vision 2045 สำหรับทำข่าว ข้อใดอธิบายความเชื่อมโยงระหว่างวิสัยทัศน์กับผลที่เกิดขึ้นได้ดีที่สุด?",
+      "answer": "วิสัยทัศน์กำหนดทิศทาง และต้องดูแผนกับตัวชี้วัดเพื่อประเมินผลที่เกิด",
+      "options": [
+        "วิสัยทัศน์กำหนดทิศทาง และต้องดูแผนกับตัวชี้วัดเพื่อประเมินผลที่เกิด",
+        "การรับวิสัยทัศน์แสดงว่าทุกเป้าหมายเกิดขึ้นแล้ว",
+        "ปีเป้าหมายกำหนดให้รัฐสมาชิกปรับอากรในอัตราเดียวกัน"
+      ],
+      "explanation": "เอกสารเชิงยุทธศาสตร์ระบุความมุ่งหมาย การประเมินความก้าวหน้าต้องใช้หลักฐานดำเนินงาน",
+      "refs": [
+        "vision"
+      ]
+    },
+    {
+      "id": "timed-bank-1-28",
+      "subject": "th",
+      "topic": "society",
+      "question": "หากนโยบายลดความเหลื่อมล้ำทำให้ค่าเฉลี่ยรายได้สูงขึ้น แต่รายได้กลุ่มล่างคงเดิม หลักฐานใดช่วยประเมินเป้าหมายโดยตรง?",
+      "answer": "การกระจายผลได้ตามกลุ่มรายได้และตัวชี้วัดความเหลื่อมล้ำ",
+      "options": [
+        "การกระจายผลได้ตามกลุ่มรายได้และตัวชี้วัดความเหลื่อมล้ำ",
+        "ตัวเลขผลิตภัณฑ์มวลรวมโดยไม่แยกกลุ่ม",
+        "จำนวนการประชุมจัดทำนโยบาย"
+      ],
+      "explanation": "ค่าเฉลี่ยเพียงค่าเดียวอาจไม่แสดงว่าผลได้กระจายอย่างไร",
+      "refs": [
+        "sdg",
+        "socialNso"
+      ]
+    },
+    {
+      "id": "timed-bank-1-29",
+      "subject": "th",
+      "topic": "institutions",
+      "question": "สมัชชาใหญ่และคณะมนตรีความมั่นคงต่างอภิปรายปัญหาเดียวกัน ควรอ่านเอกสารอย่างไรเพื่อประเมินผลทางกฎหมาย?",
+      "answer": "ดูองค์การที่ออก ฐานอำนาจ และถ้อยคำในเอกสารแต่ละฉบับ",
+      "options": [
+        "ดูองค์การที่ออก ฐานอำนาจ และถ้อยคำในเอกสารแต่ละฉบับ",
+        "ถือว่าข้อความทุกฉบับของ UN มีผลผูกพันแบบเดียวกัน",
+        "ใช้หัวข้อการอภิปรายเพียงอย่างเดียวตัดสินผล"
+      ],
+      "explanation": "ผลของการดำเนินงานขึ้นกับฐานอำนาจและลักษณะเอกสาร",
+      "refs": [
+        "un"
+      ]
+    },
+    {
+      "id": "timed-bank-1-30",
+      "subject": "th",
+      "topic": "economics",
+      "question": "งบโครงการเพิ่มจาก 80 เป็น 88 ล้านบาท ขณะที่ราคาต้นทุนเพิ่มร้อยละ 20 กำลังซื้อของงบใหม่ที่ราคาฐานประมาณเท่าไร?",
+      "answer": "73.33 ล้านบาท",
+      "options": [
+        "73.33 ล้านบาท",
+        "88 ล้านบาท",
+        "105.60 ล้านบาท"
+      ],
+      "explanation": "นำงบตัวเงินหารด้วย 1.20 เพื่อคิดในราคาฐาน",
+      "refs": [
+        "syllabus"
+      ]
+    },
+    {
+      "id": "timed-bank-1-31",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which conclusion is directly supported by the permit-office data?",
+      "answer": "Average approval times fell for submitted applications during the pilot.",
+      "options": [
+        "Average approval times fell for submitted applications during the pilot.",
+        "The software was responsible for the entire increase in completed permits.",
+        "Remote verification had no influence on processing time."
+      ],
+      "explanation": "The measured time from submission to approval fell within the pilot window.",
+      "refs": [],
+      "distractors": {
+        "The software was responsible for the entire increase in completed permits.": "Several changes coincided with the increase.",
+        "Remote verification had no influence on processing time.": "The contribution of remote verification remains unresolved."
+      },
+      "passage": "A district's permit office began accepting documents through a new online portal in April. At the same time, it stopped requiring a separate visit for applicants whose identity could be verified remotely. Over the next three months, completed applications rose by 18 percent relative to the previous quarter, and the average time from submission to approval fell. Officials initially attributed the entire improvement to the software. The independent evaluator pointed out that the removal of the extra visit could have affected both measures. Spring applications had also exceeded winter applications in two earlier years. The evaluator interviewed people whose files had been completed and visited one office that still required in-person verification. Because that office served a different population and had a much smaller staff, its results were reported separately. The review concluded that processing had become faster for submitted applications but that the evidence could not identify the contribution of either change. It recommended retaining both procedures during a second trial, testing each in comparable locations, and contacting people who created an account without successfully submitting a file. Until that work was complete, the evaluator advised describing the figures as preliminary."
+    },
+    {
+      "id": "timed-bank-1-32",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why does the evaluator mention spring applications in earlier years?",
+      "answer": "Previous seasonal patterns provide another possible explanation for the rise in completions.",
+      "options": [
+        "Previous seasonal patterns provide another possible explanation for the rise in completions.",
+        "The earlier years establish that the portal already operated before April.",
+        "The seasonal trend proves a software effect once each quarter is included."
+      ],
+      "explanation": "Higher spring activity could contribute to the comparison with winter.",
+      "refs": [],
+      "distractors": {
+        "The earlier years establish that the portal already operated before April.": "The portal began in April of the study year.",
+        "The seasonal trend proves a software effect once each quarter is included.": "A seasonal comparison alone does not establish a software effect."
+      },
+      "passage": "A district's permit office began accepting documents through a new online portal in April. At the same time, it stopped requiring a separate visit for applicants whose identity could be verified remotely. Over the next three months, completed applications rose by 18 percent relative to the previous quarter, and the average time from submission to approval fell. Officials initially attributed the entire improvement to the software. The independent evaluator pointed out that the removal of the extra visit could have affected both measures. Spring applications had also exceeded winter applications in two earlier years. The evaluator interviewed people whose files had been completed and visited one office that still required in-person verification. Because that office served a different population and had a much smaller staff, its results were reported separately. The review concluded that processing had become faster for submitted applications but that the evidence could not identify the contribution of either change. It recommended retaining both procedures during a second trial, testing each in comparable locations, and contacting people who created an account without successfully submitting a file. Until that work was complete, the evaluator advised describing the figures as preliminary."
+    },
+    {
+      "id": "timed-bank-1-33",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why were results from the office requiring an in-person visit reported separately?",
+      "answer": "Its population and staffing made a direct comparison unreliable without adjustment.",
+      "options": [
+        "Its population and staffing made a direct comparison unreliable without adjustment.",
+        "It used exactly the same procedures and resources as the portal sites.",
+        "It was the only office that interviewed successful applicants."
+      ],
+      "explanation": "Important differences make it an unsuitable simple control.",
+      "refs": [],
+      "distractors": {
+        "It used exactly the same procedures and resources as the portal sites.": "Both the staffing and the population differed.",
+        "It was the only office that interviewed successful applicants.": "The passage separates an office visit from interviews with successful applicants."
+      },
+      "passage": "A district's permit office began accepting documents through a new online portal in April. At the same time, it stopped requiring a separate visit for applicants whose identity could be verified remotely. Over the next three months, completed applications rose by 18 percent relative to the previous quarter, and the average time from submission to approval fell. Officials initially attributed the entire improvement to the software. The independent evaluator pointed out that the removal of the extra visit could have affected both measures. Spring applications had also exceeded winter applications in two earlier years. The evaluator interviewed people whose files had been completed and visited one office that still required in-person verification. Because that office served a different population and had a much smaller staff, its results were reported separately. The review concluded that processing had become faster for submitted applications but that the evidence could not identify the contribution of either change. It recommended retaining both procedures during a second trial, testing each in comparable locations, and contacting people who created an account without successfully submitting a file. Until that work was complete, the evaluator advised describing the figures as preliminary."
+    },
+    {
+      "id": "timed-bank-1-34",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What group would the recommended follow-up add that was missing from the interviews?",
+      "answer": "People who started an online application but never submitted it successfully.",
+      "options": [
+        "People who started an online application but never submitted it successfully.",
+        "Only people whose permits had already been approved.",
+        "Staff transferred from other agencies."
+      ],
+      "explanation": "The review explicitly recommends reaching people who registered but did not submit.",
+      "refs": [],
+      "distractors": {
+        "Only people whose permits had already been approved.": "People with completed files were already represented.",
+        "Staff transferred from other agencies.": "Transferred staff are outside this sampling recommendation."
+      },
+      "passage": "A district's permit office began accepting documents through a new online portal in April. At the same time, it stopped requiring a separate visit for applicants whose identity could be verified remotely. Over the next three months, completed applications rose by 18 percent relative to the previous quarter, and the average time from submission to approval fell. Officials initially attributed the entire improvement to the software. The independent evaluator pointed out that the removal of the extra visit could have affected both measures. Spring applications had also exceeded winter applications in two earlier years. The evaluator interviewed people whose files had been completed and visited one office that still required in-person verification. Because that office served a different population and had a much smaller staff, its results were reported separately. The review concluded that processing had become faster for submitted applications but that the evidence could not identify the contribution of either change. It recommended retaining both procedures during a second trial, testing each in comparable locations, and contacting people who created an account without successfully submitting a file. Until that work was complete, the evaluator advised describing the figures as preliminary."
+    },
+    {
+      "id": "timed-bank-1-35",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which public sentence best matches the independent evaluation?",
+      "answer": "Processing was faster during the trial, and a follow-up will examine the contribution of each change.",
+      "options": [
+        "Processing was faster during the trial, and a follow-up will examine the contribution of each change.",
+        "The trial establishes that the new software alone made processing faster.",
+        "The evaluator rejected both changes and recommended replacing them."
+      ],
+      "explanation": "The measured outcome is supported, while attribution awaits a follow-up.",
+      "refs": [],
+      "distractors": {
+        "The trial establishes that the new software alone made processing faster.": "The changes were introduced together, making the claim too strong.",
+        "The evaluator rejected both changes and recommended replacing them.": "The evaluator recommended retaining both for further testing."
+      },
+      "passage": "A district's permit office began accepting documents through a new online portal in April. At the same time, it stopped requiring a separate visit for applicants whose identity could be verified remotely. Over the next three months, completed applications rose by 18 percent relative to the previous quarter, and the average time from submission to approval fell. Officials initially attributed the entire improvement to the software. The independent evaluator pointed out that the removal of the extra visit could have affected both measures. Spring applications had also exceeded winter applications in two earlier years. The evaluator interviewed people whose files had been completed and visited one office that still required in-person verification. Because that office served a different population and had a much smaller staff, its results were reported separately. The review concluded that processing had become faster for submitted applications but that the evidence could not identify the contribution of either change. It recommended retaining both procedures during a second trial, testing each in comparable locations, and contacting people who created an account without successfully submitting a file. Until that work was complete, the evaluator advised describing the figures as preliminary."
+    },
+    {
+      "id": "timed-bank-1-36",
+      "subject": "en",
+      "topic": "usage",
+      "question": "What does “preliminary” indicate in the final sentence?",
+      "answer": "The figures can be reported with a qualification while further evidence is collected.",
+      "options": [
+        "The figures can be reported with a qualification while further evidence is collected.",
+        "The figures must be rejected as numerically false.",
+        "The figures are legally binding because an evaluator published them."
+      ],
+      "explanation": "Preliminary figures are early results that may be refined after further work.",
+      "refs": [],
+      "distractors": {
+        "The figures must be rejected as numerically false.": "Their limitations concern interpretation, rather than proven mathematical error.",
+        "The figures are legally binding because an evaluator published them.": "Publication gives no legally binding status."
+      },
+      "passage": "A district's permit office began accepting documents through a new online portal in April. At the same time, it stopped requiring a separate visit for applicants whose identity could be verified remotely. Over the next three months, completed applications rose by 18 percent relative to the previous quarter, and the average time from submission to approval fell. Officials initially attributed the entire improvement to the software. The independent evaluator pointed out that the removal of the extra visit could have affected both measures. Spring applications had also exceeded winter applications in two earlier years. The evaluator interviewed people whose files had been completed and visited one office that still required in-person verification. Because that office served a different population and had a much smaller staff, its results were reported separately. The review concluded that processing had become faster for submitted applications but that the evidence could not identify the contribution of either change. It recommended retaining both procedures during a second trial, testing each in comparable locations, and contacting people who created an account without successfully submitting a file. Until that work was complete, the evaluator advised describing the figures as preliminary."
+    },
+    {
+      "id": "timed-bank-1-37",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which revision best represents the partner ministry’s position?",
+      "answer": "The ministry is prepared to nominate two specialists if the verified examples are circulated at least seven days in advance.",
+      "options": [
+        "The ministry is prepared to nominate two specialists if the verified examples are circulated at least seven days in advance.",
+        "The ministry has confirmed two participants, and advance circulation is optional.",
+        "The ministry will consider nominations only after the workshop report is published."
+      ],
+      "explanation": "The response offers participation subject to a specific timing condition.",
+      "refs": [],
+      "distractors": {
+        "The ministry has confirmed two participants, and advance circulation is optional.": "The draft wrongly turns the condition into optional work.",
+        "The ministry will consider nominations only after the workshop report is published.": "The condition concerns the examples before the workshop."
+      },
+      "passage": "An embassy invited a partner ministry to a joint workshop on supplier documentation. The partner replied that it was prepared to nominate two specialists, provided that the organizers circulated examples of the new forms at least seven days in advance. The embassy had only an unfinished example and planned to issue a verified version after the translation team had checked its terminology. The coordinating team drafted a note saying, “The partner ministry confirmed participation and requires no further action from us.” A reviewer proposed replacing that sentence. She also requested that the embassy send a date by which it expected to have the forms, ask whether the two nominations would still be possible if the schedule changed, and avoid presenting a reply to that request as automatic consent. In the meantime, the workshop team could circulate the agenda and a summary of its own rules, but the attendee invitation had to explain that the examples were still under translation. The final workshop report was to list the materials actually shared, any changes to the schedule, and the date on which participation was confirmed. It was not intended to evaluate the quality of the translations."
+    },
+    {
+      "id": "timed-bank-1-38",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which fact prevents the embassy from saying it has completed the condition?",
+      "answer": "The examples have yet to clear the terminology review.",
+      "options": [
+        "The examples have yet to clear the terminology review.",
+        "The partner has declined to nominate any specialists under any circumstances.",
+        "The workshop team has no agenda it can circulate."
+      ],
+      "explanation": "The usable examples are not yet ready for advance circulation.",
+      "refs": [],
+      "distractors": {
+        "The partner has declined to nominate any specialists under any circumstances.": "The partner has made a conditional offer.",
+        "The workshop team has no agenda it can circulate.": "The agenda can be circulated in the meantime."
+      },
+      "passage": "An embassy invited a partner ministry to a joint workshop on supplier documentation. The partner replied that it was prepared to nominate two specialists, provided that the organizers circulated examples of the new forms at least seven days in advance. The embassy had only an unfinished example and planned to issue a verified version after the translation team had checked its terminology. The coordinating team drafted a note saying, “The partner ministry confirmed participation and requires no further action from us.” A reviewer proposed replacing that sentence. She also requested that the embassy send a date by which it expected to have the forms, ask whether the two nominations would still be possible if the schedule changed, and avoid presenting a reply to that request as automatic consent. In the meantime, the workshop team could circulate the agenda and a summary of its own rules, but the attendee invitation had to explain that the examples were still under translation. The final workshop report was to list the materials actually shared, any changes to the schedule, and the date on which participation was confirmed. It was not intended to evaluate the quality of the translations."
+    },
+    {
+      "id": "timed-bank-1-39",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which follow-up best preserves the partner’s discretion?",
+      "answer": "We expect to share the examples on Tuesday. Would nominations still be possible if that moves the schedule?",
+      "options": [
+        "We expect to share the examples on Tuesday. Would nominations still be possible if that moves the schedule?",
+        "Unless we hear otherwise, we will list both specialists as confirmed, regardless of when the examples are sent.",
+        "Please nominate two specialists immediately. We will settle the examples after the event."
+      ],
+      "explanation": "The request asks rather than assuming agreement to a changed timetable.",
+      "refs": [],
+      "distractors": {
+        "Unless we hear otherwise, we will list both specialists as confirmed, regardless of when the examples are sent.": "The reviewer explicitly advised against treating a reply or silence as automatic consent.",
+        "Please nominate two specialists immediately. We will settle the examples after the event.": "The proposed timing bypasses the partner’s stated condition."
+      },
+      "passage": "An embassy invited a partner ministry to a joint workshop on supplier documentation. The partner replied that it was prepared to nominate two specialists, provided that the organizers circulated examples of the new forms at least seven days in advance. The embassy had only an unfinished example and planned to issue a verified version after the translation team had checked its terminology. The coordinating team drafted a note saying, “The partner ministry confirmed participation and requires no further action from us.” A reviewer proposed replacing that sentence. She also requested that the embassy send a date by which it expected to have the forms, ask whether the two nominations would still be possible if the schedule changed, and avoid presenting a reply to that request as automatic consent. In the meantime, the workshop team could circulate the agenda and a summary of its own rules, but the attendee invitation had to explain that the examples were still under translation. The final workshop report was to list the materials actually shared, any changes to the schedule, and the date on which participation was confirmed. It was not intended to evaluate the quality of the translations."
+    },
+    {
+      "id": "timed-bank-1-40",
+      "subject": "en",
+      "topic": "usage",
+      "question": "What does “provided that” do in the reply?",
+      "answer": "It states a condition on the offer to nominate specialists.",
+      "options": [
+        "It states a condition on the offer to nominate specialists.",
+        "It announces a replacement for the translation team.",
+        "It identifies the reason the workshop report has already been accepted."
+      ],
+      "explanation": "The offer depends on circulating examples within the stated period.",
+      "refs": [],
+      "distractors": {
+        "It announces a replacement for the translation team.": "The phrase introduces no staffing decision.",
+        "It identifies the reason the workshop report has already been accepted.": "The report is a later record rather than a reason for the offer."
+      },
+      "passage": "An embassy invited a partner ministry to a joint workshop on supplier documentation. The partner replied that it was prepared to nominate two specialists, provided that the organizers circulated examples of the new forms at least seven days in advance. The embassy had only an unfinished example and planned to issue a verified version after the translation team had checked its terminology. The coordinating team drafted a note saying, “The partner ministry confirmed participation and requires no further action from us.” A reviewer proposed replacing that sentence. She also requested that the embassy send a date by which it expected to have the forms, ask whether the two nominations would still be possible if the schedule changed, and avoid presenting a reply to that request as automatic consent. In the meantime, the workshop team could circulate the agenda and a summary of its own rules, but the attendee invitation had to explain that the examples were still under translation. The final workshop report was to list the materials actually shared, any changes to the schedule, and the date on which participation was confirmed. It was not intended to evaluate the quality of the translations."
+    },
+    {
+      "id": "timed-bank-1-41",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What could the workshop team share before the verified examples were ready?",
+      "answer": "The agenda and a summary of its own rules, with a note about the translation.",
+      "options": [
+        "The agenda and a summary of its own rules, with a note about the translation.",
+        "The verified examples as already approved.",
+        "No material at all until the two specialists arrive."
+      ],
+      "explanation": "The passage distinguishes the available materials from the translation in progress.",
+      "refs": [],
+      "distractors": {
+        "The verified examples as already approved.": "The examples are explicitly unfinished.",
+        "No material at all until the two specialists arrive.": "The team can share other materials before nominations."
+      },
+      "passage": "An embassy invited a partner ministry to a joint workshop on supplier documentation. The partner replied that it was prepared to nominate two specialists, provided that the organizers circulated examples of the new forms at least seven days in advance. The embassy had only an unfinished example and planned to issue a verified version after the translation team had checked its terminology. The coordinating team drafted a note saying, “The partner ministry confirmed participation and requires no further action from us.” A reviewer proposed replacing that sentence. She also requested that the embassy send a date by which it expected to have the forms, ask whether the two nominations would still be possible if the schedule changed, and avoid presenting a reply to that request as automatic consent. In the meantime, the workshop team could circulate the agenda and a summary of its own rules, but the attendee invitation had to explain that the examples were still under translation. The final workshop report was to list the materials actually shared, any changes to the schedule, and the date on which participation was confirmed. It was not intended to evaluate the quality of the translations."
+    },
+    {
+      "id": "timed-bank-1-42",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which thing was outside the scope of the planned final report?",
+      "answer": "An assessment of translation quality.",
+      "options": [
+        "An assessment of translation quality.",
+        "A record of the materials actually provided.",
+        "The date participation was confirmed."
+      ],
+      "explanation": "The passage excludes evaluating the translation itself.",
+      "refs": [],
+      "distractors": {
+        "A record of the materials actually provided.": "The materials shared were part of the report.",
+        "The date participation was confirmed.": "The confirmation date was to be recorded."
+      },
+      "passage": "An embassy invited a partner ministry to a joint workshop on supplier documentation. The partner replied that it was prepared to nominate two specialists, provided that the organizers circulated examples of the new forms at least seven days in advance. The embassy had only an unfinished example and planned to issue a verified version after the translation team had checked its terminology. The coordinating team drafted a note saying, “The partner ministry confirmed participation and requires no further action from us.” A reviewer proposed replacing that sentence. She also requested that the embassy send a date by which it expected to have the forms, ask whether the two nominations would still be possible if the schedule changed, and avoid presenting a reply to that request as automatic consent. In the meantime, the workshop team could circulate the agenda and a summary of its own rules, but the attendee invitation had to explain that the examples were still under translation. The final workshop report was to list the materials actually shared, any changes to the schedule, and the date on which participation was confirmed. It was not intended to evaluate the quality of the translations."
+    },
+    {
+      "id": "timed-bank-1-43",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What does the five-percentage-point gap directly describe?",
+      "answer": "A difference between observed growth rates in the two groups.",
+      "options": [
+        "A difference between observed growth rates in the two groups.",
+        "An unbiased estimate of the effect of extended opening.",
+        "An increase in distinct users at the funded branches."
+      ],
+      "explanation": "The gap is descriptive, given the selection and other simultaneous activities.",
+      "refs": [],
+      "distractors": {
+        "An unbiased estimate of the effect of extended opening.": "The non-random site selection and workshops limit causal interpretation.",
+        "An increase in distinct users at the funded branches.": "The outcome counts visits, including repeats."
+      },
+      "passage": "A grant enabled a library network to extend its evening hours at six branches. The network counted visitors for four months before and after the change. Visits rose by 12 percent at participating branches. At three of the six branches, however, the network also started running exam-preparation workshops. Across all other branches in the network, visits rose by 7 percent over the same period. A briefing called the difference of five percentage points “the effect of longer hours.” The analyst asked for a narrower interpretation. Branches had been selected for extended hours because local demand was already growing, and the other branches had not been matched on population or previous visitor trends. The analyst added that the count included visits rather than distinct visitors. An individual who returned for three sessions appeared three times in the figures. The board retained the longer hours at two branches while gathering better information. It also requested an estimate of additional staffing cost per additional visit, with workshop-related costs identified separately where possible, and a later survey of residents who had previously been unable to use the library during daytime hours."
+    },
+    {
+      "id": "timed-bank-1-44",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why does the presence of examination workshops matter?",
+      "answer": "Workshops could contribute to visitor growth independently of longer hours.",
+      "options": [
+        "Workshops could contribute to visitor growth independently of longer hours.",
+        "Workshop attendees were excluded from the reported visit counts.",
+        "Workshop costs prove that evening access became less equitable."
+      ],
+      "explanation": "The workshops began at three sites during the same period.",
+      "refs": [],
+      "distractors": {
+        "Workshop attendees were excluded from the reported visit counts.": "The passage reports no such exclusion.",
+        "Workshop costs prove that evening access became less equitable.": "Cost and access equity require their own evidence."
+      },
+      "passage": "A grant enabled a library network to extend its evening hours at six branches. The network counted visitors for four months before and after the change. Visits rose by 12 percent at participating branches. At three of the six branches, however, the network also started running exam-preparation workshops. Across all other branches in the network, visits rose by 7 percent over the same period. A briefing called the difference of five percentage points “the effect of longer hours.” The analyst asked for a narrower interpretation. Branches had been selected for extended hours because local demand was already growing, and the other branches had not been matched on population or previous visitor trends. The analyst added that the count included visits rather than distinct visitors. An individual who returned for three sessions appeared three times in the figures. The board retained the longer hours at two branches while gathering better information. It also requested an estimate of additional staffing cost per additional visit, with workshop-related costs identified separately where possible, and a later survey of residents who had previously been unable to use the library during daytime hours."
+    },
+    {
+      "id": "timed-bank-1-45",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What group would the later survey help the board understand?",
+      "answer": "Residents whose daytime schedules had prevented them from using the library.",
+      "options": [
+        "Residents whose daytime schedules had prevented them from using the library.",
+        "Only people who repeatedly attended the workshops.",
+        "Staff members who prepared the grant application."
+      ],
+      "explanation": "This group is named as the target in the final sentence.",
+      "refs": [],
+      "distractors": {
+        "Only people who repeatedly attended the workshops.": "Workshop attendance is narrower and was not the target criterion.",
+        "Staff members who prepared the grant application.": "Staff are not the residents whose access is being assessed."
+      },
+      "passage": "A grant enabled a library network to extend its evening hours at six branches. The network counted visitors for four months before and after the change. Visits rose by 12 percent at participating branches. At three of the six branches, however, the network also started running exam-preparation workshops. Across all other branches in the network, visits rose by 7 percent over the same period. A briefing called the difference of five percentage points “the effect of longer hours.” The analyst asked for a narrower interpretation. Branches had been selected for extended hours because local demand was already growing, and the other branches had not been matched on population or previous visitor trends. The analyst added that the count included visits rather than distinct visitors. An individual who returned for three sessions appeared three times in the figures. The board retained the longer hours at two branches while gathering better information. It also requested an estimate of additional staffing cost per additional visit, with workshop-related costs identified separately where possible, and a later survey of residents who had previously been unable to use the library during daytime hours."
+    },
+    {
+      "id": "timed-bank-1-46",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What complication follows from counting visits instead of visitors?",
+      "answer": "An increase in repeat attendance can raise the figure without an equal increase in unique users.",
+      "options": [
+        "An increase in repeat attendance can raise the figure without an equal increase in unique users.",
+        "The site-selection process becomes random once visits are counted.",
+        "The 12 percent figure can only describe new visitors."
+      ],
+      "explanation": "A person can contribute more than one observation to the visit count.",
+      "refs": [],
+      "distractors": {
+        "The site-selection process becomes random once visits are counted.": "Counting procedures do not alter eligibility or selection.",
+        "The 12 percent figure can only describe new visitors.": "The metric explicitly includes repeat visits."
+      },
+      "passage": "A grant enabled a library network to extend its evening hours at six branches. The network counted visitors for four months before and after the change. Visits rose by 12 percent at participating branches. At three of the six branches, however, the network also started running exam-preparation workshops. Across all other branches in the network, visits rose by 7 percent over the same period. A briefing called the difference of five percentage points “the effect of longer hours.” The analyst asked for a narrower interpretation. Branches had been selected for extended hours because local demand was already growing, and the other branches had not been matched on population or previous visitor trends. The analyst added that the count included visits rather than distinct visitors. An individual who returned for three sessions appeared three times in the figures. The board retained the longer hours at two branches while gathering better information. It also requested an estimate of additional staffing cost per additional visit, with workshop-related costs identified separately where possible, and a later survey of residents who had previously been unable to use the library during daytime hours."
+    },
+    {
+      "id": "timed-bank-1-47",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which wording summarizes the board’s decision without overstating it?",
+      "answer": "The board retained extended hours at two sites while requesting additional evidence.",
+      "options": [
+        "The board retained extended hours at two sites while requesting additional evidence.",
+        "The board renewed all funded sites permanently because the intervention proved effective.",
+        "The board ended every evening session after rejecting the evaluation."
+      ],
+      "explanation": "This reflects both the limited continuation and the decision to gather more information.",
+      "refs": [],
+      "distractors": {
+        "The board renewed all funded sites permanently because the intervention proved effective.": "The decision did not cover all sites permanently.",
+        "The board ended every evening session after rejecting the evaluation.": "Two branches continued."
+      },
+      "passage": "A grant enabled a library network to extend its evening hours at six branches. The network counted visitors for four months before and after the change. Visits rose by 12 percent at participating branches. At three of the six branches, however, the network also started running exam-preparation workshops. Across all other branches in the network, visits rose by 7 percent over the same period. A briefing called the difference of five percentage points “the effect of longer hours.” The analyst asked for a narrower interpretation. Branches had been selected for extended hours because local demand was already growing, and the other branches had not been matched on population or previous visitor trends. The analyst added that the count included visits rather than distinct visitors. An individual who returned for three sessions appeared three times in the figures. The board retained the longer hours at two branches while gathering better information. It also requested an estimate of additional staffing cost per additional visit, with workshop-related costs identified separately where possible, and a later survey of residents who had previously been unable to use the library during daytime hours."
+    },
+    {
+      "id": "timed-bank-1-48",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Why use “additional cost per additional visit” rather than total staffing cost per visit?",
+      "answer": "It focuses the measure on costs and visits associated with the change being evaluated.",
+      "options": [
+        "It focuses the measure on costs and visits associated with the change being evaluated.",
+        "It automatically provides a causal estimate even without matched sites.",
+        "It makes workshop costs irrelevant to interpreting the program."
+      ],
+      "explanation": "Incremental measures relate the added resource use to added output.",
+      "refs": [],
+      "distractors": {
+        "It automatically provides a causal estimate even without matched sites.": "A cost ratio does not correct limits in the comparison design.",
+        "It makes workshop costs irrelevant to interpreting the program.": "The board specifically requested separating workshop-related costs where possible."
+      },
+      "passage": "A grant enabled a library network to extend its evening hours at six branches. The network counted visitors for four months before and after the change. Visits rose by 12 percent at participating branches. At three of the six branches, however, the network also started running exam-preparation workshops. Across all other branches in the network, visits rose by 7 percent over the same period. A briefing called the difference of five percentage points “the effect of longer hours.” The analyst asked for a narrower interpretation. Branches had been selected for extended hours because local demand was already growing, and the other branches had not been matched on population or previous visitor trends. The analyst added that the count included visits rather than distinct visitors. An individual who returned for three sessions appeared three times in the figures. The board retained the longer hours at two branches while gathering better information. It also requested an estimate of additional staffing cost per additional visit, with workshop-related costs identified separately where possible, and a later survey of residents who had previously been unable to use the library during daytime hours."
+    },
+    {
+      "id": "timed-bank-1-49",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which sentence conveys that the requirement applies to contracts worth at least 2 million, including exactly 2 million?",
+      "answer": "The requirement applies to contracts worth 2 million or more.",
+      "options": [
+        "The requirement applies to contracts worth 2 million or more.",
+        "The requirement applies to contracts worth over 2 million.",
+        "The requirement applies to contracts worth up to 2 million."
+      ],
+      "explanation": "“Or more” includes the lower boundary.",
+      "refs": [],
+      "distractors": {
+        "The requirement applies to contracts worth over 2 million.": "“Over” excludes contracts worth exactly 2 million.",
+        "The requirement applies to contracts worth up to 2 million.": "“Up to” sets an upper boundary."
+      }
+    },
+    {
+      "id": "timed-bank-1-50",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“Each proposal must be endorsed by two reviewers before it can proceed.” Which paraphrase preserves both conditions?",
+      "answer": "A proposal needs endorsements from two reviewers before it can proceed.",
+      "options": [
+        "A proposal needs endorsements from two reviewers before it can proceed.",
+        "Endorsement by either reviewer allows a proposal to proceed.",
+        "Reviewers may endorse a proposal only after it has proceeded."
+      ],
+      "explanation": "The requirement is two endorsements and they come before proceeding.",
+      "refs": [],
+      "distractors": {
+        "Endorsement by either reviewer allows a proposal to proceed.": "One endorsement is insufficient.",
+        "Reviewers may endorse a proposal only after it has proceeded.": "This reverses the order of the steps."
+      }
+    },
+    {
+      "id": "timed-bank-1-51",
+      "subject": "en",
+      "topic": "tone",
+      "question": "The reviewer needs clarification and has received an incomplete annex. Which email is most suitable?",
+      "answer": "Thank you for the annex. Could you send the missing table by Thursday so we can complete the review?",
+      "options": [
+        "Thank you for the annex. Could you send the missing table by Thursday so we can complete the review?",
+        "The annex is inadequate, and we expect your office to fix it without further instructions.",
+        "We will assume the missing table is blank unless you object."
+      ],
+      "explanation": "It acknowledges the existing work and names the missing item, deadline, and reason.",
+      "refs": [],
+      "distractors": {
+        "The annex is inadequate, and we expect your office to fix it without further instructions.": "It gives no precise next action and adds an accusation.",
+        "We will assume the missing table is blank unless you object.": "An absence of information does not support the proposed assumption."
+      }
+    },
+    {
+      "id": "timed-bank-1-52",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which revision keeps the distinction between a trial scheduled for next month and a policy that could follow it?",
+      "answer": "The trial is scheduled for June. A policy decision will follow only after its results are considered.",
+      "options": [
+        "The trial is scheduled for June. A policy decision will follow only after its results are considered.",
+        "The policy takes effect in June when the trial is scheduled to begin.",
+        "The policy was adopted in June, making the trial unnecessary."
+      ],
+      "explanation": "The trial date is set, and the policy decision remains a later step.",
+      "refs": [],
+      "distractors": {
+        "The policy takes effect in June when the trial is scheduled to begin.": "It treats the start of the trial as implementation of policy.",
+        "The policy was adopted in June, making the trial unnecessary.": "It invents a completed decision and removes the trial."
+      }
+    },
+    {
+      "id": "timed-bank-1-53",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“The branch has received no confirmed instructions since the Monday briefing.” What does the sentence establish?",
+      "answer": "No instructions confirmed after that briefing have reached the branch.",
+      "options": [
+        "No instructions confirmed after that briefing have reached the branch.",
+        "Nobody gave any instructions at all during the Monday briefing.",
+        "The branch received confirmed instructions each day after Monday."
+      ],
+      "explanation": "The interval runs from the Monday briefing to the time of the statement.",
+      "refs": [],
+      "distractors": {
+        "Nobody gave any instructions at all during the Monday briefing.": "The statement does not describe what was said during the briefing.",
+        "The branch received confirmed instructions each day after Monday.": "This directly contradicts the stated absence of confirmed instructions."
+      }
+    },
+    {
+      "id": "timed-bank-1-54",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which line acknowledges a partner’s concern without committing to the proposed remedy?",
+      "answer": "We understand your concern about the timetable and will consider the extension you suggest.",
+      "options": [
+        "We understand your concern about the timetable and will consider the extension you suggest.",
+        "We have agreed to your proposed extension and will announce it immediately.",
+        "We recognize your concern and confirm that no change will ever be made."
+      ],
+      "explanation": "It acknowledges the concern and offers consideration without acceptance.",
+      "refs": [],
+      "distractors": {
+        "We have agreed to your proposed extension and will announce it immediately.": "This reports agreement that was not requested.",
+        "We recognize your concern and confirm that no change will ever be made.": "This goes beyond acknowledgement and categorically closes the option."
+      }
+    },
+    {
+      "id": "timed-bank-1-55",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "A report says the median fell while the 90th percentile rose. Which conclusion is compatible with both facts?",
+      "answer": "The typical experience improved on one measure, while the upper end of waiting times worsened on another.",
+      "options": [
+        "The typical experience improved on one measure, while the upper end of waiting times worsened on another.",
+        "Every applicant experienced a shorter wait.",
+        "The two statistics must have been calculated incorrectly."
+      ],
+      "explanation": "A lower median and higher upper percentile can coexist.",
+      "refs": [],
+      "distractors": {
+        "Every applicant experienced a shorter wait.": "The higher percentile does not support a universal improvement.",
+        "The two statistics must have been calculated incorrectly.": "The measures describe different parts of the distribution."
+      }
+    },
+    {
+      "id": "timed-bank-1-56",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which sentence makes a binding instruction conditional on receipt of written approval?",
+      "answer": "Release the file only after written approval is received.",
+      "options": [
+        "Release the file only after written approval is received.",
+        "Release the file whether or not written approval is received.",
+        "Release the file and request written approval if convenient."
+      ],
+      "explanation": "“Only after” makes approval a prerequisite.",
+      "refs": [],
+      "distractors": {
+        "Release the file whether or not written approval is received.": "This removes the condition.",
+        "Release the file and request written approval if convenient.": "This makes approval optional and reverses the order."
+      }
+    },
+    {
+      "id": "timed-bank-1-57",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which sentence correctly uses an introductory phrase to describe the people performing the action?",
+      "answer": "After reviewing the annex, the advisers proposed a revised timetable.",
+      "options": [
+        "After reviewing the annex, the advisers proposed a revised timetable.",
+        "After reviewing the annex, a revised timetable was proposed by the advisers.",
+        "After reviewing the annex, the timetable required revisions by the advisers."
+      ],
+      "explanation": "The advisers are the subject that logically performed the review.",
+      "refs": [],
+      "distractors": {
+        "After reviewing the annex, a revised timetable was proposed by the advisers.": "The grammatical subject is a timetable, which cannot conduct a review.",
+        "After reviewing the annex, the timetable required revisions by the advisers.": "The opening phrase again attaches to the timetable."
+      }
+    },
+    {
+      "id": "timed-bank-1-58",
+      "subject": "en",
+      "topic": "tone",
+      "question": "A witness reports a delay, but records are unavailable. Which briefing sentence preserves the evidential status?",
+      "answer": "A participant reported a delay, and the timing has yet to be verified against records.",
+      "options": [
+        "A participant reported a delay, and the timing has yet to be verified against records.",
+        "The delay has been fully established by documentary evidence.",
+        "The report proves that no delay occurred."
+      ],
+      "explanation": "It attributes the statement to the source and notes the verification gap.",
+      "refs": [],
+      "distractors": {
+        "The delay has been fully established by documentary evidence.": "No documentary evidence is available in the premise.",
+        "The report proves that no delay occurred.": "Missing records do not refute the account."
+      }
+    },
+    {
+      "id": "timed-bank-1-59",
+      "subject": "en",
+      "topic": "usage",
+      "question": "What does “shall take effect on the date of its publication” specify?",
+      "answer": "Publication fixes the date the measure starts to apply.",
+      "options": [
+        "Publication fixes the date the measure starts to apply.",
+        "Approval during drafting sets the effective date regardless of publication.",
+        "The measure is already in force before publication."
+      ],
+      "explanation": "The clause directly links effect to publication.",
+      "refs": [],
+      "distractors": {
+        "Approval during drafting sets the effective date regardless of publication.": "The stated trigger is publication rather than internal approval.",
+        "The measure is already in force before publication.": "The wording puts effect on the publication date."
+      }
+    },
+    {
+      "id": "timed-bank-1-60",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "After a help line changed its hours, call volume rose. Which comparison best tests whether service access improved?",
+      "answer": "Compare successful contacts, including those previously unable to call, before and after the change.",
+      "options": [
+        "Compare successful contacts, including those previously unable to call, before and after the change.",
+        "Count outgoing emails during the month the change was announced.",
+        "Measure publicity impressions without checking whether callers reached an agent."
+      ],
+      "explanation": "Successful contact is closer to the access outcome than activity counts alone.",
+      "refs": [],
+      "distractors": {
+        "Count outgoing emails during the month the change was announced.": "Email volume does not directly measure telephone access in this case.",
+        "Measure publicity impressions without checking whether callers reached an agent.": "Exposure to publicity does not establish successful contact."
+      }
+    }
+  ]
+}

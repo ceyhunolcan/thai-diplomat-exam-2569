@@ -1,0 +1,465 @@
+{
+  "id": "english-long-reading",
+  "title": "English · อ่านบทวิเคราะห์และโต้ตอบทางการ",
+  "kind": "study",
+  "level": 3,
+  "questions": [
+    {
+      "id": "english-long-reading-01",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which claim best reflects the evaluation team's conclusion?",
+      "answer": "Median waits fell at the tested offices, and several factors could explain the change.",
+      "options": [
+        "Median waits fell at the tested offices, and several factors could explain the change.",
+        "The booking system caused the entire reduction at all four offices.",
+        "Shorter desk waits demonstrate improved access to appointments for all residents."
+      ],
+      "explanation": "The comparison shows an observed reduction, with competing explanations and separate access outcomes.",
+      "refs": [],
+      "distractors": {
+        "The booking system caused the entire reduction at all four offices.": "Staffing and how visits were counted could affect the observed difference.",
+        "Shorter desk waits demonstrate improved access to appointments for all residents.": "Access and waiting after arrival are separate measures."
+      },
+      "passage": "The Department of Municipal Services ran a six-month trial of online appointments. It selected four offices with reliable internet, then compared their median waiting times with the same months of the previous year. The median fell from 28 to 19 minutes. During the trial, however, the offices also moved two employees from their telephone lines to reception, and the previous year's records did not distinguish scheduled visits from walk-ins. The evaluation team therefore described the reduction as encouraging but declined to assign it to the booking system alone. Its report also separated waiting time at the desk from access to an appointment. A follow-up telephone survey found that some people could not secure a slot during working hours, and others paid intermediaries to help them navigate the site. The survey recruited from the list of people who had arranged a visit, so it gave no reliable estimate of how many residents never reached the booking stage. The department recommended testing the system at offices with weaker connections, retaining a walk-in option during the next trial, and keeping separate measures for appointment access and desk waiting. It requested a decision on a wider rollout only after the second trial."
+    },
+    {
+      "id": "english-long-reading-02",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What does the telephone survey leave least well measured?",
+      "answer": "The experiences of people who never managed to arrange a visit.",
+      "options": [
+        "The experiences of people who never managed to arrange a visit.",
+        "Whether any respondents used an intermediary.",
+        "Whether arranged visitors reported difficulty with working-hour slots."
+      ],
+      "explanation": "The sampling frame consisted of people who had arranged a visit.",
+      "refs": [],
+      "distractors": {
+        "Whether any respondents used an intermediary.": "The passage says this occurred among some survey respondents.",
+        "Whether arranged visitors reported difficulty with working-hour slots.": "The survey collected this information from people it reached."
+      },
+      "passage": "The Department of Municipal Services ran a six-month trial of online appointments. It selected four offices with reliable internet, then compared their median waiting times with the same months of the previous year. The median fell from 28 to 19 minutes. During the trial, however, the offices also moved two employees from their telephone lines to reception, and the previous year's records did not distinguish scheduled visits from walk-ins. The evaluation team therefore described the reduction as encouraging but declined to assign it to the booking system alone. Its report also separated waiting time at the desk from access to an appointment. A follow-up telephone survey found that some people could not secure a slot during working hours, and others paid intermediaries to help them navigate the site. The survey recruited from the list of people who had arranged a visit, so it gave no reliable estimate of how many residents never reached the booking stage. The department recommended testing the system at offices with weaker connections, retaining a walk-in option during the next trial, and keeping separate measures for appointment access and desk waiting. It requested a decision on a wider rollout only after the second trial."
+    },
+    {
+      "id": "english-long-reading-03",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why does the evaluation mention the reassignment from telephone lines?",
+      "answer": "It identifies another change that could have affected desk waiting times.",
+      "options": [
+        "It identifies another change that could have affected desk waiting times.",
+        "It shows that the digital service reduced the department's staffing budget.",
+        "It establishes that employees made the appointment platform harder to use."
+      ],
+      "explanation": "Additional staff at reception are a plausible contributor to shorter waits.",
+      "refs": [],
+      "distractors": {
+        "It shows that the digital service reduced the department's staffing budget.": "The text describes moving employees within an office, without savings evidence.",
+        "It establishes that employees made the appointment platform harder to use.": "The reassignment concerns the reception process rather than the design of the website."
+      },
+      "passage": "The Department of Municipal Services ran a six-month trial of online appointments. It selected four offices with reliable internet, then compared their median waiting times with the same months of the previous year. The median fell from 28 to 19 minutes. During the trial, however, the offices also moved two employees from their telephone lines to reception, and the previous year's records did not distinguish scheduled visits from walk-ins. The evaluation team therefore described the reduction as encouraging but declined to assign it to the booking system alone. Its report also separated waiting time at the desk from access to an appointment. A follow-up telephone survey found that some people could not secure a slot during working hours, and others paid intermediaries to help them navigate the site. The survey recruited from the list of people who had arranged a visit, so it gave no reliable estimate of how many residents never reached the booking stage. The department recommended testing the system at offices with weaker connections, retaining a walk-in option during the next trial, and keeping separate measures for appointment access and desk waiting. It requested a decision on a wider rollout only after the second trial."
+    },
+    {
+      "id": "english-long-reading-04",
+      "subject": "en",
+      "topic": "tone",
+      "question": "What is the function of “encouraging” in the evaluation?",
+      "answer": "It signals support for further testing while leaving attribution open.",
+      "options": [
+        "It signals support for further testing while leaving attribution open.",
+        "It announces that a wider rollout has already been approved.",
+        "It rules out the influence of staffing and record changes."
+      ],
+      "explanation": "The qualified positive assessment is followed by a request for a second trial.",
+      "refs": [],
+      "distractors": {
+        "It announces that a wider rollout has already been approved.": "The department deferred a decision on wider rollout.",
+        "It rules out the influence of staffing and record changes.": "The evaluation explicitly left open explanations other than the platform."
+      },
+      "passage": "The Department of Municipal Services ran a six-month trial of online appointments. It selected four offices with reliable internet, then compared their median waiting times with the same months of the previous year. The median fell from 28 to 19 minutes. During the trial, however, the offices also moved two employees from their telephone lines to reception, and the previous year's records did not distinguish scheduled visits from walk-ins. The evaluation team therefore described the reduction as encouraging but declined to assign it to the booking system alone. Its report also separated waiting time at the desk from access to an appointment. A follow-up telephone survey found that some people could not secure a slot during working hours, and others paid intermediaries to help them navigate the site. The survey recruited from the list of people who had arranged a visit, so it gave no reliable estimate of how many residents never reached the booking stage. The department recommended testing the system at offices with weaker connections, retaining a walk-in option during the next trial, and keeping separate measures for appointment access and desk waiting. It requested a decision on a wider rollout only after the second trial."
+    },
+    {
+      "id": "english-long-reading-05",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which follow-up design would best address the questions raised in the passage?",
+      "answer": "Test matched sites with and without the system while measuring barriers to booking and waits after arrival.",
+      "options": [
+        "Test matched sites with and without the system while measuring barriers to booking and waits after arrival.",
+        "Test only offices already using the platform and track the same median wait.",
+        "Survey only successful online bookers at the end of a nationwide rollout."
+      ],
+      "explanation": "A comparison group helps with attribution, and two outcomes cover both access and service.",
+      "refs": [],
+      "distractors": {
+        "Test only offices already using the platform and track the same median wait.": "It repeats the narrow outcome and lacks an independent comparison.",
+        "Survey only successful online bookers at the end of a nationwide rollout.": "It again omits people who never booked."
+      },
+      "passage": "The Department of Municipal Services ran a six-month trial of online appointments. It selected four offices with reliable internet, then compared their median waiting times with the same months of the previous year. The median fell from 28 to 19 minutes. During the trial, however, the offices also moved two employees from their telephone lines to reception, and the previous year's records did not distinguish scheduled visits from walk-ins. The evaluation team therefore described the reduction as encouraging but declined to assign it to the booking system alone. Its report also separated waiting time at the desk from access to an appointment. A follow-up telephone survey found that some people could not secure a slot during working hours, and others paid intermediaries to help them navigate the site. The survey recruited from the list of people who had arranged a visit, so it gave no reliable estimate of how many residents never reached the booking stage. The department recommended testing the system at offices with weaker connections, retaining a walk-in option during the next trial, and keeping separate measures for appointment access and desk waiting. It requested a decision on a wider rollout only after the second trial."
+    },
+    {
+      "id": "english-long-reading-06",
+      "subject": "en",
+      "topic": "usage",
+      "question": "In this context, the phrase “retaining a walk-in option” means what?",
+      "answer": "Continuing to allow visits without prebooking.",
+      "options": [
+        "Continuing to allow visits without prebooking.",
+        "Keeping a list of appointments that have already taken place.",
+        "Giving only online bookers the option to change their arrival times."
+      ],
+      "explanation": "Walk-ins are visitors who arrive without a scheduled appointment.",
+      "refs": [],
+      "distractors": {
+        "Keeping a list of appointments that have already taken place.": "A record of past bookings is unrelated to walk-in access.",
+        "Giving only online bookers the option to change their arrival times.": "This would apply to scheduled users only."
+      },
+      "passage": "The Department of Municipal Services ran a six-month trial of online appointments. It selected four offices with reliable internet, then compared their median waiting times with the same months of the previous year. The median fell from 28 to 19 minutes. During the trial, however, the offices also moved two employees from their telephone lines to reception, and the previous year's records did not distinguish scheduled visits from walk-ins. The evaluation team therefore described the reduction as encouraging but declined to assign it to the booking system alone. Its report also separated waiting time at the desk from access to an appointment. A follow-up telephone survey found that some people could not secure a slot during working hours, and others paid intermediaries to help them navigate the site. The survey recruited from the list of people who had arranged a visit, so it gave no reliable estimate of how many residents never reached the booking stage. The department recommended testing the system at offices with weaker connections, retaining a walk-in option during the next trial, and keeping separate measures for appointment access and desk waiting. It requested a decision on a wider rollout only after the second trial."
+    },
+    {
+      "id": "english-long-reading-07",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What did the working group actually decide?",
+      "answer": "To test the protocol in three places.",
+      "options": [
+        "To test the protocol in three places.",
+        "To require monthly reports from every agency immediately.",
+        "To approve a permanent reporting schedule subject only to publication."
+      ],
+      "explanation": "The decision was to run a specified pilot.",
+      "refs": [],
+      "distractors": {
+        "To require monthly reports from every agency immediately.": "The monthly obligation remained under consideration.",
+        "To approve a permanent reporting schedule subject only to publication.": "The group did not settle a schedule."
+      },
+      "passage": "A regional working group met to discuss how agencies should exchange water-quality results. Before the session, the chair circulated a draft proposing monthly reports from every participating agency. The delegation from Northbank supported regular reporting but asked that the obligation begin only after an affordable laboratory protocol had been agreed. Southbank favored a trial and said that submitting a report would be difficult if its field stations could not share a common reporting form. The meeting ended with agreement to test the protocol in three places. The notes recorded that the group welcomed this agreement and reserved its position on monthly reporting. A draft public statement prepared that afternoon said that members “confirmed the new reporting regime.” The chair asked for this phrase to be amended so that it would record the pilot and acknowledge that the final reporting schedule remained open. Two delegations agreed to share existing data voluntarily in the meantime. Their offer did not contain a date by which new results would have to be supplied. The next meeting will review the trial and may consider a reporting timetable if the protocol works as intended."
+    },
+    {
+      "id": "english-long-reading-08",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which wording would best meet the chair’s request for an amendment?",
+      "answer": "Members agreed to test the protocol and will consider reporting arrangements after reviewing the trial.",
+      "options": [
+        "Members agreed to test the protocol and will consider reporting arrangements after reviewing the trial.",
+        "Members endorsed monthly reporting and approved three pilot sites for implementation.",
+        "Members deferred all cooperation, including the protocol trial and voluntary sharing."
+      ],
+      "explanation": "This reflects the decision and separates the outstanding reporting timetable.",
+      "refs": [],
+      "distractors": {
+        "Members endorsed monthly reporting and approved three pilot sites for implementation.": "It presents the unsettled monthly requirement as endorsed.",
+        "Members deferred all cooperation, including the protocol trial and voluntary sharing.": "It overlooks both the agreed trial and the voluntary offer."
+      },
+      "passage": "A regional working group met to discuss how agencies should exchange water-quality results. Before the session, the chair circulated a draft proposing monthly reports from every participating agency. The delegation from Northbank supported regular reporting but asked that the obligation begin only after an affordable laboratory protocol had been agreed. Southbank favored a trial and said that submitting a report would be difficult if its field stations could not share a common reporting form. The meeting ended with agreement to test the protocol in three places. The notes recorded that the group welcomed this agreement and reserved its position on monthly reporting. A draft public statement prepared that afternoon said that members “confirmed the new reporting regime.” The chair asked for this phrase to be amended so that it would record the pilot and acknowledge that the final reporting schedule remained open. Two delegations agreed to share existing data voluntarily in the meantime. Their offer did not contain a date by which new results would have to be supplied. The next meeting will review the trial and may consider a reporting timetable if the protocol works as intended."
+    },
+    {
+      "id": "english-long-reading-09",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What is established about the voluntary sharing offer?",
+      "answer": "Two delegations offered existing results without committing to a deadline for new results.",
+      "options": [
+        "Two delegations offered existing results without committing to a deadline for new results.",
+        "Every delegation offered to supply new results by the next meeting.",
+        "The offer created a reporting obligation for all agencies."
+      ],
+      "explanation": "The offer applied to two participants and their existing data.",
+      "refs": [],
+      "distractors": {
+        "Every delegation offered to supply new results by the next meeting.": "The offer did not cover every delegation or contain that deadline.",
+        "The offer created a reporting obligation for all agencies.": "Voluntary sharing and a general obligation have distinct status."
+      },
+      "passage": "A regional working group met to discuss how agencies should exchange water-quality results. Before the session, the chair circulated a draft proposing monthly reports from every participating agency. The delegation from Northbank supported regular reporting but asked that the obligation begin only after an affordable laboratory protocol had been agreed. Southbank favored a trial and said that submitting a report would be difficult if its field stations could not share a common reporting form. The meeting ended with agreement to test the protocol in three places. The notes recorded that the group welcomed this agreement and reserved its position on monthly reporting. A draft public statement prepared that afternoon said that members “confirmed the new reporting regime.” The chair asked for this phrase to be amended so that it would record the pilot and acknowledge that the final reporting schedule remained open. Two delegations agreed to share existing data voluntarily in the meantime. Their offer did not contain a date by which new results would have to be supplied. The next meeting will review the trial and may consider a reporting timetable if the protocol works as intended."
+    },
+    {
+      "id": "english-long-reading-10",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Why did the chair object to the draft phrase “confirmed the new reporting regime”?",
+      "answer": "It implies a final decision on requirements the group had left open.",
+      "options": [
+        "It implies a final decision on requirements the group had left open.",
+        "It fails to give monthly reporting enough attention after its unanimous adoption.",
+        "It describes an agreement that no delegation attended."
+      ],
+      "explanation": "The statement overstates what the group decided about the timetable.",
+      "refs": [],
+      "distractors": {
+        "It fails to give monthly reporting enough attention after its unanimous adoption.": "The group did not adopt the monthly regime.",
+        "It describes an agreement that no delegation attended.": "Attendance was not identified as the concern."
+      },
+      "passage": "A regional working group met to discuss how agencies should exchange water-quality results. Before the session, the chair circulated a draft proposing monthly reports from every participating agency. The delegation from Northbank supported regular reporting but asked that the obligation begin only after an affordable laboratory protocol had been agreed. Southbank favored a trial and said that submitting a report would be difficult if its field stations could not share a common reporting form. The meeting ended with agreement to test the protocol in three places. The notes recorded that the group welcomed this agreement and reserved its position on monthly reporting. A draft public statement prepared that afternoon said that members “confirmed the new reporting regime.” The chair asked for this phrase to be amended so that it would record the pilot and acknowledge that the final reporting schedule remained open. Two delegations agreed to share existing data voluntarily in the meantime. Their offer did not contain a date by which new results would have to be supplied. The next meeting will review the trial and may consider a reporting timetable if the protocol works as intended."
+    },
+    {
+      "id": "english-long-reading-11",
+      "subject": "en",
+      "topic": "usage",
+      "question": "What is the force of “may consider a reporting timetable” in the final sentence?",
+      "answer": "It leaves consideration possible, with progress on the protocol relevant to the decision.",
+      "options": [
+        "It leaves consideration possible, with progress on the protocol relevant to the decision.",
+        "It guarantees adoption once the three sites have been selected.",
+        "It requires the agencies to begin monthly reporting before the next meeting."
+      ],
+      "explanation": "The modal allows a possible next step, rather than committing to it.",
+      "refs": [],
+      "distractors": {
+        "It guarantees adoption once the three sites have been selected.": "The passage does not guarantee the outcome.",
+        "It requires the agencies to begin monthly reporting before the next meeting.": "There is no operative reporting schedule."
+      },
+      "passage": "A regional working group met to discuss how agencies should exchange water-quality results. Before the session, the chair circulated a draft proposing monthly reports from every participating agency. The delegation from Northbank supported regular reporting but asked that the obligation begin only after an affordable laboratory protocol had been agreed. Southbank favored a trial and said that submitting a report would be difficult if its field stations could not share a common reporting form. The meeting ended with agreement to test the protocol in three places. The notes recorded that the group welcomed this agreement and reserved its position on monthly reporting. A draft public statement prepared that afternoon said that members “confirmed the new reporting regime.” The chair asked for this phrase to be amended so that it would record the pilot and acknowledge that the final reporting schedule remained open. Two delegations agreed to share existing data voluntarily in the meantime. Their offer did not contain a date by which new results would have to be supplied. The next meeting will review the trial and may consider a reporting timetable if the protocol works as intended."
+    },
+    {
+      "id": "english-long-reading-12",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Which evidence would best address Southbank’s stated concern?",
+      "answer": "A trial showing whether field stations can use a common form to submit comparable results.",
+      "options": [
+        "A trial showing whether field stations can use a common form to submit comparable results.",
+        "An announcement confirming how many delegations attended the session.",
+        "A summary showing that Northbank supports reporting in principle."
+      ],
+      "explanation": "Southbank raised the feasibility of reporting across field stations.",
+      "refs": [],
+      "distractors": {
+        "An announcement confirming how many delegations attended the session.": "Attendance does not test the use of a common form.",
+        "A summary showing that Northbank supports reporting in principle.": "Support for the principle does not establish practical feasibility."
+      },
+      "passage": "A regional working group met to discuss how agencies should exchange water-quality results. Before the session, the chair circulated a draft proposing monthly reports from every participating agency. The delegation from Northbank supported regular reporting but asked that the obligation begin only after an affordable laboratory protocol had been agreed. Southbank favored a trial and said that submitting a report would be difficult if its field stations could not share a common reporting form. The meeting ended with agreement to test the protocol in three places. The notes recorded that the group welcomed this agreement and reserved its position on monthly reporting. A draft public statement prepared that afternoon said that members “confirmed the new reporting regime.” The chair asked for this phrase to be amended so that it would record the pilot and acknowledge that the final reporting schedule remained open. Two delegations agreed to share existing data voluntarily in the meantime. Their offer did not contain a date by which new results would have to be supplied. The next meeting will review the trial and may consider a reporting timetable if the protocol works as intended."
+    },
+    {
+      "id": "english-long-reading-13",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which public notice best reflects the verified scope of the disruption?",
+      "answer": "Replacement-document printing is affected. Collections and information appointments are available. An update will follow by Friday afternoon.",
+      "options": [
+        "Replacement-document printing is affected. Collections and information appointments are available. An update will follow by Friday afternoon.",
+        "All operations have stopped until the supplier confirms full recovery.",
+        "Replacement documents will definitely be available on Friday afternoon."
+      ],
+      "explanation": "The notice should describe the affected service and commit only to the next update.",
+      "refs": [],
+      "distractors": {
+        "All operations have stopped until the supplier confirms full recovery.": "Other services remain open.",
+        "Replacement documents will definitely be available on Friday afternoon.": "Friday is the update deadline, rather than a promised repair date."
+      },
+      "passage": "A consular office discovered that a technical fault would prevent it from issuing some documents for at least a day. A draft notice began, “All services are suspended until further notice.” The operations team pointed out that collections and appointments for information remained available, while printing replacement documents was affected. The office director also warned against announcing a date for full recovery before the supplier could confirm a repair. To help travelers make decisions, the revised notice named the affected service, gave the contact route for urgent cases, and promised another update by Friday afternoon. It explained that previously issued documents remained valid under the usual requirements. A draft reply to a partner agency included the phrase “your failure to respond has delayed the repair.” There was no evidence establishing who caused the delay, and the record showed that one request for additional details had been sent late from the consular office itself. The director instructed staff to request a status update, state when the traveler notice would be reviewed, and reserve attribution until they could examine the timeline. She also asked staff to log any urgent cases referred through the new contact route, so they could assess whether the notice reached people who needed it."
+    },
+    {
+      "id": "english-long-reading-14",
+      "subject": "en",
+      "topic": "tone",
+      "question": "Which reply best serves the director’s request to the partner agency?",
+      "answer": "Could you update us on the repair by Friday morning? We will review the public notice that afternoon.",
+      "options": [
+        "Could you update us on the repair by Friday morning? We will review the public notice that afternoon.",
+        "Your team caused the delay, so confirm that you accept responsibility by morning.",
+        "We will tell travelers the service is restored unless you respond."
+      ],
+      "explanation": "It asks for information, sets a relevant time, and avoids unsupported attribution.",
+      "refs": [],
+      "distractors": {
+        "Your team caused the delay, so confirm that you accept responsibility by morning.": "The facts established do not support assigning blame.",
+        "We will tell travelers the service is restored unless you respond.": "Silence would not show that the fault was repaired."
+      },
+      "passage": "A consular office discovered that a technical fault would prevent it from issuing some documents for at least a day. A draft notice began, “All services are suspended until further notice.” The operations team pointed out that collections and appointments for information remained available, while printing replacement documents was affected. The office director also warned against announcing a date for full recovery before the supplier could confirm a repair. To help travelers make decisions, the revised notice named the affected service, gave the contact route for urgent cases, and promised another update by Friday afternoon. It explained that previously issued documents remained valid under the usual requirements. A draft reply to a partner agency included the phrase “your failure to respond has delayed the repair.” There was no evidence establishing who caused the delay, and the record showed that one request for additional details had been sent late from the consular office itself. The director instructed staff to request a status update, state when the traveler notice would be reviewed, and reserve attribution until they could examine the timeline. She also asked staff to log any urgent cases referred through the new contact route, so they could assess whether the notice reached people who needed it."
+    },
+    {
+      "id": "english-long-reading-15",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "Why did the director ask staff to log urgent referrals?",
+      "answer": "To assess whether the contact route helped reach people who needed it.",
+      "options": [
+        "To assess whether the contact route helped reach people who needed it.",
+        "To prove the supplier was responsible for the fault.",
+        "To determine whether existing documents had expired."
+      ],
+      "explanation": "The records support follow-up on the effectiveness of the notice.",
+      "refs": [],
+      "distractors": {
+        "To prove the supplier was responsible for the fault.": "Referral volume would not establish who caused the technical fault.",
+        "To determine whether existing documents had expired.": "Validity is a separate issue already addressed in the notice."
+      },
+      "passage": "A consular office discovered that a technical fault would prevent it from issuing some documents for at least a day. A draft notice began, “All services are suspended until further notice.” The operations team pointed out that collections and appointments for information remained available, while printing replacement documents was affected. The office director also warned against announcing a date for full recovery before the supplier could confirm a repair. To help travelers make decisions, the revised notice named the affected service, gave the contact route for urgent cases, and promised another update by Friday afternoon. It explained that previously issued documents remained valid under the usual requirements. A draft reply to a partner agency included the phrase “your failure to respond has delayed the repair.” There was no evidence establishing who caused the delay, and the record showed that one request for additional details had been sent late from the consular office itself. The director instructed staff to request a status update, state when the traveler notice would be reviewed, and reserve attribution until they could examine the timeline. She also asked staff to log any urgent cases referred through the new contact route, so they could assess whether the notice reached people who needed it."
+    },
+    {
+      "id": "english-long-reading-16",
+      "subject": "en",
+      "topic": "usage",
+      "question": "What does “at least a day” imply about the repair timeline?",
+      "answer": "A day is the minimum estimated period of disruption.",
+      "options": [
+        "A day is the minimum estimated period of disruption.",
+        "The service will return exactly one day later.",
+        "There is a maximum expected disruption of one day."
+      ],
+      "explanation": "“At least” gives a lower bound.",
+      "refs": [],
+      "distractors": {
+        "The service will return exactly one day later.": "An exact recovery point cannot be inferred.",
+        "There is a maximum expected disruption of one day.": "A maximum would require different wording."
+      },
+      "passage": "A consular office discovered that a technical fault would prevent it from issuing some documents for at least a day. A draft notice began, “All services are suspended until further notice.” The operations team pointed out that collections and appointments for information remained available, while printing replacement documents was affected. The office director also warned against announcing a date for full recovery before the supplier could confirm a repair. To help travelers make decisions, the revised notice named the affected service, gave the contact route for urgent cases, and promised another update by Friday afternoon. It explained that previously issued documents remained valid under the usual requirements. A draft reply to a partner agency included the phrase “your failure to respond has delayed the repair.” There was no evidence establishing who caused the delay, and the record showed that one request for additional details had been sent late from the consular office itself. The director instructed staff to request a status update, state when the traveler notice would be reviewed, and reserve attribution until they could examine the timeline. She also asked staff to log any urgent cases referred through the new contact route, so they could assess whether the notice reached people who needed it."
+    },
+    {
+      "id": "english-long-reading-17",
+      "subject": "en",
+      "topic": "evidence",
+      "question": "What makes the suggested attribution of fault premature?",
+      "answer": "The record is incomplete and the consular office also sent one request late.",
+      "options": [
+        "The record is incomplete and the consular office also sent one request late.",
+        "The record already establishes that the traveler contact route was ineffective.",
+        "There is no supplier involved in the repair."
+      ],
+      "explanation": "The timeline contains unresolved facts and does not establish responsibility.",
+      "refs": [],
+      "distractors": {
+        "The record already establishes that the traveler contact route was ineffective.": "Effectiveness of the referral route is not evidence about fault.",
+        "There is no supplier involved in the repair.": "The director explicitly awaited confirmation from the supplier."
+      },
+      "passage": "A consular office discovered that a technical fault would prevent it from issuing some documents for at least a day. A draft notice began, “All services are suspended until further notice.” The operations team pointed out that collections and appointments for information remained available, while printing replacement documents was affected. The office director also warned against announcing a date for full recovery before the supplier could confirm a repair. To help travelers make decisions, the revised notice named the affected service, gave the contact route for urgent cases, and promised another update by Friday afternoon. It explained that previously issued documents remained valid under the usual requirements. A draft reply to a partner agency included the phrase “your failure to respond has delayed the repair.” There was no evidence establishing who caused the delay, and the record showed that one request for additional details had been sent late from the consular office itself. The director instructed staff to request a status update, state when the traveler notice would be reviewed, and reserve attribution until they could examine the timeline. She also asked staff to log any urgent cases referred through the new contact route, so they could assess whether the notice reached people who needed it."
+    },
+    {
+      "id": "english-long-reading-18",
+      "subject": "en",
+      "topic": "tone",
+      "question": "What is the difference between promising an update and promising a repair?",
+      "answer": "The office can schedule communication even when the recovery date is uncertain.",
+      "options": [
+        "The office can schedule communication even when the recovery date is uncertain.",
+        "Both phrases guarantee the affected service will be operating by Friday.",
+        "A repair can be promised whenever the notice has an update deadline."
+      ],
+      "explanation": "The notice can commit to when it will communicate again while leaving recovery contingent on the repair.",
+      "refs": [],
+      "distractors": {
+        "Both phrases guarantee the affected service will be operating by Friday.": "An update is information, rather than a guarantee of a technical outcome.",
+        "A repair can be promised whenever the notice has an update deadline.": "The two commitments concern different events."
+      },
+      "passage": "A consular office discovered that a technical fault would prevent it from issuing some documents for at least a day. A draft notice began, “All services are suspended until further notice.” The operations team pointed out that collections and appointments for information remained available, while printing replacement documents was affected. The office director also warned against announcing a date for full recovery before the supplier could confirm a repair. To help travelers make decisions, the revised notice named the affected service, gave the contact route for urgent cases, and promised another update by Friday afternoon. It explained that previously issued documents remained valid under the usual requirements. A draft reply to a partner agency included the phrase “your failure to respond has delayed the repair.” There was no evidence establishing who caused the delay, and the record showed that one request for additional details had been sent late from the consular office itself. The director instructed staff to request a status update, state when the traveler notice would be reviewed, and reserve attribution until they could examine the timeline. She also asked staff to log any urgent cases referred through the new contact route, so they could assess whether the notice reached people who needed it."
+    },
+    {
+      "id": "english-long-reading-19",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“The schedule is subject to confirmation by both sides.” Which paraphrase preserves the condition?",
+      "answer": "The schedule depends on confirmation from both sides.",
+      "options": [
+        "The schedule depends on confirmation from both sides.",
+        "Either side can confirm the schedule on its own.",
+        "Both sides have already approved and published the schedule."
+      ],
+      "explanation": "“Subject to” introduces a condition, and “both” specifies whose confirmation is needed.",
+      "refs": [],
+      "distractors": {
+        "Either side can confirm the schedule on its own.": "It removes the requirement for confirmation from both sides.",
+        "Both sides have already approved and published the schedule.": "The original does not report completed approval."
+      }
+    },
+    {
+      "id": "english-long-reading-20",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which phrase correctly distinguishes a request to wait from a request to cancel?",
+      "answer": "Please hold the notice pending further instructions.",
+      "options": [
+        "Please hold the notice pending further instructions.",
+        "Please withdraw the notice from circulation permanently.",
+        "Please treat the notice as having already taken effect."
+      ],
+      "explanation": "“Hold ... pending” temporarily stops an action while awaiting further instructions.",
+      "refs": [],
+      "distractors": {
+        "Please withdraw the notice from circulation permanently.": "Withdrawal changes the status permanently in this example.",
+        "Please treat the notice as having already taken effect.": "Treating it as effective is the opposite of waiting."
+      }
+    },
+    {
+      "id": "english-long-reading-21",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“All branches except the pilot offices must report weekly.” Which branch is covered by the obligation?",
+      "answer": "A regular branch outside the pilot.",
+      "options": [
+        "A regular branch outside the pilot.",
+        "A pilot office submitting data voluntarily.",
+        "Every branch including a pilot office."
+      ],
+      "explanation": "The exception removes pilot offices from this particular obligation.",
+      "refs": [],
+      "distractors": {
+        "A pilot office submitting data voluntarily.": "Any voluntary report from a pilot office does not establish a requirement.",
+        "Every branch including a pilot office.": "This option ignores the stated exception."
+      }
+    },
+    {
+      "id": "english-long-reading-22",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which sentence would report uncertainty about a boundary estimate accurately?",
+      "answer": "The estimate may change once the teams reconcile the two maps.",
+      "options": [
+        "The estimate may change once the teams reconcile the two maps.",
+        "The estimate will necessarily change once the maps are compared.",
+        "The teams already agreed the final estimate and made it binding."
+      ],
+      "explanation": "“May” preserves uncertainty about the result of the comparison.",
+      "refs": [],
+      "distractors": {
+        "The estimate will necessarily change once the maps are compared.": "“Necessarily” changes the degree of certainty.",
+        "The teams already agreed the final estimate and made it binding.": "The source gives no completed agreement."
+      }
+    },
+    {
+      "id": "english-long-reading-23",
+      "subject": "en",
+      "topic": "usage",
+      "question": "Which term best describes a document that replaces a previous circular as the controlling instruction?",
+      "answer": "Supersedes",
+      "options": [
+        "Supersedes",
+        "Supplements",
+        "Summarizes"
+      ],
+      "explanation": "To supersede is to replace in authority or effect.",
+      "refs": [],
+      "distractors": {
+        "Supplements": "A supplement adds material without necessarily displacing the earlier document.",
+        "Summarizes": "A summary restates material without determining its authority."
+      }
+    },
+    {
+      "id": "english-long-reading-24",
+      "subject": "en",
+      "topic": "usage",
+      "question": "“Without prejudice to existing rights, the period shall be extended.” Which element is preserved?",
+      "answer": "Existing rights",
+      "options": [
+        "Existing rights",
+        "The length of the original period",
+        "The date on which existing rights expire"
+      ],
+      "explanation": "The introductory phrase preserves existing rights while the period is extended.",
+      "refs": [],
+      "distractors": {
+        "The length of the original period": "The main clause changes the length of the period.",
+        "The date on which existing rights expire": "The statement does not identify an expiry date."
+      }
+    }
+  ],
+  "tags": [
+    "reading comprehension",
+    "long passage",
+    "inference",
+    "tone",
+    "formal correspondence"
+  ]
+}

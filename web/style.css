@@ -259,3 +259,17 @@ summary { cursor: pointer; }
 @media (prefers-reduced-motion: reduce) {
   .heart { animation: none; }
 }
+
+.exam-heading { margin-top: 1.25rem; margin-bottom: .35rem; }
+.exam-caption { margin-bottom: .75rem; color: var(--muted); font-size: .94rem; }
+.exam-timer { position: sticky; top: .4rem; z-index: 2; width: fit-content; margin: 0 0 .5rem auto; border: 1px solid var(--line); border-radius: .65rem; padding: .32rem .65rem; background: var(--soft); color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; }
+.exam-timer.short { background: #ffdce5; color: var(--warning); }
+.section-ready p { margin: .6rem 0 .95rem; color: var(--muted); }
+.result-diagnostics { margin: .85rem 0; padding: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.result-diagnostics h3 { margin-top: .85rem; }
+.result-diagnostics li { margin: .2rem 0; }
+.result-diagnostics ul { padding-inline-start: 1.25rem; }
+.result-diagnostics .button { margin-top: .55rem; }
+.choice-reasons { margin-top: .65rem; }
+.choice-reasons ul { padding-inline-start: 1.2rem; margin: .35rem 0; }
+.choice-reasons li + li { margin-top: .4rem; }

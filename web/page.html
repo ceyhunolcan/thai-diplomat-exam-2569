@@ -73,6 +73,14 @@
         <h1>ข้อสอบจำลอง</h1>
         <p>ทำทั้งสองวิชาในชุดเดียว ดูคะแนนแยกวิชาและเฉลยหลังส่ง</p>
       </header>
+      <div class="section-head exam-heading">
+        <h2>ข้อสอบจับเวลา</h2>
+      </div>
+      <p class="exam-caption">จับเวลาตามประกาศ ภาค ก · ความรู้ทั่วไป 120 นาที · English 90 นาที · จำนวนข้อสำหรับฝึก</p>
+      <div id="timed-exam-list" class="tile-grid"></div>
+      <div class="section-head">
+        <h2>ข้อสอบฝึกแบบไม่จับเวลา</h2>
+      </div>
       <div id="exam-list" class="tile-grid"></div>
     </section>
 
@@ -106,6 +114,7 @@
           <progress id="quiz-meter"></progress>
         </div>
       </header>
+      <p id="exam-timer" class="exam-timer" role="timer" hidden></p>
       <div class="quiz-grid">
         <div id="quiz-card"></div>
         <details class="answer-map" id="answer-map">
@@ -126,6 +135,7 @@
         <h1 id="result-title"></h1>
       </header>
       <div id="result-summary" class="result-panel"></div>
+      <div id="result-diagnostics" class="result-diagnostics" hidden></div>
       <div id="result-actions" class="result-actions"></div>
       <div class="section-head">
         <h2>เฉลยและคำอธิบาย</h2>
