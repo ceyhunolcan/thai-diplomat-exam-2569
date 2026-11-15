@@ -12,14 +12,14 @@
     {
       "id": "english-vocabulary-1-en-01",
       "subject": "en",
-      "question": "In “The legislature voted to ratify the convention.”, what does “ratify” mean?",
+      "question": "In “The state deposited its instrument to ratify the convention,” what does “ratify” mean?",
       "answer": "give formal consent to be bound",
       "options": [
         "give formal consent to be bound",
         "negotiate the first wording",
         "withdraw after approval"
       ],
-      "explanation": "Here, “ratify” means to give formal consent to be bound.",
+      "explanation": "Ratification is the formal act by which a state expresses consent to be bound after the required domestic steps.",
       "refs": []
     },
     {
@@ -32,7 +32,7 @@
         "delete from the records",
         "enforce without a vote"
       ],
-      "explanation": "Here, “table” means to formally bring forward for discussion in this context.",
+      "explanation": "In this sentence, “table” means to present a motion for discussion, a common British usage. In American usage, it often means to postpone discussion.",
       "refs": []
     },
     {
@@ -188,7 +188,7 @@
         "withdraw",
         "ratify"
       ],
-      "explanation": "Here, “table” means to formally bring forward for discussion in this context.",
+      "explanation": "In this sentence, “table” means to present a motion for discussion, a common British usage. In American usage, it often means to postpone discussion.",
       "refs": []
     },
     {

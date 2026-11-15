@@ -65,14 +65,14 @@
     {
       "id": "english-editing-3-en-05",
       "subject": "en",
-      "question": "“Unless every branch reports, the national figure is provisional.” All but one branch reported. How should the figure be labeled?",
+      "question": "The figures desk can label a national estimate final only after receiving a report from each branch. One branch has yet to report, and the desk can publish a preliminary estimate. How should it label that estimate?",
       "answer": "Provisional",
       "options": [
         "Provisional",
         "Final because most branches reported",
         "Unavailable because no branch reported"
       ],
-      "explanation": "The stated condition requires reports from every branch.",
+      "explanation": "A final estimate requires a report from every branch. The missing report leaves the published estimate provisional.",
       "refs": []
     },
     {
